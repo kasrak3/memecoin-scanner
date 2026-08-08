@@ -1,0 +1,39 @@
+name: Memecoin Safety Scanner
+
+# Runs on a schedule using GitHub's servers — no need to keep your own
+# computer on. Also runnable manually from the Actions tab (workflow_dispatch)
+# so you can test it on demand.
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # every 15 minutes (GitHub may delay slightly under load)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # needed so the workflow can save its "already checked" state back to the repo
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run scanner
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python memecoin_scanner.py
+
+      - name: Save updated state back to the repo
+        run: |
+          git config user.name "memecoin-scanner-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add scanner_state.json
+          git diff --staged --quiet || git commit -m "Update scanner state"
+          git push
