@@ -302,18 +302,4 @@ def main():
 
 
 if __name__ == "__main__":
-    send_telegram_alert({
-        "mint": "TEST1111111111111111111111111111111111111",
-        "symbol": "TEST",
-        "liquidity": 5000,
-        "volume_h1": 2000,
-        "age_minutes": 15,
-        "top_holder_pct": 5.0,
-        "holders": 100,
-        "insider_clusters": 0,
-        "stage": "graduated pool (LP burned)",
-        "risk_score": 1,
-        "dexscreener_url": "https://dexscreener.com/solana/test",
-        "rugcheck_url": "https://rugcheck.xyz/tokens/test",
-    })
-    print("Test alert sent.")
+    main()
