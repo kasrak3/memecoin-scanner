@@ -185,6 +185,8 @@ def evaluate_pending(state):
         first_seen_dt = parse_iso(info["first_seen"]) or now
         pending_hours = (now - first_seen_dt).total_seconds() / 3600
         if pending_hours > MAX_PENDING_HOURS:
+            print(f"Dropping stale candidate {info['symbol']} ({mint}): "
+                  f"pending {pending_hours:.1f}h with no successful evaluation")
             to_drop.append(mint)
             continue
 
@@ -194,7 +196,8 @@ def evaluate_pending(state):
         checks_done += 1
         try:
             dex = http_get_json(DEXSCREENER_TOKEN.format(mint=mint))
-        except Exception:
+        except Exception as e:
+            print(f"DexScreener fetch failed for {info['symbol']} ({mint}): {e}")
             continue
         pairs = dex.get("pairs") or []
         if not pairs:
@@ -209,7 +212,8 @@ def evaluate_pending(state):
 
         try:
             report = http_get_json(RUGCHECK_REPORT.format(mint=mint))
-        except Exception:
+        except Exception as e:
+            print(f"RugCheck fetch failed for {info['symbol']} ({mint}): {e}")
             continue
 
         mint_auth = (report.get("token") or {}).get("mintAuthority")
