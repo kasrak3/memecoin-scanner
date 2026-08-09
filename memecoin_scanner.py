@@ -51,7 +51,7 @@ MAX_TOP_HOLDER_PCT = 15.0      # largest non-pool holder, % of supply
 MIN_HOLDERS = 30               # distinct holder count
 MAX_INSIDER_CLUSTERS = 0       # RugCheck-detected insider/bundle networks allowed
 MAX_PENDING_HOURS = 2          # stop re-checking a candidate after this long
-MAX_CHECKS_PER_RUN = 20        # cap DexScreener/RugCheck calls per run
+MAX_CHECKS_PER_RUN = 500       # cap DexScreener/RugCheck calls per run (raised so newer candidates aren't starved behind stuck old ones)
 
 RUGCHECK_NEW = "https://api.rugcheck.xyz/v1/stats/new_tokens"
 RUGCHECK_REPORT = "https://api.rugcheck.xyz/v1/tokens/{mint}/report"
