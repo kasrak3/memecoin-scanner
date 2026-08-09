@@ -29,6 +29,7 @@ can't make outbound POST requests (Discord webhooks require POST and were
 not usable in the environment this was originally built in).
 """
 
+import html
 import json
 import os
 import re
@@ -102,26 +103,48 @@ def save_state(state):
 
 
 # ---------- TELEGRAM ----------
+def fmt_usd(n):
+    n = n or 0
+    if n >= 1_000_000:
+        return f"${n / 1_000_000:.2f}M"
+    if n >= 1_000:
+        return f"${n / 1_000:.1f}K"
+    return f"${n:,.0f}"
+
+
+def risk_score_10(score):
+    """Rescale RugCheck's raw score (roughly 0-100+, lower=safer) to a
+    simple 1 (safest) - 10 (riskiest) scale for the alert."""
+    try:
+        s = float(score)
+    except (TypeError, ValueError):
+        return "n/a"
+    return max(1, min(10, round(s / 10)))
+
+
 def format_alert_text(token):
+    symbol = html.escape(str(token.get("symbol") or "?"))
+    mint = html.escape(token["mint"])
     lines = [
-        f"\U0001F7E2 {token['symbol']} passed the safety pre-filter",
+        f"🟢 <b>{symbol}</b> passed the safety pre-filter",
         "",
-        f"Mint: {token['mint']}",
-        f"Stage: {token['stage']}",
-        f"Liquidity: ${token['liquidity']:,.0f}",
-        f"Volume (1h): ${token['volume_h1']:,.0f}",
-        f"Age: {token['age_minutes']:.0f} min",
-        f"Top holder: {token['top_holder_pct']:.1f}%",
-        f"Holders: {token['holders']}",
-        f"Mint/Freeze authority: Renounced",
-        f"Insider clusters detected: {token['insider_clusters']}",
-        f"RugCheck score (lower=safer): {token['risk_score']}",
+        f"🏷 <b>Market cap:</b> {fmt_usd(token.get('market_cap'))}",
+        f"💧 <b>Liquidity:</b> {fmt_usd(token['liquidity'])}",
+        f"📊 <b>Volume (1h):</b> {fmt_usd(token['volume_h1'])}",
+        f"⏱ <b>Age:</b> {token['age_minutes']:.0f} min · <b>Stage:</b> {token['stage']}",
         "",
-        f"DexScreener: {token['dexscreener_url']}",
-        f"RugCheck: {token['rugcheck_url']}",
-        f"Pump.fun: https://pump.fun/{token['mint']}",
+        f"👥 <b>Holders:</b> {token['holders']}   🐋 <b>Top holder:</b> {token['top_holder_pct']:.1f}%",
+        f"🔒 <b>Mint/Freeze authority:</b> Renounced",
+        f"🕵️ <b>Insider clusters:</b> {token['insider_clusters']}",
+        f"🛡 <b>RugCheck score</b> (1=safest, 10=riskiest): {risk_score_10(token['risk_score'])}/10",
         "",
-        DISCLAIMER,
+        f"<code>{mint}</code>",
+        "",
+        f'🔗 <a href="{token["dexscreener_url"]}">DexScreener</a> · '
+        f'<a href="{token["rugcheck_url"]}">RugCheck</a> · '
+        f'<a href="https://pump.fun/{token["mint"]}">Pump.fun</a>',
+        "",
+        f"<i>{html.escape(DISCLAIMER)}</i>",
     ]
     return "\n".join(lines)
 
@@ -136,6 +159,7 @@ def send_telegram_alert(token):
     params = urllib.parse.urlencode({
         "chat_id": TELEGRAM_CHAT_ID,
         "text": text,
+        "parse_mode": "HTML",
         "disable_web_page_preview": "true",
     })
     req = urllib.request.Request(f"{url}?{params}", headers=HEADERS, method="GET")
@@ -206,6 +230,7 @@ def evaluate_pending(state):
         pair = max(pairs, key=lambda p: (p.get("liquidity") or {}).get("usd", 0) or 0)
         liquidity = (pair.get("liquidity") or {}).get("usd", 0) or 0
         volume_h1 = (pair.get("volume") or {}).get("h1", 0) or 0
+        market_cap = pair.get("marketCap") or pair.get("fdv") or 0
 
         if liquidity < MIN_LIQUIDITY_USD or volume_h1 < MIN_VOLUME_H1_USD:
             continue  # not enough real activity yet, check again next run
@@ -275,6 +300,7 @@ def evaluate_pending(state):
             "symbol": pair["baseToken"]["symbol"],
             "liquidity": liquidity,
             "volume_h1": volume_h1,
+            "market_cap": market_cap,
             "age_minutes": age_minutes,
             "top_holder_pct": top_holder_pct,
             "holders": total_holders,
