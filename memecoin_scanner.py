@@ -54,6 +54,26 @@ MAX_INSIDER_CLUSTERS = 0       # RugCheck-detected insider/bundle networks allow
 MAX_PENDING_HOURS = 2          # stop re-checking a candidate after this long
 MAX_CHECKS_PER_RUN = 500       # cap DexScreener/RugCheck calls per run (raised so newer candidates aren't starved behind stuck old ones)
 
+# Extra dump-risk heuristics (added after seeing a passing token pump hard
+# right at the alert and then get its liquidity drained shortly after).
+# None of these can predict a dump -- they just filter out a few more
+# mechanically-recognizable "about to be bad" patterns on top of the
+# rug-authority/holder/insider checks above.
+MAX_VOL_TO_LIQ_RATIO = 25.0     # 1h volume more than this many times liquidity looks like wash trading (fake volume), not organic activity
+MAX_SELL_BUY_RATIO = 1.6        # more than this many sells per buy in the last hour means people are already distributing/dumping, not accumulating
+MAX_H1_PRICE_PUMP_PCT = 300.0   # already up more than this % in the last hour -- alerting now would mean buying into an already-blown-off top
+REJECT_ON_RUGCHECK_DANGER = True  # also reject if RugCheck's own risk engine has any "danger"-level flag, beyond the specific fields we check manually below
+
+# Checked BROMO/ORBIT/MONKEY (three of our first four real alerts) after the
+# fact: liquidity on every one of them had been drained to ~$0 within a
+# couple hours of alerting. A single snapshot can't tell "real, sticky
+# liquidity" apart from "liquidity that's about to get pulled" -- so instead
+# of alerting the moment a candidate first looks clean, we now require it to
+# still look clean (and to have held onto most of its liquidity) on a SECOND
+# check, MIN_CONFIRM_MINUTES apart, before actually sending the alert.
+MIN_CONFIRM_MINUTES = 2         # minimum gap between the first "looks good" pass and the confirming second pass
+MIN_LIQUIDITY_RETENTION = 0.7   # must still have at least this fraction of the liquidity seen on the first pass
+
 RUGCHECK_NEW = "https://api.rugcheck.xyz/v1/stats/new_tokens"
 RUGCHECK_REPORT = "https://api.rugcheck.xyz/v1/tokens/{mint}/report"
 DEXSCREENER_TOKEN = "https://api.dexscreener.com/latest/dex/tokens/{mint}"
@@ -130,7 +150,8 @@ def format_alert_text(token):
         "",
         f"🏷 <b>Market cap:</b> {fmt_usd(token.get('market_cap'))}",
         f"💧 <b>Liquidity:</b> {fmt_usd(token['liquidity'])}",
-        f"📊 <b>Volume (1h):</b> {fmt_usd(token['volume_h1'])}",
+        f"📊 <b>Volume (1h):</b> {fmt_usd(token['volume_h1'])} (liq is {token.get('liq_to_mcap_pct', 0):.0f}% of mcap)",
+        f"📈 <b>1h change:</b> {token.get('price_change_h1', 0):+.0f}%   <b>Buys/Sells (1h):</b> {token.get('buys_h1', 0)}/{token.get('sells_h1', 0)}",
         f"⏱ <b>Age:</b> {token['age_minutes']:.0f} min · <b>Stage:</b> {token['stage']}",
         "",
         f"👥 <b>Holders:</b> {token['holders']}   🐋 <b>Top holder:</b> {token['top_holder_pct']:.1f}%",
@@ -231,6 +252,28 @@ def evaluate_pending(state):
         liquidity = (pair.get("liquidity") or {}).get("usd", 0) or 0
         volume_h1 = (pair.get("volume") or {}).get("h1", 0) or 0
         market_cap = pair.get("marketCap") or pair.get("fdv") or 0
+        txns_h1 = (pair.get("txns") or {}).get("h1") or {}
+        buys_h1 = txns_h1.get("buys", 0) or 0
+        sells_h1 = txns_h1.get("sells", 0) or 0
+        price_change_h1 = (pair.get("priceChange") or {}).get("h1", 0) or 0
+
+        # If this candidate already provisionally passed once (see the
+        # confirmation logic further down), check liquidity retention FIRST,
+        # before anything else -- a drain should always be caught and
+        # explicitly rejected, even if the drop also happens to put it below
+        # the normal MIN_LIQUIDITY_USD floor below (which would otherwise
+        # just silently skip it as "not enough activity" instead of flagging
+        # the real reason).
+        prior = info.get("confirm")
+        if prior is not None:
+            prior_liquidity = prior.get("liquidity") or 0
+            if prior_liquidity and liquidity < prior_liquidity * MIN_LIQUIDITY_RETENTION:
+                print(f"Rejected {info['symbol']} ({mint}): liquidity dropped from "
+                      f"${prior_liquidity:,.0f} to ${liquidity:,.0f} since the first pass "
+                      f"-- looks like a drain")
+                state["rejected"].append(mint)
+                to_drop.append(mint)
+                continue
 
         if liquidity < MIN_LIQUIDITY_USD or volume_h1 < MIN_VOLUME_H1_USD:
             continue  # not enough real activity yet, check again next run
@@ -277,6 +320,15 @@ def evaluate_pending(state):
 
         risk_score = report.get("score_normalised", report.get("score"))
 
+        # RugCheck runs its own broader risk engine (contract-level checks,
+        # liquidity-drain patterns, etc.) beyond the specific fields we pull
+        # out manually above -- use it as an extra catch-all.
+        danger_risks = [r for r in (report.get("risks") or []) if r.get("level") == "danger"]
+
+        liq_to_mcap_pct = (liquidity / market_cap * 100) if market_cap else 0
+        vol_to_liq_ratio = (volume_h1 / liquidity) if liquidity else 0
+        sell_buy_ratio = (sells_h1 / max(buys_h1, 1))
+
         reasons = []
         if mint_auth:
             reasons.append("mint authority not renounced")
@@ -288,6 +340,15 @@ def evaluate_pending(state):
             reasons.append(f"only {total_holders} holders")
         if insider_clusters > MAX_INSIDER_CLUSTERS:
             reasons.append(f"{insider_clusters} insider/bundled wallet cluster(s) detected")
+        if vol_to_liq_ratio > MAX_VOL_TO_LIQ_RATIO:
+            reasons.append(f"volume/liquidity ratio {vol_to_liq_ratio:.1f}x looks like wash trading")
+        if sell_buy_ratio > MAX_SELL_BUY_RATIO:
+            reasons.append(f"sell/buy ratio {sell_buy_ratio:.1f} (more selling than buying, 1h)")
+        if price_change_h1 > MAX_H1_PRICE_PUMP_PCT:
+            reasons.append(f"already up {price_change_h1:.0f}% in 1h -- likely chasing a top")
+        if REJECT_ON_RUGCHECK_DANGER and danger_risks:
+            names = ", ".join(r.get("name", "?") for r in danger_risks)
+            reasons.append(f"RugCheck danger flag(s): {names}")
 
         if reasons:
             print(f"Rejected {info['symbol']} ({mint}): {', '.join(reasons)}")
@@ -295,12 +356,37 @@ def evaluate_pending(state):
             to_drop.append(mint)
             continue
 
+        # Passed every check on THIS pass (and, if there was a prior pass,
+        # liquidity held up -- checked above). Before alerting, make sure
+        # this isn't the very first time it's ever looked clean -- require
+        # it to pass again on a second run, MIN_CONFIRM_MINUTES later. This
+        # is what would have caught BROMO/ORBIT/MONKEY-style liquidity
+        # draining shortly after the old, single-snapshot alert.
+        if prior is None:
+            info["confirm"] = {
+                "liquidity": liquidity,
+                "market_cap": market_cap,
+                "at": now.isoformat(),
+            }
+            print(f"{info['symbol']} ({mint}) provisionally passed -- "
+                  f"confirming liquidity holds before alerting")
+            continue  # stays pending, re-checked (and re-confirmed) next run
+
+        prior_confirm_dt = parse_iso(prior.get("at")) or now
+        minutes_since_confirm = (now - prior_confirm_dt).total_seconds() / 60
+        if minutes_since_confirm < MIN_CONFIRM_MINUTES:
+            continue  # too soon since the first pass, wait for a later run
+
         token = {
             "mint": mint,
             "symbol": pair["baseToken"]["symbol"],
             "liquidity": liquidity,
             "volume_h1": volume_h1,
             "market_cap": market_cap,
+            "liq_to_mcap_pct": liq_to_mcap_pct,
+            "price_change_h1": price_change_h1,
+            "buys_h1": buys_h1,
+            "sells_h1": sells_h1,
             "age_minutes": age_minutes,
             "top_holder_pct": top_holder_pct,
             "holders": total_holders,
