@@ -1,12 +1,16 @@
 name: Memecoin Safety Scanner
 
-# Runs on a schedule using GitHub's servers — no need to keep your own
-# computer on. Also runnable manually from the Actions tab (workflow_dispatch)
-# so you can test it on demand.
+# Instead of relying only on GitHub's own 15-minute schedule trigger
+# (which gets throttled/delayed under load, sometimes to every 2-3
+# hours), this job loops internally: once it starts, it re-runs the
+# scanner every ~2 minutes for close to 6 hours (the hard cap for
+# GitHub-hosted runners). The schedule below only needs to succeed at
+# kicking off a fresh loop roughly every 6 hours, which is far less
+# prone to delay than a 15-minute schedule.
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # every 15 minutes (GitHub may delay slightly under load)
+    - cron: '13 */6 * * *'   # off-peak minute, every 6 hours -- restarts the loop
   workflow_dispatch: {}
 
 permissions:
@@ -15,6 +19,7 @@ permissions:
 jobs:
   scan:
     runs-on: ubuntu-latest
+    timeout-minutes: 350   # just under GitHub's 6-hour hard limit for hosted runners
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -24,16 +29,21 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run scanner
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python memecoin_scanner.py
-
-      - name: Save updated state back to the repo
+      - name: Configure git
         run: |
           git config user.name "memecoin-scanner-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add scanner_state.json
-          git diff --staged --quiet || git commit -m "Update scanner state"
-          git push
+
+      - name: Run scanner every ~2 minutes for up to ~5h45m
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          END=$((SECONDS + 20700))
+          while [ $SECONDS -lt $END ]; do
+            python memecoin_scanner.py
+            git add scanner_state.json
+            git diff --staged --quiet || git commit -m "Update scanner state" --quiet
+            git push --quiet || true
+            sleep 120
+          done
