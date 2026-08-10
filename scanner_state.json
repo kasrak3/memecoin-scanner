@@ -1388,16 +1388,16 @@
     "Gg2WHRFq9uwcn1e6pahioqickc3FtWS1yYXhQu35pump": {
       "symbol": "WhiteToad",
       "created_at": "2026-08-10T06:16:27.19904925Z",
-      "first_seen": "2026-08-10T06:16:48.689932+00:00"
+      "first_seen": "2026-08-10T06:16:48.689932+00:00",
+      "confirm": {
+        "liquidity": 11935.86,
+        "market_cap": 32523,
+        "at": "2026-08-10T06:27:19.662185+00:00"
+      }
     },
     "6B44VbWoJC3ceidzidqXHBhp9yeccvBjA6PWPAxpump": {
       "symbol": "blessed",
       "created_at": "2026-08-10T06:16:26.448584883Z",
-      "first_seen": "2026-08-10T06:16:48.689932+00:00"
-    },
-    "4MpmoZE7eaNXtzfFyXEiYs7LURrCNo2iTRcUiFZwqeEz": {
-      "symbol": "BLINK",
-      "created_at": "2026-08-10T06:16:25.992748787Z",
       "first_seen": "2026-08-10T06:16:48.689932+00:00"
     },
     "24Ne73DpYNQSLeQYYdEd31LV6PgGvCqzk2pEtYmkpump": {
@@ -1574,6 +1574,56 @@
       "symbol": "BTC5Y",
       "created_at": "2026-08-10T06:24:26.41041146Z",
       "first_seen": "2026-08-10T06:24:37.239929+00:00"
+    },
+    "9BXBWXgbrvs8VCb5vgHFLJzZXJcdCjUFnX5YbQCdpump": {
+      "symbol": "GLOSSLON",
+      "created_at": "2026-08-10T06:27:15.565451985Z",
+      "first_seen": "2026-08-10T06:27:19.662133+00:00"
+    },
+    "BH52Gj7Q4LoEu3iKReB3H9Eafcw2x39qZcEcMF1fpump": {
+      "symbol": "WAG",
+      "created_at": "2026-08-10T06:27:11.270752129Z",
+      "first_seen": "2026-08-10T06:27:19.662133+00:00"
+    },
+    "AcLKxTPLnxiaFuMYAzoeyT7YTzG27y8ZuxM8rAkUpump": {
+      "symbol": "Gloss",
+      "created_at": "2026-08-10T06:27:10.288653827Z",
+      "first_seen": "2026-08-10T06:27:19.662133+00:00"
+    },
+    "Hrg9ipJsZ7XRPVZhCvjKFQVsyyXNGubVPY5JTD1fpump": {
+      "symbol": "frepe",
+      "created_at": "2026-08-10T06:27:07.33424697Z",
+      "first_seen": "2026-08-10T06:27:19.662133+00:00"
+    },
+    "mKTb3W7TDQLdwaYYmWEmL7au6hVXvuTpvZpUTa5pump": {
+      "symbol": "frepe",
+      "created_at": "2026-08-10T06:27:07.327255009Z",
+      "first_seen": "2026-08-10T06:27:19.662133+00:00"
+    },
+    "Dn57kk2K94EWtdfPtusXXupz9NmaSLC73dn1hZjQpump": {
+      "symbol": "frepe",
+      "created_at": "2026-08-10T06:27:07.325866765Z",
+      "first_seen": "2026-08-10T06:27:19.662133+00:00"
+    },
+    "7f8PsyRBgAbEWb4zZdL9Zu1CtTxQ9jC1Uz4ETnjWpump": {
+      "symbol": "Elon",
+      "created_at": "2026-08-10T06:27:06.47954503Z",
+      "first_seen": "2026-08-10T06:27:19.662133+00:00"
+    },
+    "ESRobbZzemmyVGYS49GgwQ4zs8w55hyvxhWyTSWFpump": {
+      "symbol": "Gloss",
+      "created_at": "2026-08-10T06:27:05.151588006Z",
+      "first_seen": "2026-08-10T06:27:19.662133+00:00"
+    },
+    "2GcDCMa4jXrHRCJ6ZYHBdKxFmypSdy89x4yxPP2Fpump": {
+      "symbol": "Gloss",
+      "created_at": "2026-08-10T06:27:04.361345962Z",
+      "first_seen": "2026-08-10T06:27:19.662133+00:00"
+    },
+    "7mBAgZVJ9SDmWbCRtE7H1hh9bfugi4eMzYAsy77opump": {
+      "symbol": "Gloss",
+      "created_at": "2026-08-10T06:27:03.583028343Z",
+      "first_seen": "2026-08-10T06:27:19.662133+00:00"
     }
   },
   "alerted": [
@@ -1655,6 +1705,7 @@
     "56pN6AWzJXvthciyRJRHih2iPxq85XpY5C9tCZbEWb1H",
     "6r4N2euv4TeoA9GN3a6kHytRz1djM62uFeHyLcByvFnH",
     "A8sbzVp1aRoMZf18cxJnQdSZZvjMhNvvSQ4nZzeSPPzN",
-    "5xZYfzehFiJUyT1ddAbxRb6iDriWSsf1giDuaZsgiVcB"
+    "5xZYfzehFiJUyT1ddAbxRb6iDriWSsf1giDuaZsgiVcB",
+    "4MpmoZE7eaNXtzfFyXEiYs7LURrCNo2iTRcUiFZwqeEz"
   ]
 }
