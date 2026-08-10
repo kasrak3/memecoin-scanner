@@ -1495,16 +1495,6 @@
       "created_at": "2026-08-10T16:46:53.242585762Z",
       "first_seen": "2026-08-10T16:46:59.271673+00:00"
     },
-    "Hh2p3pbEpbMz4p92aJfDNafMeH8snhuaHv8V12bUpump": {
-      "symbol": "CLICK",
-      "created_at": "2026-08-10T16:46:52.756642299Z",
-      "first_seen": "2026-08-10T16:46:59.271673+00:00",
-      "confirm": {
-        "liquidity": 7231.51,
-        "market_cap": 13737,
-        "at": "2026-08-10T16:58:05.040952+00:00"
-      }
-    },
     "917HR9JQ34vmmsdxnZcCGavF1edHrH6bHqKCZmip3ccz": {
       "symbol": "NMC",
       "created_at": "2026-08-10T16:46:51.687583955Z",
@@ -1739,6 +1729,56 @@
       "symbol": "Pilot",
       "created_at": "2026-08-10T16:57:45.005715136Z",
       "first_seen": "2026-08-10T16:58:05.040886+00:00"
+    },
+    "BiNtKCu2bicFNQUxYdkG2NRg4sKzYzaH6DtxvMCPpump": {
+      "symbol": "WOOF",
+      "created_at": "2026-08-10T17:01:18.817430249Z",
+      "first_seen": "2026-08-10T17:01:21.219329+00:00"
+    },
+    "D54Ny89bdsWWa1RrxV3wZbMrfUorTYE95KTJFpcbpump": {
+      "symbol": "FERJUG",
+      "created_at": "2026-08-10T17:01:17.001245833Z",
+      "first_seen": "2026-08-10T17:01:21.219329+00:00"
+    },
+    "5JhyS2Sfc723n9u8q3NXEJzHXXazigFJV53sPoBfpump": {
+      "symbol": "Fomodog",
+      "created_at": "2026-08-10T17:01:16.983217054Z",
+      "first_seen": "2026-08-10T17:01:21.219329+00:00"
+    },
+    "BYYoSwJCa2a7hkE8fSoRRsqrv9Q4WNCPYfh9qeVopump": {
+      "symbol": "HONK",
+      "created_at": "2026-08-10T17:01:15.817503591Z",
+      "first_seen": "2026-08-10T17:01:21.219329+00:00"
+    },
+    "2TSNg5FvDipUuYsq3X5TredDyEiMLqe51c5zkT1Apump": {
+      "symbol": "STRONGTOAD",
+      "created_at": "2026-08-10T17:01:13.906410849Z",
+      "first_seen": "2026-08-10T17:01:21.219329+00:00"
+    },
+    "HWRpCPTWr7Qfib3A7gfkzvJZ5jLDq4W9G5Yb4kVHpump": {
+      "symbol": "FEP",
+      "created_at": "2026-08-10T17:01:09.449512006Z",
+      "first_seen": "2026-08-10T17:01:21.219329+00:00"
+    },
+    "84cQro4HeycAXfeZczCo5HgMUQJzNmW1aCjKFiwApump": {
+      "symbol": "MOTTE",
+      "created_at": "2026-08-10T17:01:06.446225606Z",
+      "first_seen": "2026-08-10T17:01:21.219329+00:00"
+    },
+    "5e1ovoPeZgvy52JgNPzqiMiDiVYyxX8rPpQ236kRpump": {
+      "symbol": "\ud83d\udc40",
+      "created_at": "2026-08-10T17:01:06.010364787Z",
+      "first_seen": "2026-08-10T17:01:21.219329+00:00"
+    },
+    "73dST6asimc7MKaMa4VTXrwZjtMWnVbu6zJD5iodpump": {
+      "symbol": "Cap",
+      "created_at": "2026-08-10T17:01:05.957905036Z",
+      "first_seen": "2026-08-10T17:01:21.219329+00:00"
+    },
+    "3CZrziRK55ziRLhs38GqH7bN9KCUTXS9qUZY5JJ5pump": {
+      "symbol": "Hat",
+      "created_at": "2026-08-10T17:01:05.645768902Z",
+      "first_seen": "2026-08-10T17:01:21.219329+00:00"
     }
   },
   "alerted": [
@@ -1750,7 +1790,8 @@
     "6AasbKC83m9ThhYt9uRck5JEtg5d2hKN1LVNZ7Tupump",
     "EnQaaZvNG1JQoFAc42psH3VQSgW618haP9qu5jzVpump",
     "BgLU3NE9dauGYvnFP31WxBSAaiCkAoQ2pg1P62kHpump",
-    "GS7XAAcrQEzCtSCm4RYEkHcFSUb5UABQDVnAazDfpump"
+    "GS7XAAcrQEzCtSCm4RYEkHcFSUb5UABQDVnAazDfpump",
+    "Hh2p3pbEpbMz4p92aJfDNafMeH8snhuaHv8V12bUpump"
   ],
   "rejected": [
     "7qZgB8Cmpgjdjr5vBrAhVQUr6YZfPdQnktx7pC6AFcLL",
