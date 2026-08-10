@@ -538,7 +538,12 @@
     "79bCcLgJGSzzHdqXrz4qmaVw67bYWb2QwjFEYYEzpump": {
       "symbol": "KATT",
       "created_at": "2026-08-10T15:56:13.297208066Z",
-      "first_seen": "2026-08-10T15:56:25.971442+00:00"
+      "first_seen": "2026-08-10T15:56:25.971442+00:00",
+      "confirm": {
+        "liquidity": 13091.59,
+        "market_cap": 38944,
+        "at": "2026-08-10T16:16:37.928607+00:00"
+      }
     },
     "AoNYdQSmB73Wb5Ddorp6G23bJDG2CNbJ2F4b9tkKSYSh": {
       "symbol": "",
@@ -708,11 +713,6 @@
     "43bzdQMKisjWeARM7tUCyQEZiDoFMSYrU8X1GhGiZ9p6": {
       "symbol": "COLOMBIA",
       "created_at": "2026-08-10T16:04:57.241565362Z",
-      "first_seen": "2026-08-10T16:05:09.822080+00:00"
-    },
-    "RMAnqCz7CaATzJGMthjhcJPruBCHAosi8yQW5nveQvq": {
-      "symbol": "RMA",
-      "created_at": "2026-08-10T16:04:53.325988033Z",
       "first_seen": "2026-08-10T16:05:09.822080+00:00"
     },
     "4ic8UFxwZApePbGQzSwohDAkudP232jGqXs9PEc3pump": {
@@ -954,6 +954,56 @@
       "symbol": "LOTTERY",
       "created_at": "2026-08-10T16:13:56.129101572Z",
       "first_seen": "2026-08-10T16:14:16.196841+00:00"
+    },
+    "FjSmCV25xByKazFQtKSUUBw2FtfTSjsigNuipnMwpump": {
+      "symbol": "wallpaper",
+      "created_at": "2026-08-10T16:16:29.528373283Z",
+      "first_seen": "2026-08-10T16:16:37.928545+00:00"
+    },
+    "DkrfQXYV3vQwFVd8RmNct9ndma1V16dB5GpxGztDpump": {
+      "symbol": "RABYET",
+      "created_at": "2026-08-10T16:16:29.21083519Z",
+      "first_seen": "2026-08-10T16:16:37.928545+00:00"
+    },
+    "CaPbBkvqnPGBjQ1cT6LFnRU5FtffekWejqrijb4ynoCE": {
+      "symbol": "freg",
+      "created_at": "2026-08-10T16:16:27.561633172Z",
+      "first_seen": "2026-08-10T16:16:37.928545+00:00"
+    },
+    "6mbzA4sXtNrbDU1NW9gzNYdqTjPu7Lsa2aXbKnWecKfQ": {
+      "symbol": "",
+      "created_at": "2026-08-10T16:16:22.204427297Z",
+      "first_seen": "2026-08-10T16:16:37.928545+00:00"
+    },
+    "FczsX2hm6JZkJYTYTXWamW8Nvfg8z12PC7fWvWLdpump": {
+      "symbol": "HOUSEM",
+      "created_at": "2026-08-10T16:16:21.387142736Z",
+      "first_seen": "2026-08-10T16:16:37.928545+00:00"
+    },
+    "ZMQGoE9E7Kf5NW7LLk7RgXdUG9rFfcAMaETJrdJpump": {
+      "symbol": "wallpaper",
+      "created_at": "2026-08-10T16:16:20.361163018Z",
+      "first_seen": "2026-08-10T16:16:37.928545+00:00"
+    },
+    "6swvn19waT7sNWrJBym6inCygSnzNgCWUz2J1fHDpump": {
+      "symbol": "TRUG COIN",
+      "created_at": "2026-08-10T16:16:17.554452737Z",
+      "first_seen": "2026-08-10T16:16:37.928545+00:00"
+    },
+    "6bMFQxM9ZG6eLv9Bzz1px1uSXuWqeXwh1GAPwsyUpump": {
+      "symbol": "LEMON",
+      "created_at": "2026-08-10T16:16:17.550106531Z",
+      "first_seen": "2026-08-10T16:16:37.928545+00:00"
+    },
+    "HVCXdcFWTSwexdnTeQovbAcyyEVGiBLcscoKdPPppump": {
+      "symbol": "WifGranny",
+      "created_at": "2026-08-10T16:16:17.450484985Z",
+      "first_seen": "2026-08-10T16:16:37.928545+00:00"
+    },
+    "AmFVNpKDSTMAy8DoXKqvBfNsJdcS6qomdQqSvZYdpump": {
+      "symbol": "STICK",
+      "created_at": "2026-08-10T16:16:16.7438621Z",
+      "first_seen": "2026-08-10T16:16:37.928545+00:00"
     }
   },
   "alerted": [
@@ -1080,6 +1130,7 @@
     "GT8t4uReBmdiG6ARKjhFqGfszAAH9ad8rf4AC4UTV2S3",
     "5qbWxtEbBmx3XvZRiYbgMfhsHZ3rGmPzRJzNyomUqHKM",
     "51DCFLdnXjKs9GpKafqdHL49TTTBmz7osfFYQ8ZmTmC5",
-    "GiF6ZM3ZABkyqHUrogpxa5k1F73ftKZQVgFEePnGDpgu"
+    "GiF6ZM3ZABkyqHUrogpxa5k1F73ftKZQVgFEePnGDpgu",
+    "RMAnqCz7CaATzJGMthjhcJPruBCHAosi8yQW5nveQvq"
   ]
 }
