@@ -518,7 +518,12 @@
     "EA7bFaGurEURSSRwunpXY4g73S7dkuRifL3Nzvompump": {
       "symbol": "BMW",
       "created_at": "2026-08-11T15:52:21.340963054Z",
-      "first_seen": "2026-08-11T15:52:48.161933+00:00"
+      "first_seen": "2026-08-11T15:52:48.161933+00:00",
+      "confirm": {
+        "liquidity": 6598.97,
+        "market_cap": 11878,
+        "at": "2026-08-11T16:19:10.366972+00:00"
+      }
     },
     "BoqK87L4q7GYrQCwhnAdMmDUbYoSuRCFGnJP1Ruspump": {
       "symbol": "COIN",
@@ -820,11 +825,6 @@
       "created_at": "2026-08-11T16:07:45.123815758Z",
       "first_seen": "2026-08-11T16:07:53.509017+00:00"
     },
-    "Hh5pT9MRceqZHFJLmVBs6cPoVHTP3zYvY7EEbJEGpump": {
-      "symbol": "Lucifer",
-      "created_at": "2026-08-11T16:07:44.945282665Z",
-      "first_seen": "2026-08-11T16:07:53.509017+00:00"
-    },
     "8tpBiVYwCjeumNUGDsgF1JufEMUd4F75Bb66BGT5vS1r": {
       "symbol": "ETH-DN",
       "created_at": "2026-08-11T16:07:44.092788113Z",
@@ -1054,6 +1054,56 @@
       "symbol": "ALLY",
       "created_at": "2026-08-11T16:16:35.005806721Z",
       "first_seen": "2026-08-11T16:16:49.686895+00:00"
+    },
+    "FbgNTnfNh8RUDLuGtVCEvUgYrLatcQBT2oDb1EU49Zdq": {
+      "symbol": "ALLY",
+      "created_at": "2026-08-11T16:19:01.671175556Z",
+      "first_seen": "2026-08-11T16:19:10.366886+00:00"
+    },
+    "7D2iRp5CGgLq4hMESquKQ6Ss2pzk616KQkdXFv8bzaU6": {
+      "symbol": "NFTPro",
+      "created_at": "2026-08-11T16:19:00.293340744Z",
+      "first_seen": "2026-08-11T16:19:10.366886+00:00"
+    },
+    "4VmoxQg7m95TfbNTRSPx6j8s9fAfifNBd2ZLhByNpump": {
+      "symbol": "SCRROC",
+      "created_at": "2026-08-11T16:18:59.905012848Z",
+      "first_seen": "2026-08-11T16:19:10.366886+00:00"
+    },
+    "CzWAZ8yV9jX6CocTFtmhExwCzhXX8mCH6fjm7YN4ZHdP": {
+      "symbol": "OPTIMUS",
+      "created_at": "2026-08-11T16:18:55.748478328Z",
+      "first_seen": "2026-08-11T16:19:10.366886+00:00"
+    },
+    "B5P6rnUBBH5jpwEtnwVsFVdWaafywBfwhsVRGpGspump": {
+      "symbol": "\u042f\u0431\u043b\u043e\u043a\u043e",
+      "created_at": "2026-08-11T16:18:54.544783191Z",
+      "first_seen": "2026-08-11T16:19:10.366886+00:00"
+    },
+    "GDkoK2R9E86u7FrWng2U7ZnzPm3AcyF17Lf9uCgAnqUG": {
+      "symbol": "SUN",
+      "created_at": "2026-08-11T16:18:40.47664097Z",
+      "first_seen": "2026-08-11T16:19:10.366886+00:00"
+    },
+    "7HSpjcKP64MtnoMSGgV8Qg4p3KJzeAVhkAsWbFc348wf": {
+      "symbol": "TOAD",
+      "created_at": "2026-08-11T16:18:36.693507115Z",
+      "first_seen": "2026-08-11T16:19:10.366886+00:00"
+    },
+    "FE9noacF7VRgJTSR7F68HEBxco1bKivaqWQB6yJ8pump": {
+      "symbol": "KEY",
+      "created_at": "2026-08-11T16:18:36.471407551Z",
+      "first_seen": "2026-08-11T16:19:10.366886+00:00"
+    },
+    "GrcN4dWeKF1Q8b28LVXqh2CRjcgnKUTuCpzbS5Lupump": {
+      "symbol": "Jangli",
+      "created_at": "2026-08-11T16:18:30.93842757Z",
+      "first_seen": "2026-08-11T16:19:10.366886+00:00"
+    },
+    "Fh2VuznjwadWHYDqXcSEBem5cqwmyzns6mp9fYfmpump": {
+      "symbol": "APED",
+      "created_at": "2026-08-11T16:18:28.728253099Z",
+      "first_seen": "2026-08-11T16:19:10.366886+00:00"
     }
   },
   "alerted": [
@@ -1372,6 +1422,7 @@
     "GVK64cxsCvJqHcZ5CbfTqYRrY8rBvmHcz9Hnhwj5auGM",
     "CKzGuEFDDW3ZaRZq7a5Cr8yWPtRAKPLUtcfvChh3AU7s",
     "G7Kx13416mbmwiX6FXNsaHMiJ5TagUskvvqeqh6Bnp39",
-    "Fv1deVnmPgzN4skUJYYdib3awMj1RANhvqhGd82dbYBQ"
+    "Fv1deVnmPgzN4skUJYYdib3awMj1RANhvqhGd82dbYBQ",
+    "Hh5pT9MRceqZHFJLmVBs6cPoVHTP3zYvY7EEbJEGpump"
   ]
 }
