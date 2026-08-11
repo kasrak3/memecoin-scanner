@@ -1,55 +1,5 @@
 {
   "pending": {
-    "6tcgZsRBRj8Z7DujY4JfoZu5r38ukh7VSyuo3Ebapump": {
-      "symbol": "BOT",
-      "created_at": "2026-08-11T17:33:40.100195326Z",
-      "first_seen": "2026-08-11T17:33:41.134075+00:00"
-    },
-    "FtMHb6jahrDv79eyGeSsCLJkWjrdMW6US4DJ6Y9Vpump": {
-      "symbol": "PROTOC",
-      "created_at": "2026-08-11T17:33:38.685634164Z",
-      "first_seen": "2026-08-11T17:33:41.134075+00:00"
-    },
-    "5HkXbXSzoD2aE55uhiQziEi1WeSC6bmAiScBqS6rpump": {
-      "symbol": "COIN",
-      "created_at": "2026-08-11T17:33:37.144760663Z",
-      "first_seen": "2026-08-11T17:33:41.134075+00:00"
-    },
-    "RfAiNqK4zuUoj3Bzh8QaJJoFpWssfy4XhWcRVwJpump": {
-      "symbol": "CLANKER",
-      "created_at": "2026-08-11T17:33:36.167995914Z",
-      "first_seen": "2026-08-11T17:33:41.134075+00:00"
-    },
-    "F5RC1peudFv7ApkxtM5iKx1xc5NSjtKRPuQHAAaVYdHv": {
-      "symbol": "",
-      "created_at": "2026-08-11T17:33:35.049630073Z",
-      "first_seen": "2026-08-11T17:33:41.134075+00:00"
-    },
-    "vtDWwGinQsJxuafLpLR1sijYyXjAgr2XSeC4Fwapump": {
-      "symbol": "Sushidog",
-      "created_at": "2026-08-11T17:33:34.563412778Z",
-      "first_seen": "2026-08-11T17:33:41.134075+00:00"
-    },
-    "HvMxQF15xDC8x1NxjnGtbDRHgkAKpqazit1PLDMgx1fb": {
-      "symbol": "",
-      "created_at": "2026-08-11T17:33:29.652105468Z",
-      "first_seen": "2026-08-11T17:33:41.134075+00:00"
-    },
-    "2DqdzDd831ZkN8F2xomRryGXuBRCitLhp8ncxaSQpump": {
-      "symbol": "BOT",
-      "created_at": "2026-08-11T17:33:27.121648251Z",
-      "first_seen": "2026-08-11T17:33:41.134075+00:00"
-    },
-    "3akWgCb5sFE3t5A8rh6KhYkirRkeY3ngoBQqD333pump": {
-      "symbol": "BOT",
-      "created_at": "2026-08-11T17:33:26.122912486Z",
-      "first_seen": "2026-08-11T17:33:41.134075+00:00"
-    },
-    "fHscLWwYi5r5384QrybMC9uqbvy64QrLEc9qCLDpump": {
-      "symbol": "COIN",
-      "created_at": "2026-08-11T17:33:20.960113947Z",
-      "first_seen": "2026-08-11T17:33:41.134075+00:00"
-    },
     "3LD8J7V57wmtVRUwt23tuS6g1BTdtYa6CU14hwALpump": {
       "symbol": "gigagrok",
       "created_at": "2026-08-11T17:36:19.186674608Z",
@@ -2259,6 +2209,56 @@
       "symbol": "App",
       "created_at": "2026-08-11T19:32:05.744665807Z",
       "first_seen": "2026-08-11T19:32:18.311738+00:00"
+    },
+    "Gaq1j6NwvzuEUEF9FhvMos823C8biqBJP3kcLzxxp3jo": {
+      "symbol": "BTC15N",
+      "created_at": "2026-08-11T19:34:52.333749339Z",
+      "first_seen": "2026-08-11T19:34:55.985381+00:00"
+    },
+    "7VepKZ9HH2xK8HstsFBvPVx1yiqj5db8AHCt8mrU3faS": {
+      "symbol": "BTC15Y",
+      "created_at": "2026-08-11T19:34:50.861922856Z",
+      "first_seen": "2026-08-11T19:34:55.985381+00:00"
+    },
+    "BsMK2sREfMfsFG3cNPwaAc4zWu9UwtinsEmxUNaSvzxV": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-08-11T19:34:50.548906123Z",
+      "first_seen": "2026-08-11T19:34:55.985381+00:00"
+    },
+    "BsWnePbN2kou2QFa5ySijoGXYjVVyycUFVwsp4PnAidU": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-08-11T19:34:50.529304649Z",
+      "first_seen": "2026-08-11T19:34:55.985381+00:00"
+    },
+    "EnZdNG2CebhxWWDXSDfBH7chya2nHnxDY8EB2kJqpmsM": {
+      "symbol": "SPCX15Y",
+      "created_at": "2026-08-11T19:34:50.447737563Z",
+      "first_seen": "2026-08-11T19:34:55.985381+00:00"
+    },
+    "4zYNRKzNY9eZbAjEEzewZmTMrDuQ7cY3wRoEtpVFoZAW": {
+      "symbol": "BTC5N",
+      "created_at": "2026-08-11T19:34:50.447729994Z",
+      "first_seen": "2026-08-11T19:34:55.985381+00:00"
+    },
+    "CmKJ9c5xYErnZkLuURmYyKsra3HMAPdSyNWtLcsyNpY7": {
+      "symbol": "BTC5Y",
+      "created_at": "2026-08-11T19:34:50.385659606Z",
+      "first_seen": "2026-08-11T19:34:55.985381+00:00"
+    },
+    "CAFZ1FDzaSb25YwriVYifnohy6BysxA4pLTzKag9jCS9": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-08-11T19:34:50.336789868Z",
+      "first_seen": "2026-08-11T19:34:55.985381+00:00"
+    },
+    "Ahnq9bXNUtcyxnT12fdJwzAvewsTK5XmmCgA6G72qTLo": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-08-11T19:34:49.920968676Z",
+      "first_seen": "2026-08-11T19:34:55.985381+00:00"
+    },
+    "DmEUchQCay3tJ4GDTfEyN8YPxK67ZgYiJemxrKU9pump": {
+      "symbol": "Wikipedia",
+      "created_at": "2026-08-11T19:34:49.376957088Z",
+      "first_seen": "2026-08-11T19:34:55.985381+00:00"
     }
   },
   "alerted": [
