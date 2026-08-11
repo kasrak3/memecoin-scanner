@@ -1,55 +1,5 @@
 {
   "pending": {
-    "nJRvAxzKHXHSC3T9BCfqmkiVfzUp2VbeZMQmQ8Npump": {
-      "symbol": "BASKET",
-      "created_at": "2026-08-11T18:02:39.611673125Z",
-      "first_seen": "2026-08-11T18:02:43.268863+00:00"
-    },
-    "AnWmjbEP5SsNcJHTKVW3dLgFCTVQYkjbY3E6peVhDUeg": {
-      "symbol": "BOT",
-      "created_at": "2026-08-11T18:02:39.448229043Z",
-      "first_seen": "2026-08-11T18:02:43.268863+00:00"
-    },
-    "44oagmZZtz6fGeWAt7g5JHVbqhCRtAA3P5Z4eXAFVnh4": {
-      "symbol": "ETH-DN",
-      "created_at": "2026-08-11T18:02:36.092088332Z",
-      "first_seen": "2026-08-11T18:02:43.268863+00:00"
-    },
-    "6Nv1UwaBNMQx4sbjrfrGXjdNCdrg1FSRtq5JWngP5MMg": {
-      "symbol": "XRP-DN",
-      "created_at": "2026-08-11T18:02:35.872721291Z",
-      "first_seen": "2026-08-11T18:02:43.268863+00:00"
-    },
-    "7hn4SArNjuF5rMFL8v3i4ADUKctrz47Xd4H9ffWQpump": {
-      "symbol": "COIN",
-      "created_at": "2026-08-11T18:02:35.784564514Z",
-      "first_seen": "2026-08-11T18:02:43.268863+00:00"
-    },
-    "HuHbCWjkFESqdWw9imhF8q9T1BR9XVUwTxr8HeVRLDkE": {
-      "symbol": "HYPE-DN",
-      "created_at": "2026-08-11T18:02:35.713972519Z",
-      "first_seen": "2026-08-11T18:02:43.268863+00:00"
-    },
-    "BabKrRUhz6t175P8HRzoFte8oYRbZVgNr3UXA2zspump": {
-      "symbol": "BAJUM",
-      "created_at": "2026-08-11T18:02:34.593845883Z",
-      "first_seen": "2026-08-11T18:02:43.268863+00:00"
-    },
-    "9yZLcmqCq1bEwzBoFHZfRMQFJnBcFFzzPhDeCdN8PvaB": {
-      "symbol": "SPCX5Y",
-      "created_at": "2026-08-11T18:02:34.047237154Z",
-      "first_seen": "2026-08-11T18:02:43.268863+00:00"
-    },
-    "DsFbX5rUcL26msapPVzP9isawDJrNXXxuudKFpxXVg66": {
-      "symbol": "SOL-DN",
-      "created_at": "2026-08-11T18:02:33.980126088Z",
-      "first_seen": "2026-08-11T18:02:43.268863+00:00"
-    },
-    "2PvCARFC8PMt3KbvEM3ZUCxceN22QEoqGiTZeKWFecUz": {
-      "symbol": "ETH-UP",
-      "created_at": "2026-08-11T18:02:33.801812261Z",
-      "first_seen": "2026-08-11T18:02:43.268863+00:00"
-    },
     "FPTfKfYMvHmsY6YLVYpdAw2ivsPJGgEA2xVBd7FNbonk": {
       "symbol": "",
       "created_at": "2026-08-11T18:05:24.145853243Z",
@@ -2234,6 +2184,56 @@
       "symbol": "TRENCH",
       "created_at": "2026-08-11T20:00:27.6367314Z",
       "first_seen": "2026-08-11T20:00:55.093485+00:00"
+    },
+    "DKQcR8ieN8dNYPvKCsuZ5Ut3qWFGcWcPvNDf5uH7A8jb": {
+      "symbol": "MLP",
+      "created_at": "2026-08-11T20:03:20.757106614Z",
+      "first_seen": "2026-08-11T20:03:32.117383+00:00"
+    },
+    "39kHXmnP5UFHuGWtEVhZ1Kuvjzae4PE9J8EtXMmdpump": {
+      "symbol": "CURRAP",
+      "created_at": "2026-08-11T20:03:19.837669179Z",
+      "first_seen": "2026-08-11T20:03:32.117383+00:00"
+    },
+    "DLdgZCEyQ7gm2mTbEr13t1FyE7vzbs62eAkmhC3Tpump": {
+      "symbol": "MIM",
+      "created_at": "2026-08-11T20:03:14.643184057Z",
+      "first_seen": "2026-08-11T20:03:32.117383+00:00"
+    },
+    "FtTJYmM8TM1UypCiBYz96RtR4t8u6oT6RGarf6UFpump": {
+      "symbol": "MIM",
+      "created_at": "2026-08-11T20:03:12.443674698Z",
+      "first_seen": "2026-08-11T20:03:32.117383+00:00"
+    },
+    "6sZhF6jdyQ7zr72cYtoXXnKSLwFwrZ3JAFizXK1gpump": {
+      "symbol": "GOLD",
+      "created_at": "2026-08-11T20:03:11.384218139Z",
+      "first_seen": "2026-08-11T20:03:32.117383+00:00"
+    },
+    "CtBrTcjdKc7ZG3tpk88BZEVbBs8aoGfNcxdQNq6L3TRN": {
+      "symbol": "TREN.CH",
+      "created_at": "2026-08-11T20:03:11.242775841Z",
+      "first_seen": "2026-08-11T20:03:32.117383+00:00"
+    },
+    "BSJD7e95wco3Vzeh6TASA8wxGah61HnRYWVyp38LevQa": {
+      "symbol": "\u2022\u306d\u3053",
+      "created_at": "2026-08-11T20:03:10.189302104Z",
+      "first_seen": "2026-08-11T20:03:32.117383+00:00"
+    },
+    "52eR49whtJTjoYtVGu5gGQnKaqv7ypuBpd414TLdpump": {
+      "symbol": "DIS",
+      "created_at": "2026-08-11T20:03:04.378951486Z",
+      "first_seen": "2026-08-11T20:03:32.117383+00:00"
+    },
+    "6avJCNbwzDdCMgwmTLLnvqxeZSKfCWaYKdUyvmHWpump": {
+      "symbol": "TTMIM",
+      "created_at": "2026-08-11T20:03:02.955751035Z",
+      "first_seen": "2026-08-11T20:03:32.117383+00:00"
+    },
+    "BNKCh5YtntWn3832iFTihUMYfLvumYYHzgRpBf7f91NH": {
+      "symbol": "GIGATOAD",
+      "created_at": "2026-08-11T20:03:01.714590008Z",
+      "first_seen": "2026-08-11T20:03:32.117383+00:00"
     }
   },
   "alerted": [
