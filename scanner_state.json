@@ -1,50 +1,5 @@
 {
   "pending": {
-    "2SmBfqRGjrDRKjjBQGj8NEXwvw8i1BKqGukFUNyZpump": {
-      "symbol": "$B4PEPE",
-      "created_at": "2026-08-12T11:58:43.937370211Z",
-      "first_seen": "2026-08-12T11:58:46.138953+00:00"
-    },
-    "CJqixDP3jcUekaS5JggkeVRVXCZjLUqdErwhjfmepump": {
-      "symbol": "dafrog",
-      "created_at": "2026-08-12T11:58:40.521224325Z",
-      "first_seen": "2026-08-12T11:58:46.138953+00:00"
-    },
-    "4e6eBHsGTG6wAX2JVTU1nfW6poity9ECqnW6bLNQpump": {
-      "symbol": "NEEGER",
-      "created_at": "2026-08-12T11:58:40.002651461Z",
-      "first_seen": "2026-08-12T11:58:46.138953+00:00"
-    },
-    "5UKsFDuc7m8qA442LHZAx2WLM7i5yva69e4JjjFhpump": {
-      "symbol": "Glasses",
-      "created_at": "2026-08-12T11:58:33.041029186Z",
-      "first_seen": "2026-08-12T11:58:46.138953+00:00"
-    },
-    "4sDUW42QLH6BXWBapMXjZu8RHQzYXXepqKdK2avHpump": {
-      "symbol": "puss",
-      "created_at": "2026-08-12T11:58:32.516226849Z",
-      "first_seen": "2026-08-12T11:58:46.138953+00:00"
-    },
-    "4CkyXY38LvgqwKWJ3SF5wGhX5Y4SZNFJny3zAz7gEkhq": {
-      "symbol": "MOONBASE",
-      "created_at": "2026-08-12T11:58:32.45969939Z",
-      "first_seen": "2026-08-12T11:58:46.138953+00:00"
-    },
-    "D9XPp4gB4owq6Lkrekbgwa5H72akpD298FKTW9S5di8K": {
-      "symbol": "",
-      "created_at": "2026-08-12T11:58:32.245290275Z",
-      "first_seen": "2026-08-12T11:58:46.138953+00:00"
-    },
-    "EQb8J79MV2oGSnKAfncL9ajEmXtKomGiFeXJxNREpump": {
-      "symbol": "KEEPJUMP",
-      "created_at": "2026-08-12T11:58:31.726440425Z",
-      "first_seen": "2026-08-12T11:58:46.138953+00:00"
-    },
-    "4Y1rXnJMYBcCEaxwgtLmF7wJRfsnZj7wgnsuCqHiPqjm": {
-      "symbol": "INAGE",
-      "created_at": "2026-08-12T11:58:31.319633927Z",
-      "first_seen": "2026-08-12T11:58:46.138953+00:00"
-    },
     "GwzygPV7XCiKSL1iKxsHiH8kLWT18Y8ycE9MRC7bzKqb": {
       "symbol": "",
       "created_at": "2026-08-12T12:01:19.161228467Z",
@@ -1643,7 +1598,12 @@
     "7qg3pYUswNjtqVqMFVuY8wtv2Z269oT2UGdxjpxTpump": {
       "symbol": "HONOR",
       "created_at": "2026-08-12T13:28:22.61610853Z",
-      "first_seen": "2026-08-12T13:28:47.705326+00:00"
+      "first_seen": "2026-08-12T13:28:47.705326+00:00",
+      "confirm": {
+        "liquidity": 24915.03,
+        "market_cap": 118309,
+        "at": "2026-08-12T13:58:50.372707+00:00"
+      }
     },
     "E2uq1CaLyJrEKcgRChFZKrs1gJgos9LRPRgp8D1bpUmP": {
       "symbol": "CAT",
@@ -2154,6 +2114,56 @@
       "symbol": "TOADIE",
       "created_at": "2026-08-12T13:55:57.513358523Z",
       "first_seen": "2026-08-12T13:56:11.623779+00:00"
+    },
+    "8VGTNtX1zy8Me9uVP8jkJXjfbdGi81Gt6FSuX1D9pump": {
+      "symbol": "whf",
+      "created_at": "2026-08-12T13:58:46.602141989Z",
+      "first_seen": "2026-08-12T13:58:50.372584+00:00"
+    },
+    "PfLei5Xr98HeRiwWXBaB8GW1kdMhZy7FiPwa8aBa3aa": {
+      "symbol": "Odysseans",
+      "created_at": "2026-08-12T13:58:43.226610522Z",
+      "first_seen": "2026-08-12T13:58:50.372584+00:00"
+    },
+    "GpyYhFuhPJepVXLvyvRUWDTtgfPaCaWiVt7j9cxTpump": {
+      "symbol": "WATER",
+      "created_at": "2026-08-12T13:58:42.766964681Z",
+      "first_seen": "2026-08-12T13:58:50.372584+00:00"
+    },
+    "3koRtP163bCBNoxP3VJdsPQqzfcGfV3bTA2E7V3spump": {
+      "symbol": "TOADIE",
+      "created_at": "2026-08-12T13:58:40.270486389Z",
+      "first_seen": "2026-08-12T13:58:50.372584+00:00"
+    },
+    "JCieaZctEZpwXEbwyegg9TwBAc4zhDMCsLdsxVGTpump": {
+      "symbol": "Pumpers",
+      "created_at": "2026-08-12T13:58:39.443328811Z",
+      "first_seen": "2026-08-12T13:58:50.372584+00:00"
+    },
+    "6HbR5SFaibJce4aU34v5S12rYLvBU9XKfKPivGTMpump": {
+      "symbol": "Pumpers",
+      "created_at": "2026-08-12T13:58:37.880392809Z",
+      "first_seen": "2026-08-12T13:58:50.372584+00:00"
+    },
+    "FzioW6rsMmABPTvoAvy1eu9N2UCFFZ9sKpJWGNzLpump": {
+      "symbol": "Baga",
+      "created_at": "2026-08-12T13:58:37.068163327Z",
+      "first_seen": "2026-08-12T13:58:50.372584+00:00"
+    },
+    "BNS3TnZpw3TgHvTo8eH1mpQVqhd6aJfhpto7EsWnpump": {
+      "symbol": "ORBM",
+      "created_at": "2026-08-12T13:58:36.302741667Z",
+      "first_seen": "2026-08-12T13:58:50.372584+00:00"
+    },
+    "51TQEZCvShrrerUQm6UV2HDFLMxy4dxTa2441yo7pump": {
+      "symbol": "CH",
+      "created_at": "2026-08-12T13:58:35.373531984Z",
+      "first_seen": "2026-08-12T13:58:50.372584+00:00"
+    },
+    "6yvhFYDPCn5PCAj5Eyu8TFeG8oSz8eY52AKCpPvypump": {
+      "symbol": "Mayonesa",
+      "created_at": "2026-08-12T13:58:34.998840788Z",
+      "first_seen": "2026-08-12T13:58:50.372584+00:00"
     }
   },
   "alerted": [
