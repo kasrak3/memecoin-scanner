@@ -1,55 +1,5 @@
 {
   "pending": {
-    "8eAu4mPDqS2Bhd21CmKxgpJ77B35JogY6R23B2EUpump": {
-      "symbol": "GTA PERPS",
-      "created_at": "2026-08-12T21:49:18.728590961Z",
-      "first_seen": "2026-08-12T21:49:22.544628+00:00"
-    },
-    "G3f1zBEfzUcch1PpwYW2zPQnaTYvx8fcuuUiKHsFpump": {
-      "symbol": "Monday",
-      "created_at": "2026-08-12T21:49:15.242155104Z",
-      "first_seen": "2026-08-12T21:49:22.544628+00:00"
-    },
-    "2QARen2m23CPBaBBjkTm8BT8mMnF6u9ouiVoAh8spump": {
-      "symbol": "Nigga",
-      "created_at": "2026-08-12T21:49:12.326848132Z",
-      "first_seen": "2026-08-12T21:49:22.544628+00:00"
-    },
-    "445uwAqdqACUJFZpFJxvUruKrJFkwjmNfY7PjfbQpump": {
-      "symbol": "NIGGA",
-      "created_at": "2026-08-12T21:49:10.774433683Z",
-      "first_seen": "2026-08-12T21:49:22.544628+00:00"
-    },
-    "85ghqGDcvHVEweFKWT8guigBP5hUGqGCBRSffB7Fpump": {
-      "symbol": "Anteater",
-      "created_at": "2026-08-12T21:49:04.517482391Z",
-      "first_seen": "2026-08-12T21:49:22.544628+00:00"
-    },
-    "CF4GyWSbNowzR7WEr4bVXGLSKMVr8TjAC5w7Xvqrpump": {
-      "symbol": "Barbie",
-      "created_at": "2026-08-12T21:49:04.183003969Z",
-      "first_seen": "2026-08-12T21:49:22.544628+00:00"
-    },
-    "2YGTmSxrzpXn1soxtHhLb3ECskia7C4iBG1Bvc2Ypump": {
-      "symbol": "DFCD",
-      "created_at": "2026-08-12T21:49:04.139474961Z",
-      "first_seen": "2026-08-12T21:49:22.544628+00:00"
-    },
-    "559xoc6sBLe6bDfNr13jWQz2j5Ja6LpWG1f2L994pump": {
-      "symbol": "KET",
-      "created_at": "2026-08-12T21:49:04.094289203Z",
-      "first_seen": "2026-08-12T21:49:22.544628+00:00"
-    },
-    "A1P8CtRb1wErMnMk9mBFnbNkfXfpQuALYxBuu4Twpump": {
-      "symbol": "mood",
-      "created_at": "2026-08-12T21:48:59.67670837Z",
-      "first_seen": "2026-08-12T21:49:22.544628+00:00"
-    },
-    "7YQzFR8aqy3ChPWvaBPk9hREkkDZTEA4MLopKPxBpump": {
-      "symbol": "COIN",
-      "created_at": "2026-08-12T21:48:57.965577935Z",
-      "first_seen": "2026-08-12T21:49:22.544628+00:00"
-    },
     "DqtAn5w9rEqRL6NWLVMekhWvk7gb5aFKG7LZomypump": {
       "symbol": "memoor",
       "created_at": "2026-08-12T21:51:47.855406988Z",
@@ -1618,7 +1568,12 @@
     "4xcreP7bv6oKzpMWfCauspcqE4yUiTnkeAfSXiTopump": {
       "symbol": "OILCOIN",
       "created_at": "2026-08-12T23:19:06.175008157Z",
-      "first_seen": "2026-08-12T23:19:22.148625+00:00"
+      "first_seen": "2026-08-12T23:19:22.148625+00:00",
+      "confirm": {
+        "liquidity": 11279.73,
+        "market_cap": 29860,
+        "at": "2026-08-12T23:51:47.300294+00:00"
+      }
     },
     "DXhSpu6BgNY3PsGErZsMZNd72wdNgWR3LNKkqfv6pump": {
       "symbol": "FERCAN",
@@ -2199,6 +2154,56 @@
       "symbol": "PRINT",
       "created_at": "2026-08-12T23:48:44.358449549Z",
       "first_seen": "2026-08-12T23:49:09.023579+00:00"
+    },
+    "AfhCAwVFNvxyMNf57WNRSdFxQtJ4P4Z6hk2F6QAZkQon": {
+      "symbol": "",
+      "created_at": "2026-08-12T23:51:43.406267865Z",
+      "first_seen": "2026-08-12T23:51:47.300194+00:00"
+    },
+    "AR1beYPNgZWffgZTPNq8cnnEzuVMDcKJ9GM55pjBpump": {
+      "symbol": "PITCOIN",
+      "created_at": "2026-08-12T23:51:41.949683662Z",
+      "first_seen": "2026-08-12T23:51:47.300194+00:00"
+    },
+    "42WxZVm4GSGQHzZ9az9LuKGAAr3rZvyeuFmVd2ELpump": {
+      "symbol": "XENA",
+      "created_at": "2026-08-12T23:51:40.313193462Z",
+      "first_seen": "2026-08-12T23:51:47.300194+00:00"
+    },
+    "DHnp1LC9N19vmwHAogWjz7W1GfuYa9tUFjZGSdpkpump": {
+      "symbol": "PRINT",
+      "created_at": "2026-08-12T23:51:38.893463641Z",
+      "first_seen": "2026-08-12T23:51:47.300194+00:00"
+    },
+    "8ogM4AhJapP4qdxjMqaXuXkqv1g9MJMyuAMAftSJpump": {
+      "symbol": "GTA",
+      "created_at": "2026-08-12T23:51:36.721290179Z",
+      "first_seen": "2026-08-12T23:51:47.300194+00:00"
+    },
+    "2jFYsVtaLUhyvSBuCXdXTMDfC58VUYB2Fx56WGYBpump": {
+      "symbol": "ORANGUTAN",
+      "created_at": "2026-08-12T23:51:30.856711597Z",
+      "first_seen": "2026-08-12T23:51:47.300194+00:00"
+    },
+    "5fr2kLHHT76PUjpjj8cY75cD67d4gvLATGrZx41Cpump": {
+      "symbol": "DOWNFALL",
+      "created_at": "2026-08-12T23:51:30.509030297Z",
+      "first_seen": "2026-08-12T23:51:47.300194+00:00"
+    },
+    "4WGiQCz6A9snDnZQmAUTbfL9kBs6yQ9VXNJ5L7fEpump": {
+      "symbol": "SPOT",
+      "created_at": "2026-08-12T23:51:20.177806345Z",
+      "first_seen": "2026-08-12T23:51:47.300194+00:00"
+    },
+    "8wFmTRZ7ZDAYppq4hsD5TMQHSoePVhQBbChDfXmApump": {
+      "symbol": "Africa",
+      "created_at": "2026-08-12T23:51:14.796704865Z",
+      "first_seen": "2026-08-12T23:51:47.300194+00:00"
+    },
+    "A7MGxFmJd32tpVefcKHJgXuTxGZLY7bwqMxZQqLXpump": {
+      "symbol": "100K",
+      "created_at": "2026-08-12T23:51:09.14722283Z",
+      "first_seen": "2026-08-12T23:51:47.300194+00:00"
     }
   },
   "alerted": [
