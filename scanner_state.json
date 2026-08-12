@@ -200,11 +200,6 @@
       "created_at": "2026-08-12T20:27:58.729880058Z",
       "first_seen": "2026-08-12T20:28:15.427378+00:00"
     },
-    "3dTcQELGjK44q25SZfyCzhAyZJiBq7LWF8M58xFVpump": {
-      "symbol": "CALL",
-      "created_at": "2026-08-12T20:30:06.418357254Z",
-      "first_seen": "2026-08-12T20:30:16.898827+00:00"
-    },
     "G2XuzxYpdSEdPaFEdRYMxiXksYdURDHJ4TqrFZKLpump": {
       "symbol": "COIN",
       "created_at": "2026-08-12T20:30:02.142132362Z",
@@ -449,6 +444,56 @@
       "symbol": "tf?",
       "created_at": "2026-08-12T20:38:11.485163437Z",
       "first_seen": "2026-08-12T20:38:29.654457+00:00"
+    },
+    "FpyA191Kwv3zSFeVpPyvHDh66MFAVgQ5LWdq1Tmjpump": {
+      "symbol": "DSIG",
+      "created_at": "2026-08-12T20:40:28.030053399Z",
+      "first_seen": "2026-08-12T20:40:34.636895+00:00"
+    },
+    "D4znq3iRraTBLpj2oBumPEP4kPUQMhEspWjX7NSepump": {
+      "symbol": "GAMBITCLAW",
+      "created_at": "2026-08-12T20:40:21.981538402Z",
+      "first_seen": "2026-08-12T20:40:34.636895+00:00"
+    },
+    "QP7aN9hVQUcrn2NMMJDGcQWoToCWxMLSMQkDP7vuoPQ": {
+      "symbol": "RCL",
+      "created_at": "2026-08-12T20:40:19.709848847Z",
+      "first_seen": "2026-08-12T20:40:34.636895+00:00"
+    },
+    "DJoX6W27cBpx1haUueMGmU8rum17BhrdGPebvBaSpump": {
+      "symbol": "30to30",
+      "created_at": "2026-08-12T20:40:14.73281463Z",
+      "first_seen": "2026-08-12T20:40:34.636895+00:00"
+    },
+    "5SzN4N1Yt54D5vdmKLLuF9RxWBvymRDTtk7uZkdppump": {
+      "symbol": "SNUTTIG",
+      "created_at": "2026-08-12T20:40:11.798123896Z",
+      "first_seen": "2026-08-12T20:40:34.636895+00:00"
+    },
+    "CWWH5AyvnRyBnrdxY7uzZeaCRPNuFDzR6x4XkLQqpump": {
+      "symbol": "FOMOPERPS",
+      "created_at": "2026-08-12T20:40:08.843611492Z",
+      "first_seen": "2026-08-12T20:40:34.636895+00:00"
+    },
+    "6j97dctF4qbkdQtZdeptNiJ8fscHVbiDRNS7UzbApump": {
+      "symbol": "PLUMBHER",
+      "created_at": "2026-08-12T20:40:04.590600044Z",
+      "first_seen": "2026-08-12T20:40:34.636895+00:00"
+    },
+    "ECTJhjkFFGe6rCjKT2wnm6pCvgB7iV9E3zN9vN6Bpump": {
+      "symbol": "SINGLOORS",
+      "created_at": "2026-08-12T20:40:04.145524839Z",
+      "first_seen": "2026-08-12T20:40:34.636895+00:00"
+    },
+    "A9z6nAkBBnfStHHrbQKrF6PYN6jhnJxundypFCXHpump": {
+      "symbol": "Broccoli",
+      "created_at": "2026-08-12T20:40:03.889625345Z",
+      "first_seen": "2026-08-12T20:40:34.636895+00:00"
+    },
+    "7ZYgnDtewEBchmTkT5JNetPRuMYzoyn44vokWY1Fpump": {
+      "symbol": "IndianBob",
+      "created_at": "2026-08-12T20:40:00.318746671Z",
+      "first_seen": "2026-08-12T20:40:34.636895+00:00"
     }
   },
   "alerted": [
@@ -903,6 +948,7 @@
     "hedK6FKpqpCHQxj45efzV3uXRAT67YaYEMPRAiiSXBi",
     "51NLedYe27bsAtVc7k3UsqMGnd7C6SSCFa4DJYuGxJ5Y",
     "7seHqtinFrVn6CxaCsSPzWVa8KFB3hSCLMuJ2VpkGY3a",
-    "7uyVcdixU1HHsKow5mwNEDge8zfeBUq2axgCYkX9hZAp"
+    "7uyVcdixU1HHsKow5mwNEDge8zfeBUq2axgCYkX9hZAp",
+    "3dTcQELGjK44q25SZfyCzhAyZJiBq7LWF8M58xFVpump"
   ]
 }
