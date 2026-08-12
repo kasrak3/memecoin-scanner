@@ -743,7 +743,12 @@
     "GWboryaBsBNu9wiacDZXNCGP5KzYrrEUkR5MhH1fN3Gq": {
       "symbol": "ALIEN",
       "created_at": "2026-08-12T06:20:04.5935886Z",
-      "first_seen": "2026-08-12T06:20:38.704273+00:00"
+      "first_seen": "2026-08-12T06:20:38.704273+00:00",
+      "confirm": {
+        "liquidity": 6809.94,
+        "market_cap": 12254,
+        "at": "2026-08-12T06:30:22.047863+00:00"
+      }
     },
     "2eCHYRiCVWRsT8bpWzgE6FE9mUTitVGcbPUQxxYRpump": {
       "symbol": "nothing",
@@ -924,6 +929,56 @@
       "symbol": ".",
       "created_at": "2026-08-12T06:27:10.373910494Z",
       "first_seen": "2026-08-12T06:27:50.246581+00:00"
+    },
+    "GWrkcH2SeAKaTzyS11EFyF7coAHoimepG9jCnTAWpump": {
+      "symbol": "oasis",
+      "created_at": "2026-08-12T06:30:16.702185612Z",
+      "first_seen": "2026-08-12T06:30:22.047773+00:00"
+    },
+    "5dNVS8vBB5Zi5VhRRXuudPyNmJBTDGDYX199NV34pump": {
+      "symbol": "KING",
+      "created_at": "2026-08-12T06:30:15.070699225Z",
+      "first_seen": "2026-08-12T06:30:22.047773+00:00"
+    },
+    "J6XdHXeSMTgZTPYwDNtjZkyHKPfLv3TDfyQDhTqpump": {
+      "symbol": "GIZA",
+      "created_at": "2026-08-12T06:30:14.481028183Z",
+      "first_seen": "2026-08-12T06:30:22.047773+00:00"
+    },
+    "74XBfNCmzZSyZQ1xZvQ7gWpGg6xPwELiw9XKSN6Npump": {
+      "symbol": "GIZA",
+      "created_at": "2026-08-12T06:30:14.015061376Z",
+      "first_seen": "2026-08-12T06:30:22.047773+00:00"
+    },
+    "AKnyEFZJV5hezXTBzgdKuA76y9GMFp3qrad7gvUAiTZh": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-08-12T06:30:12.215077091Z",
+      "first_seen": "2026-08-12T06:30:22.047773+00:00"
+    },
+    "B4AwjWnTEXJHjgW6X2kiBXY2AoAoXbcqcFLgxKKvkvqZ": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-08-12T06:30:12.204878519Z",
+      "first_seen": "2026-08-12T06:30:22.047773+00:00"
+    },
+    "2PWUEftGyujGJNzbKCnJnxh1ubHU7Sdbk5XegEpCnUK8": {
+      "symbol": "BTC5N",
+      "created_at": "2026-08-12T06:30:12.088527419Z",
+      "first_seen": "2026-08-12T06:30:22.047773+00:00"
+    },
+    "7P5nyxq4f6jTfpbkDS6SmD27TEwmiML1DNTn2fdkZAGK": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-08-12T06:30:12.073847563Z",
+      "first_seen": "2026-08-12T06:30:22.047773+00:00"
+    },
+    "JC2hPxs7XyGUzAvTTvTgXaJKzbdFLMPUcBpnVtr8Wck7": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-08-12T06:30:11.974417567Z",
+      "first_seen": "2026-08-12T06:30:22.047773+00:00"
+    },
+    "89beRdjYm2GwsRCKMygND2g5bq8sgE3jQXvDZF4eG8w7": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-08-12T06:30:11.970029742Z",
+      "first_seen": "2026-08-12T06:30:22.047773+00:00"
     }
   },
   "alerted": [
