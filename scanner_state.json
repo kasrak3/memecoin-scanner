@@ -1293,7 +1293,12 @@
     "4EQrEnYV5VxUTTfsVCzSbbvmA3MtBzNHnpVDjQ98wxDJ": {
       "symbol": "APE",
       "created_at": "2026-08-13T21:08:38.58505168Z",
-      "first_seen": "2026-08-13T21:08:48.214432+00:00"
+      "first_seen": "2026-08-13T21:08:48.214432+00:00",
+      "confirm": {
+        "liquidity": 11568.24,
+        "market_cap": 31050,
+        "at": "2026-08-13T21:21:14.427470+00:00"
+      }
     },
     "E5B8GEVyVK1f3aHssLH2mGQSnS38YAQ1ZoNuhYbBpump": {
       "symbol": "TRASH",
@@ -1489,6 +1494,56 @@
       "symbol": "RDDT",
       "created_at": "2026-08-13T21:17:34.966824402Z",
       "first_seen": "2026-08-13T21:17:58.036616+00:00"
+    },
+    "HoGEtfTQJrPDbunRYoAbZpB1DiTbo2kU4zQ4FdHNpump": {
+      "symbol": "fatcat",
+      "created_at": "2026-08-13T21:21:11.003871822Z",
+      "first_seen": "2026-08-13T21:21:14.427339+00:00"
+    },
+    "9gvEC2Y8LecixfNtjtG3eRg96msJH3duipRv94aqG8nF": {
+      "symbol": "MPN",
+      "created_at": "2026-08-13T21:21:07.764059796Z",
+      "first_seen": "2026-08-13T21:21:14.427339+00:00"
+    },
+    "3SXuveaYoq5ajR8UGHWUxYFawDEfRUFioamdyeuspump": {
+      "symbol": "Pino",
+      "created_at": "2026-08-13T21:21:05.262358647Z",
+      "first_seen": "2026-08-13T21:21:14.427339+00:00"
+    },
+    "8RcXm4eVeoKwmeequqwitKTZqajctpPHSv2gCU8RF2fJ": {
+      "symbol": "BFF",
+      "created_at": "2026-08-13T21:21:04.517112654Z",
+      "first_seen": "2026-08-13T21:21:14.427339+00:00"
+    },
+    "7su4Ehp8JardP115DpBCtMHcK512jcgGAJgo1bcxpump": {
+      "symbol": "BFF",
+      "created_at": "2026-08-13T21:21:00.695036391Z",
+      "first_seen": "2026-08-13T21:21:14.427339+00:00"
+    },
+    "BrBr5UJobM6qK7jcCSQWxEuFeyy4Xe4n7qXWey5osXWv": {
+      "symbol": "",
+      "created_at": "2026-08-13T21:20:58.258745227Z",
+      "first_seen": "2026-08-13T21:21:14.427339+00:00"
+    },
+    "RGzjKgbG9MoZpuCHVt31dHZ2V3tfz539Ck5x4uQpump": {
+      "symbol": "BFF",
+      "created_at": "2026-08-13T21:20:57.673972497Z",
+      "first_seen": "2026-08-13T21:21:14.427339+00:00"
+    },
+    "4of1ENkzrsEP7kNMM5RJjH6iiQaRtKWajmT6ctCbrq6m": {
+      "symbol": "utility",
+      "created_at": "2026-08-13T21:20:56.165421056Z",
+      "first_seen": "2026-08-13T21:21:14.427339+00:00"
+    },
+    "EZB1uZ6BwLTeghCf62UPhkYAYDi26oxq35FNWP8uWJD6": {
+      "symbol": "MPN",
+      "created_at": "2026-08-13T21:20:52.823153126Z",
+      "first_seen": "2026-08-13T21:21:14.427339+00:00"
+    },
+    "55iLMyyYQeNiDWP3VHCHXe1xHZrWgSXG8bqR2Cwfpump": {
+      "symbol": "ECLIPS",
+      "created_at": "2026-08-13T21:20:52.517157325Z",
+      "first_seen": "2026-08-13T21:21:14.427339+00:00"
     }
   },
   "alerted": [
