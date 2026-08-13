@@ -1,55 +1,5 @@
 {
   "pending": {
-    "82DTwJoMRH1fqteqDXMAhHDnaUn314nx9C8NCTSrpump": {
-      "symbol": "K-Drama",
-      "created_at": "2026-08-13T10:26:45.305941496Z",
-      "first_seen": "2026-08-13T10:26:48.285872+00:00"
-    },
-    "Am5S86rFrw5UX3C6WznmzRi9WFTKVi54EPqu7ZKVpump": {
-      "symbol": "ahahah",
-      "created_at": "2026-08-13T10:26:37.291892544Z",
-      "first_seen": "2026-08-13T10:26:48.285872+00:00"
-    },
-    "iTMg4Jxb5ryJqZKQQXKUzw32pREbVrkwa5jmx6Xpump": {
-      "symbol": "CLIMBCAT",
-      "created_at": "2026-08-13T10:26:32.200171177Z",
-      "first_seen": "2026-08-13T10:26:48.285872+00:00"
-    },
-    "AAkkA77WyhY9dDK4tirYZvBU7wa1cXmirRKYwvKJpump": {
-      "symbol": "BOP",
-      "created_at": "2026-08-13T10:26:25.526524497Z",
-      "first_seen": "2026-08-13T10:26:48.285872+00:00"
-    },
-    "7LV8rtgAocUUuUjjkCGk25XE6KtkqUBu9ep9vsx4pump": {
-      "symbol": "SNUTTIG",
-      "created_at": "2026-08-13T10:26:18.597275959Z",
-      "first_seen": "2026-08-13T10:26:48.285872+00:00"
-    },
-    "9uyodP9Jh9n9NyFvPccMc9ykFxpSq3m6eqKknNQnpump": {
-      "symbol": "Africa",
-      "created_at": "2026-08-13T10:26:14.197861658Z",
-      "first_seen": "2026-08-13T10:26:48.285872+00:00"
-    },
-    "9jbKx1BaWXwS6a8XeUNpW4dmtgDzjQWCUnUUB1Y2pump": {
-      "symbol": "DRILLCAT",
-      "created_at": "2026-08-13T10:26:04.64918297Z",
-      "first_seen": "2026-08-13T10:26:48.285872+00:00"
-    },
-    "BNJd6M5vWPZRRovCVhM3WaQdoXcTJwPEzgcVUExPpump": {
-      "symbol": "K IMI aI",
-      "created_at": "2026-08-13T10:26:03.862225301Z",
-      "first_seen": "2026-08-13T10:26:48.285872+00:00"
-    },
-    "7Pp5VKEEHTu9wMjBoZsXQsqWWWHrDZJikBGGAU3ZJqsZ": {
-      "symbol": "",
-      "created_at": "2026-08-13T10:26:03.78188106Z",
-      "first_seen": "2026-08-13T10:26:48.285872+00:00"
-    },
-    "S2h7fno7zfn8jBEsHx8gG2gFQDUgJssLU68wJGLpump": {
-      "symbol": "whateva",
-      "created_at": "2026-08-13T10:26:00.885089422Z",
-      "first_seen": "2026-08-13T10:26:48.285872+00:00"
-    },
     "3CjsctwUx5UoHmstLhu1gks6LqQz95bktBJoSKHppump": {
       "symbol": "LOOP",
       "created_at": "2026-08-13T10:29:17.921198331Z",
@@ -1803,7 +1753,12 @@
     "C2ncc5hGcXoF3rX4G9gfnP5KY9ieWvTJ7gtzuUpFRGJa": {
       "symbol": "TIT",
       "created_at": "2026-08-13T11:59:10.858669765Z",
-      "first_seen": "2026-08-13T11:59:22.163978+00:00"
+      "first_seen": "2026-08-13T11:59:22.163978+00:00",
+      "confirm": {
+        "liquidity": 10865.07,
+        "market_cap": 13056,
+        "at": "2026-08-13T12:27:45.935246+00:00"
+      }
     },
     "DoQjrBUwfWF55CcfCrn6VCRp4QLMLRTLuJ8emTEFpump": {
       "symbol": "ICT",
@@ -2309,6 +2264,56 @@
       "symbol": "",
       "created_at": "2026-08-13T12:24:40.651021697Z",
       "first_seen": "2026-08-13T12:25:13.089101+00:00"
+    },
+    "4sxw7UiPSYCBRPz6sohkd3zb5uJKBMQUY85nUKhEpump": {
+      "symbol": "CHHOTA",
+      "created_at": "2026-08-13T12:27:41.976798962Z",
+      "first_seen": "2026-08-13T12:27:45.935143+00:00"
+    },
+    "7X4jBvym7TssU99bGKC3LTuYmXJVzeGpbsxAtq4npump": {
+      "symbol": "AI",
+      "created_at": "2026-08-13T12:27:40.86224886Z",
+      "first_seen": "2026-08-13T12:27:45.935143+00:00"
+    },
+    "9tnVzSJLnUMrQj836EkzDr8zX4FyTqNWxPbbYhn7pump": {
+      "symbol": "CHHOTA",
+      "created_at": "2026-08-13T12:27:39.576300846Z",
+      "first_seen": "2026-08-13T12:27:45.935143+00:00"
+    },
+    "Ex87W4tVvXW9ihMpZU8HJGjEjM8bfGxAovBVYqkBpump": {
+      "symbol": "GOZ",
+      "created_at": "2026-08-13T12:27:37.814772004Z",
+      "first_seen": "2026-08-13T12:27:45.935143+00:00"
+    },
+    "4K2gVHBW5YsQeQLuV5Va79KrgUV1KYuyqZ8qhuM3pump": {
+      "symbol": "GenZ",
+      "created_at": "2026-08-13T12:27:37.637445933Z",
+      "first_seen": "2026-08-13T12:27:45.935143+00:00"
+    },
+    "2iTm9UQbNJuMhD8cu4xBxfYphWpEhefRBtybAmEGpump": {
+      "symbol": "GENTOO",
+      "created_at": "2026-08-13T12:27:34.863347202Z",
+      "first_seen": "2026-08-13T12:27:45.935143+00:00"
+    },
+    "FY8xQAS78x2ZWErPhxFaa2M8yuFeYD55BNc5HyMcpump": {
+      "symbol": "CHHOTA BANDAR",
+      "created_at": "2026-08-13T12:27:28.120748207Z",
+      "first_seen": "2026-08-13T12:27:45.935143+00:00"
+    },
+    "87ShigirjEzxtNn99WAeoDPpf1gnxfX6XP8oHD3rpump": {
+      "symbol": "HCB",
+      "created_at": "2026-08-13T12:27:24.941613788Z",
+      "first_seen": "2026-08-13T12:27:45.935143+00:00"
+    },
+    "HnNzXwb4RmUAMXhQye2s3K5w5hV2SHHQSbGAWBRGpump": {
+      "symbol": "GenZ",
+      "created_at": "2026-08-13T12:27:22.193575503Z",
+      "first_seen": "2026-08-13T12:27:45.935143+00:00"
+    },
+    "AzqVz142nbimF87yZQNW23JHuFMK9qNDVLnVLtoQuf35": {
+      "symbol": "$DOLP",
+      "created_at": "2026-08-13T12:27:15.020777798Z",
+      "first_seen": "2026-08-13T12:27:45.935143+00:00"
     }
   },
   "alerted": [
