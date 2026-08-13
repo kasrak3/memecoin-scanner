@@ -1290,16 +1290,6 @@
       "created_at": "2026-08-13T21:05:42.695171428Z",
       "first_seen": "2026-08-13T21:05:59.266061+00:00"
     },
-    "4EQrEnYV5VxUTTfsVCzSbbvmA3MtBzNHnpVDjQ98wxDJ": {
-      "symbol": "APE",
-      "created_at": "2026-08-13T21:08:38.58505168Z",
-      "first_seen": "2026-08-13T21:08:48.214432+00:00",
-      "confirm": {
-        "liquidity": 11568.24,
-        "market_cap": 31050,
-        "at": "2026-08-13T21:21:14.427470+00:00"
-      }
-    },
     "E5B8GEVyVK1f3aHssLH2mGQSnS38YAQ1ZoNuhYbBpump": {
       "symbol": "TRASH",
       "created_at": "2026-08-13T21:08:38.142807055Z",
@@ -1408,11 +1398,6 @@
     "4YGB3rsthLWdGruXT3UsbpLQbnrBESqzYYvS7Gt5gBCP": {
       "symbol": "",
       "created_at": "2026-08-13T21:14:29.577653103Z",
-      "first_seen": "2026-08-13T21:14:37.034106+00:00"
-    },
-    "7Gj2jLWXWfek9StxUXsDNtkGBhDfi9JJg7yGLS2iWWm3": {
-      "symbol": "LENS",
-      "created_at": "2026-08-13T21:14:26.465784763Z",
       "first_seen": "2026-08-13T21:14:37.034106+00:00"
     },
     "BXMqJrggWtLZbqG8WqiE9seMxbcNwJiRmVRLgUNUx5DA": {
@@ -1544,6 +1529,56 @@
       "symbol": "ECLIPS",
       "created_at": "2026-08-13T21:20:52.517157325Z",
       "first_seen": "2026-08-13T21:21:14.427339+00:00"
+    },
+    "5NzUsiQCRgcoqCNRPrMkqxuHoGzLCQMJ933fKYf8pump": {
+      "symbol": "Salom\u00f3n",
+      "created_at": "2026-08-13T21:24:21.209031231Z",
+      "first_seen": "2026-08-13T21:24:30.230124+00:00"
+    },
+    "83697AEgpfBE7EUyhriJfsUtrcDH2ckhiBmwE5MKpump": {
+      "symbol": "SNOO",
+      "created_at": "2026-08-13T21:24:17.38488732Z",
+      "first_seen": "2026-08-13T21:24:30.230124+00:00"
+    },
+    "9JeHEqbAAJcyU6FKwoLvUwRUaKsJKeUjTbrLzZcQpump": {
+      "symbol": "SATISBULL",
+      "created_at": "2026-08-13T21:24:16.528315415Z",
+      "first_seen": "2026-08-13T21:24:30.230124+00:00"
+    },
+    "HxQcPZ7p55gvcTbnadxBYfGgyBFnApnM3iHXgfgokxQr": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-08-13T21:24:13.769052736Z",
+      "first_seen": "2026-08-13T21:24:30.230124+00:00"
+    },
+    "5yvEtW5UwG1cc6BNWd8EXZjj3XwGxp3tLch9YG6fnruq": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-08-13T21:24:13.766485346Z",
+      "first_seen": "2026-08-13T21:24:30.230124+00:00"
+    },
+    "AKJNAo3zFqncp1oUMUkEVbWWTk68DvFcM5ePnKAFCRBw": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-08-13T21:24:13.702713538Z",
+      "first_seen": "2026-08-13T21:24:30.230124+00:00"
+    },
+    "B47NcJbt9yubkAFZsqBScDQ8tndJ8vzXUzBdEB93pjsT": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-08-13T21:24:13.692252389Z",
+      "first_seen": "2026-08-13T21:24:30.230124+00:00"
+    },
+    "7EwGcAacdfTrnX5VfxQiX8nWMryF22g5MSi6bDpJt7M8": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-08-13T21:24:09.79066711Z",
+      "first_seen": "2026-08-13T21:24:30.230124+00:00"
+    },
+    "AKfG9rvgrc1AD8ChkwEjzydPhMmCXFA48sLVffAt5C4K": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-08-13T21:24:09.53289453Z",
+      "first_seen": "2026-08-13T21:24:30.230124+00:00"
+    },
+    "CVwFu7HcbsWgc344T1BMkcoskX6RAEpbaZph92nuLicS": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-08-13T21:24:09.524434738Z",
+      "first_seen": "2026-08-13T21:24:30.230124+00:00"
     }
   },
   "alerted": [
@@ -1583,7 +1618,8 @@
     "6ivEMQVWvNRpKhc7CAbMuP9uY6PbsW1GqFau1gNtpump",
     "3wNpT4HvAS7oqHNm7m1GUjaQQ2vPhAMMCYPFuhSFpump",
     "ada5Nd8hvR9tuTYQZ78cWXx9cDtrUpwd1KoAAMdpump",
-    "C2ncc5hGcXoF3rX4G9gfnP5KY9ieWvTJ7gtzuUpFRGJa"
+    "C2ncc5hGcXoF3rX4G9gfnP5KY9ieWvTJ7gtzuUpFRGJa",
+    "4EQrEnYV5VxUTTfsVCzSbbvmA3MtBzNHnpVDjQ98wxDJ"
   ],
   "rejected": [
     "7qZgB8Cmpgjdjr5vBrAhVQUr6YZfPdQnktx7pC6AFcLL",
@@ -2130,6 +2166,7 @@
     "hQUFk5B114ZcdxpAdgBkLEkMuu5vPoxdLL58TQZm7yT",
     "HpryXpRXukk55HbejjPxtjBKNjCwGrpMpzpS6Pfw9Yq",
     "DUA87VXSpucvXkLv16XdUzRBcgCagCGy6p9FitRycYSN",
-    "DgEM3URuQnrd4FMZwmEuKXmvUBACQZ19Bdrg81WrRi3b"
+    "DgEM3URuQnrd4FMZwmEuKXmvUBACQZ19Bdrg81WrRi3b",
+    "7Gj2jLWXWfek9StxUXsDNtkGBhDfi9JJg7yGLS2iWWm3"
   ]
 }
