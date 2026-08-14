@@ -1,45 +1,5 @@
 {
   "pending": {
-    "GYXumkov2jpo3kFUS5NrjJR9Vnejabd14mwjkDPEpump": {
-      "symbol": "\u05e9\u05e7\u05dc",
-      "created_at": "2026-08-14T17:22:41.974326128Z",
-      "first_seen": "2026-08-14T17:22:45.494842+00:00"
-    },
-    "4KXnKs52kGiKzNJotP6jYCmXR8xEGCJqWNv7PM15pump": {
-      "symbol": "\u05e9\u05e7\u05dc",
-      "created_at": "2026-08-14T17:22:41.239331889Z",
-      "first_seen": "2026-08-14T17:22:45.494842+00:00"
-    },
-    "ntxcQGvJB7M8ahNpAfRuMNkmbU2MtF1VdAihzK7JQYJ": {
-      "symbol": "OWP",
-      "created_at": "2026-08-14T17:22:40.082483945Z",
-      "first_seen": "2026-08-14T17:22:45.494842+00:00"
-    },
-    "5unsrcMuy9GeN9Q7gE8gTDQUx8SFVwo3TWnX9SfEpump": {
-      "symbol": "TwitchU",
-      "created_at": "2026-08-14T17:22:39.748280256Z",
-      "first_seen": "2026-08-14T17:22:45.494842+00:00"
-    },
-    "3L7jrdSjGNe9iQUPqq23CtuY4LAfozmpncTWAEovpump": {
-      "symbol": "GROK",
-      "created_at": "2026-08-14T17:22:38.768021952Z",
-      "first_seen": "2026-08-14T17:22:45.494842+00:00"
-    },
-    "FDQB8m8CwZuse7odKr5bicMLiHe4enzPu6xRKAZapump": {
-      "symbol": "WOLVES",
-      "created_at": "2026-08-14T17:22:38.320229004Z",
-      "first_seen": "2026-08-14T17:22:45.494842+00:00"
-    },
-    "2JeLj8nopeGBLKN1XMoX5VEz6wPP5NNFExtGd4Eh6oQ1": {
-      "symbol": "TwitchU",
-      "created_at": "2026-08-14T17:22:35.88595801Z",
-      "first_seen": "2026-08-14T17:22:45.494842+00:00"
-    },
-    "8PEjMqp3JFAswzcBg4CncDWUJw3dnWW2E2E4EYYjpump": {
-      "symbol": "Streamoorr",
-      "created_at": "2026-08-14T17:22:30.627660698Z",
-      "first_seen": "2026-08-14T17:22:45.494842+00:00"
-    },
     "C8T1HutVYyZS1Ga7KPdsvaDsW24YqjhF51gEpvaUpump": {
       "symbol": "Z",
       "created_at": "2026-08-14T17:25:11.681813638Z",
@@ -1595,16 +1555,6 @@
       "created_at": "2026-08-14T18:49:36.046159106Z",
       "first_seen": "2026-08-14T18:49:39.304588+00:00"
     },
-    "FhN2ot3soxUinTgf9yfLHqXvtHMPykcBtHJmCLzMkU9D": {
-      "symbol": "MSTR",
-      "created_at": "2026-08-14T18:49:33.330218636Z",
-      "first_seen": "2026-08-14T18:49:39.304588+00:00",
-      "confirm": {
-        "liquidity": 5617.67,
-        "market_cap": 5616,
-        "at": "2026-08-14T19:16:34.000548+00:00"
-      }
-    },
     "Hu59JnUdMH9SLzvwt9FDoF7k749abUBWjBancVv7scan": {
       "symbol": "VISION",
       "created_at": "2026-08-14T18:49:33.169117461Z",
@@ -1800,11 +1750,6 @@
       "created_at": "2026-08-14T19:00:15.793929701Z",
       "first_seen": "2026-08-14T19:00:19.289937+00:00"
     },
-    "9BgngP6c4hJzcw9bKF5uqrDzCt12pSooo8PBibAPpump": {
-      "symbol": "jerboa",
-      "created_at": "2026-08-14T19:00:15.040894181Z",
-      "first_seen": "2026-08-14T19:00:19.289937+00:00"
-    },
     "8xJtvcwuyo1H4hHgtMvwcTUVBKN1w6jsbzNsphpfZ65v": {
       "symbol": "XST",
       "created_at": "2026-08-14T19:00:14.082297081Z",
@@ -1858,11 +1803,6 @@
     "BHznKkzBHcPnwVv7DUoahcnDF6vMRXwR5wnnJmaRpump": {
       "symbol": "KET",
       "created_at": "2026-08-14T19:02:50.10317017Z",
-      "first_seen": "2026-08-14T19:03:04.829021+00:00"
-    },
-    "3tm4dxckKMVyzTmFDoYFJKePp2tTDxwu3d5j2a23TYhq": {
-      "symbol": "GTA6",
-      "created_at": "2026-08-14T19:02:49.703186079Z",
       "first_seen": "2026-08-14T19:03:04.829021+00:00"
     },
     "6bRYVgFBCYxAa9udPC5Sna6VLj3p6uPkabnPFprMRqMD": {
@@ -2239,6 +2179,56 @@
       "symbol": "bottom",
       "created_at": "2026-08-14T19:21:55.06002879Z",
       "first_seen": "2026-08-14T19:21:59.708451+00:00"
+    },
+    "DEkCnS9fnKNUNR9sSFC2D2biwyRqcRkLaQbzFCyp3yte": {
+      "symbol": "NEMU",
+      "created_at": "2026-08-14T19:24:30.736164011Z",
+      "first_seen": "2026-08-14T19:24:39.105688+00:00"
+    },
+    "5rtgG7ExjF7395SjrbzgmuoPvVcVzmdUW2cKPPEzpump": {
+      "symbol": "ALFRED",
+      "created_at": "2026-08-14T19:24:29.792109377Z",
+      "first_seen": "2026-08-14T19:24:39.105688+00:00"
+    },
+    "HbZ8f8kK4H6DDfSzGLgDNoYAqCmY3Mp6owosvTEipump": {
+      "symbol": "NEMU",
+      "created_at": "2026-08-14T19:24:23.658035294Z",
+      "first_seen": "2026-08-14T19:24:39.105688+00:00"
+    },
+    "CtZYuxnKxKzhup4wvaahVHdpC2AMDCsTgEvEVnqEpump": {
+      "symbol": "ALFRED",
+      "created_at": "2026-08-14T19:24:20.014774764Z",
+      "first_seen": "2026-08-14T19:24:39.105688+00:00"
+    },
+    "571auAMc7zjjsUUPiGMDY5miLjDRdjKDXAd45aC9pump": {
+      "symbol": "MemeSeason",
+      "created_at": "2026-08-14T19:24:09.244145897Z",
+      "first_seen": "2026-08-14T19:24:39.105688+00:00"
+    },
+    "j3KotSN9ro1eXaH7AmBoAjU8hY7q76ApYY9JLYmpump": {
+      "symbol": "Kimchi",
+      "created_at": "2026-08-14T19:24:07.853182992Z",
+      "first_seen": "2026-08-14T19:24:39.105688+00:00"
+    },
+    "AmYTdBKGgRdLjb6STMfAyo33uW1D7NL6uFeiP3Ripump": {
+      "symbol": "Kimchi",
+      "created_at": "2026-08-14T19:24:07.736209923Z",
+      "first_seen": "2026-08-14T19:24:39.105688+00:00"
+    },
+    "6trWSBMFoSETCmx9gPM9ixWhKrG8eSAQ2D4794nvD5zH": {
+      "symbol": "MLP",
+      "created_at": "2026-08-14T19:24:07.442550863Z",
+      "first_seen": "2026-08-14T19:24:39.105688+00:00"
+    },
+    "CQ94rhABSNwpSU5NDgB8ZKBMzfAS6vMnAKrre7Xkpump": {
+      "symbol": "Kimchi",
+      "created_at": "2026-08-14T19:24:07.412715671Z",
+      "first_seen": "2026-08-14T19:24:39.105688+00:00"
+    },
+    "6ayXzoyduJjAXxEiRycTU4e44vS9hChTx9F4YuH3pump": {
+      "symbol": "Kimchi",
+      "created_at": "2026-08-14T19:24:07.411563631Z",
+      "first_seen": "2026-08-14T19:24:39.105688+00:00"
     }
   },
   "alerted": [
@@ -2284,7 +2274,8 @@
     "EcvGWAtVsHnvvykxQEkT8BXzyaQ86ENfonKpxeFfmeme",
     "25GhqKcLUVLKH7kbK1xR9w2ywNmhKhjLFPHLoGHjpump",
     "6hdnS2CUrCKYCmS5JszzkXDL6rhHokS1CBPxCTgRpump",
-    "SJT56ND5Tsvxkj8D9awi94Dwnf8Sxm3xpwMauphpump"
+    "SJT56ND5Tsvxkj8D9awi94Dwnf8Sxm3xpwMauphpump",
+    "FhN2ot3soxUinTgf9yfLHqXvtHMPykcBtHJmCLzMkU9D"
   ],
   "rejected": [
     "7qZgB8Cmpgjdjr5vBrAhVQUr6YZfPdQnktx7pC6AFcLL",
@@ -2979,6 +2970,8 @@
     "3orrTAEny8rLrLmYQEYn4cZi5EHFWqHr1WxnhiB3MTB4",
     "D1ykSds9fpegsRqzMvh5vQqD7Fci5wJvnwbVbS4QpZ9v",
     "4sEbVJrH6y742B8mDft914s2d3NwKta9RFZztkrtsGGZ",
-    "8mXsru6xrEnCFrgStjziLs1AWDSmfLyvxqxS7E3kiaEw"
+    "8mXsru6xrEnCFrgStjziLs1AWDSmfLyvxqxS7E3kiaEw",
+    "9BgngP6c4hJzcw9bKF5uqrDzCt12pSooo8PBibAPpump",
+    "3tm4dxckKMVyzTmFDoYFJKePp2tTDxwu3d5j2a23TYhq"
   ]
 }
