@@ -1,55 +1,5 @@
 {
   "pending": {
-    "F76ZwTKpTt798AVbHNc98Q8csxkYQnEnCVYC7c9Wpump": {
-      "symbol": "ONECHASER",
-      "created_at": "2026-08-15T20:35:31.544493951Z",
-      "first_seen": "2026-08-15T20:35:34.141008+00:00"
-    },
-    "A5HutjoGHYrQukRWUqj3TjPJoFD7EiziXa8cETSfpump": {
-      "symbol": "Inertia",
-      "created_at": "2026-08-15T20:35:31.449080797Z",
-      "first_seen": "2026-08-15T20:35:34.141008+00:00"
-    },
-    "BjyX97xuppXSykpfReJzaWLE7dQXAPz2iutQw4KntTL1": {
-      "symbol": "CAT",
-      "created_at": "2026-08-15T20:35:29.176638856Z",
-      "first_seen": "2026-08-15T20:35:34.141008+00:00"
-    },
-    "2mipmcQ1iSPEDxGakHNmdcn1oNWQYwKLb99KANbJpump": {
-      "symbol": "POT",
-      "created_at": "2026-08-15T20:35:27.757505459Z",
-      "first_seen": "2026-08-15T20:35:34.141008+00:00"
-    },
-    "GdRyLYS8CuvYbjwY2WoixQdus8wbcEQRYEbXgXXcpump": {
-      "symbol": "Zoomie",
-      "created_at": "2026-08-15T20:35:27.671262211Z",
-      "first_seen": "2026-08-15T20:35:34.141008+00:00"
-    },
-    "51FyZyct8fHwfbZr2f765bqpPTcrrzEuLAYtmeT5pump": {
-      "symbol": "sFish",
-      "created_at": "2026-08-15T20:35:26.91541303Z",
-      "first_seen": "2026-08-15T20:35:34.141008+00:00"
-    },
-    "9Msz6jwqBGSzH58HQGPyhJpbjHVidSxNydAufvH3pump": {
-      "symbol": "VMASK",
-      "created_at": "2026-08-15T20:35:23.485321084Z",
-      "first_seen": "2026-08-15T20:35:34.141008+00:00"
-    },
-    "BppDLmWDpeSuPysiwyEDKyRq7BL7DB7yahPV7MuRpump": {
-      "symbol": "RAKUN2.0",
-      "created_at": "2026-08-15T20:35:18.777773775Z",
-      "first_seen": "2026-08-15T20:35:34.141008+00:00"
-    },
-    "9z21m7jawyvCBqahy1BMqShkmJKEe1TztfwBPGb1pump": {
-      "symbol": "Newtake",
-      "created_at": "2026-08-15T20:35:16.760727642Z",
-      "first_seen": "2026-08-15T20:35:34.141008+00:00"
-    },
-    "4fDPnNnTJu1t3d871s5AYDGz4AVDwjvcki5j8o197777": {
-      "symbol": "SPRTS",
-      "created_at": "2026-08-15T20:35:16.404010833Z",
-      "first_seen": "2026-08-15T20:35:34.141008+00:00"
-    },
     "6U5wjD9ZwuZyV7zxjFKZue49F3nHnDr2vS4dhddvpump": {
       "symbol": "Tasann",
       "created_at": "2026-08-15T20:38:03.063703749Z",
@@ -1148,7 +1098,12 @@
     "8RsVHSqBmaqfCT2LrsyPa9YKiWrbmu3sg1sGbvwfpump": {
       "symbol": "TripleA",
       "created_at": "2026-08-15T21:35:23.949116645Z",
-      "first_seen": "2026-08-15T21:35:34.186169+00:00"
+      "first_seen": "2026-08-15T21:35:34.186169+00:00",
+      "confirm": {
+        "liquidity": 12014.82,
+        "market_cap": 33132,
+        "at": "2026-08-15T22:37:49.055082+00:00"
+      }
     },
     "BpeF8hqjVKQvg5BavRwoZ5N14u2Z2i1mFEb7DtMFpump": {
       "symbol": "refer",
@@ -2384,6 +2339,56 @@
       "symbol": "BigChung",
       "created_at": "2026-08-15T22:34:54.556739389Z",
       "first_seen": "2026-08-15T22:35:18.385372+00:00"
+    },
+    "6f85UujfqiGGFCxyaCFj7uAuEDLu5ZcY7dAdpmUdpump": {
+      "symbol": "$BUCKS",
+      "created_at": "2026-08-15T22:37:46.522589378Z",
+      "first_seen": "2026-08-15T22:37:49.054937+00:00"
+    },
+    "FMyi1DugPU1mY2pvujicicRa5G3tKmWytTdvwDGhpump": {
+      "symbol": "REAL ASSET",
+      "created_at": "2026-08-15T22:37:45.279648469Z",
+      "first_seen": "2026-08-15T22:37:49.054937+00:00"
+    },
+    "Bzh79kpUvmFgbPFY9rEdNQQfNgevEf1DLwNUdvW51Vm9": {
+      "symbol": "fablebot",
+      "created_at": "2026-08-15T22:37:43.662060969Z",
+      "first_seen": "2026-08-15T22:37:49.054937+00:00"
+    },
+    "7s5qX7RBNnVqZHUtwgmf1wYKMswTJmStvKvQmdaqpump": {
+      "symbol": "FIO",
+      "created_at": "2026-08-15T22:37:42.033968739Z",
+      "first_seen": "2026-08-15T22:37:49.054937+00:00"
+    },
+    "5Lum9TtSgd1CvyVcbvuAUgUs7ziYNDC4qHht36Cupump": {
+      "symbol": "Chud",
+      "created_at": "2026-08-15T22:37:42.010002682Z",
+      "first_seen": "2026-08-15T22:37:49.054937+00:00"
+    },
+    "DWNSn71MmG9dmr8tfuDkaQLQSUARnHaE3qrSYxWBg1B3": {
+      "symbol": "Bichoraro",
+      "created_at": "2026-08-15T22:37:41.9675364Z",
+      "first_seen": "2026-08-15T22:37:49.054937+00:00"
+    },
+    "AeQH2rfc6fDtquM4xMPT4XtE16ZAZibYjWtWbUtAEv58": {
+      "symbol": "ASSet",
+      "created_at": "2026-08-15T22:37:35.848226984Z",
+      "first_seen": "2026-08-15T22:37:49.054937+00:00"
+    },
+    "8Pzx44ZWJGWmFtbL5qbu9uHvXQLT28YvS8UZA4nQpump": {
+      "symbol": "Poocoin",
+      "created_at": "2026-08-15T22:37:30.364917147Z",
+      "first_seen": "2026-08-15T22:37:49.054937+00:00"
+    },
+    "8KX4F1m1CmYjsL9SQrtgTdcVqRSLseFkSTx4pBRQpump": {
+      "symbol": "CLUB",
+      "created_at": "2026-08-15T22:37:29.465411252Z",
+      "first_seen": "2026-08-15T22:37:49.054937+00:00"
+    },
+    "73CNjvuqYHv9kJvD73s2XohjaRUW8Y4FUnuV6BMZpump": {
+      "symbol": "ASSET",
+      "created_at": "2026-08-15T22:37:29.398240173Z",
+      "first_seen": "2026-08-15T22:37:49.054937+00:00"
     }
   },
   "alerted": [
