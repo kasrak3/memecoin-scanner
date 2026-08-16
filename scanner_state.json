@@ -1005,11 +1005,6 @@
       "created_at": "2026-08-16T04:09:50.231003206Z",
       "first_seen": "2026-08-16T04:10:24.410400+00:00"
     },
-    "GdFSwANYi2mgMjVzp2WcxpqBv1nR4uq4aSFLDRuPyAdS": {
-      "symbol": "UFC",
-      "created_at": "2026-08-16T04:12:18.60590147Z",
-      "first_seen": "2026-08-16T04:12:37.256807+00:00"
-    },
     "2oGdYMtwuygwjebgN5zHCp8vATq22HyJhqpQDQEEpump": {
       "symbol": "COIN",
       "created_at": "2026-08-16T04:12:13.45256397Z",
@@ -1043,7 +1038,12 @@
     "679up6AumhhwmN2vZcLxhaPeB6s3FUrua3WxSvWDpump": {
       "symbol": "CATU",
       "created_at": "2026-08-16T04:11:50.26285308Z",
-      "first_seen": "2026-08-16T04:12:37.256807+00:00"
+      "first_seen": "2026-08-16T04:12:37.256807+00:00",
+      "confirm": {
+        "liquidity": 23949.65,
+        "market_cap": 114330,
+        "at": "2026-08-16T04:23:55.754988+00:00"
+      }
     },
     "Ax1vAVfqJNXopKdH7pZ9ZbWUGr4ameqhseqXM4Qvpump": {
       "symbol": "ANSEM",
@@ -1254,6 +1254,56 @@
       "symbol": "Burpcoin",
       "created_at": "2026-08-16T04:21:04.258266088Z",
       "first_seen": "2026-08-16T04:21:39.261953+00:00"
+    },
+    "AGf6L16UPyVp59dZj29RZ9UxFPCpu44rsKBqv6Nbpump": {
+      "symbol": "TRENCH",
+      "created_at": "2026-08-16T04:23:55.426924477Z",
+      "first_seen": "2026-08-16T04:23:55.754834+00:00"
+    },
+    "GDutcUs9KBxAS6QsKRoMrmuouwoYCVztVsQPzxqRU8LM": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-08-16T04:23:53.443148607Z",
+      "first_seen": "2026-08-16T04:23:55.754834+00:00"
+    },
+    "5GZuZgdazvNVPnXrjd73jZpveJW2EsZH9h6PFpr9wL8U": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-08-16T04:23:53.230941397Z",
+      "first_seen": "2026-08-16T04:23:55.754834+00:00"
+    },
+    "GB64xCxkDKGzjJKEtHc2whiHRYeWGHR7wtP14jaYwE5A": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-08-16T04:23:53.184034326Z",
+      "first_seen": "2026-08-16T04:23:55.754834+00:00"
+    },
+    "2dcghfwoy3NwvfnbcPy7LbgnUsWELNjmpEEiUuzCvdyp": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-08-16T04:23:53.171377168Z",
+      "first_seen": "2026-08-16T04:23:55.754834+00:00"
+    },
+    "66kS4YBNXNqGiZyAUAvRgJF9gcQaXc7WY9z1Udc9PAFR": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-08-16T04:23:51.988390672Z",
+      "first_seen": "2026-08-16T04:23:55.754834+00:00"
+    },
+    "9k8Koa7A4HAzA6eYHkUgqzMJJuetkbn5Y5La8Kvd2M82": {
+      "symbol": "HYPE-DN",
+      "created_at": "2026-08-16T04:23:51.980581518Z",
+      "first_seen": "2026-08-16T04:23:55.754834+00:00"
+    },
+    "6oGQhXoTrVjkpX3rWgi72AUviefmWkhUJw2FVR94YniG": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-08-16T04:23:51.977687568Z",
+      "first_seen": "2026-08-16T04:23:55.754834+00:00"
+    },
+    "DNu6vpqb2iSQQN6zZuyfS86MDmRYLvWR7dTkGb6CqyxQ": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-08-16T04:23:51.975024925Z",
+      "first_seen": "2026-08-16T04:23:55.754834+00:00"
+    },
+    "AVeJcRFqqEwXmyhWEiasXpQbsrKzUUux2UrsRJT47CV2": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-08-16T04:23:51.971052582Z",
+      "first_seen": "2026-08-16T04:23:55.754834+00:00"
     }
   },
   "alerted": [
@@ -2208,6 +2258,7 @@
     "2zyQFunGDkpSqyh6SQtyr94S8RZa4K2pbSGrweiiaoND",
     "84hoCf3b54AnNAUkTuJLcmHJbvxe5UeoGhcnJ6fbpump",
     "FSteEAwWyf2Wat2w43RZw2J5UBwp9A5H5jVZw9K2bBtL",
-    "Ggte8SmBiaxmZKpMQkhapMUvVDWw7jbEN3CxuaeFhhKB"
+    "Ggte8SmBiaxmZKpMQkhapMUvVDWw7jbEN3CxuaeFhhKB",
+    "GdFSwANYi2mgMjVzp2WcxpqBv1nR4uq4aSFLDRuPyAdS"
   ]
 }
