@@ -675,16 +675,6 @@
       "created_at": "2026-08-16T03:56:58.191399517Z",
       "first_seen": "2026-08-16T03:57:19.761406+00:00"
     },
-    "BbbidUAffKVw1Li3kHB5NvwJ4GAA3irP9tEmZjX2pump": {
-      "symbol": "UFC",
-      "created_at": "2026-08-16T03:56:54.278651363Z",
-      "first_seen": "2026-08-16T03:57:19.761406+00:00",
-      "confirm": {
-        "liquidity": 11062.84,
-        "market_cap": 28883,
-        "at": "2026-08-16T04:14:50.224296+00:00"
-      }
-    },
     "CpL3wvNFyFH5AzdXSFW1RLmiJpk69Svbif4iGq8upump": {
       "symbol": "burpgod",
       "created_at": "2026-08-16T03:56:53.27499497Z",
@@ -1114,6 +1104,56 @@
       "symbol": "W1884",
       "created_at": "2026-08-16T04:14:02.863368624Z",
       "first_seen": "2026-08-16T04:14:50.224157+00:00"
+    },
+    "J6JiBhTjXWTj2HyVZqGFYECRmForx695UvK2icmpump": {
+      "symbol": "ZEZAO",
+      "created_at": "2026-08-16T04:16:54.041322672Z",
+      "first_seen": "2026-08-16T04:17:06.234556+00:00"
+    },
+    "9G3xwG4fuw4gaeJpdX8FF4AM1vAGi29qnEFDmTVU7KgU": {
+      "symbol": "George",
+      "created_at": "2026-08-16T04:16:52.996954769Z",
+      "first_seen": "2026-08-16T04:17:06.234556+00:00"
+    },
+    "E3HjqZA3t93e19N8ZLSjxZvKunwDFa2XqzGZhLbocXBj": {
+      "symbol": "UFC",
+      "created_at": "2026-08-16T04:16:46.099457011Z",
+      "first_seen": "2026-08-16T04:17:06.234556+00:00"
+    },
+    "35e62YbMAjD7P7YtTm2ckk4yTUkKpJL4Q56NG1Ljpump": {
+      "symbol": "PVEcat",
+      "created_at": "2026-08-16T04:16:38.254674043Z",
+      "first_seen": "2026-08-16T04:17:06.234556+00:00"
+    },
+    "8pWD8GZgDa1XDfcfD2zgdGe8TH4Mk4tiFPoeowy4pump": {
+      "symbol": "ANSEM",
+      "created_at": "2026-08-16T04:16:35.739365137Z",
+      "first_seen": "2026-08-16T04:17:06.234556+00:00"
+    },
+    "DLDSzepPxfCKkox1M1RrSWHskjmZZsLRNLwdjNzopump": {
+      "symbol": "$ZOOM",
+      "created_at": "2026-08-16T04:16:33.152973318Z",
+      "first_seen": "2026-08-16T04:17:06.234556+00:00"
+    },
+    "7MyPspScJnuY7tZKGZjoJuFzA1uhXyVa1VFsynfVpump": {
+      "symbol": "Lincler",
+      "created_at": "2026-08-16T04:16:27.098323459Z",
+      "first_seen": "2026-08-16T04:17:06.234556+00:00"
+    },
+    "5N2e2WP68hwsEDa8TpzbK4P941E4HQGwoupwRgdbpump": {
+      "symbol": "PVE",
+      "created_at": "2026-08-16T04:16:25.701646206Z",
+      "first_seen": "2026-08-16T04:17:06.234556+00:00"
+    },
+    "Dwh6uafHzEMLfr3Y7CM3CEUKRjdUCHxsGi2nubwQpump": {
+      "symbol": "LARP",
+      "created_at": "2026-08-16T04:16:19.960169349Z",
+      "first_seen": "2026-08-16T04:17:06.234556+00:00"
+    },
+    "B9vg2Hb6KcEz2YMyw3P4coQD55ffMYFqP9uu6L1upump": {
+      "symbol": "COIN",
+      "created_at": "2026-08-16T04:16:15.9764396Z",
+      "first_seen": "2026-08-16T04:17:06.234556+00:00"
     }
   },
   "alerted": [
@@ -1170,7 +1210,8 @@
     "9wr4o1amnZzYa37JwZ8WaTrTXo26bkSkeBULsHK1v3zG",
     "BYkcZehYXw6N8Akfs9CzAF7BDPxF3NDTMx8KKJkdkVgY",
     "J6yRCetUBygDGAM9WrpbR363gEVDLHwvnZxi9BmLpRAx",
-    "67tUmuRPV6sdjR7eXUaZcycmaknzpyyJ3GKDamagpump"
+    "67tUmuRPV6sdjR7eXUaZcycmaknzpyyJ3GKDamagpump",
+    "BbbidUAffKVw1Li3kHB5NvwJ4GAA3irP9tEmZjX2pump"
   ],
   "rejected": [
     "7qZgB8Cmpgjdjr5vBrAhVQUr6YZfPdQnktx7pC6AFcLL",
