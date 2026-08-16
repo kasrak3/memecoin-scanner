@@ -1,55 +1,5 @@
 {
   "pending": {
-    "7fGc2y9XrJwVjzmNPrC3PLiqbASZStUEacHYeHUv6Cua": {
-      "symbol": "GLITCH",
-      "created_at": "2026-08-16T04:57:27.325829239Z",
-      "first_seen": "2026-08-16T04:57:37.675102+00:00"
-    },
-    "E9JHyS6kM7smvuhaEhHw7L6A5U4JaoqS8xiHZ7D6J9sj": {
-      "symbol": "air pump",
-      "created_at": "2026-08-16T04:57:24.678529638Z",
-      "first_seen": "2026-08-16T04:57:37.675102+00:00"
-    },
-    "fotkwmTfYzzQRdoTsA6FFaScsBjwTjBJfo321Mkpump": {
-      "symbol": "BGNG",
-      "created_at": "2026-08-16T04:57:23.912879987Z",
-      "first_seen": "2026-08-16T04:57:37.675102+00:00"
-    },
-    "2fPPhgaqJepj8dTWBGzqg5YiGcGcAKQCfPdnyaeBpump": {
-      "symbol": "",
-      "created_at": "2026-08-16T04:57:23.156030613Z",
-      "first_seen": "2026-08-16T04:57:37.675102+00:00"
-    },
-    "HZtv7y2oPamaGc1gT3P5rj6radKeiief74HYCecEpump": {
-      "symbol": "BURP",
-      "created_at": "2026-08-16T04:57:20.928706978Z",
-      "first_seen": "2026-08-16T04:57:37.675102+00:00"
-    },
-    "6Evz3ze6p4Ywu2LJ9SrAM4cAY8ZjkCGkt2Kz2CLppump": {
-      "symbol": "BURP",
-      "created_at": "2026-08-16T04:57:20.621199789Z",
-      "first_seen": "2026-08-16T04:57:37.675102+00:00"
-    },
-    "AFshN8e85mWm38qhG3bNv3BkRvW1XNQmmLc7J5bvpump": {
-      "symbol": "BURP",
-      "created_at": "2026-08-16T04:57:20.612250117Z",
-      "first_seen": "2026-08-16T04:57:37.675102+00:00"
-    },
-    "vgKWcSvuw41bWmGnMy3U39aAhiwCz4gArDXZedCpump": {
-      "symbol": "BURP",
-      "created_at": "2026-08-16T04:57:20.466917678Z",
-      "first_seen": "2026-08-16T04:57:37.675102+00:00"
-    },
-    "AZA4iVzAKnrYJHTfebDu3X4y61CknUnksLvBUDDqpump": {
-      "symbol": "GLITCH",
-      "created_at": "2026-08-16T04:57:18.804788867Z",
-      "first_seen": "2026-08-16T04:57:37.675102+00:00"
-    },
-    "6ZY1Mbr5gPnvaC51fnijVMwedp8GGZXHBTQWkvACEcQ": {
-      "symbol": "LOLLI",
-      "created_at": "2026-08-16T04:57:17.519041394Z",
-      "first_seen": "2026-08-16T04:57:37.675102+00:00"
-    },
     "DPViNDAo2BhZNKKrDJinnqpkhJVtMcjkUJmecAa1ipWs": {
       "symbol": "Pumpfun",
       "created_at": "2026-08-16T05:00:06.693586606Z",
@@ -1503,7 +1453,12 @@
     "DCYyd8Vb9pHN2DLvK1VBejpte5smqgvTyRQQzNwGpump": {
       "symbol": "JESTER",
       "created_at": "2026-08-16T06:16:53.247148107Z",
-      "first_seen": "2026-08-16T06:17:00.940434+00:00"
+      "first_seen": "2026-08-16T06:17:00.940434+00:00",
+      "confirm": {
+        "liquidity": 14159.87,
+        "market_cap": 44934,
+        "at": "2026-08-16T06:57:38.688907+00:00"
+      }
     },
     "nD7FZcrvrP3kNfMDPjguEape9C2RcqFmkwCTjGFVZzc": {
       "symbol": "Bugbang",
@@ -2289,6 +2244,56 @@
       "symbol": "Kagerou",
       "created_at": "2026-08-16T06:54:45.300096464Z",
       "first_seen": "2026-08-16T06:55:09.297927+00:00"
+    },
+    "32UQUTG3W2JeY59Hzy4CjM3BRP198fxXtL8iaU1upump": {
+      "symbol": "BLACKQENIS",
+      "created_at": "2026-08-16T06:57:28.102863283Z",
+      "first_seen": "2026-08-16T06:57:38.688776+00:00"
+    },
+    "BqpYkGoeYS7NTB3NhsUKsNp2nBhtaa7vRKV8R7sipump": {
+      "symbol": "ROGUE",
+      "created_at": "2026-08-16T06:57:27.768239936Z",
+      "first_seen": "2026-08-16T06:57:38.688776+00:00"
+    },
+    "8onpv2kgVAWpSg6nw2kwrspehR9jA7FVzPnz37oupump": {
+      "symbol": "ANSEM",
+      "created_at": "2026-08-16T06:57:25.936543584Z",
+      "first_seen": "2026-08-16T06:57:38.688776+00:00"
+    },
+    "EddmuHjagGkrePzwqz3PQMihVUPC8oa7awDyqrzR4J5M": {
+      "symbol": "Fwog",
+      "created_at": "2026-08-16T06:57:25.581834182Z",
+      "first_seen": "2026-08-16T06:57:38.688776+00:00"
+    },
+    "Xa9586aFqmYY8QhVe4WH6y6SsZ1p2EcxqwE7Tszpump": {
+      "symbol": "ECNY",
+      "created_at": "2026-08-16T06:57:11.657888339Z",
+      "first_seen": "2026-08-16T06:57:38.688776+00:00"
+    },
+    "CAtrB1Tb3LPHmvCHCN64igKo7j3rrf5wEukvXn28pump": {
+      "symbol": "ANSEM",
+      "created_at": "2026-08-16T06:57:08.988109669Z",
+      "first_seen": "2026-08-16T06:57:38.688776+00:00"
+    },
+    "HXrmawWGbXe1mBEpV1arVcU9AUeeAKwqpSm11coGpump": {
+      "symbol": "hardliner",
+      "created_at": "2026-08-16T06:57:05.566957157Z",
+      "first_seen": "2026-08-16T06:57:38.688776+00:00"
+    },
+    "5eUkVhDgDtj9J2u8VVmnxowwWRNFSiRR1gZtdnnhpR8e": {
+      "symbol": "ONGR",
+      "created_at": "2026-08-16T06:57:04.820020794Z",
+      "first_seen": "2026-08-16T06:57:38.688776+00:00"
+    },
+    "53NLako16sG5KJuELjRaYSgAiNVhRBJbu9LpL5fVpump": {
+      "symbol": "Fortnite",
+      "created_at": "2026-08-16T06:56:55.716747207Z",
+      "first_seen": "2026-08-16T06:57:38.688776+00:00"
+    },
+    "EaqBd5Ub5ZXZjR5j86KXvifsG1Nh4J5biViZdmdLpump": {
+      "symbol": "WUT",
+      "created_at": "2026-08-16T06:56:55.097177389Z",
+      "first_seen": "2026-08-16T06:57:38.688776+00:00"
     }
   },
   "alerted": [
