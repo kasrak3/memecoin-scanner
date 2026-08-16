@@ -1,55 +1,5 @@
 {
   "pending": {
-    "AGf6L16UPyVp59dZj29RZ9UxFPCpu44rsKBqv6Nbpump": {
-      "symbol": "TRENCH",
-      "created_at": "2026-08-16T04:23:55.426924477Z",
-      "first_seen": "2026-08-16T04:23:55.754834+00:00"
-    },
-    "GDutcUs9KBxAS6QsKRoMrmuouwoYCVztVsQPzxqRU8LM": {
-      "symbol": "XRP-UP",
-      "created_at": "2026-08-16T04:23:53.443148607Z",
-      "first_seen": "2026-08-16T04:23:55.754834+00:00"
-    },
-    "5GZuZgdazvNVPnXrjd73jZpveJW2EsZH9h6PFpr9wL8U": {
-      "symbol": "HYPE-UP",
-      "created_at": "2026-08-16T04:23:53.230941397Z",
-      "first_seen": "2026-08-16T04:23:55.754834+00:00"
-    },
-    "GB64xCxkDKGzjJKEtHc2whiHRYeWGHR7wtP14jaYwE5A": {
-      "symbol": "XRP-DN",
-      "created_at": "2026-08-16T04:23:53.184034326Z",
-      "first_seen": "2026-08-16T04:23:55.754834+00:00"
-    },
-    "2dcghfwoy3NwvfnbcPy7LbgnUsWELNjmpEEiUuzCvdyp": {
-      "symbol": "SOL-UP",
-      "created_at": "2026-08-16T04:23:53.171377168Z",
-      "first_seen": "2026-08-16T04:23:55.754834+00:00"
-    },
-    "66kS4YBNXNqGiZyAUAvRgJF9gcQaXc7WY9z1Udc9PAFR": {
-      "symbol": "SOL-UP",
-      "created_at": "2026-08-16T04:23:51.988390672Z",
-      "first_seen": "2026-08-16T04:23:55.754834+00:00"
-    },
-    "9k8Koa7A4HAzA6eYHkUgqzMJJuetkbn5Y5La8Kvd2M82": {
-      "symbol": "HYPE-DN",
-      "created_at": "2026-08-16T04:23:51.980581518Z",
-      "first_seen": "2026-08-16T04:23:55.754834+00:00"
-    },
-    "6oGQhXoTrVjkpX3rWgi72AUviefmWkhUJw2FVR94YniG": {
-      "symbol": "XRP-DN",
-      "created_at": "2026-08-16T04:23:51.977687568Z",
-      "first_seen": "2026-08-16T04:23:55.754834+00:00"
-    },
-    "DNu6vpqb2iSQQN6zZuyfS86MDmRYLvWR7dTkGb6CqyxQ": {
-      "symbol": "ETH-DN",
-      "created_at": "2026-08-16T04:23:51.975024925Z",
-      "first_seen": "2026-08-16T04:23:55.754834+00:00"
-    },
-    "AVeJcRFqqEwXmyhWEiasXpQbsrKzUUux2UrsRJT47CV2": {
-      "symbol": "XRP-DN",
-      "created_at": "2026-08-16T04:23:51.971052582Z",
-      "first_seen": "2026-08-16T04:23:55.754834+00:00"
-    },
     "BKvx1rRzamLNQ3WAnE2zDtMDMyrggpkW8LmiaMMMpump": {
       "symbol": "Magic Mous",
       "created_at": "2026-08-16T04:26:08.612946635Z",
@@ -1670,11 +1620,6 @@
       "created_at": "2026-08-16T05:48:20.39048806Z",
       "first_seen": "2026-08-16T05:48:50.083450+00:00"
     },
-    "D5qDYuZsBkemDtDF91GKMUmoY5NCyprWbVia7vogRu2A": {
-      "symbol": "SOLCAT",
-      "created_at": "2026-08-16T05:48:13.42034694Z",
-      "first_seen": "2026-08-16T05:48:50.083450+00:00"
-    },
     "8Wy7eimQbaVoQ1oVBgTwuy4AArSyyWJkp2fPnoT2pump": {
       "symbol": "UP",
       "created_at": "2026-08-16T05:48:11.728246206Z",
@@ -2329,6 +2274,56 @@
       "symbol": "SENDOR",
       "created_at": "2026-08-16T06:21:25.743040942Z",
       "first_seen": "2026-08-16T06:22:11.525642+00:00"
+    },
+    "8294QF8CnGhkjUem98CpaFnxeN16K3LeQwZmwuBA6tJs": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-08-16T06:24:38.135507764Z",
+      "first_seen": "2026-08-16T06:24:43.184538+00:00"
+    },
+    "4TNjf1UbdzDs2NHsxk8vfYbuc1mAWHL6D244UsCFQSU4": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-08-16T06:24:38.133565729Z",
+      "first_seen": "2026-08-16T06:24:43.184538+00:00"
+    },
+    "B7VhpryvFAwmLoCTj17P2EjS4BkezsGpK9Gx42gGYRFZ": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-08-16T06:24:38.098358409Z",
+      "first_seen": "2026-08-16T06:24:43.184538+00:00"
+    },
+    "3dnEDk9tV5VNms71iubB1up9VB7Ct6ujKmXygPVJZ8d1": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-08-16T06:24:38.06951046Z",
+      "first_seen": "2026-08-16T06:24:43.184538+00:00"
+    },
+    "25Vk3Jkp4dfjL3FiPM2HEwbHDhj5xF8ATc6Nmftapump": {
+      "symbol": "wiimerica",
+      "created_at": "2026-08-16T06:24:38.014487224Z",
+      "first_seen": "2026-08-16T06:24:43.184538+00:00"
+    },
+    "6DaPQFsfbWYiBWAjUKm2GDfQcQDNfbdJ78sbBtZ1pump": {
+      "symbol": "Hijau",
+      "created_at": "2026-08-16T06:24:34.07913099Z",
+      "first_seen": "2026-08-16T06:24:43.184538+00:00"
+    },
+    "CmPqbqnkpjGsmJxJHG1ZZ4tLNXSy5nGHw2a9b1vkpump": {
+      "symbol": "Fwog",
+      "created_at": "2026-08-16T06:24:33.054884758Z",
+      "first_seen": "2026-08-16T06:24:43.184538+00:00"
+    },
+    "BtFBfcwgudzkZMzXoG8DgQW8CuezEHpfLhj41cMdig1u": {
+      "symbol": "XMR",
+      "created_at": "2026-08-16T06:24:31.576225815Z",
+      "first_seen": "2026-08-16T06:24:43.184538+00:00"
+    },
+    "rrTB9npN241n3XbPqcxJkqLV9RBugYMDX64ar9saGHk": {
+      "symbol": "BNB\u1160",
+      "created_at": "2026-08-16T06:24:31.368229755Z",
+      "first_seen": "2026-08-16T06:24:43.184538+00:00"
+    },
+    "9DozvF3DasXgydq86zb74hfW3BcEdVUu84wcpAPmate2": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-08-16T06:24:24.308324108Z",
+      "first_seen": "2026-08-16T06:24:43.184538+00:00"
     }
   },
   "alerted": [
@@ -3301,6 +3296,7 @@
     "itSQwYm1CK4snZEU898pwN639MMvFEGzo3naCd9boA3",
     "5fDTgimhnBi9QvbyvJxkpWatPNXsAqLWRSCN6Hzi54Pj",
     "GkoTke5Tu7YjPPHw3ptU5XuYFY9FrvGEmeUQoyDMxmR7",
-    "BrvDbThm3PQHRu1GfErcRRqTNJnNkmM22NsUS68kT8xM"
+    "BrvDbThm3PQHRu1GfErcRRqTNJnNkmM22NsUS68kT8xM",
+    "D5qDYuZsBkemDtDF91GKMUmoY5NCyprWbVia7vogRu2A"
   ]
 }
