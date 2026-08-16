@@ -68,7 +68,12 @@
     "67tUmuRPV6sdjR7eXUaZcycmaknzpyyJ3GKDamagpump": {
       "symbol": "BURP",
       "created_at": "2026-08-16T03:30:13.78743371Z",
-      "first_seen": "2026-08-16T03:30:26.223157+00:00"
+      "first_seen": "2026-08-16T03:30:26.223157+00:00",
+      "confirm": {
+        "liquidity": 12931.97,
+        "market_cap": 38187,
+        "at": "2026-08-16T03:57:19.761551+00:00"
+      }
     },
     "C6Biyocgn83PHaJAQXucbAsciZpmQxYv166QP7EDpump": {
       "symbol": "HALO",
@@ -684,6 +689,56 @@
       "symbol": "SS",
       "created_at": "2026-08-16T03:54:28.523513685Z",
       "first_seen": "2026-08-16T03:55:11.564392+00:00"
+    },
+    "Ggte8SmBiaxmZKpMQkhapMUvVDWw7jbEN3CxuaeFhhKB": {
+      "symbol": "X",
+      "created_at": "2026-08-16T03:57:08.875005482Z",
+      "first_seen": "2026-08-16T03:57:19.761406+00:00"
+    },
+    "DsooynaY3X7LY3XGx2QFVySPv2rPCFnUYs5S2Dh9pump": {
+      "symbol": "lastneuro",
+      "created_at": "2026-08-16T03:57:01.995627224Z",
+      "first_seen": "2026-08-16T03:57:19.761406+00:00"
+    },
+    "FARWTyghCFzRGG57xhSw84kPrar9A1hXKioD8uZ6Nrua": {
+      "symbol": "COST",
+      "created_at": "2026-08-16T03:56:58.191399517Z",
+      "first_seen": "2026-08-16T03:57:19.761406+00:00"
+    },
+    "BbbidUAffKVw1Li3kHB5NvwJ4GAA3irP9tEmZjX2pump": {
+      "symbol": "UFC",
+      "created_at": "2026-08-16T03:56:54.278651363Z",
+      "first_seen": "2026-08-16T03:57:19.761406+00:00"
+    },
+    "CpL3wvNFyFH5AzdXSFW1RLmiJpk69Svbif4iGq8upump": {
+      "symbol": "burpgod",
+      "created_at": "2026-08-16T03:56:53.27499497Z",
+      "first_seen": "2026-08-16T03:57:19.761406+00:00"
+    },
+    "3Ge8Jtfp5xHpVtYH2Lr57nXjVgoPTuq2WJy5rZDMpump": {
+      "symbol": "omo",
+      "created_at": "2026-08-16T03:56:50.380714958Z",
+      "first_seen": "2026-08-16T03:57:19.761406+00:00"
+    },
+    "4R8oPy3KDGyNUR3kVaA9Q9DxjbhpGtr3UBp3nDkkpump": {
+      "symbol": "omo",
+      "created_at": "2026-08-16T03:56:50.263562213Z",
+      "first_seen": "2026-08-16T03:57:19.761406+00:00"
+    },
+    "EaSSoheQVmdV8XSrQhdaiyFdyMCSkwfDnXMpAcXTpump": {
+      "symbol": "omo",
+      "created_at": "2026-08-16T03:56:49.922771372Z",
+      "first_seen": "2026-08-16T03:57:19.761406+00:00"
+    },
+    "DUi23qDR96A9XdTCxdQ7Lx7fJWmyysg33VcXH8hEpump": {
+      "symbol": "DDNE",
+      "created_at": "2026-08-16T03:56:47.019608667Z",
+      "first_seen": "2026-08-16T03:57:19.761406+00:00"
+    },
+    "EFtqqBAMRxwijmPF5mhUpCTnkVm8T1xetQAGsTtpump": {
+      "symbol": "fable",
+      "created_at": "2026-08-16T03:56:46.239999473Z",
+      "first_seen": "2026-08-16T03:57:19.761406+00:00"
     }
   },
   "alerted": [
