@@ -1450,16 +1450,6 @@
       "created_at": "2026-08-16T06:16:54.575801354Z",
       "first_seen": "2026-08-16T06:17:00.940434+00:00"
     },
-    "DCYyd8Vb9pHN2DLvK1VBejpte5smqgvTyRQQzNwGpump": {
-      "symbol": "JESTER",
-      "created_at": "2026-08-16T06:16:53.247148107Z",
-      "first_seen": "2026-08-16T06:17:00.940434+00:00",
-      "confirm": {
-        "liquidity": 14159.87,
-        "market_cap": 44934,
-        "at": "2026-08-16T06:57:38.688907+00:00"
-      }
-    },
     "nD7FZcrvrP3kNfMDPjguEape9C2RcqFmkwCTjGFVZzc": {
       "symbol": "Bugbang",
       "created_at": "2026-08-16T06:16:52.516470043Z",
@@ -2294,6 +2284,56 @@
       "symbol": "WUT",
       "created_at": "2026-08-16T06:56:55.097177389Z",
       "first_seen": "2026-08-16T06:57:38.688776+00:00"
+    },
+    "Fan4dFwdoUgBM2hjHw23NzBsircmcMHoFkoL1Kuxpump": {
+      "symbol": "ANSEM",
+      "created_at": "2026-08-16T07:00:00.469926661Z",
+      "first_seen": "2026-08-16T07:00:08.615804+00:00"
+    },
+    "ByhNpRTv1jz2xqy1tZJg2isrMdigZ7YN1ktfZ8q2pump": {
+      "symbol": "NOTWEAK",
+      "created_at": "2026-08-16T06:59:58.324691116Z",
+      "first_seen": "2026-08-16T07:00:08.615804+00:00"
+    },
+    "63x4nZw5zcCrZCHmbaYXou2XN75ZG6dj2fFj1eFYpump": {
+      "symbol": "BLASTER",
+      "created_at": "2026-08-16T06:59:57.632896051Z",
+      "first_seen": "2026-08-16T07:00:08.615804+00:00"
+    },
+    "2xbbHxDNhK6nyeYfqCxu3Mc2oLWSGRZJYyMP3DNnpump": {
+      "symbol": "ROGUE",
+      "created_at": "2026-08-16T06:59:54.991762159Z",
+      "first_seen": "2026-08-16T07:00:08.615804+00:00"
+    },
+    "5B7bogY9kVVRq7fz4TFG7DikZwuJtpopqFZQirfbpump": {
+      "symbol": "KC",
+      "created_at": "2026-08-16T06:59:52.586506678Z",
+      "first_seen": "2026-08-16T07:00:08.615804+00:00"
+    },
+    "4UdXt55bNeu2KwV8inmM4Eg7synCYxpo4jSXatqZpump": {
+      "symbol": "GRYPUS",
+      "created_at": "2026-08-16T06:59:47.947739578Z",
+      "first_seen": "2026-08-16T07:00:08.615804+00:00"
+    },
+    "ELz8gTPUDuxZbZ9XqM5aiXdRwtBjXkrff4rJST5Npump": {
+      "symbol": "MIZORE",
+      "created_at": "2026-08-16T06:59:46.26085518Z",
+      "first_seen": "2026-08-16T07:00:08.615804+00:00"
+    },
+    "9Ux1YNitq2XDYuRg5Sw6F6jdgHweyHsynzM8jky8pump": {
+      "symbol": "ANSEM",
+      "created_at": "2026-08-16T06:59:46.249701144Z",
+      "first_seen": "2026-08-16T07:00:08.615804+00:00"
+    },
+    "9C1bSoZQQ7jTLzzLLKbnrJj3gzpuUXz5vofrUjUMpump": {
+      "symbol": "Peter",
+      "created_at": "2026-08-16T06:59:39.07781233Z",
+      "first_seen": "2026-08-16T07:00:08.615804+00:00"
+    },
+    "5ux7Yy24ab31n1EvXX7hEZmEy4i57zzWrXtvtbtcpump": {
+      "symbol": "GN",
+      "created_at": "2026-08-16T06:59:37.781254703Z",
+      "first_seen": "2026-08-16T07:00:08.615804+00:00"
     }
   },
   "alerted": [
@@ -2352,7 +2392,8 @@
     "J6yRCetUBygDGAM9WrpbR363gEVDLHwvnZxi9BmLpRAx",
     "67tUmuRPV6sdjR7eXUaZcycmaknzpyyJ3GKDamagpump",
     "BbbidUAffKVw1Li3kHB5NvwJ4GAA3irP9tEmZjX2pump",
-    "679up6AumhhwmN2vZcLxhaPeB6s3FUrua3WxSvWDpump"
+    "679up6AumhhwmN2vZcLxhaPeB6s3FUrua3WxSvWDpump",
+    "DCYyd8Vb9pHN2DLvK1VBejpte5smqgvTyRQQzNwGpump"
   ],
   "rejected": [
     "7qZgB8Cmpgjdjr5vBrAhVQUr6YZfPdQnktx7pC6AFcLL",
