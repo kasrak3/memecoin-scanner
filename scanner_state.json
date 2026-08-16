@@ -1035,16 +1035,6 @@
       "created_at": "2026-08-16T04:12:02.102771315Z",
       "first_seen": "2026-08-16T04:12:37.256807+00:00"
     },
-    "679up6AumhhwmN2vZcLxhaPeB6s3FUrua3WxSvWDpump": {
-      "symbol": "CATU",
-      "created_at": "2026-08-16T04:11:50.26285308Z",
-      "first_seen": "2026-08-16T04:12:37.256807+00:00",
-      "confirm": {
-        "liquidity": 23949.65,
-        "market_cap": 114330,
-        "at": "2026-08-16T04:23:55.754988+00:00"
-      }
-    },
     "Ax1vAVfqJNXopKdH7pZ9ZbWUGr4ameqhseqXM4Qvpump": {
       "symbol": "ANSEM",
       "created_at": "2026-08-16T04:11:50.054413555Z",
@@ -1304,6 +1294,56 @@
       "symbol": "XRP-DN",
       "created_at": "2026-08-16T04:23:51.971052582Z",
       "first_seen": "2026-08-16T04:23:55.754834+00:00"
+    },
+    "BKvx1rRzamLNQ3WAnE2zDtMDMyrggpkW8LmiaMMMpump": {
+      "symbol": "Magic Mous",
+      "created_at": "2026-08-16T04:26:08.612946635Z",
+      "first_seen": "2026-08-16T04:26:15.296686+00:00"
+    },
+    "69ciMC7vvhSXh5DtzmE8qpG7ncP1qY9kh9Uf4hiupump": {
+      "symbol": "DOGES",
+      "created_at": "2026-08-16T04:26:07.07306279Z",
+      "first_seen": "2026-08-16T04:26:15.296686+00:00"
+    },
+    "4PzJw655TdpmbGFWTPgVHWLs1v79WCaaPrqaBi3fpump": {
+      "symbol": "ATC",
+      "created_at": "2026-08-16T04:26:03.779857419Z",
+      "first_seen": "2026-08-16T04:26:15.296686+00:00"
+    },
+    "DVG1PCezm85mp2hRU7Rzd5YeQbdkUQDDeExVVtFPpump": {
+      "symbol": "FART",
+      "created_at": "2026-08-16T04:26:00.456156196Z",
+      "first_seen": "2026-08-16T04:26:15.296686+00:00"
+    },
+    "78L7YRSTdtmGWsRA6zuJ5XeXRNpEHPSWnhCYZrFppump": {
+      "symbol": "TripleT",
+      "created_at": "2026-08-16T04:25:51.427264248Z",
+      "first_seen": "2026-08-16T04:26:15.296686+00:00"
+    },
+    "4sAwjRQ1HC8wzDBMAHJdNj27tkxRvXLJqBCjsMstACob": {
+      "symbol": "RCL",
+      "created_at": "2026-08-16T04:25:45.070039751Z",
+      "first_seen": "2026-08-16T04:26:15.296686+00:00"
+    },
+    "Gsq2giYogugBP3yiNdfmoKsDdRgLj5CrC2zGjCnbpump": {
+      "symbol": "BSPB",
+      "created_at": "2026-08-16T04:25:41.851083443Z",
+      "first_seen": "2026-08-16T04:26:15.296686+00:00"
+    },
+    "48ubvbrhqonnJ3QwircawMxc5kAEaeiXmYcc8ZPHpump": {
+      "symbol": "turtle",
+      "created_at": "2026-08-16T04:25:34.206007281Z",
+      "first_seen": "2026-08-16T04:26:15.296686+00:00"
+    },
+    "541hk44m5d1jnsf2Ci3qW23VXrzvw2qrYAfBsnabpump": {
+      "symbol": "BGN",
+      "created_at": "2026-08-16T04:25:34.158445917Z",
+      "first_seen": "2026-08-16T04:26:15.296686+00:00"
+    },
+    "BLUGJALb6guGhGTsnrkaeQow8sy2Ysb2Ypfh2xUK3drE": {
+      "symbol": "Kittehcoin",
+      "created_at": "2026-08-16T04:25:32.335712219Z",
+      "first_seen": "2026-08-16T04:26:15.296686+00:00"
     }
   },
   "alerted": [
@@ -1361,7 +1401,8 @@
     "BYkcZehYXw6N8Akfs9CzAF7BDPxF3NDTMx8KKJkdkVgY",
     "J6yRCetUBygDGAM9WrpbR363gEVDLHwvnZxi9BmLpRAx",
     "67tUmuRPV6sdjR7eXUaZcycmaknzpyyJ3GKDamagpump",
-    "BbbidUAffKVw1Li3kHB5NvwJ4GAA3irP9tEmZjX2pump"
+    "BbbidUAffKVw1Li3kHB5NvwJ4GAA3irP9tEmZjX2pump",
+    "679up6AumhhwmN2vZcLxhaPeB6s3FUrua3WxSvWDpump"
   ],
   "rejected": [
     "7qZgB8Cmpgjdjr5vBrAhVQUr6YZfPdQnktx7pC6AFcLL",
