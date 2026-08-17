@@ -1723,7 +1723,12 @@
     "6ufaQ83CDLdqxKwmsSCfgaA9Dbq3noHYU5KMEwkgpump": {
       "symbol": "IAR",
       "created_at": "2026-08-17T21:00:24.386864559Z",
-      "first_seen": "2026-08-17T21:00:29.160083+00:00"
+      "first_seen": "2026-08-17T21:00:29.160083+00:00",
+      "confirm": {
+        "liquidity": 28598.03,
+        "market_cap": 164425,
+        "at": "2026-08-17T21:11:46.433240+00:00"
+      }
     },
     "66aUMZ4hB1QRDSDnxzE6AgCMHDyP8wo4MV9HT6Gtpump": {
       "symbol": "RVF",
@@ -1748,11 +1753,6 @@
     "2QsAf1J9cewYpy14BQ8Yb8XU5z7AGpao8hfc6UN9J2kB": {
       "symbol": "",
       "created_at": "2026-08-17T21:00:21.299702721Z",
-      "first_seen": "2026-08-17T21:00:29.160083+00:00"
-    },
-    "4GpcUCXSRrEhXBiDJ51VRgXchb6HEpHgTSWURTqrUxke": {
-      "symbol": "SAMO",
-      "created_at": "2026-08-17T21:00:19.911413946Z",
       "first_seen": "2026-08-17T21:00:29.160083+00:00"
     },
     "MArnhoAc1FUVzRMg7DEvaRus9vSBitFatNeZSHwihao": {
@@ -1919,6 +1919,56 @@
       "symbol": "petecoin",
       "created_at": "2026-08-17T21:08:43.349983607Z",
       "first_seen": "2026-08-17T21:08:56.909098+00:00"
+    },
+    "9FGkbPJZ59Qn7QVQfKDMMJKvZP2qCgUwwbFsGfaMpump": {
+      "symbol": "ff",
+      "created_at": "2026-08-17T21:11:36.040724851Z",
+      "first_seen": "2026-08-17T21:11:46.432972+00:00"
+    },
+    "4RqcRrUGRyg24Y2whdCefRSL2EuXk7g2p8uGHMz9pump": {
+      "symbol": "Cool?",
+      "created_at": "2026-08-17T21:11:35.335240944Z",
+      "first_seen": "2026-08-17T21:11:46.432972+00:00"
+    },
+    "63APeJazmy3DqGpggTWyANetXF74RF8TGi4XncJYpump": {
+      "symbol": "TUBBY",
+      "created_at": "2026-08-17T21:11:32.475019354Z",
+      "first_seen": "2026-08-17T21:11:46.432972+00:00"
+    },
+    "9SuNm6VxMPAMGGDfifkjF4fDGuEkgzvLBK5p31wXnzxV": {
+      "symbol": "",
+      "created_at": "2026-08-17T21:11:28.868668767Z",
+      "first_seen": "2026-08-17T21:11:46.432972+00:00"
+    },
+    "GghE9eNFVDC3i2xm9wkTJEiDjTQ5vFP7X9zJ9be2pump": {
+      "symbol": "$nigga",
+      "created_at": "2026-08-17T21:11:28.616636588Z",
+      "first_seen": "2026-08-17T21:11:46.432972+00:00"
+    },
+    "5SbFxqNZyZrhEBmWBU9jEt22dCseEgyunSBkNL7Tpump": {
+      "symbol": "PEACE",
+      "created_at": "2026-08-17T21:11:25.667950649Z",
+      "first_seen": "2026-08-17T21:11:46.432972+00:00"
+    },
+    "nTUq5yJQULJhRyTDbbcD9iiLqNCmHBNBrR6FFnYKpMj": {
+      "symbol": "SPIKE",
+      "created_at": "2026-08-17T21:11:24.043461898Z",
+      "first_seen": "2026-08-17T21:11:46.432972+00:00"
+    },
+    "5NaDZxDZuzWgWMZ75ZECSJRx3fp7nFtSPk6CUfbvugum": {
+      "symbol": "DOGTOKEN",
+      "created_at": "2026-08-17T21:11:23.461231063Z",
+      "first_seen": "2026-08-17T21:11:46.432972+00:00"
+    },
+    "5DvN6eyxVfxqzzuX2FDBCAEasBd2Xn12qWK4VCJzpump": {
+      "symbol": "HE CLAIMED",
+      "created_at": "2026-08-17T21:11:22.998476084Z",
+      "first_seen": "2026-08-17T21:11:46.432972+00:00"
+    },
+    "EnNZLrMhRhSrzsdT1NLw3YQKoEFdxpghgG6QZ99Xpump": {
+      "symbol": "HE CLAIMED",
+      "created_at": "2026-08-17T21:11:22.592712242Z",
+      "first_seen": "2026-08-17T21:11:46.432972+00:00"
     }
   },
   "alerted": [
@@ -3195,6 +3245,7 @@
     "Ai2Hy2jG3Yt5WHfHh7Q4MTrtmBmoEhYnjdPUTU649X8z",
     "3LeJxHPjoVHmptAuVcm9eAHVaB8Hopb2eppLvDCd4g4G",
     "9PZvS7L5UkzC7ofCDLuwtZWw9h21ahawuvewDswoboLV",
-    "PS2Z4XD6uzS3aVRyFEBF9pkb92jC8UyMPm6pUX1pump"
+    "PS2Z4XD6uzS3aVRyFEBF9pkb92jC8UyMPm6pUX1pump",
+    "4GpcUCXSRrEhXBiDJ51VRgXchb6HEpHgTSWURTqrUxke"
   ]
 }
