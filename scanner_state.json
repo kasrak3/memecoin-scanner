@@ -1,45 +1,5 @@
 {
   "pending": {
-    "DSXhUJRjDEr6aqoNBt6UNxqqsziW78MmhxunUgGVypVz": {
-      "symbol": "Bro",
-      "created_at": "2026-08-17T11:19:14.115820787Z",
-      "first_seen": "2026-08-17T11:19:23.830760+00:00"
-    },
-    "GmSf6A3isnkaKKuuKsgKvWYZBAnAPq7TdNMJD1DSpump": {
-      "symbol": "RDDT",
-      "created_at": "2026-08-17T11:19:14.059555065Z",
-      "first_seen": "2026-08-17T11:19:23.830760+00:00"
-    },
-    "EijgB7UU4kqRzsopxMCyvQGYka4Nw11yWRZ6sP4TvSZd": {
-      "symbol": "",
-      "created_at": "2026-08-17T11:19:12.0695923Z",
-      "first_seen": "2026-08-17T11:19:23.830760+00:00"
-    },
-    "8wZpF5B4JCsoiEV6dKpsF5gsXCAE86Jxseh9wd61pump": {
-      "symbol": "CAESAR",
-      "created_at": "2026-08-17T11:19:09.793436405Z",
-      "first_seen": "2026-08-17T11:19:23.830760+00:00"
-    },
-    "8uCe8MVWHWKay4yLgjzV3Le2zWvQa539kMqE4dBypump": {
-      "symbol": "CAESAR",
-      "created_at": "2026-08-17T11:19:09.23943732Z",
-      "first_seen": "2026-08-17T11:19:23.830760+00:00"
-    },
-    "ButTZMx7ykjk8nL4833sFr8c5Q7phCfcEKKm5fh6vhjU": {
-      "symbol": "",
-      "created_at": "2026-08-17T11:19:05.723847412Z",
-      "first_seen": "2026-08-17T11:19:23.830760+00:00"
-    },
-    "7NCg55XtTmtjLxLD9egXTn7MRERm8BNcD7RBCcGQZHnb": {
-      "symbol": "",
-      "created_at": "2026-08-17T11:18:59.974350344Z",
-      "first_seen": "2026-08-17T11:19:23.830760+00:00"
-    },
-    "AwkhP9VRV52j7Dtogpdqtci49xNmcggxa9ymVKf7YcoD": {
-      "symbol": "GUDTI",
-      "created_at": "2026-08-17T11:18:58.808259271Z",
-      "first_seen": "2026-08-17T11:19:23.830760+00:00"
-    },
     "8gHAZVP5MCCwZLKyN1B4hPXzMe37h7KVW6rzBge1nWwT": {
       "symbol": "OSWALD",
       "created_at": "2026-08-17T11:21:54.623473272Z",
@@ -1690,11 +1650,6 @@
       "created_at": "2026-08-17T12:49:23.042646921Z",
       "first_seen": "2026-08-17T12:49:44.136970+00:00"
     },
-    "2R3Bedcux1MaGrGdbGoomJ36tCD74CmB2dqqxRYe1Dta": {
-      "symbol": "ENERGY",
-      "created_at": "2026-08-17T12:49:22.339789774Z",
-      "first_seen": "2026-08-17T12:49:44.136970+00:00"
-    },
     "8c7HXiKmrigq5438VzqKrAx5MkDWjaceMDyxBo7xpump": {
       "symbol": "Walker",
       "created_at": "2026-08-17T12:49:20.277012422Z",
@@ -2264,6 +2219,56 @@
       "symbol": "Solana",
       "created_at": "2026-08-17T13:18:26.684794386Z",
       "first_seen": "2026-08-17T13:18:51.288918+00:00"
+    },
+    "HMdPtxnbB8Nc6CYcEix8hWnXZ77sCBf5F3RkYs5Lpump": {
+      "symbol": "NUKETOAD",
+      "created_at": "2026-08-17T13:21:31.865952046Z",
+      "first_seen": "2026-08-17T13:21:35.519690+00:00"
+    },
+    "2fdp32HiVPxte2QCWsX9h6jY7SsdFP2WTg3ds6wnpump": {
+      "symbol": "FLY",
+      "created_at": "2026-08-17T13:21:27.302658047Z",
+      "first_seen": "2026-08-17T13:21:35.519690+00:00"
+    },
+    "AzH2wXjWt2jeGhrb5ReDBj3pt2FSPrKyXK2hL355pump": {
+      "symbol": "Loadings",
+      "created_at": "2026-08-17T13:21:25.117106976Z",
+      "first_seen": "2026-08-17T13:21:35.519690+00:00"
+    },
+    "GSBqsMqot9vhkqwyxdfPqEgBmtKdCcj98ZCUa7A9pump": {
+      "symbol": "Pallas",
+      "created_at": "2026-08-17T13:21:18.957172205Z",
+      "first_seen": "2026-08-17T13:21:35.519690+00:00"
+    },
+    "5Y7qebx5ZqvaaeGbBZYXoTYPsbTx39h72duiRSACpump": {
+      "symbol": "REDBALLS",
+      "created_at": "2026-08-17T13:21:18.813084247Z",
+      "first_seen": "2026-08-17T13:21:35.519690+00:00"
+    },
+    "3cDsbeUEs424xAwRk3hdBZFeCiysNPnn5XLptqT5ibpV": {
+      "symbol": "FLY",
+      "created_at": "2026-08-17T13:21:17.804102206Z",
+      "first_seen": "2026-08-17T13:21:35.519690+00:00"
+    },
+    "C7c3Mh49ioehBQpCrWYhSxSrXC8p85NCzeTZ1w3dpump": {
+      "symbol": "FLY",
+      "created_at": "2026-08-17T13:21:13.365340892Z",
+      "first_seen": "2026-08-17T13:21:35.519690+00:00"
+    },
+    "CsyYnXz8PiSKSha3vqomoBgnkDkMVCSz2jEXZS5npump": {
+      "symbol": "RICH",
+      "created_at": "2026-08-17T13:21:05.889743199Z",
+      "first_seen": "2026-08-17T13:21:35.519690+00:00"
+    },
+    "Cb9ogq5WkeRjBg6zk4pJsW5KEuYSmPjnG1nYaBf5sPBu": {
+      "symbol": "ELON",
+      "created_at": "2026-08-17T13:21:02.087500568Z",
+      "first_seen": "2026-08-17T13:21:35.519690+00:00"
+    },
+    "Byvt3TvQeBFFkPtdrWVdv1FYVkDS25GzLsUwVhrepump": {
+      "symbol": "TELOR",
+      "created_at": "2026-08-17T13:21:01.809468622Z",
+      "first_seen": "2026-08-17T13:21:35.519690+00:00"
     }
   },
   "alerted": [
@@ -3528,6 +3533,7 @@
     "Hq5ypMfrB8VjQwVPisjaXBTBRTtzkpDGTXSLxMhSVMhQ",
     "zKXHKG3u5bs4qQu845mYCbM65FVUdCfMBHteoSmpump",
     "6H7SvUMzYNCvd3k4N8B7CwVc2fCnJUu4qMog66kUKWZw",
-    "C3JfB4PvMNdhYDcFVU4ea2aBiu3eBESei4JHsHxkQ9NN"
+    "C3JfB4PvMNdhYDcFVU4ea2aBiu3eBESei4JHsHxkQ9NN",
+    "2R3Bedcux1MaGrGdbGoomJ36tCD74CmB2dqqxRYe1Dta"
   ]
 }
