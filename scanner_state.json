@@ -1,50 +1,5 @@
 {
   "pending": {
-    "F12NjxzE4NCiL3VMS3w1FoHY8NRujTPhcHrWWFa1pump": {
-      "symbol": "Solana",
-      "created_at": "2026-08-18T13:08:19.014436765Z",
-      "first_seen": "2026-08-18T13:08:28.282600+00:00"
-    },
-    "3LkJnuqfLaHd8LRctD4yHpKae9tsgSvv52Y9sZxcpump": {
-      "symbol": "Mythos 2",
-      "created_at": "2026-08-18T13:08:18.927036492Z",
-      "first_seen": "2026-08-18T13:08:28.282600+00:00"
-    },
-    "2YX7Usuuujhb5QyjqYwvTg8eMG8JinjuMoEEYGR7pump": {
-      "symbol": "CEO",
-      "created_at": "2026-08-18T13:08:11.70260932Z",
-      "first_seen": "2026-08-18T13:08:28.282600+00:00"
-    },
-    "E8vz1sS7duSt525zdxq71iy1sbtPJfLPZGisHe7Bpump": {
-      "symbol": "GROK",
-      "created_at": "2026-08-18T13:08:09.658772177Z",
-      "first_seen": "2026-08-18T13:08:28.282600+00:00"
-    },
-    "HK2XYnbNqvvTgppU8YKonVw4dteLh66BHWFii8LMpump": {
-      "symbol": "Taco bell",
-      "created_at": "2026-08-18T13:08:09.648941846Z",
-      "first_seen": "2026-08-18T13:08:28.282600+00:00"
-    },
-    "5rqQeL5vNUmZt9h2Ke8W6uAxFsN99mEDnGnbjPHapump": {
-      "symbol": "ATMSPECS",
-      "created_at": "2026-08-18T13:08:04.154843847Z",
-      "first_seen": "2026-08-18T13:08:28.282600+00:00"
-    },
-    "7XE89KyLLAsJwNfqKEvyk2neYi8tE9r9zX7MtEevpump": {
-      "symbol": "67",
-      "created_at": "2026-08-18T13:08:04.080219511Z",
-      "first_seen": "2026-08-18T13:08:28.282600+00:00"
-    },
-    "E1cyCY5atDwQatF3P2na4RGkoKVCGDRvDBrYvN9npump": {
-      "symbol": "CEO",
-      "created_at": "2026-08-18T13:08:01.079578623Z",
-      "first_seen": "2026-08-18T13:08:28.282600+00:00"
-    },
-    "3kAFMgqC4i1h6rAxbk48YQUaGWi7EVp1zVzMEDr8pump": {
-      "symbol": "CB",
-      "created_at": "2026-08-18T13:07:53.787261915Z",
-      "first_seen": "2026-08-18T13:08:28.282600+00:00"
-    },
     "7j9wBCW76gksxbJXm7Z4LehKX5YGu2bjz3ZFTQKCm2dr": {
       "symbol": "MPN",
       "created_at": "2026-08-18T13:11:28.328978343Z",
@@ -1003,7 +958,12 @@
     "6U84z6ukyyoEc3hCj28HVzk12JtSAXpVcPqL1kuypump": {
       "symbol": "THEBIGTOAD",
       "created_at": "2026-08-18T14:48:26.146891667Z",
-      "first_seen": "2026-08-18T14:48:34.517219+00:00"
+      "first_seen": "2026-08-18T14:48:34.517219+00:00",
+      "confirm": {
+        "liquidity": 11265.81,
+        "market_cap": 29410,
+        "at": "2026-08-18T15:11:26.615829+00:00"
+      }
     },
     "5PqFbWajtBHfPeFAnzFFFuWGwhcA2RfAgijbcgU6e8As": {
       "symbol": "VSR",
@@ -1224,6 +1184,56 @@
       "symbol": "CATCOIN",
       "created_at": "2026-08-18T15:06:28.980686938Z",
       "first_seen": "2026-08-18T15:06:51.133562+00:00"
+    },
+    "ScHH5RhAC6xfcNx1Y7rhhzktDbVJD1dCCn2UG3tpump": {
+      "symbol": "Suwanto",
+      "created_at": "2026-08-18T15:11:15.804087377Z",
+      "first_seen": "2026-08-18T15:11:26.615636+00:00"
+    },
+    "LQqRZn5ZQKzsMPKqBEegdWruX6Kh2enHPrCRE9Ppump": {
+      "symbol": "SUWANTO",
+      "created_at": "2026-08-18T15:11:14.250855442Z",
+      "first_seen": "2026-08-18T15:11:26.615636+00:00"
+    },
+    "3rbwVjKVGjG4Ym4eWJMVp5WwFQ8ZmATLBSWFHzBvpump": {
+      "symbol": "Suwanto",
+      "created_at": "2026-08-18T15:11:13.940886645Z",
+      "first_seen": "2026-08-18T15:11:26.615636+00:00"
+    },
+    "ATsSfxFX16DR1QzhXQnTP13x8mE6b33eNKhnQ86QcaVB": {
+      "symbol": "Miosa",
+      "created_at": "2026-08-18T15:11:12.457992983Z",
+      "first_seen": "2026-08-18T15:11:26.615636+00:00"
+    },
+    "EpEusBNqtyisdnVkCcvYJn7qRvfd5g2uhyxnN2capump": {
+      "symbol": "Humorphism",
+      "created_at": "2026-08-18T15:11:11.120473869Z",
+      "first_seen": "2026-08-18T15:11:26.615636+00:00"
+    },
+    "7ZHSadnVq6dKh3jpz4cbUm5QjfAy4b6BHJEx3W2Npump": {
+      "symbol": "GULLI",
+      "created_at": "2026-08-18T15:11:10.516901704Z",
+      "first_seen": "2026-08-18T15:11:26.615636+00:00"
+    },
+    "5rCx7k65mqpNzH6s2wuyuevZeua9iHkiCRFSxZgYpump": {
+      "symbol": "\u30b9\u30ef\u30f3TO",
+      "created_at": "2026-08-18T15:11:07.986090328Z",
+      "first_seen": "2026-08-18T15:11:26.615636+00:00"
+    },
+    "Fd9Wp72uZESToYSVbPd4bY99q49w6xYS3EX8ks9Kpump": {
+      "symbol": "Hachik\u014d",
+      "created_at": "2026-08-18T15:11:04.709848349Z",
+      "first_seen": "2026-08-18T15:11:26.615636+00:00"
+    },
+    "BPj3GieGHjhwqa53B9txiSEfseBMrK6SdMnqSnYupump": {
+      "symbol": "hard",
+      "created_at": "2026-08-18T15:11:03.343560937Z",
+      "first_seen": "2026-08-18T15:11:26.615636+00:00"
+    },
+    "CF2akftHm8VjH3Ct3jpNCAEUqNfH3rPKDR4tiXUNpump": {
+      "symbol": "Flying Cow",
+      "created_at": "2026-08-18T15:11:01.859470378Z",
+      "first_seen": "2026-08-18T15:11:26.615636+00:00"
     }
   },
   "alerted": [
