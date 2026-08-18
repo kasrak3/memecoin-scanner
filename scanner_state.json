@@ -1,55 +1,5 @@
 {
   "pending": {
-    "2KykaFJg9rfyckopaXMMmXSVW3pE5dt365u6hTCg7jz4": {
-      "symbol": "",
-      "created_at": "2026-08-18T09:39:38.661951192Z",
-      "first_seen": "2026-08-18T09:39:45.930276+00:00"
-    },
-    "98WES9TmY2ByXNPLzW3Bzz1n6RajiY67HRjpmeizpump": {
-      "symbol": "ToonTown",
-      "created_at": "2026-08-18T09:39:38.610502901Z",
-      "first_seen": "2026-08-18T09:39:45.930276+00:00"
-    },
-    "RCigdHDhyhyJx9bPofUbLwhSswqFnaF9gKMco8tpump": {
-      "symbol": "Nova",
-      "created_at": "2026-08-18T09:39:30.15150842Z",
-      "first_seen": "2026-08-18T09:39:45.930276+00:00"
-    },
-    "A5G1Dvhj6vK3pysZUCqXE7uVbboYjJzZYPy82kBspump": {
-      "symbol": "\u30a2\u30b6\u30ea\u30fc",
-      "created_at": "2026-08-18T09:39:28.459119673Z",
-      "first_seen": "2026-08-18T09:39:45.930276+00:00"
-    },
-    "4k6wyF89dePGNiMXgYdHdbEarjSihQ2m8WKBiJ9Wpump": {
-      "symbol": "\u30a2\u30b6\u30ea\u30fc",
-      "created_at": "2026-08-18T09:39:28.325003592Z",
-      "first_seen": "2026-08-18T09:39:45.930276+00:00"
-    },
-    "35BC2ieWNc2rqihp8kgUmPzn4Gxj5bmWcMD9t3kgpump": {
-      "symbol": "\u30a2\u30b6\u30ea\u30fc",
-      "created_at": "2026-08-18T09:39:27.740249258Z",
-      "first_seen": "2026-08-18T09:39:45.930276+00:00"
-    },
-    "vZgtk3Toqg4uqReKVY8XHaE2rJ4uRXrLQuNP9obpump": {
-      "symbol": "\u30a2\u30b6\u30ea\u30fc",
-      "created_at": "2026-08-18T09:39:27.660054727Z",
-      "first_seen": "2026-08-18T09:39:45.930276+00:00"
-    },
-    "J8GTxhq1ioHQ4tHy8SD1ig4Q17MpCQU8yRPgV2kZpHwm": {
-      "symbol": "\u9a6c\u5185",
-      "created_at": "2026-08-18T09:39:27.214816348Z",
-      "first_seen": "2026-08-18T09:39:45.930276+00:00"
-    },
-    "2nJEBNCvm5Qpv2sZd21BcmAHftMBrER5WpCJEuZppump": {
-      "symbol": "TRUMP",
-      "created_at": "2026-08-18T09:39:23.098358079Z",
-      "first_seen": "2026-08-18T09:39:45.930276+00:00"
-    },
-    "Ain9N4FXWPTcxhS55vsJrZTruCNzGW8WNvqxshhssA9f": {
-      "symbol": "\u30b5\u30f3\u30ca",
-      "created_at": "2026-08-18T09:39:21.659025364Z",
-      "first_seen": "2026-08-18T09:39:45.930276+00:00"
-    },
     "8W6oKxAoj1xaGRHY5xR437LHXzf4y5xnPtBTpQLgpump": {
       "symbol": "yolo",
       "created_at": "2026-08-18T09:42:36.561462838Z",
@@ -1698,7 +1648,12 @@
     "2wCrpiFDT6FwrhW9kgFNv28NgyxnajLZW1AFFBrvpump": {
       "symbol": "Noel",
       "created_at": "2026-08-18T11:27:44.618596256Z",
-      "first_seen": "2026-08-18T11:28:02.082922+00:00"
+      "first_seen": "2026-08-18T11:28:02.082922+00:00",
+      "confirm": {
+        "liquidity": 38317.55,
+        "market_cap": 282258,
+        "at": "2026-08-18T11:40:27.904901+00:00"
+      }
     },
     "9WbRLF1D9T98pC7ryqa5BZRdroTpzr8BW3mksVAApump": {
       "symbol": "Pearlwort",
@@ -1778,11 +1733,6 @@
     "CcxbFC3KbQzouRC3dyDpBsEFMRL9QMx6R84iQWuTpump": {
       "symbol": "MJCATS",
       "created_at": "2026-08-18T11:30:24.036412438Z",
-      "first_seen": "2026-08-18T11:31:01.208467+00:00"
-    },
-    "4mkZ8YQRaVGPfhGEbcZ9RvbXrp3Ho7XBLjACiDFhTYN1": {
-      "symbol": "BIM",
-      "created_at": "2026-08-18T11:30:21.544528945Z",
       "first_seen": "2026-08-18T11:31:01.208467+00:00"
     },
     "4m1sfFpiCbSU5XAkinRH6nPsYtEznX6sT7RNFwXapump": {
@@ -1884,6 +1834,56 @@
       "symbol": "cryptoad",
       "created_at": "2026-08-18T11:36:50.027031003Z",
       "first_seen": "2026-08-18T11:37:11.626101+00:00"
+    },
+    "BwVdAzi8bRWTYAThuod17hyCDhjaUVK3Wavsyf7Cpump": {
+      "symbol": "MindVirus",
+      "created_at": "2026-08-18T11:40:26.198532524Z",
+      "first_seen": "2026-08-18T11:40:27.904660+00:00"
+    },
+    "BAGc9Br39UnN7gTohmgV85XViTFMytSWhyFnXVgWpump": {
+      "symbol": "MindVirus",
+      "created_at": "2026-08-18T11:40:26.005449655Z",
+      "first_seen": "2026-08-18T11:40:27.904660+00:00"
+    },
+    "2FQ1SBzhhCHWwr7wUze1ZUjR5KGtAZ3Z11XmJTCspump": {
+      "symbol": "MindVirus",
+      "created_at": "2026-08-18T11:40:23.726011687Z",
+      "first_seen": "2026-08-18T11:40:27.904660+00:00"
+    },
+    "8pU8GbM8GhppRBPsiKD6vyw1mpkomzrM6zpCg2GEpump": {
+      "symbol": "MindVirus",
+      "created_at": "2026-08-18T11:40:23.704606796Z",
+      "first_seen": "2026-08-18T11:40:27.904660+00:00"
+    },
+    "AqsPXQzxWGLSHuPbzDEuwSeBaYwqM1EKFZ5moLhCpump": {
+      "symbol": "BULLCHUCK",
+      "created_at": "2026-08-18T11:40:17.330777793Z",
+      "first_seen": "2026-08-18T11:40:27.904660+00:00"
+    },
+    "C28MZDCMY9getALrTvva7MQKvxdQfXs1JHpUSYbLpump": {
+      "symbol": "MindVirus",
+      "created_at": "2026-08-18T11:40:15.406400826Z",
+      "first_seen": "2026-08-18T11:40:27.904660+00:00"
+    },
+    "BUqyDS45JPVrJZXQoMFM2TDiM8CyLX9wecmrmz7upump": {
+      "symbol": "MindVirus",
+      "created_at": "2026-08-18T11:40:15.316417825Z",
+      "first_seen": "2026-08-18T11:40:27.904660+00:00"
+    },
+    "DyYma2qhGh1WvkxioTHX8MYDq5KkmWxiYEmTuCwrpump": {
+      "symbol": "MindVirus",
+      "created_at": "2026-08-18T11:40:15.254013449Z",
+      "first_seen": "2026-08-18T11:40:27.904660+00:00"
+    },
+    "8pYpPMM7LmHULhkLSBg2mwjnTkY5hsm5w7E1YsLJpump": {
+      "symbol": "MindVirus",
+      "created_at": "2026-08-18T11:40:14.72418401Z",
+      "first_seen": "2026-08-18T11:40:27.904660+00:00"
+    },
+    "CCrq8se4GYPkGe1kA4ovKNZu7NpLL7qACFy71bSNTPhm": {
+      "symbol": "67coin",
+      "created_at": "2026-08-18T11:40:14.676635983Z",
+      "first_seen": "2026-08-18T11:40:27.904660+00:00"
     }
   },
   "alerted": [
@@ -3305,6 +3305,7 @@
     "BPLLSW8TqU52CfHuoLF7vdePb5LS3brFcJTc2PFsGBx6",
     "B6zhg12NXzDaCuGPZrkvkt7Y95k7itpsFB2U3MUN3ayb",
     "AxPUCDGEwnvNynck7mvV68tUxXrP5vT1U8s2voaSXvcz",
-    "FUkcXf9BosjXR5ZAascWx4JSAQFMhNtEBon1TwibFUDE"
+    "FUkcXf9BosjXR5ZAascWx4JSAQFMhNtEBon1TwibFUDE",
+    "4mkZ8YQRaVGPfhGEbcZ9RvbXrp3Ho7XBLjACiDFhTYN1"
   ]
 }
