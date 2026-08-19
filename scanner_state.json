@@ -1,45 +1,5 @@
 {
   "pending": {
-    "84kghzF6YXhmjzrKVE59vXNQEUQboF2yAeXRfFvpR3UN": {
-      "symbol": "SOL-UP",
-      "created_at": "2026-08-19T08:23:42.963228152Z",
-      "first_seen": "2026-08-19T08:23:49.360917+00:00"
-    },
-    "FiGAHKucVWJ9cb5gi9MytXh9d57fj3Rnk9ZZud5tZmJH": {
-      "symbol": "RCL",
-      "created_at": "2026-08-19T08:23:39.567392696Z",
-      "first_seen": "2026-08-19T08:23:49.360917+00:00"
-    },
-    "5rgx7QK8fwui1YhW5NzvvzrU1tC3GLc3oacMr2fNXCq": {
-      "symbol": "USBULL",
-      "created_at": "2026-08-19T08:23:36.795473067Z",
-      "first_seen": "2026-08-19T08:23:49.360917+00:00"
-    },
-    "FN3DmSyS86GgpZgQ29zfqte8mwyiERL3rRrBdaQoqmzG": {
-      "symbol": "JORGE",
-      "created_at": "2026-08-19T08:23:28.43257658Z",
-      "first_seen": "2026-08-19T08:23:49.360917+00:00"
-    },
-    "HEb3CfYJ9GMCXswnEqVjihFjiCXhZWbifCYXu2o8pump": {
-      "symbol": "$Troll",
-      "created_at": "2026-08-19T08:23:25.176671747Z",
-      "first_seen": "2026-08-19T08:23:49.360917+00:00"
-    },
-    "6gjHEaAwaQ5SqcdLRqgdLJUY399vpsg6JuBBLHtapump": {
-      "symbol": "1",
-      "created_at": "2026-08-19T08:23:19.698878746Z",
-      "first_seen": "2026-08-19T08:23:49.360917+00:00"
-    },
-    "FiXPauH11xyf9crBqXN7R51qzGYBHYv8vGw5Mubapump": {
-      "symbol": "SHIT",
-      "created_at": "2026-08-19T08:23:14.995442701Z",
-      "first_seen": "2026-08-19T08:23:49.360917+00:00"
-    },
-    "8s9aKra84XzHAKnooLJiH2y3iZacocqzPrncqFuQpump": {
-      "symbol": "VOLWAR",
-      "created_at": "2026-08-19T08:23:10.850026835Z",
-      "first_seen": "2026-08-19T08:23:49.360917+00:00"
-    },
     "Cf7XQZ9BFHKwu9bv2kd4q8ZNcXGJg6xm9wtcD8WMpump": {
       "symbol": "BULL",
       "created_at": "2026-08-19T08:27:05.692885908Z",
@@ -1513,7 +1473,12 @@
     "CutAhWZtZ8QPkmWd3ut46mCSyXYVZhLXpnvjNoFwpump": {
       "symbol": "Toilet",
       "created_at": "2026-08-19T10:02:22.104806172Z",
-      "first_seen": "2026-08-19T10:02:36.106187+00:00"
+      "first_seen": "2026-08-19T10:02:36.106187+00:00",
+      "confirm": {
+        "liquidity": 12046.06,
+        "market_cap": 33037,
+        "at": "2026-08-19T10:24:01.861892+00:00"
+      }
     },
     "AWK3B49YT6ENDqTy4ewGxMcJnwpLyGeBVGq2MohgpGSM": {
       "symbol": "WANTED",
@@ -1839,6 +1804,56 @@
       "symbol": "CHECK IG",
       "created_at": "2026-08-19T10:20:39.45817101Z",
       "first_seen": "2026-08-19T10:21:01.202575+00:00"
+    },
+    "7JDSF8aEXdViZb8ixtSrLy2ih1wBXHqo6ssSdooNpump": {
+      "symbol": "ENZO",
+      "created_at": "2026-08-19T10:23:53.921548822Z",
+      "first_seen": "2026-08-19T10:24:01.861660+00:00"
+    },
+    "3j7YS35bv6bStvKRRxDAMNbEeNmtHbxXp2Gj8L5Fpump": {
+      "symbol": "ASDF",
+      "created_at": "2026-08-19T10:23:53.835474683Z",
+      "first_seen": "2026-08-19T10:24:01.861660+00:00"
+    },
+    "E42wAGK8csRRMA8ZQB5BNHoHjEC7KYQo1Am2wVNycVpA": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-08-19T10:23:53.762095828Z",
+      "first_seen": "2026-08-19T10:24:01.861660+00:00"
+    },
+    "3U28knR5vngGNb5XacHjj2sfrZJPiiLCWHsSupjYpump": {
+      "symbol": "Pnut",
+      "created_at": "2026-08-19T10:23:53.740914749Z",
+      "first_seen": "2026-08-19T10:24:01.861660+00:00"
+    },
+    "EUVV7zbZ3ndBkzeoLuucGCUfJcXEku6fK1tBrMFyci51": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-08-19T10:23:53.683424464Z",
+      "first_seen": "2026-08-19T10:24:01.861660+00:00"
+    },
+    "93gCLSpk2VnDrNnZurAmZuF3GL67sNwLYmXstQwwpump": {
+      "symbol": "MONKE",
+      "created_at": "2026-08-19T10:23:53.530007093Z",
+      "first_seen": "2026-08-19T10:24:01.861660+00:00"
+    },
+    "HwSEkTQpgpPhiEssXxYESwnSzH7cdNJ5LKaYcsc5tPN8": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-08-19T10:23:53.516868991Z",
+      "first_seen": "2026-08-19T10:24:01.861660+00:00"
+    },
+    "2hQtpeQC5F3CwZCRHTS4McBn3cvnmnjtk5KvKMXG8oZY": {
+      "symbol": "BTC5N",
+      "created_at": "2026-08-19T10:23:53.507717475Z",
+      "first_seen": "2026-08-19T10:24:01.861660+00:00"
+    },
+    "J6BRLFGFGzVMRnVNUzH3UafTajbQrtrYcsTtC1JGpump": {
+      "symbol": "TOILET",
+      "created_at": "2026-08-19T10:23:53.486570117Z",
+      "first_seen": "2026-08-19T10:24:01.861660+00:00"
+    },
+    "QZxhcFm8W7T4sio5Tb3RHMa2ZnaEcNgFeHQRxakz8Wa": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-08-19T10:23:53.450043337Z",
+      "first_seen": "2026-08-19T10:24:01.861660+00:00"
     }
   },
   "alerted": [
