@@ -1,55 +1,5 @@
 {
   "pending": {
-    "8gB2GZCxXyLg74jee2eLwPCgmEpVnUyTFEaHubjjpump": {
-      "symbol": "HARDFORK",
-      "created_at": "2026-08-19T17:03:19.290074311Z",
-      "first_seen": "2026-08-19T17:03:30.163725+00:00"
-    },
-    "7ZyAKB6v3VJg2SjuTyxa3gpyUxB2eySYdQjv55aqwTXd": {
-      "symbol": "IRS",
-      "created_at": "2026-08-19T17:03:18.655073005Z",
-      "first_seen": "2026-08-19T17:03:30.163725+00:00"
-    },
-    "CETrN3exnxyo7Es7VKgURcAfRrccmvFwjjksuuoSpump": {
-      "symbol": "CB",
-      "created_at": "2026-08-19T17:03:17.838195127Z",
-      "first_seen": "2026-08-19T17:03:30.163725+00:00"
-    },
-    "3aXLtKJ3yFkJAcKfk5Q8VKT1wDqpQcXa2tZWw6UHpump": {
-      "symbol": "20k+",
-      "created_at": "2026-08-19T17:03:17.134811728Z",
-      "first_seen": "2026-08-19T17:03:30.163725+00:00"
-    },
-    "GTExuLrkpnh72XmGUWqamS8VobehSs4RBryCkER4pump": {
-      "symbol": "VENMO",
-      "created_at": "2026-08-19T17:03:16.912888245Z",
-      "first_seen": "2026-08-19T17:03:30.163725+00:00"
-    },
-    "27QghmEfLbm4fJxaSZphSmu8MVAXN1h5gaE8vGeQpump": {
-      "symbol": "RASMR",
-      "created_at": "2026-08-19T17:03:15.872022113Z",
-      "first_seen": "2026-08-19T17:03:30.163725+00:00"
-    },
-    "6jioXYiQYmGJp7vG9V5YXm1DNWB5JZZ4ibqvyzAYpump": {
-      "symbol": "HARP",
-      "created_at": "2026-08-19T17:03:15.091093504Z",
-      "first_seen": "2026-08-19T17:03:30.163725+00:00"
-    },
-    "4kcpsRekHWStAovukaNL1WbgQz9wTuR5xCxKL1Wmpump": {
-      "symbol": "nacho",
-      "created_at": "2026-08-19T17:03:15.081299192Z",
-      "first_seen": "2026-08-19T17:03:30.163725+00:00"
-    },
-    "Doiq1MHrA97MnxoZRW3nKxqZVC5RChfDe5Sk81n5pump": {
-      "symbol": "LETTER",
-      "created_at": "2026-08-19T17:03:14.630978796Z",
-      "first_seen": "2026-08-19T17:03:30.163725+00:00"
-    },
-    "8uheW77wssBKiBtqj4CQPEDJbq2ghdeqMXCj2A9Dpump": {
-      "symbol": "Nigga",
-      "created_at": "2026-08-19T17:03:13.877770848Z",
-      "first_seen": "2026-08-19T17:03:30.163725+00:00"
-    },
     "4QnGi7CVMUjWomovbQ8zzxJXtyotuwuF58nNeZHhAAjx": {
       "symbol": "MACHINE",
       "created_at": "2026-08-19T17:07:05.940398888Z",
@@ -1263,7 +1213,12 @@
     "7ZvVNr2v57ZNQ7LAo2d3xdwNZpm7gZZFzrUXZKipump": {
       "symbol": "POTOUTER",
       "created_at": "2026-08-19T18:40:45.890272207Z",
-      "first_seen": "2026-08-19T18:41:04.630205+00:00"
+      "first_seen": "2026-08-19T18:41:04.630205+00:00",
+      "confirm": {
+        "liquidity": 13033.46,
+        "market_cap": 36261,
+        "at": "2026-08-19T19:04:11.284527+00:00"
+      }
     },
     "3knTytHQEpHFnY1zySyYjhpSHdk7Zwspp4EqAFYeXp6x": {
       "symbol": "Jayden",
@@ -1554,6 +1509,56 @@
       "symbol": "Modernists",
       "created_at": "2026-08-19T19:00:49.304197411Z",
       "first_seen": "2026-08-19T19:00:59.521065+00:00"
+    },
+    "DxDT6fb8PN2jtPvcLy2BHzeVsrdRaFf5o86RHFrBpump": {
+      "symbol": "Maimers",
+      "created_at": "2026-08-19T19:04:05.42669874Z",
+      "first_seen": "2026-08-19T19:04:11.284301+00:00"
+    },
+    "7UT75iCgprkbAgK6dxjQFMiMtsAF9knAFJy3swgSpump": {
+      "symbol": "FDC",
+      "created_at": "2026-08-19T19:04:05.414278214Z",
+      "first_seen": "2026-08-19T19:04:11.284301+00:00"
+    },
+    "AExhqxaRjDHsbGtii8jX4Zn6tmqJBAiYzMxSYbAKpump": {
+      "symbol": "BioCY",
+      "created_at": "2026-08-19T19:04:04.929210174Z",
+      "first_seen": "2026-08-19T19:04:11.284301+00:00"
+    },
+    "CoNQgT8FNXh8Wikpg9NdGrxb8DLKi7kZtGcQVcZx5ZfE": {
+      "symbol": "",
+      "created_at": "2026-08-19T19:04:01.892019295Z",
+      "first_seen": "2026-08-19T19:04:11.284301+00:00"
+    },
+    "Gs6mwfLHr6YCc5z1C7Eto6Eey5SBEp1THGobBvncnJ8V": {
+      "symbol": "",
+      "created_at": "2026-08-19T19:04:01.573362235Z",
+      "first_seen": "2026-08-19T19:04:11.284301+00:00"
+    },
+    "2v7ZxD9UcpD1CSL5eDvwYgKziKHFZV6Jtg2dAGYwGest": {
+      "symbol": "CRYPTO",
+      "created_at": "2026-08-19T19:04:01.10925279Z",
+      "first_seen": "2026-08-19T19:04:11.284301+00:00"
+    },
+    "JBbTPVLdKseSGLS4cNh9bsB7VZx7Yavaqqng2HuNBAGS": {
+      "symbol": "MRVGOOG",
+      "created_at": "2026-08-19T19:04:00.696811322Z",
+      "first_seen": "2026-08-19T19:04:11.284301+00:00"
+    },
+    "7qnobAzj3UD7eGvy2uCDFTcYNDKGZHD54mfHKYJYpump": {
+      "symbol": "$TEST",
+      "created_at": "2026-08-19T19:03:58.903685617Z",
+      "first_seen": "2026-08-19T19:04:11.284301+00:00"
+    },
+    "CAjsj4RL3mqDQFcRkjyH1qMVmc8wXDsc3qDhNKwpump": {
+      "symbol": "WWR",
+      "created_at": "2026-08-19T19:03:54.912983191Z",
+      "first_seen": "2026-08-19T19:04:11.284301+00:00"
+    },
+    "6J82wZxR4vAu2HPHw2NLB7x7QoGXVBhNvdpPvVEJpump": {
+      "symbol": "CWYPTO",
+      "created_at": "2026-08-19T19:03:54.51453142Z",
+      "first_seen": "2026-08-19T19:04:11.284301+00:00"
     }
   },
   "alerted": [
