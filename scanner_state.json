@@ -1,45 +1,5 @@
 {
   "pending": {
-    "7FvNUaXZZgdTcJLrfwWXoHfgCtksg9uPbcvysq1rJu3j": {
-      "symbol": "FLO",
-      "created_at": "2026-08-20T15:57:09.904019078Z",
-      "first_seen": "2026-08-20T15:57:26.372273+00:00"
-    },
-    "2ejr1NLCjVop7YZ997jGbkjcWTToTv1N2Rq5UJibw8jg": {
-      "symbol": "ETH-UP",
-      "created_at": "2026-08-20T15:57:01.446354028Z",
-      "first_seen": "2026-08-20T15:57:26.372273+00:00"
-    },
-    "DTSU8TUEyBqwT6P6rstu3YW7SjfyDzoZQLsCjbaWAtBQ": {
-      "symbol": "ETH-DN",
-      "created_at": "2026-08-20T15:56:56.431905945Z",
-      "first_seen": "2026-08-20T15:57:26.372273+00:00"
-    },
-    "fDAmgDUuQwvZcWxuJPt4FKgTB8yyr8vNdzA45zxpump": {
-      "symbol": "\u7d22\u62c9\u62c9",
-      "created_at": "2026-08-20T15:56:32.329853809Z",
-      "first_seen": "2026-08-20T15:57:26.372273+00:00"
-    },
-    "2DXc3c1yTUaz3C6WrwxaUnRpisfc2ZcTWeGicakupump": {
-      "symbol": "PROCRVAX-1",
-      "created_at": "2026-08-20T15:56:29.16035031Z",
-      "first_seen": "2026-08-20T15:57:26.372273+00:00"
-    },
-    "9W4tVTRqBCcgHKnvSpPJtJdev39o3T2e6d2CLhk7pump": {
-      "symbol": "Council",
-      "created_at": "2026-08-20T15:56:28.263478113Z",
-      "first_seen": "2026-08-20T15:57:26.372273+00:00"
-    },
-    "DEHAtQ7hm3AamgkPJsepNf7MJRuKJegk4i2sT2Q8pump": {
-      "symbol": "SHIT",
-      "created_at": "2026-08-20T15:56:26.105113356Z",
-      "first_seen": "2026-08-20T15:57:26.372273+00:00"
-    },
-    "2xKsquDHGXwoU66GzRGa9LUqPsap26uN78cbfpcCpump": {
-      "symbol": "ROBA",
-      "created_at": "2026-08-20T15:56:23.235446714Z",
-      "first_seen": "2026-08-20T15:57:26.372273+00:00"
-    },
     "3h6FD2SAa42xhuP7HwgemR1gxPFQw2qh9Su6fKtSWjsD": {
       "symbol": "BTC15N",
       "created_at": "2026-08-20T16:01:10.784469654Z",
@@ -1305,11 +1265,6 @@
       "created_at": "2026-08-20T17:47:47.715467145Z",
       "first_seen": "2026-08-20T17:47:51.103234+00:00"
     },
-    "Bb8ck4hjANHFid44YCcXAH25mpmP9iHvQvX5ZQ2W348H": {
-      "symbol": "",
-      "created_at": "2026-08-20T17:47:47.666373557Z",
-      "first_seen": "2026-08-20T17:47:51.103234+00:00"
-    },
     "7R3Gu4BgHST8sQ1oz6XXVMVrmLUU5HPKnLVZ34oEpump": {
       "symbol": "DiVine",
       "created_at": "2026-08-20T17:47:46.103639261Z",
@@ -1434,6 +1389,56 @@
       "symbol": "SCAM",
       "created_at": "2026-08-20T17:54:38.06196606Z",
       "first_seen": "2026-08-20T17:54:56.944352+00:00"
+    },
+    "8fuvzbdfeHAtpc1PFb5XhoAFS219NYpgtSfksD6ipump": {
+      "symbol": "TOKEN",
+      "created_at": "2026-08-20T17:58:39.415458468Z",
+      "first_seen": "2026-08-20T17:58:46.312052+00:00"
+    },
+    "E6bTr21dmn4e2zwtGUhu1wC9tM3xnQ28JYg9f4pFpump": {
+      "symbol": "Matic",
+      "created_at": "2026-08-20T17:58:38.672196824Z",
+      "first_seen": "2026-08-20T17:58:46.312052+00:00"
+    },
+    "2z7uMQZxpyJrHMGmoUy8PQLwCfFVxu7Fhyk7G3q5pump": {
+      "symbol": "SOLANA",
+      "created_at": "2026-08-20T17:58:38.469658438Z",
+      "first_seen": "2026-08-20T17:58:46.312052+00:00"
+    },
+    "7N6tihRmBrRkWWv6TxMbMLCujgRizr7YTs9wyn1npump": {
+      "symbol": "Matic",
+      "created_at": "2026-08-20T17:58:34.911368526Z",
+      "first_seen": "2026-08-20T17:58:46.312052+00:00"
+    },
+    "5jQtRMLhzMSGdF83E9WmwbPdDG4M5Cg6FW9JnZ12zwe4": {
+      "symbol": "",
+      "created_at": "2026-08-20T17:58:34.472583939Z",
+      "first_seen": "2026-08-20T17:58:46.312052+00:00"
+    },
+    "HLTKfyPMyaRtBGAXj9pxAwXxWBoG1KEH7CsLEq3Hpump": {
+      "symbol": "Hammy",
+      "created_at": "2026-08-20T17:58:34.134708141Z",
+      "first_seen": "2026-08-20T17:58:46.312052+00:00"
+    },
+    "DE3Pwt4SdSXRD5XSCnEXhzox9aFcSMAKJzQvSQRRUQEn": {
+      "symbol": "DONTBUY",
+      "created_at": "2026-08-20T17:58:33.720444333Z",
+      "first_seen": "2026-08-20T17:58:46.312052+00:00"
+    },
+    "C8iRVrbcYLyJxSSpkRiHZP4FKyNiE5mTyXapcxPVpump": {
+      "symbol": "UBOT",
+      "created_at": "2026-08-20T17:58:32.987574692Z",
+      "first_seen": "2026-08-20T17:58:46.312052+00:00"
+    },
+    "23RvfSSywgyZoZUmfKVBPc9kPNrBzVURawWniteKpump": {
+      "symbol": "Hammy",
+      "created_at": "2026-08-20T17:58:32.592776953Z",
+      "first_seen": "2026-08-20T17:58:46.312052+00:00"
+    },
+    "GF5cEYb6naggHLepGxQjgbcbRqnzsyvZ157TKE9Jpump": {
+      "symbol": "DiVine",
+      "created_at": "2026-08-20T17:58:31.441675664Z",
+      "first_seen": "2026-08-20T17:58:46.312052+00:00"
     }
   },
   "alerted": [
@@ -3165,6 +3170,7 @@
     "DZAtr9v9Lc4xjLhnxLnurDk4a2HKkneZxcLxADqNpump",
     "75WDEiF5rDWiNSWyX3ySptKR4g2KsFbNNsDKn5ioNVsx",
     "6qVkVb5EqGjLpKzduuSTZLTgpQYEmwonkBKss2pnyecf",
-    "34M9UQ7kANTexXAy4ed7aSiQcZAtqd1ffypEaZcsWzGo"
+    "34M9UQ7kANTexXAy4ed7aSiQcZAtqd1ffypEaZcsWzGo",
+    "Bb8ck4hjANHFid44YCcXAH25mpmP9iHvQvX5ZQ2W348H"
   ]
 }
