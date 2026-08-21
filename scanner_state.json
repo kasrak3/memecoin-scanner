@@ -1,15 +1,5 @@
 {
   "pending": {
-    "Ft9SNGXt29RJ5PKW2PA86ANUKSSkJi2HMcwyHP31pump": {
-      "symbol": "HIGHER",
-      "created_at": "2026-08-21T03:31:53.908783783Z",
-      "first_seen": "2026-08-21T03:32:06.945103+00:00",
-      "confirm": {
-        "liquidity": 9292.65,
-        "market_cap": 18704,
-        "at": "2026-08-21T03:52:49.996994+00:00"
-      }
-    },
     "4WxLrYtmSx5T5zqAnUBShfv5RiJCFBr2hpaKxeeWpump": {
       "symbol": "STOICER",
       "created_at": "2026-08-21T03:31:53.189733628Z",
@@ -544,6 +534,56 @@
       "symbol": "STERNENKO",
       "created_at": "2026-08-21T03:52:30.173758322Z",
       "first_seen": "2026-08-21T03:52:49.996723+00:00"
+    },
+    "5akUKMtgPt7zvjuangZZjrrK5gRbV3QYhPgGAX2Tpump": {
+      "symbol": "pumpwoo",
+      "created_at": "2026-08-21T03:54:53.826063699Z",
+      "first_seen": "2026-08-21T03:55:05.933332+00:00"
+    },
+    "J98JRwrU8caUgeavb2VJuyToo7AceaDbp8wFB8LPX75c": {
+      "symbol": "HYPE-DN",
+      "created_at": "2026-08-21T03:54:51.102465932Z",
+      "first_seen": "2026-08-21T03:55:05.933332+00:00"
+    },
+    "9AEa1zy9pHzqUGZR4xWsspRRMM4jKxRWdAe3zqQGpump": {
+      "symbol": "AgentProof",
+      "created_at": "2026-08-21T03:54:50.152932139Z",
+      "first_seen": "2026-08-21T03:55:05.933332+00:00"
+    },
+    "3w3vAr7oiR87ivhu8gHMsAM541oZaooLu1q7euWtpump": {
+      "symbol": "AgentProof",
+      "created_at": "2026-08-21T03:54:49.62793883Z",
+      "first_seen": "2026-08-21T03:55:05.933332+00:00"
+    },
+    "Zf4yTdmxHWwp6xdWcFtaqsGQsevhJM8GnEJSyb2pump": {
+      "symbol": "McDonalds",
+      "created_at": "2026-08-21T03:54:47.55986353Z",
+      "first_seen": "2026-08-21T03:55:05.933332+00:00"
+    },
+    "Dv6EZA5SPKKoy3CGLuYNvJx2YPYd1jR4ZiL9mxF5pump": {
+      "symbol": "$horndog",
+      "created_at": "2026-08-21T03:54:45.554169396Z",
+      "first_seen": "2026-08-21T03:55:05.933332+00:00"
+    },
+    "FycJJYUaz5iUorf5R1BvQWCc1kisNmZydnvQpwyB9ErC": {
+      "symbol": "GTAVI",
+      "created_at": "2026-08-21T03:54:44.235205493Z",
+      "first_seen": "2026-08-21T03:55:05.933332+00:00"
+    },
+    "8C5jCT5GCfvmTmkJRmz9r1Pf2njf3jrzWbBzFcVRpump": {
+      "symbol": "FERWAR",
+      "created_at": "2026-08-21T03:54:44.213805411Z",
+      "first_seen": "2026-08-21T03:55:05.933332+00:00"
+    },
+    "HpynxbEabRVjy8DDqNrVDDMXbkEfmnGHqNisTaWrXZiJ": {
+      "symbol": "GrokBot",
+      "created_at": "2026-08-21T03:54:43.116988881Z",
+      "first_seen": "2026-08-21T03:55:05.933332+00:00"
+    },
+    "GNj4V39RRkEhUmzuJs2fEqU2fJxs491NMVZTjJARpump": {
+      "symbol": "NANCY",
+      "created_at": "2026-08-21T03:54:39.904331999Z",
+      "first_seen": "2026-08-21T03:55:05.933332+00:00"
     }
   },
   "alerted": [
@@ -639,7 +679,8 @@
     "4auhEFkjZGWBz7gbcnMca9sZ7HMzKaHG5EfKsBL1pump",
     "Fx3V6EkANdgDn3uaK3RdDuyHE9mSqiBHgL9D13Pzpump",
     "AeEX6gtzfK1d9NbasSV66bx7g1cHoqKRnt43evDzpump",
-    "SypcH53HXjRX2hVM8ucJEx2hJgpo9HgRevXskVApump"
+    "SypcH53HXjRX2hVM8ucJEx2hJgpo9HgRevXskVApump",
+    "Ft9SNGXt29RJ5PKW2PA86ANUKSSkJi2HMcwyHP31pump"
   ],
   "rejected": [
     "7qZgB8Cmpgjdjr5vBrAhVQUr6YZfPdQnktx7pC6AFcLL",
