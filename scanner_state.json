@@ -1,55 +1,5 @@
 {
   "pending": {
-    "CFtxUSCFXJwUqoBZwjPZMmY1FWPvGDir7ottk2kL6brS": {
-      "symbol": "ETH-UP",
-      "created_at": "2026-08-21T18:26:14.595358189Z",
-      "first_seen": "2026-08-21T18:26:22.146141+00:00"
-    },
-    "HdMgTgnLk6V3QUGXUaUKRik7xNNrTMgwz9CHgvYKHjkN": {
-      "symbol": "SOL-DN",
-      "created_at": "2026-08-21T18:26:14.58926219Z",
-      "first_seen": "2026-08-21T18:26:22.146141+00:00"
-    },
-    "Fvo1pnzxbaYD72tX4dNaUzSp4ru5yNUfzcP4g1FuyCgi": {
-      "symbol": "XRP-DN",
-      "created_at": "2026-08-21T18:26:14.480030883Z",
-      "first_seen": "2026-08-21T18:26:22.146141+00:00"
-    },
-    "Bkkevd54XygKgwXnkBfAw5R8RgMZz4JsK2wUcphgTeWp": {
-      "symbol": "BTC5N",
-      "created_at": "2026-08-21T18:26:14.472723699Z",
-      "first_seen": "2026-08-21T18:26:22.146141+00:00"
-    },
-    "4QJQJ9QMpiP4uKvwF7nYcDn8ViJrwgFLy8QxZWvApump": {
-      "symbol": "VOID",
-      "created_at": "2026-08-21T18:26:14.348259317Z",
-      "first_seen": "2026-08-21T18:26:22.146141+00:00"
-    },
-    "6jFmyrPhsBG9UyvzLpbhb8iaxhyHMg6VEMqcer4DWHYp": {
-      "symbol": "HYPE-DN",
-      "created_at": "2026-08-21T18:26:14.309510577Z",
-      "first_seen": "2026-08-21T18:26:22.146141+00:00"
-    },
-    "92mCDQcSfFdHaMCM6WXuHyAqgfXeAt5BvyakAQfZ4evQ": {
-      "symbol": "BTC-UP",
-      "created_at": "2026-08-21T18:26:14.25352884Z",
-      "first_seen": "2026-08-21T18:26:22.146141+00:00"
-    },
-    "TWngpAuEwJP92Wtwnn61T6xU1VkboBqNPX4AvGeas7H": {
-      "symbol": "XRP-UP",
-      "created_at": "2026-08-21T18:26:14.228061322Z",
-      "first_seen": "2026-08-21T18:26:22.146141+00:00"
-    },
-    "HuQio56kbhZC89Ld7cekCgTTCiXEXXsFAtXsFzK2svFn": {
-      "symbol": "BTC-DN",
-      "created_at": "2026-08-21T18:26:14.055667433Z",
-      "first_seen": "2026-08-21T18:26:22.146141+00:00"
-    },
-    "Gnf3dvE5DoPCgHbJS6V3aZKF4BQQEa4rmKoY7E9soyHi": {
-      "symbol": "BTC5Y",
-      "created_at": "2026-08-21T18:26:14.042815971Z",
-      "first_seen": "2026-08-21T18:26:22.146141+00:00"
-    },
     "EYqoic3j8YwyxiPaR9Rbq9LapjrYnuXH23QmD3TB1YTF": {
       "symbol": "PODCAM",
       "created_at": "2026-08-21T18:30:22.797924862Z",
@@ -1474,6 +1424,56 @@
       "symbol": "SOL-UP",
       "created_at": "2026-08-21T20:24:12.633483292Z",
       "first_seen": "2026-08-21T20:24:27.164581+00:00"
+    },
+    "BFZCEuisbXajEW9WT8izgG8BbmWSkrtmQsk4XYiA65i5": {
+      "symbol": "",
+      "created_at": "2026-08-21T20:27:48.204833563Z",
+      "first_seen": "2026-08-21T20:27:57.835047+00:00"
+    },
+    "26GoyZmSkD5N6p4oZs4XUkJQbfLPgoA8yXzbB518pump": {
+      "symbol": "JAPE",
+      "created_at": "2026-08-21T20:27:47.989110229Z",
+      "first_seen": "2026-08-21T20:27:57.835047+00:00"
+    },
+    "14Q4PKtpqUNevok4i7EeiWQj1jcS1WvzZeaNYmuYbQok": {
+      "symbol": "Sugar",
+      "created_at": "2026-08-21T20:27:45.836343385Z",
+      "first_seen": "2026-08-21T20:27:57.835047+00:00"
+    },
+    "6FV2gwM9ESdrWV3T6DFpENWpKuL5X5pkvxH9uHmspump": {
+      "symbol": "9FIG",
+      "created_at": "2026-08-21T20:27:45.711680551Z",
+      "first_seen": "2026-08-21T20:27:57.835047+00:00"
+    },
+    "1sSTFrLQYzFZ4g2oW9ukrkamXhPfhBfFK3Zptup2A8q": {
+      "symbol": "RR",
+      "created_at": "2026-08-21T20:27:44.556724031Z",
+      "first_seen": "2026-08-21T20:27:57.835047+00:00"
+    },
+    "5kwJ4GGtE8s2GtFfTVThbPMvoJVKpd6GyG46pUuj5JnM": {
+      "symbol": "100K",
+      "created_at": "2026-08-21T20:27:44.136496409Z",
+      "first_seen": "2026-08-21T20:27:57.835047+00:00"
+    },
+    "DV8vZj3DrbGxi822bGwbdQb8gnVnbftzgfYB4do6pump": {
+      "symbol": "SCROLL",
+      "created_at": "2026-08-21T20:27:43.450398689Z",
+      "first_seen": "2026-08-21T20:27:57.835047+00:00"
+    },
+    "6AtF9Mt2nnJXQWLtr5Y1vRq115f2ZrSAMdw8dChspump": {
+      "symbol": "FIGS",
+      "created_at": "2026-08-21T20:27:40.220526951Z",
+      "first_seen": "2026-08-21T20:27:57.835047+00:00"
+    },
+    "4DNxRCMYEi3ZnzRiDFAJufcoMkBeM6M1Dox21hcKpump": {
+      "symbol": "TWAP",
+      "created_at": "2026-08-21T20:27:39.805807953Z",
+      "first_seen": "2026-08-21T20:27:57.835047+00:00"
+    },
+    "88G78GfQhMUo9KetwFEQ9aUNMRo7hV2UUsYN1FvMpump": {
+      "symbol": "Teddy",
+      "created_at": "2026-08-21T20:27:38.922122911Z",
+      "first_seen": "2026-08-21T20:27:57.835047+00:00"
     }
   },
   "alerted": [
