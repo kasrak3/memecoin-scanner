@@ -1,50 +1,5 @@
 {
   "pending": {
-    "13H4w1tugEFk2K9et2bRjHyMEsQ1eqVYHMoiEaqeQqvG": {
-      "symbol": "FLOPPY",
-      "created_at": "2026-08-22T06:25:10.490769958Z",
-      "first_seen": "2026-08-22T06:25:31.406719+00:00"
-    },
-    "BougPabMWB4k4VXwGyMAiDrCTuLjYjD1LW297Xm6pump": {
-      "symbol": "FLOP",
-      "created_at": "2026-08-22T06:25:08.703687012Z",
-      "first_seen": "2026-08-22T06:25:31.406719+00:00"
-    },
-    "8SyjPN7FumKRhhGhwso3rrSs15ZMB9duL91SkBSgpump": {
-      "symbol": "CRISPE",
-      "created_at": "2026-08-22T06:24:59.361950137Z",
-      "first_seen": "2026-08-22T06:25:31.406719+00:00"
-    },
-    "5thzdVuuTsNnHBkmvwsnZk6a4eJPbfKK5NhF2Hxwpump": {
-      "symbol": "DURO",
-      "created_at": "2026-08-22T06:24:55.832060331Z",
-      "first_seen": "2026-08-22T06:25:31.406719+00:00"
-    },
-    "9FGyQJqiYyGXQtSsDye7PwG2FiHGULEMzatvs3D9hTBs": {
-      "symbol": "FRANKLIN",
-      "created_at": "2026-08-22T06:24:49.940346766Z",
-      "first_seen": "2026-08-22T06:25:31.406719+00:00"
-    },
-    "AsP3C6zEJttXuzrdsUkRRhnANiJP4T4erEgEUDSPpump": {
-      "symbol": "BULLSEM",
-      "created_at": "2026-08-22T06:24:48.59041256Z",
-      "first_seen": "2026-08-22T06:25:31.406719+00:00"
-    },
-    "AgNgJ46nKYELTe4i1gY4TCu2hQ85JrPL1w1J6LDvpump": {
-      "symbol": "Chonky",
-      "created_at": "2026-08-22T06:24:39.080119496Z",
-      "first_seen": "2026-08-22T06:25:31.406719+00:00"
-    },
-    "EcMeLmfi7xxURQh1kX8UdYuwpC2sYLeUZEHBwnabpump": {
-      "symbol": "FLOP",
-      "created_at": "2026-08-22T06:24:33.825253768Z",
-      "first_seen": "2026-08-22T06:25:31.406719+00:00"
-    },
-    "9peDJuJiejibuDasKPUuH9eFyCuJxNpTKQuRiAJfpump": {
-      "symbol": "POW",
-      "created_at": "2026-08-22T06:24:31.727254506Z",
-      "first_seen": "2026-08-22T06:25:31.406719+00:00"
-    },
     "9KM9a5dgN1HmG8CkAqtmuEnxL2iSZLsi7RFRGMEYVmUS": {
       "symbol": "BTC5N",
       "created_at": "2026-08-22T06:28:29.595809497Z",
@@ -1490,11 +1445,6 @@
       "created_at": "2026-08-22T08:11:02.88952981Z",
       "first_seen": "2026-08-22T08:11:32.525828+00:00"
     },
-    "BrNL67ABCgRpb23w6VsnawgJ4L6FT91GdPRZp4phtyAc": {
-      "symbol": "ZEROCOIN",
-      "created_at": "2026-08-22T08:14:07.89616693Z",
-      "first_seen": "2026-08-22T08:14:19.437463+00:00"
-    },
     "2S7iJGuiLHB6g97U9U7WPyKXQDMMq372EPuBzUWtpump": {
       "symbol": "ZEC",
       "created_at": "2026-08-22T08:14:07.435894437Z",
@@ -1689,6 +1639,56 @@
       "symbol": "ETH-UP",
       "created_at": "2026-08-22T08:23:57.748890373Z",
       "first_seen": "2026-08-22T08:24:02.507833+00:00"
+    },
+    "EQcMh8YB6v6CqwK4n4heAEqFtfFfdfFB5gQJi566N8p5": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-08-22T08:26:55.058268047Z",
+      "first_seen": "2026-08-22T08:27:06.459718+00:00"
+    },
+    "5QyVqKyAhyJd32b6RaQkAaTtbWe1PkQXChfoYaGbNZmn": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-08-22T08:26:55.028944111Z",
+      "first_seen": "2026-08-22T08:27:06.459718+00:00"
+    },
+    "FV21jz11vPfmwZipLtxyCuewuuG7x2o9hk3rXWKCWwJ4": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-08-22T08:26:55.013850682Z",
+      "first_seen": "2026-08-22T08:27:06.459718+00:00"
+    },
+    "2CwEY4XJTNZEsU7iuhbzDP97jGPwA6Hag32thpQKCG4D": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-08-22T08:26:54.740306042Z",
+      "first_seen": "2026-08-22T08:27:06.459718+00:00"
+    },
+    "DD3aMEkb63Ns3MqBnzAmhmBKLu2RjurxJDdUDguHKwyw": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-08-22T08:26:54.610090241Z",
+      "first_seen": "2026-08-22T08:27:06.459718+00:00"
+    },
+    "HjbPyN3VZ2bBecZX98LhWefJ2vN7DgCxGdvmrHpWZm3B": {
+      "symbol": "HYPE-DN",
+      "created_at": "2026-08-22T08:26:53.895079522Z",
+      "first_seen": "2026-08-22T08:27:06.459718+00:00"
+    },
+    "Bw3tfqZf6DdbQkkRA2AGGFMJWcpX7wyHBxt4CLHBSun3": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-08-22T08:26:53.849798362Z",
+      "first_seen": "2026-08-22T08:27:06.459718+00:00"
+    },
+    "HngMAjbbXvucJC2U2ruevbFLQyhxsWpax8bNcEtfFfM7": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-08-22T08:26:53.827443803Z",
+      "first_seen": "2026-08-22T08:27:06.459718+00:00"
+    },
+    "DHfnunCVixfDFS7t8ermVTB2D2qR21qsDd73GqodzWoc": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-08-22T08:26:53.812096037Z",
+      "first_seen": "2026-08-22T08:27:06.459718+00:00"
+    },
+    "87m4SQxJjkezVudvoRPKpdGbuXFuhAChZCGcpen8mpCX": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-08-22T08:26:53.779886557Z",
+      "first_seen": "2026-08-22T08:27:06.459718+00:00"
     }
   },
   "alerted": [
@@ -3622,6 +3622,7 @@
     "6DK8uf11yBU36xYpxJ2DGuYAVDQxYhYTvEY3XS7Xsjs3",
     "4LvDvSFBxifcLqvrauS4o4u7fuKcWoHu6YiD5KByzDvx",
     "CA2Xcc9uR6V31ZiBiW6uxY3ZTw8uX5UkzXkEvgUBifoc",
-    "HZEH3z6ZbYL2HeVj3eoePAdzgts9wZwwtYkYqLD164tc"
+    "HZEH3z6ZbYL2HeVj3eoePAdzgts9wZwwtYkYqLD164tc",
+    "BrNL67ABCgRpb23w6VsnawgJ4L6FT91GdPRZp4phtyAc"
   ]
 }
