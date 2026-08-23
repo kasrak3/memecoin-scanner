@@ -1805,19 +1805,9 @@
       "created_at": "2026-08-23T15:26:20.96898821Z",
       "first_seen": "2026-08-23T15:26:52.684979+00:00"
     },
-    "7WP6rZHLcdNqkRsEUPZ7bauESgcPAmwAVkBgTLPbb5LR": {
-      "symbol": "LEEK",
-      "created_at": "2026-08-23T15:29:35.073698656Z",
-      "first_seen": "2026-08-23T15:29:35.922775+00:00"
-    },
     "2hQw8EqaU6jD1yLrzan5RnZ2XGwP8gR5VEsua4rvpump": {
       "symbol": "CATIT",
       "created_at": "2026-08-23T15:29:34.475410755Z",
-      "first_seen": "2026-08-23T15:29:35.922775+00:00"
-    },
-    "EzjaPzCbQC9xUkQh3j9JGdcaAt9a8CsnAReYbVbgKULC": {
-      "symbol": "LEEK",
-      "created_at": "2026-08-23T15:29:34.217608416Z",
       "first_seen": "2026-08-23T15:29:35.922775+00:00"
     },
     "43EAKEgPQbWZJduZbMB5jeuFwXEWeRFZ5u3mGAw8rctK": {
@@ -2004,6 +1994,56 @@
       "symbol": "PAULIE",
       "created_at": "2026-08-23T15:37:24.992167345Z",
       "first_seen": "2026-08-23T15:37:58.164281+00:00"
+    },
+    "J4eBd8735HQxHdg69xQEAnfaLce69Z9xpdr2evgEpump": {
+      "symbol": "CYBERGARLEEK",
+      "created_at": "2026-08-23T15:40:33.118175561Z",
+      "first_seen": "2026-08-23T15:40:42.519837+00:00"
+    },
+    "A1NDxXfjMjAobQsHhtYH2EEUiqirtd6vFvcySdngpump": {
+      "symbol": "ss",
+      "created_at": "2026-08-23T15:40:31.717583601Z",
+      "first_seen": "2026-08-23T15:40:42.519837+00:00"
+    },
+    "B2ivunwjtHU5uKyGx6VhGXgzW6bxL27rQQbLDAV9pump": {
+      "symbol": "VLTR",
+      "created_at": "2026-08-23T15:40:31.707837353Z",
+      "first_seen": "2026-08-23T15:40:42.519837+00:00"
+    },
+    "J83edRonb7dNhQJHqRpyYdfAeMxzDjcWGixUkbTEpump": {
+      "symbol": "$LUCIA",
+      "created_at": "2026-08-23T15:40:27.199181942Z",
+      "first_seen": "2026-08-23T15:40:42.519837+00:00"
+    },
+    "CxecnjvWPGfsQJEmunfStvTE6C4qhJWgTijGHjMNpump": {
+      "symbol": "Nikita Boar",
+      "created_at": "2026-08-23T15:40:24.066379801Z",
+      "first_seen": "2026-08-23T15:40:42.519837+00:00"
+    },
+    "4HC8bsDEkv4J88LUgUigq4BwgVzQSMu4Xkejg8KZNh9W": {
+      "symbol": "CYBERCAT",
+      "created_at": "2026-08-23T15:40:22.052583648Z",
+      "first_seen": "2026-08-23T15:40:42.519837+00:00"
+    },
+    "B86moLVVa66ddPu7yC6eUTxpqKmfayy6eBNDE6uipump": {
+      "symbol": "NIKITA",
+      "created_at": "2026-08-23T15:40:21.587829335Z",
+      "first_seen": "2026-08-23T15:40:42.519837+00:00"
+    },
+    "EDw2geVUB52KeRdBnfYmXPibVoaPSuR4gFyXetqopump": {
+      "symbol": "MCFT",
+      "created_at": "2026-08-23T15:40:18.107502086Z",
+      "first_seen": "2026-08-23T15:40:42.519837+00:00"
+    },
+    "CG8UTmjLPVAPatVApmzCreARwYNJyf2Jc9G3g2GzAhEH": {
+      "symbol": "",
+      "created_at": "2026-08-23T15:40:17.828218193Z",
+      "first_seen": "2026-08-23T15:40:42.519837+00:00"
+    },
+    "GmsRDLJxAHQKeiKDEp6hA8S1uYbP1D6KFcbyPejWpump": {
+      "symbol": "MESSI",
+      "created_at": "2026-08-23T15:40:17.667962513Z",
+      "first_seen": "2026-08-23T15:40:42.519837+00:00"
     }
   },
   "alerted": [
@@ -2117,8 +2157,6 @@
     "Es14VgLestfPFeG9nmvn9Ye1xTRaBNShkNvDikxwvb9v"
   ],
   "rejected": [
-    "DqM4cesXEJvzhXKRVWiwGViQtaZyk53QCfLcVqT92Zb5",
-    "56pN6AWzJXvthciyRJRHih2iPxq85XpY5C9tCZbEWb1H",
     "6r4N2euv4TeoA9GN3a6kHytRz1djM62uFeHyLcByvFnH",
     "A8sbzVp1aRoMZf18cxJnQdSZZvjMhNvvSQ4nZzeSPPzN",
     "5xZYfzehFiJUyT1ddAbxRb6iDriWSsf1giDuaZsgiVcB",
@@ -4116,6 +4154,8 @@
     "5y6QTV9WHHzt8S9LebyMoeEkge2k9ZgmB81YKMSzScQb",
     "2BKpzBzDd4v3eQwCo9NTa5XkacGwHWts3rqrXTAupump",
     "DTCBhuqwq38aXwBBqAQrZdcZKBjQU1UC4XL29GHkx4ss",
-    "8vRNoM2m7L5TggE1LSAHBrCCq4h1LxwG2uHCJwKpkyze"
+    "8vRNoM2m7L5TggE1LSAHBrCCq4h1LxwG2uHCJwKpkyze",
+    "7WP6rZHLcdNqkRsEUPZ7bauESgcPAmwAVkBgTLPbb5LR",
+    "EzjaPzCbQC9xUkQh3j9JGdcaAt9a8CsnAReYbVbgKULC"
   ]
 }
