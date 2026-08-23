@@ -1,55 +1,5 @@
 {
   "pending": {
-    "43daD8WpF5tgPGTVS1n37FHAtgFqHBt1zRrgf7YcgREt": {
-      "symbol": "",
-      "created_at": "2026-08-23T10:55:34.463305322Z",
-      "first_seen": "2026-08-23T10:55:38.778827+00:00"
-    },
-    "76FCffWH2kMFXqirbFtwnwPhAyjUYv7JbrniLkgsxHXZ": {
-      "symbol": "",
-      "created_at": "2026-08-23T10:55:29.284838134Z",
-      "first_seen": "2026-08-23T10:55:38.778827+00:00"
-    },
-    "GJRmhkQwinrLXWGQvMNj1hB5KuS4CwPJnfAdzuACpump": {
-      "symbol": "OpenActi",
-      "created_at": "2026-08-23T10:55:22.194210985Z",
-      "first_seen": "2026-08-23T10:55:38.778827+00:00"
-    },
-    "7bwWWrt37JY49BQsnXjCUJXt5buhRXA91vrK4Lc6wQ8a": {
-      "symbol": "",
-      "created_at": "2026-08-23T10:55:21.446830614Z",
-      "first_seen": "2026-08-23T10:55:38.778827+00:00"
-    },
-    "7w21FWwnSucnAedEDtLyFU4tpmoA1edWJFqV4EDKpump": {
-      "symbol": "RTC",
-      "created_at": "2026-08-23T10:55:19.553272414Z",
-      "first_seen": "2026-08-23T10:55:38.778827+00:00"
-    },
-    "BwBcwRiupBADxwMdCBgpm7fdPgAcPenMcNU1M3w9Ajsp": {
-      "symbol": "",
-      "created_at": "2026-08-23T10:55:18.804628773Z",
-      "first_seen": "2026-08-23T10:55:38.778827+00:00"
-    },
-    "55cgdhHbU3YYhs12n1RNd6XGeX9kGAgo77tzmJyAPJJF": {
-      "symbol": "",
-      "created_at": "2026-08-23T10:55:16.495085317Z",
-      "first_seen": "2026-08-23T10:55:38.778827+00:00"
-    },
-    "G1S3963TmuLSyEG8jivFf9mp8sCxRKqHdRvbkCFuAH3T": {
-      "symbol": "GARBAGE",
-      "created_at": "2026-08-23T10:55:13.157772077Z",
-      "first_seen": "2026-08-23T10:55:38.778827+00:00"
-    },
-    "Ey4aNWCJiLH4Jp9QFUNRE2XBzxt3BQgi4rnAA56JioFq": {
-      "symbol": "",
-      "created_at": "2026-08-23T10:55:11.276836634Z",
-      "first_seen": "2026-08-23T10:55:38.778827+00:00"
-    },
-    "9XNs1bPtsiqvrpZr22wLAdYch4vSGxwMFJ2TwZu6aj3s": {
-      "symbol": "",
-      "created_at": "2026-08-23T10:55:06.612020324Z",
-      "first_seen": "2026-08-23T10:55:38.778827+00:00"
-    },
     "GUXpfEJqsrkAbqXFq366dGBY88TPokh22StnwohNXmDk": {
       "symbol": "TURTLE",
       "created_at": "2026-08-23T10:58:13.0608244Z",
@@ -2194,6 +2144,56 @@
       "symbol": "GOH",
       "created_at": "2026-08-23T12:54:12.402084437Z",
       "first_seen": "2026-08-23T12:55:03.869342+00:00"
+    },
+    "aNeKejAKyfqfqikYKc5cjyTTszq85tiw7Rd5xcmpump": {
+      "symbol": "AMD",
+      "created_at": "2026-08-23T12:57:43.649247875Z",
+      "first_seen": "2026-08-23T12:57:49.082678+00:00"
+    },
+    "7Bkex41447fdBromc3KjXpKFeKKTZ7cx7w5odu7RaFQq": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-08-23T12:57:43.030280889Z",
+      "first_seen": "2026-08-23T12:57:49.082678+00:00"
+    },
+    "3Uh2EEhiyLuXkjT8cYAisfpo4j9DkKngH9upnxQHRnRm": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-08-23T12:57:43.028604899Z",
+      "first_seen": "2026-08-23T12:57:49.082678+00:00"
+    },
+    "75Fpc6TQikc5Z4yffHQX21kJGaSG5MT4nB2yUVXW7yGq": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-08-23T12:57:42.897959523Z",
+      "first_seen": "2026-08-23T12:57:49.082678+00:00"
+    },
+    "FJAT9JuMEwsaxhD5de4xn7qFcPUJDhAQQuDK3Rqzm8qC": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-08-23T12:57:42.870932559Z",
+      "first_seen": "2026-08-23T12:57:49.082678+00:00"
+    },
+    "2gKPSfihNhpzYAFCKCK2KNYSmhpRzdx24UXX1fShY2jt": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-08-23T12:57:42.636464968Z",
+      "first_seen": "2026-08-23T12:57:49.082678+00:00"
+    },
+    "6QjaGVoGbNFTrvSbNiVkx61XKTgPk2GJAECtuTAPsxW3": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-08-23T12:57:42.636390425Z",
+      "first_seen": "2026-08-23T12:57:49.082678+00:00"
+    },
+    "7SyF2EM7HLVzgjMb8E6YYjpDZ7iX2PH4B38xPL6d2kq4": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-08-23T12:57:42.63422645Z",
+      "first_seen": "2026-08-23T12:57:49.082678+00:00"
+    },
+    "2oxJZUhpAxCcJdPkBRyrjfToLwR51ExKnN5sdHgFEwL5": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-08-23T12:57:41.409296626Z",
+      "first_seen": "2026-08-23T12:57:49.082678+00:00"
+    },
+    "2CCNrqNyZhG2R57L89PuQqiU4hPuER5huiuUHAnG1Kyv": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-08-23T12:57:41.387978568Z",
+      "first_seen": "2026-08-23T12:57:49.082678+00:00"
     }
   },
   "alerted": [
