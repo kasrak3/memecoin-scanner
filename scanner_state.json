@@ -205,16 +205,6 @@
       "created_at": "2026-08-23T08:00:06.662258484Z",
       "first_seen": "2026-08-23T08:00:16.829234+00:00"
     },
-    "5T1qkmoPeHfLSAcKErT1fcH4321thjsr52tM5ieVpump": {
-      "symbol": "copycat",
-      "created_at": "2026-08-23T08:00:05.452354621Z",
-      "first_seen": "2026-08-23T08:00:16.829234+00:00",
-      "confirm": {
-        "liquidity": 16686.94,
-        "market_cap": 49503,
-        "at": "2026-08-23T08:10:40.039025+00:00"
-      }
-    },
     "9kcP8NTJi8pc5dMPGoS7av1WFJS45Nqhtse4uTwRtb67": {
       "symbol": "",
       "created_at": "2026-08-23T07:59:58.440794841Z",
@@ -239,16 +229,6 @@
       "symbol": "fork",
       "created_at": "2026-08-23T07:59:47.523559462Z",
       "first_seen": "2026-08-23T08:00:16.829234+00:00"
-    },
-    "G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump": {
-      "symbol": "\u9ec3\u963f\u746a",
-      "created_at": "2026-08-23T07:59:45.81154189Z",
-      "first_seen": "2026-08-23T08:00:16.829234+00:00",
-      "confirm": {
-        "liquidity": 21308.93,
-        "market_cap": 78871,
-        "at": "2026-08-23T08:10:40.039025+00:00"
-      }
     },
     "4LMxPgiQrxCrTgW3yRw5DC3YcgDAhFqPAyXCyRXUpump": {
       "symbol": "COIN",
@@ -509,6 +489,56 @@
       "symbol": "TOTH",
       "created_at": "2026-08-23T08:09:53.945727494Z",
       "first_seen": "2026-08-23T08:10:40.038750+00:00"
+    },
+    "A786cLAY53yd3uhrARYAZi6wM54uqRSDsj4X6eXhoawR": {
+      "symbol": "",
+      "created_at": "2026-08-23T08:12:34.059727943Z",
+      "first_seen": "2026-08-23T08:12:46.810071+00:00"
+    },
+    "2NLKeNjMwrD9CgVmMqtu4MfJTmqhF3RYqsFK4RMb161S": {
+      "symbol": "",
+      "created_at": "2026-08-23T08:12:29.567194717Z",
+      "first_seen": "2026-08-23T08:12:46.810071+00:00"
+    },
+    "CRC629F1soPCfw3i7CEjRjZcgvEJz9JsfrLNFsyspump": {
+      "symbol": "curiosity",
+      "created_at": "2026-08-23T08:12:27.497058708Z",
+      "first_seen": "2026-08-23T08:12:46.810071+00:00"
+    },
+    "5yuq9iPfZvxFfQ4C21x8aUoMvsipvrF7pAsQqs8npump": {
+      "symbol": "Monique",
+      "created_at": "2026-08-23T08:12:21.633320588Z",
+      "first_seen": "2026-08-23T08:12:46.810071+00:00"
+    },
+    "ChbQyE7UNNB1Bsm4dUFTPE8UePi8oQRrs2YmQZg1RjhH": {
+      "symbol": "copycat",
+      "created_at": "2026-08-23T08:12:21.248308649Z",
+      "first_seen": "2026-08-23T08:12:46.810071+00:00"
+    },
+    "8QdUtP8nqQrg8dEQ9MSMcqJxKCn59ygGSPnGrUNgpump": {
+      "symbol": "HOLD",
+      "created_at": "2026-08-23T08:12:11.524163062Z",
+      "first_seen": "2026-08-23T08:12:46.810071+00:00"
+    },
+    "7hCSjnRQYmmn4s2kfTio2wGtZHt1vXyqzG6ppRqkpump": {
+      "symbol": "Wallets",
+      "created_at": "2026-08-23T08:12:05.578511704Z",
+      "first_seen": "2026-08-23T08:12:46.810071+00:00"
+    },
+    "EWjFkrPjxgu9hCWbDvM4JXnEPprBuZMRh4EJfjRMpump": {
+      "symbol": "Anthony",
+      "created_at": "2026-08-23T08:12:03.40733471Z",
+      "first_seen": "2026-08-23T08:12:46.810071+00:00"
+    },
+    "2pQZyqwXbkL8vCjAcZuy7PCRjvDbfvYxpnnvy113pump": {
+      "symbol": "pricefight",
+      "created_at": "2026-08-23T08:11:58.08980305Z",
+      "first_seen": "2026-08-23T08:12:46.810071+00:00"
+    },
+    "FNEk4natku9kycaLiC7YTjjXsZi41JNpXNaPSCbbpump": {
+      "symbol": "Fine",
+      "created_at": "2026-08-23T08:11:54.991209205Z",
+      "first_seen": "2026-08-23T08:12:46.810071+00:00"
     }
   },
   "alerted": [
@@ -614,7 +644,9 @@
     "GqFiCmonCHNamkEB5n6xXLzZiqjmDssYWiojCC2pump",
     "8dfE1oGkg2uYqvEKQDv8xgHv7exhUuWUrZ2G4bdHpump",
     "4W9tjQc16hFpL5jbGLajnyyonMhft3QtKtHFQGW8pump",
-    "8aTkQtoK3qDtH9WwPx3Nb3crpneAE5YjCsNNxFw1pump"
+    "8aTkQtoK3qDtH9WwPx3Nb3crpneAE5YjCsNNxFw1pump",
+    "5T1qkmoPeHfLSAcKErT1fcH4321thjsr52tM5ieVpump",
+    "G3pi7rdWYy2U6TtiEbSwh8mHwXn5LpX64h1whupDpump"
   ],
   "rejected": [
     "7qZgB8Cmpgjdjr5vBrAhVQUr6YZfPdQnktx7pC6AFcLL",
