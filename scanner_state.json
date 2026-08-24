@@ -1,55 +1,5 @@
 {
   "pending": {
-    "EpFQvCcBURE9URUP4Eh57ct56hrYv29qvt68JApxpump": {
-      "symbol": "WRLY",
-      "created_at": "2026-08-24T15:52:44.592182596Z",
-      "first_seen": "2026-08-24T15:52:55.505312+00:00"
-    },
-    "AomP5BPqGEGWzPCpYQHgFkNaydzBrxksR2XskCA3pump": {
-      "symbol": "CHICKEN",
-      "created_at": "2026-08-24T15:52:43.135817087Z",
-      "first_seen": "2026-08-24T15:52:55.505312+00:00"
-    },
-    "8gFEXgGfBCEtFMbCieTVznx9bVgAzoSoMKP2geijpump": {
-      "symbol": "Murtin",
-      "created_at": "2026-08-24T15:52:42.824123285Z",
-      "first_seen": "2026-08-24T15:52:55.505312+00:00"
-    },
-    "7Z5CJyKKLDqpJqLTpbbkudtPE5Wa9pd3jNEUK1D3pump": {
-      "symbol": "SCRWAR",
-      "created_at": "2026-08-24T15:52:41.118145893Z",
-      "first_seen": "2026-08-24T15:52:55.505312+00:00"
-    },
-    "6AF5PQTekwxnzLkSU1o5uSuwUJtQ2rm9ijx2hY6epump": {
-      "symbol": "BBGMAYHEM",
-      "created_at": "2026-08-24T15:52:40.44676241Z",
-      "first_seen": "2026-08-24T15:52:55.505312+00:00"
-    },
-    "BasJmxwJZUKW5xgkizZ9evgAmTZYxqxq85WjgnXPcoW7": {
-      "symbol": "PUMP",
-      "created_at": "2026-08-24T15:52:39.576869167Z",
-      "first_seen": "2026-08-24T15:52:55.505312+00:00"
-    },
-    "FS3sPMwbpbyfKHK7HXNoQrUfhQMPUV1g63kJVZNf5tpU": {
-      "symbol": "",
-      "created_at": "2026-08-24T15:52:36.550458624Z",
-      "first_seen": "2026-08-24T15:52:55.505312+00:00"
-    },
-    "kFPoLW29UjaWgonarG9oby1yPJ5bEi2WkBNqLiay9H1": {
-      "symbol": "AGPY",
-      "created_at": "2026-08-24T15:52:35.081985257Z",
-      "first_seen": "2026-08-24T15:52:55.505312+00:00"
-    },
-    "6GWM4TATHzJyzBFZ1VpbQANeWLcq971YmY8EWQTpfomo": {
-      "symbol": "PUMP",
-      "created_at": "2026-08-24T15:52:33.260896544Z",
-      "first_seen": "2026-08-24T15:52:55.505312+00:00"
-    },
-    "9JggdCQpVa3BkFJbdgJNiDdeN7K6tF1xLjsweUAupump": {
-      "symbol": "ELOY",
-      "created_at": "2026-08-24T15:52:32.242248737Z",
-      "first_seen": "2026-08-24T15:52:55.505312+00:00"
-    },
     "Dp3nw6HfGsAvzpgXZv7wQ2RhzDFkQTLabKgxmdzwjL97": {
       "symbol": "",
       "created_at": "2026-08-24T15:55:35.513533519Z",
@@ -1708,7 +1658,12 @@
     "Gh2ThRPgC65iSuWSQJab2n5EyMyXWFkok6Fga4RBpump": {
       "symbol": "Meowdani",
       "created_at": "2026-08-24T17:34:29.149788336Z",
-      "first_seen": "2026-08-24T17:34:35.855374+00:00"
+      "first_seen": "2026-08-24T17:34:35.855374+00:00",
+      "confirm": {
+        "liquidity": 14108.41,
+        "market_cap": 36487,
+        "at": "2026-08-24T17:54:43.940142+00:00"
+      }
     },
     "25SdmWScgXrnjZazoQv98amazE479RATH8pky5vhpump": {
       "symbol": "Meowdani",
@@ -2039,6 +1994,56 @@
       "symbol": "ROADSTER",
       "created_at": "2026-08-24T17:51:36.601144755Z",
       "first_seen": "2026-08-24T17:51:57.686396+00:00"
+    },
+    "6dzMAQXDkNRsMrmCXgCViPCgWSeB8vZx6dsMoKXWpump": {
+      "symbol": "SBN",
+      "created_at": "2026-08-24T17:54:40.792789923Z",
+      "first_seen": "2026-08-24T17:54:43.939860+00:00"
+    },
+    "8yxVvYvk45AXgkpF9fM84eZBj82Hnjjsdzfe7WSKLAw5": {
+      "symbol": "BAYC",
+      "created_at": "2026-08-24T17:54:39.397011634Z",
+      "first_seen": "2026-08-24T17:54:43.939860+00:00"
+    },
+    "4L7UEUYcRMMFqox2fG8NntPvYBqPiqJk97MYoYXqpump": {
+      "symbol": "PILLED",
+      "created_at": "2026-08-24T17:54:37.98098409Z",
+      "first_seen": "2026-08-24T17:54:43.939860+00:00"
+    },
+    "Fs8cJqPhCkQXUsEaopEApZUMrxG68nyX5M8ukL1kpump": {
+      "symbol": "NWUB",
+      "created_at": "2026-08-24T17:54:37.937393635Z",
+      "first_seen": "2026-08-24T17:54:43.939860+00:00"
+    },
+    "6K1UF5N7sE76Bzo6T3osVP8UEjkgk49m5qK7zZUUsxLz": {
+      "symbol": "",
+      "created_at": "2026-08-24T17:54:35.362467733Z",
+      "first_seen": "2026-08-24T17:54:43.939860+00:00"
+    },
+    "CrJAQ1B8sHFBFSxXjAjLtabHdU6TRDfKgD3a5p8Epump": {
+      "symbol": "VR",
+      "created_at": "2026-08-24T17:54:32.159888705Z",
+      "first_seen": "2026-08-24T17:54:43.939860+00:00"
+    },
+    "9f1cLUk36i6ax6N4MrZPGcaBYopbkRzF7YBRqT8Hmoon": {
+      "symbol": "GrokBot",
+      "created_at": "2026-08-24T17:54:32.079614267Z",
+      "first_seen": "2026-08-24T17:54:43.939860+00:00"
+    },
+    "2m7BXWJei3TojyYsk9qGsuAcLnVRYgQsLBEQMgcKpump": {
+      "symbol": "SENTIMENT",
+      "created_at": "2026-08-24T17:54:31.710432205Z",
+      "first_seen": "2026-08-24T17:54:43.939860+00:00"
+    },
+    "CpKDGTnYnga7trQnJ9Wytd9BGdgWqhwnrVNmrEmmerur": {
+      "symbol": "CATE",
+      "created_at": "2026-08-24T17:54:30.767664667Z",
+      "first_seen": "2026-08-24T17:54:43.939860+00:00"
+    },
+    "H4TVLR1sCiY6BSfwUfNsh2JUy5tZTFcveKYyCfUfpump": {
+      "symbol": "Company",
+      "created_at": "2026-08-24T17:54:30.56930756Z",
+      "first_seen": "2026-08-24T17:54:43.939860+00:00"
     }
   },
   "alerted": [
