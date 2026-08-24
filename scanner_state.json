@@ -390,16 +390,6 @@
       "created_at": "2026-08-24T03:51:15.312587388Z",
       "first_seen": "2026-08-24T03:51:38.310180+00:00"
     },
-    "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump": {
-      "symbol": "Pixwojak",
-      "created_at": "2026-08-24T03:51:12.087197765Z",
-      "first_seen": "2026-08-24T03:51:38.310180+00:00",
-      "confirm": {
-        "liquidity": 17762.34,
-        "market_cap": 54042,
-        "at": "2026-08-24T04:02:55.818065+00:00"
-      }
-    },
     "FHqZAjXnAnhYRAU1GoRgwiF2ZtLnrfftwtNwY46Ypump": {
       "symbol": "Moon",
       "created_at": "2026-08-24T03:51:10.365740136Z",
@@ -664,6 +654,56 @@
       "symbol": "BO$$",
       "created_at": "2026-08-24T04:02:35.22038218Z",
       "first_seen": "2026-08-24T04:02:55.817779+00:00"
+    },
+    "FyKpvuPRinfjSq7Fs4CufPy9itGYHUdfN8g5eQaxFTYc": {
+      "symbol": "RCL",
+      "created_at": "2026-08-24T04:05:12.294354688Z",
+      "first_seen": "2026-08-24T04:05:16.618501+00:00"
+    },
+    "DdfBTZ53JAqYa5RK3x26TUY8wcFud46CV5Rd6e2vpump": {
+      "symbol": "CRIINF",
+      "created_at": "2026-08-24T04:05:10.191449355Z",
+      "first_seen": "2026-08-24T04:05:16.618501+00:00"
+    },
+    "4KUAkdSkZo9qXwkagf3gpAt91DbMWsEpYEv4RpTwpump": {
+      "symbol": "Cocodile",
+      "created_at": "2026-08-24T04:05:09.927286679Z",
+      "first_seen": "2026-08-24T04:05:16.618501+00:00"
+    },
+    "HcT2pgRb5ZvXdCEWugZAY5TpWK1zLHKGxcd6pdFpump": {
+      "symbol": "Cocodile",
+      "created_at": "2026-08-24T04:05:09.189026154Z",
+      "first_seen": "2026-08-24T04:05:16.618501+00:00"
+    },
+    "9EFKRvUj7oYfzUMdbbzrnC2YzCmAZunav2oJam5cpump": {
+      "symbol": "Amazon",
+      "created_at": "2026-08-24T04:05:06.295518075Z",
+      "first_seen": "2026-08-24T04:05:16.618501+00:00"
+    },
+    "8z9D4UdrqRwDNfhY8tj3kcehWSyxPQmoHWy9KEQppump": {
+      "symbol": "SPLIZZ",
+      "created_at": "2026-08-24T04:05:03.952991369Z",
+      "first_seen": "2026-08-24T04:05:16.618501+00:00"
+    },
+    "7CmmukQtSDrjgYtwWqB7oktfMoB9aFyuh1xUr1Shpump": {
+      "symbol": "CVX66GIP READ",
+      "created_at": "2026-08-24T04:04:59.478542106Z",
+      "first_seen": "2026-08-24T04:05:16.618501+00:00"
+    },
+    "J1E7UeuUXx6Do7b9PXf9YXbiCcHqBoYNTtK3jTG6pump": {
+      "symbol": "bed",
+      "created_at": "2026-08-24T04:04:58.885310371Z",
+      "first_seen": "2026-08-24T04:05:16.618501+00:00"
+    },
+    "6TmZENmBf1oEUvR7vHJ72LQfkTGLCGAsRzweMBB1pump": {
+      "symbol": "Maliens",
+      "created_at": "2026-08-24T04:04:58.496670616Z",
+      "first_seen": "2026-08-24T04:05:16.618501+00:00"
+    },
+    "6gQQqQmW5Ako5iCsCEEz7ArjXjvwPvprptPeVX44pump": {
+      "symbol": "Morty",
+      "created_at": "2026-08-24T04:04:57.327545149Z",
+      "first_seen": "2026-08-24T04:05:16.618501+00:00"
     }
   },
   "alerted": [
@@ -779,7 +819,8 @@
     "3MaU6uQJWtv3S3d8M9VL6JHWRJE6JwSEXCxDV6wcpump",
     "62seDepNrRkMjXwVyF1UACxcQT8WFBeW7QMUxyCLpump",
     "CAQP9y6VQKKJYaWfZZ9DV2MaLTjCAHCcJgVBjqymxWgq",
-    "EJxJra2QjDtbyqaAkzE5aZ71ACuTSXzSNCB9VMRxpump"
+    "EJxJra2QjDtbyqaAkzE5aZ71ACuTSXzSNCB9VMRxpump",
+    "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump"
   ],
   "rejected": [
     "HFq19Z6HWy2Th4b8UcrMDZEMLjeWApWAzLJPJyut9x5Q",
