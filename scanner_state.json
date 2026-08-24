@@ -345,16 +345,6 @@
       "created_at": "2026-08-24T14:40:43.313246823Z",
       "first_seen": "2026-08-24T14:40:55.330249+00:00"
     },
-    "BipguhXSZLSGxqL7bG7yUxWbDtaH5VbuKTqiZ4m8pump": {
-      "symbol": "lambo",
-      "created_at": "2026-08-24T14:40:43.253039125Z",
-      "first_seen": "2026-08-24T14:40:55.330249+00:00",
-      "confirm": {
-        "liquidity": 13345.47,
-        "market_cap": 33417,
-        "at": "2026-08-24T14:51:30.364562+00:00"
-      }
-    },
     "JDeM57mJtop9CgZYuHFZ2eWMa3ntkZ4Jv6xLfKyRpump": {
       "symbol": "\u66d9\u5b9d",
       "created_at": "2026-08-24T14:40:41.96994564Z",
@@ -418,11 +408,6 @@
     "HpVzM1KS4pFsHrmXJ7PAzS1hr1XnqqqWQunXeZfpump": {
       "symbol": "GOAL",
       "created_at": "2026-08-24T14:42:52.107001054Z",
-      "first_seen": "2026-08-24T14:42:59.472467+00:00"
-    },
-    "8SVhHjNxkyXg4Y8kTqJ9U8Maoxu4CigCffyjukkR8zvN": {
-      "symbol": "lambo",
-      "created_at": "2026-08-24T14:42:51.181947918Z",
       "first_seen": "2026-08-24T14:42:59.472467+00:00"
     },
     "Akc5BDaoKAZg2SXphn5MXTQcowXMS85FdJmcDnFWhYbJ": {
@@ -639,6 +624,56 @@
       "symbol": "Rick",
       "created_at": "2026-08-24T14:50:52.996500675Z",
       "first_seen": "2026-08-24T14:51:30.364295+00:00"
+    },
+    "5fsTNkqL59pD3sH9LTZebjwWWbeNtzZSZxtARy86pump": {
+      "symbol": "Addict",
+      "created_at": "2026-08-24T14:53:37.556704497Z",
+      "first_seen": "2026-08-24T14:53:40.154820+00:00"
+    },
+    "EewaQJJuw4taNydppmR8qnFEL6itDVjGNDQt8Bu6pump": {
+      "symbol": "HB4R",
+      "created_at": "2026-08-24T14:53:37.230888447Z",
+      "first_seen": "2026-08-24T14:53:40.154820+00:00"
+    },
+    "6cytC1RTunVzJbzuZfRwkrE8Pve14VsT9EAACLK2pump": {
+      "symbol": "\u5170\u82b1",
+      "created_at": "2026-08-24T14:53:37.217405325Z",
+      "first_seen": "2026-08-24T14:53:40.154820+00:00"
+    },
+    "JEFuEC3rxijj6CSx3Bb8fz4oXF5AzDyYQxbTYjqQfPbN": {
+      "symbol": "Simba",
+      "created_at": "2026-08-24T14:53:36.366262514Z",
+      "first_seen": "2026-08-24T14:53:40.154820+00:00"
+    },
+    "C5PvWC5An3A2YjfaFXSVAqHswa8NhgTiFv4vhYa9pump": {
+      "symbol": "Liger",
+      "created_at": "2026-08-24T14:53:36.121154806Z",
+      "first_seen": "2026-08-24T14:53:40.154820+00:00"
+    },
+    "FdvmjTSJisB7v2v5weR9XJwG3naCcbVR8sZweMVrpump": {
+      "symbol": "cronch",
+      "created_at": "2026-08-24T14:53:35.622116783Z",
+      "first_seen": "2026-08-24T14:53:40.154820+00:00"
+    },
+    "H3qiFz7dM79MvkBCWF2Su5a7b6Ft6MjtZb4MPkycpump": {
+      "symbol": ":3",
+      "created_at": "2026-08-24T14:53:35.531967994Z",
+      "first_seen": "2026-08-24T14:53:40.154820+00:00"
+    },
+    "AAJ2ASCAacNQ7eGSgPR69HAKV7cyWL9Wn8h79zftkeep": {
+      "symbol": "ROBIT",
+      "created_at": "2026-08-24T14:53:35.524779579Z",
+      "first_seen": "2026-08-24T14:53:40.154820+00:00"
+    },
+    "BBGgioUXBRUhiveqiRxfxeWkeDhCW5JusM62eY5spump": {
+      "symbol": "AURA",
+      "created_at": "2026-08-24T14:53:35.375900782Z",
+      "first_seen": "2026-08-24T14:53:40.154820+00:00"
+    },
+    "6g9EknSh1AnuxoaDd7iwfRdfBzdSd6JSzyDahLgXpump": {
+      "symbol": "\u5170\u82b1",
+      "created_at": "2026-08-24T14:53:34.533876765Z",
+      "first_seen": "2026-08-24T14:53:40.154820+00:00"
     }
   },
   "alerted": [
@@ -755,10 +790,10 @@
     "62seDepNrRkMjXwVyF1UACxcQT8WFBeW7QMUxyCLpump",
     "CAQP9y6VQKKJYaWfZZ9DV2MaLTjCAHCcJgVBjqymxWgq",
     "EJxJra2QjDtbyqaAkzE5aZ71ACuTSXzSNCB9VMRxpump",
-    "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump"
+    "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump",
+    "BipguhXSZLSGxqL7bG7yUxWbDtaH5VbuKTqiZ4m8pump"
   ],
   "rejected": [
-    "4wQdGK8mTnxdogYwZfWpyQM1ETTUWLH3iLieD6J8GTEz",
     "EiYzS1fFyMHQZSQgM6He86w1vWfEkHVgv91n3e73pump",
     "Df45RXPmxV9pJrg716BZhcL1ynE3b2hyCs7QoNrWSz6v",
     "7Ui2VZwNY9gPmmTXzMcpLR6RqcGq6cZ7z3ptu7GJ8rAn",
@@ -2757,6 +2792,7 @@
     "6Wak7VNYEjL4c22N1vmfmqWLKZR59VbGY2fSJQuLMEsQ",
     "4RFodLe3TZ8RETtFtU3RwyfoMBRYnnJRZWjkoWKMUqmK",
     "G7iRCt7FFbuc7xGvDhYpTRDbKJbAytVHss65VXRjTKJv",
-    "CeQ4WfyuBxNJqDNyKNZHawLJUZJZC7EvVcX3FsSuaoPs"
+    "CeQ4WfyuBxNJqDNyKNZHawLJUZJZC7EvVcX3FsSuaoPs",
+    "8SVhHjNxkyXg4Y8kTqJ9U8Maoxu4CigCffyjukkR8zvN"
   ]
 }
