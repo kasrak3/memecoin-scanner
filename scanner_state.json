@@ -55,11 +55,6 @@
       "created_at": "2026-08-24T08:32:15.236186783Z",
       "first_seen": "2026-08-24T08:32:20.541266+00:00"
     },
-    "5BxYNUpEzBTyH8MiquM7ZjwnadQ3QUS1VvTw3S4fWvh2": {
-      "symbol": "LENNY",
-      "created_at": "2026-08-24T08:32:04.544374649Z",
-      "first_seen": "2026-08-24T08:32:20.541266+00:00"
-    },
     "4RbRnrJ46HBMpGfV5psyTihXZ5TQoQyLjSKwk4Yopump": {
       "symbol": "Made",
       "created_at": "2026-08-24T08:32:00.749361256Z",
@@ -93,11 +88,6 @@
     "GoTh8UzQYAHRdviPb63ercYv59bFXXXBNnxiATyZV9UA": {
       "symbol": "RETURNCOIN",
       "created_at": "2026-08-24T08:31:33.911773619Z",
-      "first_seen": "2026-08-24T08:32:20.541266+00:00"
-    },
-    "6Wak7VNYEjL4c22N1vmfmqWLKZR59VbGY2fSJQuLMEsQ": {
-      "symbol": "USDC",
-      "created_at": "2026-08-24T08:31:31.010299841Z",
       "first_seen": "2026-08-24T08:32:20.541266+00:00"
     },
     "9Qcgs4mKLJ8LFhPsRMo78DuAjR35K1uH4M7QhVP5EzFr": {
@@ -299,6 +289,56 @@
       "symbol": "GROK",
       "created_at": "2026-08-24T08:39:55.095090559Z",
       "first_seen": "2026-08-24T08:40:27.309703+00:00"
+    },
+    "4FuSKBR1MSNqXz351YEHtLwMMX6QYJnq9S4zJYQqpump": {
+      "symbol": "Memescope",
+      "created_at": "2026-08-24T08:42:26.577783326Z",
+      "first_seen": "2026-08-24T08:42:29.744148+00:00"
+    },
+    "68fw9mic3NFkWupMvgXWvHPS4FBA5VLRn2gksAMRLV1B": {
+      "symbol": "HP",
+      "created_at": "2026-08-24T08:42:25.629391201Z",
+      "first_seen": "2026-08-24T08:42:29.744148+00:00"
+    },
+    "42SSzFMAe9AN37mmLkVfLDrGhN9GhST1kz3Pt414xxJQ": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-08-24T08:42:24.034496911Z",
+      "first_seen": "2026-08-24T08:42:29.744148+00:00"
+    },
+    "HxJJSRw1af1TtJLNwNhrbckva5URiyetrLvahM3VJaYc": {
+      "symbol": "jsing",
+      "created_at": "2026-08-24T08:42:23.249802501Z",
+      "first_seen": "2026-08-24T08:42:29.744148+00:00"
+    },
+    "AiMk1YqtU2T3BtSBE6f8jaw3vLReM849ZbshQCKwUNh8": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-08-24T08:42:22.037618498Z",
+      "first_seen": "2026-08-24T08:42:29.744148+00:00"
+    },
+    "3nseqiRMVwfeB8DiKWbpVu8Y5doGq8RJfudA5tcgFukG": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-08-24T08:42:22.02768001Z",
+      "first_seen": "2026-08-24T08:42:29.744148+00:00"
+    },
+    "Ge5Q3prY5wZJWGW5cbNTvHihn8EceSr3bajdmuQyW4Ed": {
+      "symbol": "DKHC",
+      "created_at": "2026-08-24T08:42:21.468093037Z",
+      "first_seen": "2026-08-24T08:42:29.744148+00:00"
+    },
+    "AWNVQFLaEdJ2Gth8frdTdipb7bLyrdpt8bDDZzFhpump": {
+      "symbol": "tamiaalovee_",
+      "created_at": "2026-08-24T08:42:20.271396133Z",
+      "first_seen": "2026-08-24T08:42:29.744148+00:00"
+    },
+    "GVhtGviPzZnNWBe2LD1sVFbUzwicUEzBuRGUmhYv7o8Z": {
+      "symbol": "DICKCOIN",
+      "created_at": "2026-08-24T08:42:19.552060866Z",
+      "first_seen": "2026-08-24T08:42:29.744148+00:00"
+    },
+    "BSXYUnhRLWVpWPofDoa6DScGmiQN81J2H2HbSinGMxXm": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-08-24T08:42:18.956165917Z",
+      "first_seen": "2026-08-24T08:42:29.744148+00:00"
     }
   },
   "alerted": [
@@ -418,8 +458,6 @@
     "2vCPSKd4u33KbKHynUhCqNjuN811r9yvczQhTtpipump"
   ],
   "rejected": [
-    "ADtrMNHvVMH7NXUBnffSqSGy72cBzGe4qvgsAqrJ35Us",
-    "6bKhxMSJGZaZZeNedaKiPfHmahrMnx82GCDMpw8dCUGa",
     "AQoK2RFrW5yRPVkEZHCAmduFJv1AKPCPZPtVHqu9jyD8",
     "EX5hYK8Hj9Y96TcBLNtqgy1KS26WH6KVyCanwvkXxDhP",
     "F4HjW8DFwt5eBdWn7msNTYP1RQqsm4H2RBRpkW5AZdDy",
@@ -2417,6 +2455,8 @@
     "4URXfqww9aWfHVtEjUcJAzuzdZYdwGESixhoGkaXe7Z3",
     "4KZPVQNREgheLiNdVxhtQpML2epfBH8mjz3FJiap4uX9",
     "8kiFjBVtj2oDn8dDBRnTMJALvvMMCWtrUccBHufDpump",
-    "Bd2LQa8caQMmzxNKGANRoUq3SyWBBJeWDd7SWqBPFEhN"
+    "Bd2LQa8caQMmzxNKGANRoUq3SyWBBJeWDd7SWqBPFEhN",
+    "5BxYNUpEzBTyH8MiquM7ZjwnadQ3QUS1VvTw3S4fWvh2",
+    "6Wak7VNYEjL4c22N1vmfmqWLKZR59VbGY2fSJQuLMEsQ"
   ]
 }
