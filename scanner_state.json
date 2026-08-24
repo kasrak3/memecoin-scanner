@@ -1,55 +1,5 @@
 {
   "pending": {
-    "CUazQ3Zmve9HgWBgTRW7mZjyCBWFM6bT5VzBdAGnRuG": {
-      "symbol": "BTC5N",
-      "created_at": "2026-08-24T20:26:17.660352541Z",
-      "first_seen": "2026-08-24T20:26:26.575876+00:00"
-    },
-    "EqBMnZuPD2wHgESr4aekotm6yPhD2i3kP5fi3v65WG4": {
-      "symbol": "SPCX5N",
-      "created_at": "2026-08-24T20:26:17.657797109Z",
-      "first_seen": "2026-08-24T20:26:26.575876+00:00"
-    },
-    "6kC49p4pdwprJSQ3VcAdFFbvxXSYi1o9Lh7TLzRypump": {
-      "symbol": "GHODL",
-      "created_at": "2026-08-24T20:26:17.341832039Z",
-      "first_seen": "2026-08-24T20:26:26.575876+00:00"
-    },
-    "BHSaNz4Ne41fHJMwAezCybgYLHhXCvV8AnZ1gwPmpump": {
-      "symbol": "SOCK",
-      "created_at": "2026-08-24T20:26:17.266098292Z",
-      "first_seen": "2026-08-24T20:26:26.575876+00:00"
-    },
-    "48tofZQ1QGGbtwSiJmuDzgwYmKs4dHMZ9JTjhGqYpump": {
-      "symbol": "1%",
-      "created_at": "2026-08-24T20:26:17.029257761Z",
-      "first_seen": "2026-08-24T20:26:26.575876+00:00"
-    },
-    "4QRSUsvACkJAmg5xWrXVMHzo2TJD627B7bTTkEKdpump": {
-      "symbol": "PTSD",
-      "created_at": "2026-08-24T20:26:16.769620389Z",
-      "first_seen": "2026-08-24T20:26:26.575876+00:00"
-    },
-    "DfCrWdPBuo5nadmwf7Qj33mkru8iigRpwULEiueypump": {
-      "symbol": "\u7537\u306e\u5b50",
-      "created_at": "2026-08-24T20:26:16.658521364Z",
-      "first_seen": "2026-08-24T20:26:26.575876+00:00"
-    },
-    "5jC14gyH38uTX76yghkpX9Knt5iSq4X1twud1aXtgq4S": {
-      "symbol": "MPN",
-      "created_at": "2026-08-24T20:26:16.553901693Z",
-      "first_seen": "2026-08-24T20:26:26.575876+00:00"
-    },
-    "28FXmzE7p798Ro2hThdnhAFS9n6BTGYfijE2XRDrAnYW": {
-      "symbol": "MPN",
-      "created_at": "2026-08-24T20:26:16.445639761Z",
-      "first_seen": "2026-08-24T20:26:26.575876+00:00"
-    },
-    "HjT3UQPfdbh9JXsGgRwbiRMXBvU4t7R7KmYr5J3u2UJD": {
-      "symbol": "MPN",
-      "created_at": "2026-08-24T20:26:15.366826901Z",
-      "first_seen": "2026-08-24T20:26:26.575876+00:00"
-    },
     "DN8de6CHt9omADERGmuUV2XiZk5FjiqSckzcwGs4ePLk": {
       "symbol": "ANSEM",
       "created_at": "2026-08-24T20:29:09.661772458Z",
@@ -2099,6 +2049,56 @@
       "symbol": "dackl",
       "created_at": "2026-08-24T22:24:12.307809315Z",
       "first_seen": "2026-08-24T22:24:27.461373+00:00"
+    },
+    "HSBCXJrVvNfZMMekex1aZx72B2XmqcL1SzCvGPBFAf7K": {
+      "symbol": "HSBC",
+      "created_at": "2026-08-24T22:27:10.198936466Z",
+      "first_seen": "2026-08-24T22:27:20.003414+00:00"
+    },
+    "HBANSb9NuwX3T2L1tqxmBBHm3ayxNyY8rRGpKe5P1UWS": {
+      "symbol": "HBAN",
+      "created_at": "2026-08-24T22:27:10.179774823Z",
+      "first_seen": "2026-08-24T22:27:20.003414+00:00"
+    },
+    "HSYcL8rCvpZUMLZZuxarx1B1HqfRYeRvxhAMCDrLfaYq": {
+      "symbol": "HSY",
+      "created_at": "2026-08-24T22:27:09.817445997Z",
+      "first_seen": "2026-08-24T22:27:20.003414+00:00"
+    },
+    "HCAuVcBNtXar6eMdUozUohx2AF3jw1Sno5C3hvc2X5r8": {
+      "symbol": "HCA",
+      "created_at": "2026-08-24T22:27:09.488164976Z",
+      "first_seen": "2026-08-24T22:27:20.003414+00:00"
+    },
+    "HSTPL4W3hMTkco6nhWDcGGj62cYPc9M7NDSUhMYUW4eU": {
+      "symbol": "HST",
+      "created_at": "2026-08-24T22:27:09.437841891Z",
+      "first_seen": "2026-08-24T22:27:20.003414+00:00"
+    },
+    "HUBBggMbYDVuZWKyMJDsG1sL3d7vKA26LhhJvJGtasXB": {
+      "symbol": "HUBB",
+      "created_at": "2026-08-24T22:27:09.339162313Z",
+      "first_seen": "2026-08-24T22:27:20.003414+00:00"
+    },
+    "HLsKtqeJy37Hgz881j9EWa8YmwCpWHzoKKwDMVCei34d": {
+      "symbol": "HL",
+      "created_at": "2026-08-24T22:27:09.286486098Z",
+      "first_seen": "2026-08-24T22:27:20.003414+00:00"
+    },
+    "HPErCtPmXfuqxevdqAM1WekpKCvRzwVPWrTcxMAwCShG": {
+      "symbol": "HPE",
+      "created_at": "2026-08-24T22:27:09.282757384Z",
+      "first_seen": "2026-08-24T22:27:20.003414+00:00"
+    },
+    "HDH55GJYS5qJaUJxkYz1Qh6L768AEjYbKRYq3dmKBhj4": {
+      "symbol": "HD",
+      "created_at": "2026-08-24T22:27:09.276311397Z",
+      "first_seen": "2026-08-24T22:27:20.003414+00:00"
+    },
+    "HNGEAp6FoRne5VSEXngdTLsjW4F36cYebCWGEcLQhUMQ": {
+      "symbol": "HNGE",
+      "created_at": "2026-08-24T22:27:09.246389793Z",
+      "first_seen": "2026-08-24T22:27:20.003414+00:00"
     }
   },
   "alerted": [
