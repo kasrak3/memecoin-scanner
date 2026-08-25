@@ -1,50 +1,5 @@
 {
   "pending": {
-    "8qHiAoKroLgGGU7wNhcgNvWeKnRTGJd8E8hgxqNcpump": {
-      "symbol": "Adam",
-      "created_at": "2026-08-25T09:43:08.806253625Z",
-      "first_seen": "2026-08-25T09:43:27.643400+00:00"
-    },
-    "7YSeZguEF9t7Lw7XitxdtVPq62wiqJ3uVUAN4Kw5ojE9": {
-      "symbol": "RCL",
-      "created_at": "2026-08-25T09:43:02.677312927Z",
-      "first_seen": "2026-08-25T09:43:27.643400+00:00"
-    },
-    "BRpoNcDMxPPLh4DtPeafR4zPkUeikLmcshf4CJwepump": {
-      "symbol": "Mnav",
-      "created_at": "2026-08-25T09:42:57.813970155Z",
-      "first_seen": "2026-08-25T09:43:27.643400+00:00"
-    },
-    "CcUkEDMndVbUoTxQNndX3fqiHA1HRinWjwR1yrYgpump": {
-      "symbol": "a",
-      "created_at": "2026-08-25T09:42:56.339943652Z",
-      "first_seen": "2026-08-25T09:43:27.643400+00:00"
-    },
-    "3G5khXRcB1RGrsu1WKeptNRUzKw5GRCHarCZgjH3pump": {
-      "symbol": "DOOBDOOB",
-      "created_at": "2026-08-25T09:42:55.615370359Z",
-      "first_seen": "2026-08-25T09:43:27.643400+00:00"
-    },
-    "6MbbZ9vsj1y3MgSXJFazDwUuK5jxit9eBVmZEXM5pump": {
-      "symbol": "JANG",
-      "created_at": "2026-08-25T09:42:45.322920412Z",
-      "first_seen": "2026-08-25T09:43:27.643400+00:00"
-    },
-    "73G9frPLtig3ME4jw3zxHgtf4fvkVibBBMeJJPCquqyE": {
-      "symbol": "",
-      "created_at": "2026-08-25T09:42:43.727694586Z",
-      "first_seen": "2026-08-25T09:43:27.643400+00:00"
-    },
-    "G4jipgk5WAhe8XRmeLF47YGVmwQ4Lt1xKSbQMZF3moon": {
-      "symbol": "Plaqcan",
-      "created_at": "2026-08-25T09:42:41.410254148Z",
-      "first_seen": "2026-08-25T09:43:27.643400+00:00"
-    },
-    "FB9adQ8pLMJoTydXKtvt4x85cVDGo2pxrWXZjV2xpump": {
-      "symbol": "DOOBDOOB",
-      "created_at": "2026-08-25T09:42:39.829419828Z",
-      "first_seen": "2026-08-25T09:43:27.643400+00:00"
-    },
     "kNnPZV6q9tFUYHEvsaQFniFxA84g7h8DLDTM9Aupump": {
       "symbol": "KOJA",
       "created_at": "2026-08-25T09:45:59.452163048Z",
@@ -1743,7 +1698,12 @@
     "31TBAGQ4cydajbZYCqvuyA9SqmKV7zvtdmohkLAJpump": {
       "symbol": "KERMIT",
       "created_at": "2026-08-25T11:19:22.891623732Z",
-      "first_seen": "2026-08-25T11:19:39.724958+00:00"
+      "first_seen": "2026-08-25T11:19:39.724958+00:00",
+      "confirm": {
+        "liquidity": 29575.3,
+        "market_cap": 135557,
+        "at": "2026-08-25T11:43:38.838956+00:00"
+      }
     },
     "DGXazn1LEKHiaaKwxYfzELPWUBbcGCWzWsgxSYnupump": {
       "symbol": "BANTAM",
@@ -2169,6 +2129,56 @@
       "symbol": "ZINGER",
       "created_at": "2026-08-25T11:40:36.256980729Z",
       "first_seen": "2026-08-25T11:41:03.270480+00:00"
+    },
+    "GaicZgx36JP4c5Kd55pFx4Y43fUZAGWe9hJnHuaHpump": {
+      "symbol": "\u2b06\ufe0f",
+      "created_at": "2026-08-25T11:43:35.720597978Z",
+      "first_seen": "2026-08-25T11:43:38.838650+00:00"
+    },
+    "EryxtJVUiaRLSgq1Zh2ScyN2gNG3LZnj9VZKLRW5pump": {
+      "symbol": "GG",
+      "created_at": "2026-08-25T11:43:34.62371262Z",
+      "first_seen": "2026-08-25T11:43:38.838650+00:00"
+    },
+    "2GGe6YntkA8se4WhwY5mbm1qp893UWp2J1itFABXpump": {
+      "symbol": "SUL",
+      "created_at": "2026-08-25T11:43:32.503394163Z",
+      "first_seen": "2026-08-25T11:43:38.838650+00:00"
+    },
+    "Di99w4cN1Xtk9qwWsPbmczUwYgeFV8PBEMQxT73jpump": {
+      "symbol": "HOPIUM",
+      "created_at": "2026-08-25T11:43:31.704354122Z",
+      "first_seen": "2026-08-25T11:43:38.838650+00:00"
+    },
+    "5A2hq9NzoPCunhHjShNrb8yD29cArypM2WD964VXpump": {
+      "symbol": "T&M",
+      "created_at": "2026-08-25T11:43:31.362837568Z",
+      "first_seen": "2026-08-25T11:43:38.838650+00:00"
+    },
+    "GsuDJ4cWkmDRUVzRhXsLjAgawx9HtE9ZErsdw3Bnpump": {
+      "symbol": "Line",
+      "created_at": "2026-08-25T11:43:29.817680659Z",
+      "first_seen": "2026-08-25T11:43:38.838650+00:00"
+    },
+    "BJ7dmXAirJgqgcm3YGzzn61fJv7tk5Rtf5spKpYSpump": {
+      "symbol": "RUGNOMICS",
+      "created_at": "2026-08-25T11:43:28.379932667Z",
+      "first_seen": "2026-08-25T11:43:38.838650+00:00"
+    },
+    "s6g5JSeZf3Yd9KnGAfGJscQ4STgk8egJJnqXuw7pump": {
+      "symbol": "Idome",
+      "created_at": "2026-08-25T11:43:26.667490282Z",
+      "first_seen": "2026-08-25T11:43:38.838650+00:00"
+    },
+    "4ZUdCd4ioDdwZQyUZQeGB9GETEhYezKtUg5DcPsPpump": {
+      "symbol": "AMERICA",
+      "created_at": "2026-08-25T11:43:23.445902405Z",
+      "first_seen": "2026-08-25T11:43:38.838650+00:00"
+    },
+    "AdCg1cUxSj8zHeJfGqC1pRCTgKrdQnxzK6gzDfh2pump": {
+      "symbol": "SAVBAN",
+      "created_at": "2026-08-25T11:43:23.401239113Z",
+      "first_seen": "2026-08-25T11:43:38.838650+00:00"
     }
   },
   "alerted": [
