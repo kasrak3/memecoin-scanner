@@ -1730,11 +1730,6 @@
       "created_at": "2026-08-25T04:47:29.196287213Z",
       "first_seen": "2026-08-25T04:47:45.620294+00:00"
     },
-    "5WskSgNCqtUyHVRF9qFrKXttZ7MwDRSFirv1P5C9NA7v": {
-      "symbol": "NMOA",
-      "created_at": "2026-08-25T04:47:26.203365602Z",
-      "first_seen": "2026-08-25T04:47:45.620294+00:00"
-    },
     "C7BMczku1qnqYwaKBt3q4Tvaw3Tnfs1c9UuV6KQ2pump": {
       "symbol": "ROGGOL",
       "created_at": "2026-08-25T04:47:25.35177856Z",
@@ -1773,16 +1768,6 @@
     "9i6GdVHwZawbFS6aToqyf2Mar8tHiGMsDE3nQBBxpump": {
       "symbol": "PEG",
       "created_at": "2026-08-25T04:50:10.382788451Z",
-      "first_seen": "2026-08-25T04:50:22.830060+00:00"
-    },
-    "AShWZKo4iAL3CM31LLburppvyfZkqm1qUxTXVzZpDaPP": {
-      "symbol": "BATON",
-      "created_at": "2026-08-25T04:50:10.263441701Z",
-      "first_seen": "2026-08-25T04:50:22.830060+00:00"
-    },
-    "FcbbUHsqDQTttkeofsmWjPriBCEN2qDxLDps1CS7LwXs": {
-      "symbol": "CHAYET",
-      "created_at": "2026-08-25T04:50:07.414781318Z",
       "first_seen": "2026-08-25T04:50:22.830060+00:00"
     },
     "3MV2wkoc5GGfrTch3CdgRPgE5euXBhpmjeJH6S6vpump": {
@@ -2049,6 +2034,56 @@
       "symbol": "MOYA",
       "created_at": "2026-08-25T05:03:16.426358849Z",
       "first_seen": "2026-08-25T05:03:50.908271+00:00"
+    },
+    "FeZEcTJ72Q6NUZDPbFqRC7UiqVab8Tr2VTCHpquupump": {
+      "symbol": "IROKOGE",
+      "created_at": "2026-08-25T05:06:28.874717192Z",
+      "first_seen": "2026-08-25T05:06:34.291174+00:00"
+    },
+    "28ohwjZ8YF6vPvDvakmrg542K7MzQ7x8JavdyyV1pump": {
+      "symbol": "NEIRO",
+      "created_at": "2026-08-25T05:06:27.337783765Z",
+      "first_seen": "2026-08-25T05:06:34.291174+00:00"
+    },
+    "2KKvKc6He8HYDh4VEKhXh2kJWDKgdSkuwL2yYCgQDDzU": {
+      "symbol": "",
+      "created_at": "2026-08-25T05:06:26.312051156Z",
+      "first_seen": "2026-08-25T05:06:34.291174+00:00"
+    },
+    "4U2Kw1cbu9foM4fTY9SaURygKvhWZcG7XHvJxqfGpump": {
+      "symbol": "Cluey",
+      "created_at": "2026-08-25T05:06:23.318172611Z",
+      "first_seen": "2026-08-25T05:06:34.291174+00:00"
+    },
+    "G9dByGpcqQsNmLpTK8eCDXADNHpYMVzk2aQVwoeHpump": {
+      "symbol": "VOLJUG",
+      "created_at": "2026-08-25T05:06:18.318075609Z",
+      "first_seen": "2026-08-25T05:06:34.291174+00:00"
+    },
+    "41jzKc3CPi2tvKvgeDkS6JULFtCnhJf7CDBZxaHTpump": {
+      "symbol": "NMOA",
+      "created_at": "2026-08-25T05:06:17.191709576Z",
+      "first_seen": "2026-08-25T05:06:34.291174+00:00"
+    },
+    "3beykVJeivUPL1fnY5ZQjEREYmyPWec8GAjRuLmXpump": {
+      "symbol": "NMOA",
+      "created_at": "2026-08-25T05:06:16.758076791Z",
+      "first_seen": "2026-08-25T05:06:34.291174+00:00"
+    },
+    "BydMRWBkUcmRf7CfNSxqfozreuLqB8jt5GquJ5ukpump": {
+      "symbol": "BULL",
+      "created_at": "2026-08-25T05:06:15.464068897Z",
+      "first_seen": "2026-08-25T05:06:34.291174+00:00"
+    },
+    "YVUtqyXng5RsBfo6FfTQ4A3Um8ZNxAXVjKQmsYPpump": {
+      "symbol": "SEYONGPARK",
+      "created_at": "2026-08-25T05:06:13.685531976Z",
+      "first_seen": "2026-08-25T05:06:34.291174+00:00"
+    },
+    "BGM6sfZgzCV6Dhj72HtQhN3RpfLujHWh9qqUzhXWPp2K": {
+      "symbol": "ZORK",
+      "created_at": "2026-08-25T05:06:13.135106946Z",
+      "first_seen": "2026-08-25T05:06:34.291174+00:00"
     }
   },
   "alerted": [
@@ -2174,9 +2209,6 @@
     "HDd3UaJ4SnoBHpRBharo2xgAyNemYtQgkMNEPecpump"
   ],
   "rejected": [
-    "CEs9SxLWoop7RCe37bYa7incmxRe3E3mBB3RRDRjXJMR",
-    "GCa9TZMK9Q3VUSkhZgX76YAQBjqQd1dPxkBnZojFpump",
-    "C3rnjUvMdG5DRuBb3pWSnb2dY1ENoSa2zQFQDVPUm18y",
     "HEHmEmADzxJkppHCtzcgoHr5ShcW534woNrA3h8xzkq7",
     "BwU5FKzVFjXwCTddKCT7oNcJYBw5aXWnFY3ijJdKgWej",
     "6Zho1V16ge8ZN6uABEcyJAGadLPFoRP3Pm4zLKyfc9qL",
@@ -4173,6 +4205,9 @@
     "8qJz88JfiRycR5uK4pV63tiGFpbXryVqXC9v61f4moLY",
     "CGUdvBnVf7LgToBK22e3NACzKYGDWhLUJUTYGP64xQsp",
     "8aPsG69Jvtj9euR2cJ1hNk1xyy7CgzzakfH73Rnzo1zo",
-    "4dspsgxMEUqpvtJaFt1NbP4CKUkpda1fhFphztc1pump"
+    "4dspsgxMEUqpvtJaFt1NbP4CKUkpda1fhFphztc1pump",
+    "5WskSgNCqtUyHVRF9qFrKXttZ7MwDRSFirv1P5C9NA7v",
+    "AShWZKo4iAL3CM31LLburppvyfZkqm1qUxTXVzZpDaPP",
+    "FcbbUHsqDQTttkeofsmWjPriBCEN2qDxLDps1CS7LwXs"
   ]
 }
