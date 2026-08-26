@@ -928,7 +928,12 @@
     "8GB6MhYXzu2VEVMxbUq6REAmHowmYXwdoUUdSrSKpump": {
       "symbol": "NEEGON",
       "created_at": "2026-08-26T04:18:15.484446227Z",
-      "first_seen": "2026-08-26T04:18:25.271230+00:00"
+      "first_seen": "2026-08-26T04:18:25.271230+00:00",
+      "confirm": {
+        "liquidity": 30442.1,
+        "market_cap": 148118,
+        "at": "2026-08-26T04:30:38.211555+00:00"
+      }
     },
     "38ZNNevXENdA5c7aL5v5B9JjRKxjEUrqE9SQXPnzpump": {
       "symbol": "frog",
@@ -1008,7 +1013,12 @@
     "GxmYLRpBN1WM9UZWkwEuCrrmXZSgYSyN5iVAnYB9pump": {
       "symbol": "send",
       "created_at": "2026-08-26T04:20:14.530772483Z",
-      "first_seen": "2026-08-26T04:20:48.289753+00:00"
+      "first_seen": "2026-08-26T04:20:48.289753+00:00",
+      "confirm": {
+        "liquidity": 6282.65,
+        "market_cap": 9293,
+        "at": "2026-08-26T04:30:38.211555+00:00"
+      }
     },
     "FczektGCWDuGwQJQBB43w8vUWcLHpZkQyb95n5Jmpump": {
       "symbol": "Baldy",
@@ -1159,6 +1169,56 @@
       "symbol": "forgot",
       "created_at": "2026-08-26T04:27:43.423986487Z",
       "first_seen": "2026-08-26T04:28:07.879247+00:00"
+    },
+    "6aF7meTYApzUfw3onpJN4RP7YNP3jmqus84GaUCAo8Fg": {
+      "symbol": "FROG",
+      "created_at": "2026-08-26T04:30:33.35989905Z",
+      "first_seen": "2026-08-26T04:30:38.211267+00:00"
+    },
+    "B6KzD2WWm4Yjxm3nZfnsubUB5AdBU8BBXxfHbmBRrmSk": {
+      "symbol": "FROG",
+      "created_at": "2026-08-26T04:30:33.037056256Z",
+      "first_seen": "2026-08-26T04:30:38.211267+00:00"
+    },
+    "A9z22WabxMY21RaW9EdCWfFK65vFJMKxNzJygD8dCSHw": {
+      "symbol": "FROG",
+      "created_at": "2026-08-26T04:30:32.287768357Z",
+      "first_seen": "2026-08-26T04:30:38.211267+00:00"
+    },
+    "4Nah4DEC4ywemNsXqsu5eL41Fmf5rap42Ku8cVkqpump": {
+      "symbol": "DREAM",
+      "created_at": "2026-08-26T04:30:31.570398291Z",
+      "first_seen": "2026-08-26T04:30:38.211267+00:00"
+    },
+    "H1rvFkMWWkGYz7QPRXANjLCKVTjCKdtMeNtJhj9bvoRv": {
+      "symbol": "",
+      "created_at": "2026-08-26T04:30:30.56657616Z",
+      "first_seen": "2026-08-26T04:30:38.211267+00:00"
+    },
+    "F99MFL8Lx1owvLw14uW3SxdK1B14st2q1SGiF7pTpump": {
+      "symbol": "read",
+      "created_at": "2026-08-26T04:30:30.272137839Z",
+      "first_seen": "2026-08-26T04:30:38.211267+00:00"
+    },
+    "DqkRvrnJoiZwkjU52sRQciYKim6TSjHQDCokqi2Gpump": {
+      "symbol": ".",
+      "created_at": "2026-08-26T04:30:29.801283354Z",
+      "first_seen": "2026-08-26T04:30:38.211267+00:00"
+    },
+    "3S94zsAfFr3ukhXBVHqwsMVk1FLbx35BHJRQTrsLsuS7": {
+      "symbol": "WUF",
+      "created_at": "2026-08-26T04:30:28.405272325Z",
+      "first_seen": "2026-08-26T04:30:38.211267+00:00"
+    },
+    "CuyCTN5DpFCopQqceFQtbbioL8bH3bEb1ErNpZgMpump": {
+      "symbol": "read",
+      "created_at": "2026-08-26T04:30:26.7412077Z",
+      "first_seen": "2026-08-26T04:30:38.211267+00:00"
+    },
+    "HECRfT1HXcg55CSSRx614UFQ9jWaSZLVYmNc74uvghow": {
+      "symbol": "BLACKBEAR",
+      "created_at": "2026-08-26T04:30:25.967193999Z",
+      "first_seen": "2026-08-26T04:30:38.211267+00:00"
     }
   },
   "alerted": [
