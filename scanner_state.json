@@ -1,55 +1,5 @@
 {
   "pending": {
-    "88xkTUZD8HbZ9Q8wsnNZEx9U2NnJqi55R3UK7SPMpump": {
-      "symbol": "RABYET",
-      "created_at": "2026-08-26T13:04:50.135086605Z",
-      "first_seen": "2026-08-26T13:04:57.843978+00:00"
-    },
-    "ARPXVYsjEbyVPQcbgTkqrQeg8NrawybD4hKKxTH1tMmn": {
-      "symbol": "MPN",
-      "created_at": "2026-08-26T13:04:50.090805361Z",
-      "first_seen": "2026-08-26T13:04:57.843978+00:00"
-    },
-    "BnYGDSQVTJodXtZG8UcHmN9bKd1i6EGoY9vdX7TwbDdJ": {
-      "symbol": "HYPE-DN",
-      "created_at": "2026-08-26T13:04:46.532821832Z",
-      "first_seen": "2026-08-26T13:04:57.843978+00:00"
-    },
-    "Cj8LdTeFGDAheVZn8bDyFQjYj5r63V1nQAunU1c2D7z1": {
-      "symbol": "SOL-UP",
-      "created_at": "2026-08-26T13:04:46.5123552Z",
-      "first_seen": "2026-08-26T13:04:57.843978+00:00"
-    },
-    "68J3Tfx4vPQfC1XSE8jBKGDkmQs8AY5tPmUzifBkiYCP": {
-      "symbol": "HYPE-UP",
-      "created_at": "2026-08-26T13:04:46.478012658Z",
-      "first_seen": "2026-08-26T13:04:57.843978+00:00"
-    },
-    "22JKmj6pSf2P7HvvWiX3t8uNop4iX4SBJk6nTVWtCJob": {
-      "symbol": "BTC-DN",
-      "created_at": "2026-08-26T13:04:45.882753034Z",
-      "first_seen": "2026-08-26T13:04:57.843978+00:00"
-    },
-    "5NMW2ceDrD7AszfKvCLMaNd6Pr1vSYKqJLAgPFWToQf2": {
-      "symbol": "BTC-UP",
-      "created_at": "2026-08-26T13:04:45.860462648Z",
-      "first_seen": "2026-08-26T13:04:57.843978+00:00"
-    },
-    "Gaz8nQjreMUVnb65X1przQ2ar9sNG4Z8SebAxeBQFDaR": {
-      "symbol": "SOL-DN",
-      "created_at": "2026-08-26T13:04:44.055429384Z",
-      "first_seen": "2026-08-26T13:04:57.843978+00:00"
-    },
-    "7VEw4WWmuJ2k64T6gQqhRs8T2veZnrvUASH3z3AjjJUp": {
-      "symbol": "XRP-UP",
-      "created_at": "2026-08-26T13:04:43.960555386Z",
-      "first_seen": "2026-08-26T13:04:57.843978+00:00"
-    },
-    "AcJhhA6Mw4bBWUVf9ug7DTYxmSUbPm8fc7t4iiASwfvx": {
-      "symbol": "XRP-DN",
-      "created_at": "2026-08-26T13:04:43.954869203Z",
-      "first_seen": "2026-08-26T13:04:57.843978+00:00"
-    },
     "B2kmKB8D2VbKDnf7ojYjavobbzxyue6qZfNSScnVpump": {
       "symbol": "DNA",
       "created_at": "2026-08-26T13:07:29.164278936Z",
@@ -1523,7 +1473,12 @@
     "7KkXNCoJA1uNVahThhuFsBqVqtwm7BsCvWRyrtvUpump": {
       "symbol": "CRYPTO",
       "created_at": "2026-08-26T14:50:21.715839467Z",
-      "first_seen": "2026-08-26T14:50:40.667242+00:00"
+      "first_seen": "2026-08-26T14:50:40.667242+00:00",
+      "confirm": {
+        "liquidity": 81275.56,
+        "market_cap": 778353,
+        "at": "2026-08-26T15:06:02.563708+00:00"
+      }
     },
     "4oEikGykNkW2EkEoQk1g13x4GrqnJt3NaPNjYE9x1wDi": {
       "symbol": "OWP",
@@ -1739,6 +1694,56 @@
       "symbol": "dick",
       "created_at": "2026-08-26T15:02:37.76410212Z",
       "first_seen": "2026-08-26T15:03:02.816302+00:00"
+    },
+    "DByFq6YbFf9SPVYMmXx3NuGLfwKd5TeiAMCoPB53pump": {
+      "symbol": "CTCP",
+      "created_at": "2026-08-26T15:05:50.838405162Z",
+      "first_seen": "2026-08-26T15:06:02.563374+00:00"
+    },
+    "HnsXUUTeTeDbkatGGAV1sY3Wxk5vQhWZSMvP5dCypump": {
+      "symbol": "angel",
+      "created_at": "2026-08-26T15:05:50.088126811Z",
+      "first_seen": "2026-08-26T15:06:02.563374+00:00"
+    },
+    "3GGnByYwnsRTRSz5pzxXaQnpPvzQaNr9tyV1gnXJpump": {
+      "symbol": "NBA",
+      "created_at": "2026-08-26T15:05:49.646825071Z",
+      "first_seen": "2026-08-26T15:06:02.563374+00:00"
+    },
+    "CD94vaifS5SBLtCLfKZWsRfC2mAij2nxvZbzDvMEpump": {
+      "symbol": "EAGLE",
+      "created_at": "2026-08-26T15:05:43.00692809Z",
+      "first_seen": "2026-08-26T15:06:02.563374+00:00"
+    },
+    "BVQsUyqo9fYxgd52gU1jZwCfKTddda8HHNxnFBvopump": {
+      "symbol": "$PEWDIEPIE",
+      "created_at": "2026-08-26T15:05:40.578451321Z",
+      "first_seen": "2026-08-26T15:06:02.563374+00:00"
+    },
+    "3Lrzpya553aMExWXbma9mEULSDFh8p3nb4XYwWKnKfjP": {
+      "symbol": "TRADEX",
+      "created_at": "2026-08-26T15:05:34.014333294Z",
+      "first_seen": "2026-08-26T15:06:02.563374+00:00"
+    },
+    "5bGLW29FpytMDkaJm5r1RmEHp4sJrJgwHSsPtVxEpump": {
+      "symbol": "NBA",
+      "created_at": "2026-08-26T15:05:33.774626513Z",
+      "first_seen": "2026-08-26T15:06:02.563374+00:00"
+    },
+    "5DqS5wGqicpGdfoSJK5dYmupPt5SUjUyAgD3jecEpump": {
+      "symbol": "NBA",
+      "created_at": "2026-08-26T15:05:33.159344749Z",
+      "first_seen": "2026-08-26T15:06:02.563374+00:00"
+    },
+    "Fr7nwKHcBFi7uJgmQsFJ1JoAVQH8gZLP88KZrwvdpump": {
+      "symbol": "100MSF",
+      "created_at": "2026-08-26T15:05:32.067794118Z",
+      "first_seen": "2026-08-26T15:06:02.563374+00:00"
+    },
+    "FiUVxhejSBTsUfx5D1mkN37kS6K99ZvwchjX37AgMtHY": {
+      "symbol": "STONKVERSE",
+      "created_at": "2026-08-26T15:05:31.560418263Z",
+      "first_seen": "2026-08-26T15:06:02.563374+00:00"
     }
   },
   "alerted": [
