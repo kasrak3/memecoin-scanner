@@ -1,55 +1,5 @@
 {
   "pending": {
-    "9sNWS5TYnPQRpf33vtbDebPoXp4Ew3opR1V3NvZapump": {
-      "symbol": "Credit",
-      "created_at": "2026-08-26T15:12:00.00832494Z",
-      "first_seen": "2026-08-26T15:12:02.624140+00:00"
-    },
-    "3kjR5XwztkUAtY7QzNWgwWg7pgnia8Gy52Pyk4o6pump": {
-      "symbol": "juice",
-      "created_at": "2026-08-26T15:11:59.529270804Z",
-      "first_seen": "2026-08-26T15:12:02.624140+00:00"
-    },
-    "6ssU5GxN7YJpNvLsRZHVrN6hgdmhkbjYZjH5DPMpj51c": {
-      "symbol": "",
-      "created_at": "2026-08-26T15:11:58.367719352Z",
-      "first_seen": "2026-08-26T15:12:02.624140+00:00"
-    },
-    "7wRhZGSv91k8QP9s9uSvnZrqsBgD5PKYUiDLHoCDpump": {
-      "symbol": "TIW",
-      "created_at": "2026-08-26T15:11:58.128392546Z",
-      "first_seen": "2026-08-26T15:12:02.624140+00:00"
-    },
-    "8ZAAAPme3SorobyToQRkxmSA2jCKtmxX3RqMeo4Dpump": {
-      "symbol": "BM",
-      "created_at": "2026-08-26T15:11:56.631791455Z",
-      "first_seen": "2026-08-26T15:12:02.624140+00:00"
-    },
-    "4JeCtmYiJA2r51fbivWnYHTHMiPvBJZBZnNnp3gxpump": {
-      "symbol": "NBA",
-      "created_at": "2026-08-26T15:11:55.08243589Z",
-      "first_seen": "2026-08-26T15:12:02.624140+00:00"
-    },
-    "ESJiMpGPta2v7kAWaLLj1aR2zUso9wA4wep57fgfpump": {
-      "symbol": "adapt",
-      "created_at": "2026-08-26T15:11:54.035862032Z",
-      "first_seen": "2026-08-26T15:12:02.624140+00:00"
-    },
-    "4U3LmgXHrFfW9C9e4bRfmjJoeERDty1iiYBP3hz1bonk": {
-      "symbol": "LEGION",
-      "created_at": "2026-08-26T15:11:52.87933481Z",
-      "first_seen": "2026-08-26T15:12:02.624140+00:00"
-    },
-    "G3GtGz3v5BatNm9K4wzyCspVP8nEYeHGJKYE3ZdMpump": {
-      "symbol": "EM",
-      "created_at": "2026-08-26T15:11:52.193469639Z",
-      "first_seen": "2026-08-26T15:12:02.624140+00:00"
-    },
-    "EmK3ZWLQ31FGf2LgKD8fj64hNmAHpWk57uKWD8Ppump": {
-      "symbol": "BARON LEO",
-      "created_at": "2026-08-26T15:11:50.316186313Z",
-      "first_seen": "2026-08-26T15:12:02.624140+00:00"
-    },
     "9Eb4MJw85vFPimXQQe83h3HCEX7FtaxzKoDETK6KbZwy": {
       "symbol": "REEL",
       "created_at": "2026-08-26T15:14:51.347575661Z",
@@ -1723,7 +1673,12 @@
     "9B8Wi9Ur7jfzigXujiAg3CLwbFhSSULUrfbkqKBdpump": {
       "symbol": "CCP",
       "created_at": "2026-08-26T17:01:11.552651807Z",
-      "first_seen": "2026-08-26T17:01:23.233605+00:00"
+      "first_seen": "2026-08-26T17:01:23.233605+00:00",
+      "confirm": {
+        "liquidity": 10173.56,
+        "market_cap": 20601,
+        "at": "2026-08-26T17:13:44.903177+00:00"
+      }
     },
     "HtSbVgp3oCScJNraftMXh9te442AeSKsEAVNSWmDwbjP": {
       "symbol": "ANSEM",
@@ -1879,6 +1834,56 @@
       "symbol": "WHITECAT",
       "created_at": "2026-08-26T17:10:23.597712759Z",
       "first_seen": "2026-08-26T17:10:42.152847+00:00"
+    },
+    "8wWA4WRW6Q5ppmWR8ByJk5o255TBg98giyiQCyhrgwXy": {
+      "symbol": "2K9",
+      "created_at": "2026-08-26T17:13:42.373685913Z",
+      "first_seen": "2026-08-26T17:13:44.902855+00:00"
+    },
+    "CtziXhu9NWTB98TScy7wv4nvGkEzxXew29pGQVR2pump": {
+      "symbol": "Cursey",
+      "created_at": "2026-08-26T17:13:41.469618632Z",
+      "first_seen": "2026-08-26T17:13:44.902855+00:00"
+    },
+    "8f1v5BsDFSsTEbpitq3mhtUghXdxsw5AYpozCfRvA8rM": {
+      "symbol": "Cursey",
+      "created_at": "2026-08-26T17:13:41.419205863Z",
+      "first_seen": "2026-08-26T17:13:44.902855+00:00"
+    },
+    "anrFotE5sMWXg8KyNwQ9oiwq75ySsXYNDYi7B3wpump": {
+      "symbol": "Cursey",
+      "created_at": "2026-08-26T17:13:41.419105626Z",
+      "first_seen": "2026-08-26T17:13:44.902855+00:00"
+    },
+    "9CJ72EbMZU7jo771cai7sW2bLdZN3FoL9GPo6ij9pump": {
+      "symbol": "Cursey",
+      "created_at": "2026-08-26T17:13:41.076155181Z",
+      "first_seen": "2026-08-26T17:13:44.902855+00:00"
+    },
+    "83wrDHtY6Tfvr8iBXt4coyhGE5DuURU2ppdFQyGFpump": {
+      "symbol": "Cursey",
+      "created_at": "2026-08-26T17:13:40.908661457Z",
+      "first_seen": "2026-08-26T17:13:44.902855+00:00"
+    },
+    "8AS9s1xxcwoLbs6jH3YAnEVnpGD1kZYMaxNBQV6Bpump": {
+      "symbol": "Cursey",
+      "created_at": "2026-08-26T17:13:40.663406056Z",
+      "first_seen": "2026-08-26T17:13:44.902855+00:00"
+    },
+    "85fjg33kECmC5P5fw3JdCxR3oYtnrEsRQH3tytMbpump": {
+      "symbol": "zaiky",
+      "created_at": "2026-08-26T17:13:38.539414078Z",
+      "first_seen": "2026-08-26T17:13:44.902855+00:00"
+    },
+    "FavkMvGHESvt2dLJjdY2F6cewR8ZjdHedKMAvsT2pump": {
+      "symbol": "VOLCOM",
+      "created_at": "2026-08-26T17:13:31.389474172Z",
+      "first_seen": "2026-08-26T17:13:44.902855+00:00"
+    },
+    "AU73FQPMsxLYGjozCXG5yf2jMwjLXEnKTNt18hA9pump": {
+      "symbol": "STONK",
+      "created_at": "2026-08-26T17:13:29.365521961Z",
+      "first_seen": "2026-08-26T17:13:44.902855+00:00"
     }
   },
   "alerted": [
