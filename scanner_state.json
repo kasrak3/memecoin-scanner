@@ -718,7 +718,12 @@
     "5CwpF2UsgWvNKeDQaKZPjQCd6jM4K32yNVRVCuh1pump": {
       "symbol": "KURO",
       "created_at": "2026-08-28T02:18:06.957771002Z",
-      "first_seen": "2026-08-28T02:18:19.953530+00:00"
+      "first_seen": "2026-08-28T02:18:19.953530+00:00",
+      "confirm": {
+        "liquidity": 21024.74,
+        "market_cap": 69258,
+        "at": "2026-08-28T02:29:51.319714+00:00"
+      }
     },
     "2EGKUeKx4mkxVUuRrJtSZkLJDynx8ZrG58wwSbY8B6J9": {
       "symbol": "\u725b\u67651",
@@ -939,6 +944,56 @@
       "symbol": "gen",
       "created_at": "2026-08-28T02:27:13.577258991Z",
       "first_seen": "2026-08-28T02:27:32.599326+00:00"
+    },
+    "2CzV1udZFamS8fJo9UKmnNCjfWHQepnqWAHSEFXVpump": {
+      "symbol": "UP",
+      "created_at": "2026-08-28T02:29:46.365179994Z",
+      "first_seen": "2026-08-28T02:29:51.319475+00:00"
+    },
+    "FRZtxW9ZwafWkYu1cpChyZu3cTSjaQEr9FRAsoJYpump": {
+      "symbol": "BULLSHIT",
+      "created_at": "2026-08-28T02:29:46.307280462Z",
+      "first_seen": "2026-08-28T02:29:51.319475+00:00"
+    },
+    "2HNhe1gWWyctyCxiMTjQrpD5tLJADHdX2ToPxc6kpump": {
+      "symbol": "CASINO",
+      "created_at": "2026-08-28T02:29:46.224864589Z",
+      "first_seen": "2026-08-28T02:29:51.319475+00:00"
+    },
+    "8D3vzqbR3Gtgh7dLnm1vvoejivDvjzdT2NUJrcFUpump": {
+      "symbol": "TBS",
+      "created_at": "2026-08-28T02:29:45.859644474Z",
+      "first_seen": "2026-08-28T02:29:51.319475+00:00"
+    },
+    "7fKpfyLAMMv9Var4bqshYpCeXv1BTTj72c3XYbBfb51w": {
+      "symbol": "UP",
+      "created_at": "2026-08-28T02:29:43.373965658Z",
+      "first_seen": "2026-08-28T02:29:51.319475+00:00"
+    },
+    "23S6pGa7j4nopJsfHGihFHqkW4diYGUMHajxNZr4bcQk": {
+      "symbol": "PUMPFOLIO",
+      "created_at": "2026-08-28T02:29:42.536193909Z",
+      "first_seen": "2026-08-28T02:29:51.319475+00:00"
+    },
+    "39RgxHoaUtY17QVBpmYVAe5zTum5NutK4NtvQAUxpump": {
+      "symbol": "Casino",
+      "created_at": "2026-08-28T02:29:41.852487814Z",
+      "first_seen": "2026-08-28T02:29:51.319475+00:00"
+    },
+    "C6xvqfWU61mt8MdH6cEndBg7iS78HGa6R3Pa5MX8pump": {
+      "symbol": "PUMPCOIN",
+      "created_at": "2026-08-28T02:29:39.116308227Z",
+      "first_seen": "2026-08-28T02:29:51.319475+00:00"
+    },
+    "EEshyeCdQqgNKT7Wt5VSiLNjodzo9gAhZaBR1syeQgEM": {
+      "symbol": "Wyman",
+      "created_at": "2026-08-28T02:29:38.295378762Z",
+      "first_seen": "2026-08-28T02:29:51.319475+00:00"
+    },
+    "Gry4JqrUUr2nfSds2Wxhi1N9YKRLPTSZj9zNyaf5pump": {
+      "symbol": "GTSNFX",
+      "created_at": "2026-08-28T02:29:38.215504574Z",
+      "first_seen": "2026-08-28T02:29:51.319475+00:00"
     }
   },
   "alerted": [
