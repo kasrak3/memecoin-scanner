@@ -715,16 +715,6 @@
       "created_at": "2026-08-28T02:18:08.637047564Z",
       "first_seen": "2026-08-28T02:18:19.953530+00:00"
     },
-    "5CwpF2UsgWvNKeDQaKZPjQCd6jM4K32yNVRVCuh1pump": {
-      "symbol": "KURO",
-      "created_at": "2026-08-28T02:18:06.957771002Z",
-      "first_seen": "2026-08-28T02:18:19.953530+00:00",
-      "confirm": {
-        "liquidity": 21024.74,
-        "market_cap": 69258,
-        "at": "2026-08-28T02:29:51.319714+00:00"
-      }
-    },
     "2EGKUeKx4mkxVUuRrJtSZkLJDynx8ZrG58wwSbY8B6J9": {
       "symbol": "\u725b\u67651",
       "created_at": "2026-08-28T02:18:06.304973309Z",
@@ -994,6 +984,56 @@
       "symbol": "GTSNFX",
       "created_at": "2026-08-28T02:29:38.215504574Z",
       "first_seen": "2026-08-28T02:29:51.319475+00:00"
+    },
+    "25FdVtij7hVYzbv2BWtWkyvkHLpXVkUp5jvDXkM2pump": {
+      "symbol": "GayPump",
+      "created_at": "2026-08-28T02:32:06.190967452Z",
+      "first_seen": "2026-08-28T02:32:14.180007+00:00"
+    },
+    "9zVj4kuvziFcc5rTTCDkQ6FqZXsFQQNGRtTaJk8eoSdm": {
+      "symbol": "BBC",
+      "created_at": "2026-08-28T02:32:04.21754616Z",
+      "first_seen": "2026-08-28T02:32:14.180007+00:00"
+    },
+    "FeAPCU5P21wverbGGhbPxz9c9dNdhx5oMf6oHpr5pump": {
+      "symbol": "ChuzzNo",
+      "created_at": "2026-08-28T02:32:04.081973174Z",
+      "first_seen": "2026-08-28T02:32:14.180007+00:00"
+    },
+    "CZPfWXHyTtLQMCyV6dd6XEqcAcBjzFdR8QgputScXygq": {
+      "symbol": "BBC",
+      "created_at": "2026-08-28T02:32:04.024896634Z",
+      "first_seen": "2026-08-28T02:32:14.180007+00:00"
+    },
+    "GXYzQijJNP74s8UcxFNvxGZy46rG15H3QEWvZKg5pump": {
+      "symbol": "GTA 6",
+      "created_at": "2026-08-28T02:32:02.466336475Z",
+      "first_seen": "2026-08-28T02:32:14.180007+00:00"
+    },
+    "57nGrbqU7cL94hF6Lomc8mzdCsWnuPDeJJkUVoJgHVgR": {
+      "symbol": "BAG",
+      "created_at": "2026-08-28T02:32:01.266452105Z",
+      "first_seen": "2026-08-28T02:32:14.180007+00:00"
+    },
+    "G5usJgYL6jd82ypdswfM1GbbcVcZVnocUSYvAprzZHbB": {
+      "symbol": "KURO",
+      "created_at": "2026-08-28T02:32:00.756053726Z",
+      "first_seen": "2026-08-28T02:32:14.180007+00:00"
+    },
+    "CGwNWeu5Um3Ag67anqdFSZXFt1pdAtxZRtt9MWLBpump": {
+      "symbol": "GTVNX",
+      "created_at": "2026-08-28T02:32:00.258982179Z",
+      "first_seen": "2026-08-28T02:32:14.180007+00:00"
+    },
+    "3n9tJdCu8M47K1hxpKRKP74zE6ccUAB7oy1Wzd3Xpump": {
+      "symbol": "Solana",
+      "created_at": "2026-08-28T02:31:59.575982206Z",
+      "first_seen": "2026-08-28T02:32:14.180007+00:00"
+    },
+    "7nsDfogTyCf7yzfYLfwXipySuUzvbNG2SHiJPWpypump": {
+      "symbol": "Solana",
+      "created_at": "2026-08-28T02:31:59.496134364Z",
+      "first_seen": "2026-08-28T02:32:14.180007+00:00"
     }
   },
   "alerted": [
@@ -1139,7 +1179,8 @@
     "8a86ve6WVrxocAcBerZDeYYzvNv77U1i9UtPEzysbonk",
     "9B8Wi9Ur7jfzigXujiAg3CLwbFhSSULUrfbkqKBdpump",
     "24GWZn5HerwLTVoZuC3H7Kxg6jLFMvroA1hTU4uWpump",
-    "3RdPKvWbhF38dYeogebh9TJeBZ88rDb8sSFmZGEPpump"
+    "3RdPKvWbhF38dYeogebh9TJeBZ88rDb8sSFmZGEPpump",
+    "5CwpF2UsgWvNKeDQaKZPjQCd6jM4K32yNVRVCuh1pump"
   ],
   "rejected": [
     "8MDb4fFmYuTFA8SgqhvRNBTqE12iyN6hUc4RK2U38tDK",
