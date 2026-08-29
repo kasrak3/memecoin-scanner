@@ -1,55 +1,5 @@
 {
   "pending": {
-    "GrhDDmFVtEt5qna7kxwb85RML22JoDDmHgf2XJKepump": {
-      "symbol": "trump",
-      "created_at": "2026-08-29T08:03:30.83718922Z",
-      "first_seen": "2026-08-29T08:03:38.705772+00:00"
-    },
-    "Cbng2Yf2feHK6YeaNQ3oCECTXPZN6TFh8hJWHvCjpump": {
-      "symbol": "MFT",
-      "created_at": "2026-08-29T08:03:29.507329809Z",
-      "first_seen": "2026-08-29T08:03:38.705772+00:00"
-    },
-    "668n21YAJQNmrvdjBaKzzKeyxbSKHLdc5uNJkqKXtEwQ": {
-      "symbol": "INUAPE",
-      "created_at": "2026-08-29T08:03:26.103129439Z",
-      "first_seen": "2026-08-29T08:03:38.705772+00:00"
-    },
-    "8cSzQwjwkVtkYrwKheXzEagX5ruZhVfx9FP4kqW7pump": {
-      "symbol": "CLIMB",
-      "created_at": "2026-08-29T08:03:25.6898565Z",
-      "first_seen": "2026-08-29T08:03:38.705772+00:00"
-    },
-    "41sDybFcVznaC4SkcHtRVEXXRr8Dtrxe9iVLtG2qokzX": {
-      "symbol": "\u5b59\u5b87\u6668\u559c\u6b22\u666f\u751c",
-      "created_at": "2026-08-29T08:03:25.148726961Z",
-      "first_seen": "2026-08-29T08:03:38.705772+00:00"
-    },
-    "FYSsAanSikR4LDw1gnusF9TDdniD2vFmzHsYCVCpTAMT": {
-      "symbol": "",
-      "created_at": "2026-08-29T08:03:24.659991789Z",
-      "first_seen": "2026-08-29T08:03:38.705772+00:00"
-    },
-    "3Cbvreveci3qk5n5k7yNHKHU2z5RusxFY78CU1i1Kjnz": {
-      "symbol": "WHALES",
-      "created_at": "2026-08-29T08:03:22.595773507Z",
-      "first_seen": "2026-08-29T08:03:38.705772+00:00"
-    },
-    "3eYhXY5zq8RVnwKawQfYTirgPHxhjML1eQkWpwpGpump": {
-      "symbol": "MEMECONOMICS",
-      "created_at": "2026-08-29T08:03:22.066407955Z",
-      "first_seen": "2026-08-29T08:03:38.705772+00:00"
-    },
-    "CuqBn8DGqEzCFzk98BEQk8W5iidCoWDiqZiZ3pFW4dT2": {
-      "symbol": "Elon",
-      "created_at": "2026-08-29T08:03:21.459039355Z",
-      "first_seen": "2026-08-29T08:03:38.705772+00:00"
-    },
-    "6ZruYc4xRAkwGhurufDfds3YmDmqwS2eHBrSxbuUJ8BP": {
-      "symbol": "BTC15Y",
-      "created_at": "2026-08-29T08:02:54.229239817Z",
-      "first_seen": "2026-08-29T08:03:38.705772+00:00"
-    },
     "GtfaqKkmVT3wheQT8W2Fvbo3zhyVJpLjSnZDoxLK9Zez": {
       "symbol": "MEMECONOMICS",
       "created_at": "2026-08-29T08:06:06.513123449Z",
@@ -1693,7 +1643,12 @@
     "5HTeFAka8LgGQBoSgzsPry3Yv56zFkv2dWY2sks8pump": {
       "symbol": "VEGA",
       "created_at": "2026-08-29T09:34:41.34370581Z",
-      "first_seen": "2026-08-29T09:35:08.533308+00:00"
+      "first_seen": "2026-08-29T09:35:08.533308+00:00",
+      "confirm": {
+        "liquidity": 27858.61,
+        "market_cap": 117333,
+        "at": "2026-08-29T10:03:45.251616+00:00"
+      }
     },
     "C5jqrLuvSSG5HUJFx1x5PqrNwcffzbCRra5Etj1Dpump": {
       "symbol": "ANNAMALAI",
@@ -2209,6 +2164,56 @@
       "symbol": "MOLJUG",
       "created_at": "2026-08-29T10:00:56.185291169Z",
       "first_seen": "2026-08-29T10:01:12.048941+00:00"
+    },
+    "B9J64sZE5r2knqLAyy9zEFtsXFhsbAErZwRmM2gWPWn3": {
+      "symbol": "Faith",
+      "created_at": "2026-08-29T10:03:42.263919361Z",
+      "first_seen": "2026-08-29T10:03:45.251343+00:00"
+    },
+    "CHtSYPzVQKnLSmyFyVtk8F2jH7aGuEsSuo8jwPpiHkTn": {
+      "symbol": "PENGUIN",
+      "created_at": "2026-08-29T10:03:40.691129811Z",
+      "first_seen": "2026-08-29T10:03:45.251343+00:00"
+    },
+    "Gxb4gvLraJf4fyTxHiEDPtwLVuTi7Q7dmBKRA38L3Edc": {
+      "symbol": "NFTPro",
+      "created_at": "2026-08-29T10:03:37.473632919Z",
+      "first_seen": "2026-08-29T10:03:45.251343+00:00"
+    },
+    "AWBNgpAsrezW3fhjhGxqJ8yTKUexRwdqerfCjdzP7pES": {
+      "symbol": "Faith",
+      "created_at": "2026-08-29T10:03:36.874288889Z",
+      "first_seen": "2026-08-29T10:03:45.251343+00:00"
+    },
+    "CrJ11viYBaucjxHL5z4juLS5cJSf3YQ2E3ZoMPLppump": {
+      "symbol": "Back",
+      "created_at": "2026-08-29T10:03:35.672779205Z",
+      "first_seen": "2026-08-29T10:03:45.251343+00:00"
+    },
+    "CmyZte14VMPoV6nYP7iFiHCi3pw558JVyKSZ3BqYpump": {
+      "symbol": "BLAAGE",
+      "created_at": "2026-08-29T10:03:29.998145626Z",
+      "first_seen": "2026-08-29T10:03:45.251343+00:00"
+    },
+    "87EHQns6VUumC2dHCzJjVsZiRpcqR9g2xS3dxc8UBX6b": {
+      "symbol": "MPN",
+      "created_at": "2026-08-29T10:03:27.933616131Z",
+      "first_seen": "2026-08-29T10:03:45.251343+00:00"
+    },
+    "Fn3SjfyGkgfwJf7sZPCK9vb2vf1m97VFzzTShKtYpump": {
+      "symbol": "CHACOM",
+      "created_at": "2026-08-29T10:03:26.906109939Z",
+      "first_seen": "2026-08-29T10:03:45.251343+00:00"
+    },
+    "ExD6LkwYVE4Ccyahk2Abf93aRrk5UtBTzLz1jJ3cpump": {
+      "symbol": "Fluoddity",
+      "created_at": "2026-08-29T10:03:24.857514911Z",
+      "first_seen": "2026-08-29T10:03:45.251343+00:00"
+    },
+    "LnBnwHPH7XxcuwMHTsKsWpiomtTCovQytticwsUpump": {
+      "symbol": "Faith",
+      "created_at": "2026-08-29T10:03:23.585140502Z",
+      "first_seen": "2026-08-29T10:03:45.251343+00:00"
     }
   },
   "alerted": [
