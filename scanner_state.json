@@ -1,55 +1,5 @@
 {
   "pending": {
-    "79HZTAZasrXnVDTWxRnTsBVdbe3hMWe5XG5HTJyLkh5u": {
-      "symbol": "NFTPro",
-      "created_at": "2026-08-29T11:03:54.41405549Z",
-      "first_seen": "2026-08-29T11:04:01.573403+00:00"
-    },
-    "Hz2kNi7XEBU9g6JXfjSzJw4bP2v3rRVFLX8Uu45EGaAX": {
-      "symbol": "",
-      "created_at": "2026-08-29T11:03:46.988965934Z",
-      "first_seen": "2026-08-29T11:04:01.573403+00:00"
-    },
-    "AV8WpjSsgJ9Ngfu2yaJjwDi5m1xPgFr8nyMjezetpump": {
-      "symbol": "MOLMON",
-      "created_at": "2026-08-29T11:03:46.16642158Z",
-      "first_seen": "2026-08-29T11:04:01.573403+00:00"
-    },
-    "4PN7ZYXyEhcL3oZMsUNmFCgcyJRfAS5pKzxwr7umMYYi": {
-      "symbol": "",
-      "created_at": "2026-08-29T11:03:45.644579425Z",
-      "first_seen": "2026-08-29T11:04:01.573403+00:00"
-    },
-    "4mVAFqMjnA1ANFEefSgUXYcsnwzKykB8qjt4mMWGpump": {
-      "symbol": "Nitter",
-      "created_at": "2026-08-29T11:03:45.598436614Z",
-      "first_seen": "2026-08-29T11:04:01.573403+00:00"
-    },
-    "CqHPDAdvPaoBpCeebk3t1p7kDDcGAxT5Zw2mUAKCpump": {
-      "symbol": "MARIO",
-      "created_at": "2026-08-29T11:03:43.4218259Z",
-      "first_seen": "2026-08-29T11:04:01.573403+00:00"
-    },
-    "4vV4aKYu2asahzEn6i3sydx9L4wx35A9P66nF9xZpump": {
-      "symbol": "/&:):&",
-      "created_at": "2026-08-29T11:03:42.316528608Z",
-      "first_seen": "2026-08-29T11:04:01.573403+00:00"
-    },
-    "6YApKXgTD3xss2UJHpZ7JhZHCgDNKhSAA43PmJMppump": {
-      "symbol": "OUCH",
-      "created_at": "2026-08-29T11:03:39.815410254Z",
-      "first_seen": "2026-08-29T11:04:01.573403+00:00"
-    },
-    "A5D2QXYkRLK2m4orBUi9fWntMzSdLkqyAGBRqUAjESyZ": {
-      "symbol": "",
-      "created_at": "2026-08-29T11:03:38.380055223Z",
-      "first_seen": "2026-08-29T11:04:01.573403+00:00"
-    },
-    "51nvi89ZZrwackq2ZhPwJjQqFQoavpyuTdZ3GWVCnZco": {
-      "symbol": "",
-      "created_at": "2026-08-29T11:03:37.367762171Z",
-      "first_seen": "2026-08-29T11:04:01.573403+00:00"
-    },
     "AxZrqyfURQntSx8cg1wp7eszHT5EjnvkocM734es1RGS": {
       "symbol": "",
       "created_at": "2026-08-29T11:06:33.400606517Z",
@@ -1663,7 +1613,12 @@
     "3ecKs2oo4RXwJf16pcANBuJtZVhA8xwEi6Ewu2sLpump": {
       "symbol": "Magnetcoin",
       "created_at": "2026-08-29T12:50:12.777316966Z",
-      "first_seen": "2026-08-29T12:50:48.917634+00:00"
+      "first_seen": "2026-08-29T12:50:48.917634+00:00",
+      "confirm": {
+        "liquidity": 21822.1,
+        "market_cap": 75314,
+        "at": "2026-08-29T13:04:46.526106+00:00"
+      }
     },
     "HJgFAtF33yTKG8adkRijc9E12CaS5o9bCvY67EEEpump": {
       "symbol": "solana",
@@ -1864,6 +1819,56 @@
       "symbol": "SCRWIZ",
       "created_at": "2026-08-29T13:01:38.554186874Z",
       "first_seen": "2026-08-29T13:02:01.219437+00:00"
+    },
+    "Fwmnhzw626cKbcDasK3T7DaHxpvQh9k9zGzTuVZnpump": {
+      "symbol": "USA",
+      "created_at": "2026-08-29T13:04:41.962218229Z",
+      "first_seen": "2026-08-29T13:04:46.525839+00:00"
+    },
+    "DeipRXH5ZDhsFmsHtvfAzLRA4bNA1B4oyCv8v7V3pump": {
+      "symbol": "MIZORE",
+      "created_at": "2026-08-29T13:04:40.905997199Z",
+      "first_seen": "2026-08-29T13:04:46.525839+00:00"
+    },
+    "GKhctCY6Q2CQ2Sp9u6f48SQDXSZdYCAvRyq2t6tMZ777": {
+      "symbol": "DANI",
+      "created_at": "2026-08-29T13:04:37.469498192Z",
+      "first_seen": "2026-08-29T13:04:46.525839+00:00"
+    },
+    "Go1UsPwCQ4hWYvqhjKpRLJkejP6aCcgsizsYcKXBpump": {
+      "symbol": "CoViD",
+      "created_at": "2026-08-29T13:04:36.772666257Z",
+      "first_seen": "2026-08-29T13:04:46.525839+00:00"
+    },
+    "4mD25fe8euC3rdCdfupKTjvJ1Ysk1eKcS1HjZwMqpump": {
+      "symbol": "KYM",
+      "created_at": "2026-08-29T13:04:36.718408262Z",
+      "first_seen": "2026-08-29T13:04:46.525839+00:00"
+    },
+    "8Ykj7b3CAKyayXVF57H38ePdxPBFm59iR8NyYjwEpump": {
+      "symbol": "NECK",
+      "created_at": "2026-08-29T13:04:35.69499424Z",
+      "first_seen": "2026-08-29T13:04:46.525839+00:00"
+    },
+    "GTFonTZBjJi6hGFiX6PQMh7oKebyQns1x7eYNSGbpump": {
+      "symbol": "ZAN",
+      "created_at": "2026-08-29T13:04:34.721136603Z",
+      "first_seen": "2026-08-29T13:04:46.525839+00:00"
+    },
+    "4akwBKe215d12gLndoZH9cGSyNmDQhG9ZyD5BkZxpump": {
+      "symbol": "GRILLZ",
+      "created_at": "2026-08-29T13:04:33.606401121Z",
+      "first_seen": "2026-08-29T13:04:46.525839+00:00"
+    },
+    "ALpk7dx43ez33rLUeUGhw1oF84kvCpvHwiRd85y2pump": {
+      "symbol": "ChillCate",
+      "created_at": "2026-08-29T13:04:33.064797706Z",
+      "first_seen": "2026-08-29T13:04:46.525839+00:00"
+    },
+    "54AEXWf3u4GMKBByPHt4Hne4GV2RJBJV3phqeQBdpump": {
+      "symbol": "NECK",
+      "created_at": "2026-08-29T13:04:29.307161168Z",
+      "first_seen": "2026-08-29T13:04:46.525839+00:00"
     }
   },
   "alerted": [
