@@ -1,55 +1,5 @@
 {
   "pending": {
-    "A8YturgVAm7UffnVT2eq5M6oSkvRpyemeNKPHtTQpump": {
-      "symbol": "ApeRick",
-      "created_at": "2026-08-30T16:21:58.563167699Z",
-      "first_seen": "2026-08-30T16:22:03.790844+00:00"
-    },
-    "BxLjZABsMkcR2hqbKAYyhzEX2gk5iZohHXqkyBJ2pump": {
-      "symbol": "MACHI",
-      "created_at": "2026-08-30T16:21:56.684500963Z",
-      "first_seen": "2026-08-30T16:22:03.790844+00:00"
-    },
-    "ACpDhdtT8F2NLkSGpb5cF4oaJjRYRkpqA3NPkpxfpump": {
-      "symbol": "MACHI",
-      "created_at": "2026-08-30T16:21:56.681688866Z",
-      "first_seen": "2026-08-30T16:22:03.790844+00:00"
-    },
-    "3K3WwqngJL9VYyiVCmR4zVzN5BZWcBvf8HKzSziDpump": {
-      "symbol": "MACHI",
-      "created_at": "2026-08-30T16:21:56.518239678Z",
-      "first_seen": "2026-08-30T16:22:03.790844+00:00"
-    },
-    "EXcJfUEJiQtUnXrK1gTbHpNs5wQH397juccpKYippump": {
-      "symbol": "MACHI",
-      "created_at": "2026-08-30T16:21:53.426378878Z",
-      "first_seen": "2026-08-30T16:22:03.790844+00:00"
-    },
-    "5q7igsQAnHCahomATPYbcHfncWsqb8RLqXLhZBv5pump": {
-      "symbol": "MACHI",
-      "created_at": "2026-08-30T16:21:53.319453853Z",
-      "first_seen": "2026-08-30T16:22:03.790844+00:00"
-    },
-    "8L6hcXKFwZx1gM3gWSWfPuhnG94tYP9CxKVboT4Tpump": {
-      "symbol": "MACHI",
-      "created_at": "2026-08-30T16:21:53.300344812Z",
-      "first_seen": "2026-08-30T16:22:03.790844+00:00"
-    },
-    "9XvuHs6D2HTsWjW2NdL2ZoDB6gMUqBQNzDkECnATpump": {
-      "symbol": "EEF",
-      "created_at": "2026-08-30T16:21:51.362046516Z",
-      "first_seen": "2026-08-30T16:22:03.790844+00:00"
-    },
-    "83czre7yRDv7uyfkbaoTkXGHmk5arsCAFQ835xiPpump": {
-      "symbol": "VENOM",
-      "created_at": "2026-08-30T16:21:50.54935356Z",
-      "first_seen": "2026-08-30T16:22:03.790844+00:00"
-    },
-    "6qxg3BrXCxXUZPDqjhidoXh4jtjuuYnXCuTUUPx3pump": {
-      "symbol": "boil",
-      "created_at": "2026-08-30T16:21:48.715590952Z",
-      "first_seen": "2026-08-30T16:22:03.790844+00:00"
-    },
     "79KCfx8Qa2o1UmdK6ivdKk8pgiZoFQ8KHFEWYbazpump": {
       "symbol": "VENOM",
       "created_at": "2026-08-30T16:24:35.327440599Z",
@@ -1038,7 +988,12 @@
     "9Y6WWsazMH5cA8RpSwaKLKQMyea18JAbVjhpu4fNpump": {
       "symbol": "HeeHaw",
       "created_at": "2026-08-30T17:16:11.415133545Z",
-      "first_seen": "2026-08-30T17:16:16.431381+00:00"
+      "first_seen": "2026-08-30T17:16:16.431381+00:00",
+      "confirm": {
+        "liquidity": 15304.62,
+        "market_cap": 39166,
+        "at": "2026-08-30T18:22:32.970028+00:00"
+      }
     },
     "E3PbNrjwqAxf2RNnchPGi48fp6aLphxrqmZXRj6Mpump": {
       "symbol": "Market Cat",
@@ -2024,6 +1979,56 @@
       "symbol": "HouseBot",
       "created_at": "2026-08-30T18:19:09.061588868Z",
       "first_seen": "2026-08-30T18:19:38.977640+00:00"
+    },
+    "7WJ5LhdwgCZ9S7vahhqAWe36vTC4Gu9K2zuJxhWvpump": {
+      "symbol": "PVP",
+      "created_at": "2026-08-30T18:22:23.476641562Z",
+      "first_seen": "2026-08-30T18:22:32.969786+00:00"
+    },
+    "G11WxuyvTnkv49PFPnt8vrizxxysLQwGe5WQ39qypump": {
+      "symbol": "Shrub",
+      "created_at": "2026-08-30T18:22:21.174366047Z",
+      "first_seen": "2026-08-30T18:22:32.969786+00:00"
+    },
+    "GNQ3yFgmWJvQ8VbABM76rcREcHc1Y3Azcy8VSC1cpump": {
+      "symbol": "OG",
+      "created_at": "2026-08-30T18:22:20.094869561Z",
+      "first_seen": "2026-08-30T18:22:32.969786+00:00"
+    },
+    "4jyem7QVsc5gw4f9qEgheSapbRPJ46HakWjudWuypump": {
+      "symbol": "Pawg",
+      "created_at": "2026-08-30T18:22:19.960158901Z",
+      "first_seen": "2026-08-30T18:22:32.969786+00:00"
+    },
+    "2EntDvV6nHWxaQt7cLc4EskmVhvZPmtMgyYCBbmdpump": {
+      "symbol": "OG",
+      "created_at": "2026-08-30T18:22:19.181160676Z",
+      "first_seen": "2026-08-30T18:22:32.969786+00:00"
+    },
+    "48oKjW9XbmwMm3QykoUHrraByNteohGv263Ar1tbXwEa": {
+      "symbol": "LEAN",
+      "created_at": "2026-08-30T18:22:16.676018406Z",
+      "first_seen": "2026-08-30T18:22:32.969786+00:00"
+    },
+    "9noeu7Tm8qquXVLu7HJ7P8t6pMwftAma9nMtQvT7pump": {
+      "symbol": "Shrub",
+      "created_at": "2026-08-30T18:22:14.261736173Z",
+      "first_seen": "2026-08-30T18:22:32.969786+00:00"
+    },
+    "ExP4aeXFXFrXGFioh5hQYyhJ6JRVuvRPNfJsYsLDpump": {
+      "symbol": "LIL'SHRUB",
+      "created_at": "2026-08-30T18:22:07.541457823Z",
+      "first_seen": "2026-08-30T18:22:32.969786+00:00"
+    },
+    "HAyadWyDt2KfexiSFVSzhQqDiGyYBxkVQGKLDakxYNV": {
+      "symbol": "SPCX5Y",
+      "created_at": "2026-08-30T18:22:06.817162676Z",
+      "first_seen": "2026-08-30T18:22:32.969786+00:00"
+    },
+    "965dxssNzTx1pJ1PYfHpBVftEJHxcPu9j7SViejgfkt4": {
+      "symbol": "SPCX5N",
+      "created_at": "2026-08-30T18:22:06.720652778Z",
+      "first_seen": "2026-08-30T18:22:32.969786+00:00"
     }
   },
   "alerted": [
