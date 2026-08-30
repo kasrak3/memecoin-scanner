@@ -1515,11 +1515,6 @@
       "created_at": "2026-08-30T12:36:00.382261451Z",
       "first_seen": "2026-08-30T12:36:15.463857+00:00"
     },
-    "DfwgNKPbsTeTckaQp5Vy6T1Si8HWzYRNfbxdYqBWcTkj": {
-      "symbol": "VOGE",
-      "created_at": "2026-08-30T12:35:57.874553845Z",
-      "first_seen": "2026-08-30T12:36:15.463857+00:00"
-    },
     "8EoU7PraSSFMgdoCs8SW34Gc5UBTNx4q1wfFesmXpump": {
       "symbol": "XRPW",
       "created_at": "2026-08-30T12:35:56.846407345Z",
@@ -1583,11 +1578,6 @@
     "EVJkyfre9ZBN2r5sA7oKg4kRK6j2WhK7eqZEhRbdpump": {
       "symbol": "Bonogopad",
       "created_at": "2026-08-30T12:38:11.718323526Z",
-      "first_seen": "2026-08-30T12:38:42.085736+00:00"
-    },
-    "2GDBkkK7y7KTg7uW7SqAm17d4bxPoHcHTWycDf9Gn8C5": {
-      "symbol": "GOOGL",
-      "created_at": "2026-08-30T12:38:11.087688227Z",
       "first_seen": "2026-08-30T12:38:42.085736+00:00"
     },
     "ERwD6s3wtBoHEhu2Thnbnt3tFEeh6bpvmnTGeh7mXPGX": {
@@ -1889,6 +1879,56 @@
       "symbol": "WITNES",
       "created_at": "2026-08-30T12:53:02.75181871Z",
       "first_seen": "2026-08-30T12:53:28.169028+00:00"
+    },
+    "6iwbbu4MmspHRRXen9F78dEwubsjNPQ5ThPcALBgpump": {
+      "symbol": "Gozo bot",
+      "created_at": "2026-08-30T12:55:45.276816704Z",
+      "first_seen": "2026-08-30T12:55:55.064501+00:00"
+    },
+    "3uSCaaKxgqXrAY9f1QWBKuFowxJY3JL6YxBCsdidpump": {
+      "symbol": "BONGOCAT",
+      "created_at": "2026-08-30T12:55:43.872074211Z",
+      "first_seen": "2026-08-30T12:55:55.064501+00:00"
+    },
+    "6V3EmeTtdgtfSW2kDBtaADUck547agcxDWV4UHeppump": {
+      "symbol": "BONGOCAT",
+      "created_at": "2026-08-30T12:55:43.645842645Z",
+      "first_seen": "2026-08-30T12:55:55.064501+00:00"
+    },
+    "dyeJeqay7UTio8qZ5yhfKqgGhmAGA6soPnpD3TWpump": {
+      "symbol": "BONGOCAT",
+      "created_at": "2026-08-30T12:55:43.546205395Z",
+      "first_seen": "2026-08-30T12:55:55.064501+00:00"
+    },
+    "4p9gDXv5vM2nLFU2oG5ZUy5kqGA8AEuMMWTEFifcRzmo": {
+      "symbol": "\u5b59\u5b87\u6668",
+      "created_at": "2026-08-30T12:55:42.552275419Z",
+      "first_seen": "2026-08-30T12:55:55.064501+00:00"
+    },
+    "xrDxxK9vks13LE6dnka8a3LBRjob6zybsixiwqhpump": {
+      "symbol": "XOA",
+      "created_at": "2026-08-30T12:55:40.627008833Z",
+      "first_seen": "2026-08-30T12:55:55.064501+00:00"
+    },
+    "6sDWMuf7jk7xroDRHzZJVDVqjW8McMDmib8iUvnwpump": {
+      "symbol": "BONGOCAT",
+      "created_at": "2026-08-30T12:55:40.157161671Z",
+      "first_seen": "2026-08-30T12:55:55.064501+00:00"
+    },
+    "CYVxrXjsPAQUb1GUxXNwZJ2CGSMf7qnpHRrJfM2Xpump": {
+      "symbol": "BONGOCAT",
+      "created_at": "2026-08-30T12:55:39.6183686Z",
+      "first_seen": "2026-08-30T12:55:55.064501+00:00"
+    },
+    "BTXw6NTHmeKXdnMbJ9W71D7UfPCVMP3yyGJqUAHNpump": {
+      "symbol": "BONGOCAT",
+      "created_at": "2026-08-30T12:55:39.572292391Z",
+      "first_seen": "2026-08-30T12:55:55.064501+00:00"
+    },
+    "3mhGkfFoh9Tx4SugQ68aDo1WXsFzk3iXuzZt9vZspump": {
+      "symbol": "BONGOCAT",
+      "created_at": "2026-08-30T12:55:37.520080357Z",
+      "first_seen": "2026-08-30T12:55:55.064501+00:00"
     }
   },
   "alerted": [
@@ -2052,8 +2092,6 @@
     "ArNWG9ETBwCt1NYony8KdhvjJFoSeMYstgmhKshVpump"
   ],
   "rejected": [
-    "9LxXoxQ511nweJtLXNXto8GvGiDnUBhiUENUx3QkVPd",
-    "5z1dBQZPcyLmbGuG62kzs9i19E4RZSkWbBH7TLim6E7N",
     "HFEXwFuw2kNsWzs71QbGG3yjJvwSQD6RJnCAzYdXpump",
     "3zuJmvxqayAMRhNsccBio7NHsgKZFq4BHVRiwPzHm8Qa",
     "3m2ZbySakgwPFGPQ3JWe8pTNG7smNFr2ysZktk3MDoN2",
@@ -4051,6 +4089,8 @@
     "HBDk2zvhMsBBrJM7NzcM8vNpWSpSHEcwfQmof8FaWLgi",
     "EvwnxaD6chrySTUxQtGM2Y97HR6mLtnwB4YX46szfdYF",
     "A2AvJf6hnNBVacDjucC33KecFXkeS8kzFhkyEAa8sW4n",
-    "H8YGPaK3tgntTFG8cCkeRJN4r7xEScfd4oS5snYRxFLL"
+    "H8YGPaK3tgntTFG8cCkeRJN4r7xEScfd4oS5snYRxFLL",
+    "DfwgNKPbsTeTckaQp5Vy6T1Si8HWzYRNfbxdYqBWcTkj",
+    "2GDBkkK7y7KTg7uW7SqAm17d4bxPoHcHTWycDf9Gn8C5"
   ]
 }
