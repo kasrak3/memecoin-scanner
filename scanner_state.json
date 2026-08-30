@@ -1658,7 +1658,12 @@
     "5LkqSEqWnueVKZpqQ1PV2sVTgmnWkfrRtyJ2r8Z7pump": {
       "symbol": "WAPE",
       "created_at": "2026-08-30T13:38:14.677920148Z",
-      "first_seen": "2026-08-30T13:38:19.570007+00:00"
+      "first_seen": "2026-08-30T13:38:19.570007+00:00",
+      "confirm": {
+        "liquidity": 38244.35,
+        "market_cap": 203518,
+        "at": "2026-08-30T14:13:38.198830+00:00"
+      }
     },
     "iHXJMUyPzVndWFfFBK71sKHTDZZAdDumsstoh8uxxqH": {
       "symbol": "",
@@ -2339,6 +2344,56 @@
       "symbol": "cash cat",
       "created_at": "2026-08-30T14:10:53.574397693Z",
       "first_seen": "2026-08-30T14:11:04.501945+00:00"
+    },
+    "DZhuVkoxZvmEkTe2LJXRvyULMRJQ5P9tq3xcn6K7pump": {
+      "symbol": "qBTC",
+      "created_at": "2026-08-30T14:13:36.576672484Z",
+      "first_seen": "2026-08-30T14:13:38.198518+00:00"
+    },
+    "9ZSM3qFv2SU3gNV4cMqB8oPsAF5ePa1yhcdFskc9pump": {
+      "symbol": "CATCPA",
+      "created_at": "2026-08-30T14:13:36.148464241Z",
+      "first_seen": "2026-08-30T14:13:38.198518+00:00"
+    },
+    "GYoDgUN3g2PgnTUqxbwVeFD8aFdyrJhJmmumHb8NV14i": {
+      "symbol": "AMDC",
+      "created_at": "2026-08-30T14:13:35.022411882Z",
+      "first_seen": "2026-08-30T14:13:38.198518+00:00"
+    },
+    "4qjzLezcGkFSNwszC4KxZtwGPRJijV51kvUKLTComCgd": {
+      "symbol": "BINOHASH",
+      "created_at": "2026-08-30T14:13:34.697037237Z",
+      "first_seen": "2026-08-30T14:13:38.198518+00:00"
+    },
+    "5funwnpX7FN2NwvKagGGuWvgCnrNY8SV2HHE4kxYpump": {
+      "symbol": "ARCHADE",
+      "created_at": "2026-08-30T14:13:33.523285871Z",
+      "first_seen": "2026-08-30T14:13:38.198518+00:00"
+    },
+    "FmHyEJCfS8ZShcYzMTcke42eqPWnsxecYEgxaWQ6pump": {
+      "symbol": "COPPERSEM",
+      "created_at": "2026-08-30T14:13:33.217795598Z",
+      "first_seen": "2026-08-30T14:13:38.198518+00:00"
+    },
+    "8Phe7urUfWvikZTrZfUuLsxZGBnKzQwt37wtUXSpump": {
+      "symbol": "HAIRY",
+      "created_at": "2026-08-30T14:13:28.259107466Z",
+      "first_seen": "2026-08-30T14:13:38.198518+00:00"
+    },
+    "FbBafxk4cz9F54zFG7iPjSaqJCKEAt3ow3E53K2r3Zsf": {
+      "symbol": "FFB",
+      "created_at": "2026-08-30T14:13:27.869882465Z",
+      "first_seen": "2026-08-30T14:13:38.198518+00:00"
+    },
+    "2HoZs4b4zqvFiKzKiDS8vx6E4YFEkPuLwdBTvVexpump": {
+      "symbol": "Loser",
+      "created_at": "2026-08-30T14:13:27.561626342Z",
+      "first_seen": "2026-08-30T14:13:38.198518+00:00"
+    },
+    "6cWb7kGjZDBTgHqiC2aY6WagBY7nBjaSFeLtB8zVMzJG": {
+      "symbol": "DD",
+      "created_at": "2026-08-30T14:13:26.245465525Z",
+      "first_seen": "2026-08-30T14:13:38.198518+00:00"
     }
   },
   "alerted": [
