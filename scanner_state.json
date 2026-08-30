@@ -565,11 +565,6 @@
       "created_at": "2026-08-30T03:11:44.904993134Z",
       "first_seen": "2026-08-30T03:12:29.553870+00:00"
     },
-    "rXBkmRoCjjt46P35QsNMkEeWEeTpzAHcgCsyuLipump": {
-      "symbol": "FBCS",
-      "created_at": "2026-08-30T03:11:41.058891701Z",
-      "first_seen": "2026-08-30T03:12:29.553870+00:00"
-    },
     "Be2h649pRbW16xW7Z75YAehKjKA4QAMnDMskS5xpump": {
       "symbol": "UPTEMBER",
       "created_at": "2026-08-30T03:11:33.992942366Z",
@@ -729,6 +724,56 @@
       "symbol": "CREDIT",
       "created_at": "2026-08-30T03:20:31.935020307Z",
       "first_seen": "2026-08-30T03:21:01.380792+00:00"
+    },
+    "2cuJ78X7gW4Wk7GBpCAtH4Tois1nDEffR1FegCYXpump": {
+      "symbol": "sendit",
+      "created_at": "2026-08-30T03:23:56.038387073Z",
+      "first_seen": "2026-08-30T03:24:00.446253+00:00"
+    },
+    "2REJXAbHe6yQ5nRa94ZmiQbWrRYPP8og6XhX1dqrpump": {
+      "symbol": "sendit",
+      "created_at": "2026-08-30T03:23:55.178135703Z",
+      "first_seen": "2026-08-30T03:24:00.446253+00:00"
+    },
+    "9rWALqEBFQoaVyJgoJx4J1wZ69E8J4BcCYUUAwfnpump": {
+      "symbol": "sendit",
+      "created_at": "2026-08-30T03:23:54.126497616Z",
+      "first_seen": "2026-08-30T03:24:00.446253+00:00"
+    },
+    "4Se2EXsWT6WWkcGR1yqKX2HXYpAHMbE6qGU6uPAapump": {
+      "symbol": "sendit",
+      "created_at": "2026-08-30T03:23:52.978652884Z",
+      "first_seen": "2026-08-30T03:24:00.446253+00:00"
+    },
+    "7FSWKdZ4evAqV5CeBm7qDj4HX1VWfSQZyoiN3hJwpump": {
+      "symbol": "sendit",
+      "created_at": "2026-08-30T03:23:51.977747169Z",
+      "first_seen": "2026-08-30T03:24:00.446253+00:00"
+    },
+    "9wDF32fi8wVAUn9GZjL8GNUGniJnM95P7N1dX9sXpump": {
+      "symbol": "RLC",
+      "created_at": "2026-08-30T03:23:51.167545398Z",
+      "first_seen": "2026-08-30T03:24:00.446253+00:00"
+    },
+    "7y8EWcRj28oguobaLdtasYapDXWsgZqQ7Yyu8Sdpump": {
+      "symbol": "NONE",
+      "created_at": "2026-08-30T03:23:51.102178669Z",
+      "first_seen": "2026-08-30T03:24:00.446253+00:00"
+    },
+    "BnAemSGe25QtGsWvXNscqLJKn5D7vq41hSTYYMktpump": {
+      "symbol": "sendit",
+      "created_at": "2026-08-30T03:23:50.031959936Z",
+      "first_seen": "2026-08-30T03:24:00.446253+00:00"
+    },
+    "6Jv5vydy8DkwT4ywPYPS4qZvCYBfkYnr5XYYAZCEpump": {
+      "symbol": "Cheeselon",
+      "created_at": "2026-08-30T03:23:49.888333602Z",
+      "first_seen": "2026-08-30T03:24:00.446253+00:00"
+    },
+    "6RApMdE1AFhS7HLwrUPfEVTq22nebguLGUam5Bwypump": {
+      "symbol": "sendit",
+      "created_at": "2026-08-30T03:23:49.029368558Z",
+      "first_seen": "2026-08-30T03:24:00.446253+00:00"
     }
   },
   "alerted": [
@@ -891,7 +936,6 @@
     "H8nEVJsfCPWUX4qvzwfFXbmsLT4TMEF7crii8bfDpump"
   ],
   "rejected": [
-    "j4B9q8DhUeTQzr1zgcpGqa4dvxoFBuPfC48tnLLwQA1",
     "8yDLD8bmwKkBNX1WcrQUMuBmdoRJVPY5u3e4vStTsKnW",
     "HDAbBxSrePNSGds8mpYCshAfMjgRaYs1TNb4i2vT4Wkp",
     "5s8c9N7HaJmyHhTrgRbn3X15FCbW8BEEjvBoDh5Kpump",
@@ -2890,6 +2934,7 @@
     "45kfZNoa4wJuF6McKC6trG4582hTxQZFrBaFj2Hqpump",
     "6Xs7fSgSshMsKfKCJyrfdCYVtVXmcnfj3T9Ht7r3R4ub",
     "3HGzZfHMhPz3LYcHRwLEVi293E9CVYvTsWzYq8xTz2uJ",
-    "8rWLx9EJHanFdBRuM5iRyyDitLEDY7RypB1yFEBPmYmQ"
+    "8rWLx9EJHanFdBRuM5iRyyDitLEDY7RypB1yFEBPmYmQ",
+    "rXBkmRoCjjt46P35QsNMkEeWEeTpzAHcgCsyuLipump"
   ]
 }
