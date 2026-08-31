@@ -1,50 +1,5 @@
 {
   "pending": {
-    "F8vr7gW1jgR5G2FTnXRFNcB792RwTbn7AFrKcYcxpump": {
-      "symbol": "MetaCoin",
-      "created_at": "2026-08-31T00:43:17.883020423Z",
-      "first_seen": "2026-08-31T00:43:23.361739+00:00"
-    },
-    "6KyN3PKtM1KMmokfhrgFWNPnHuMcpTpFNmvKb1owpump": {
-      "symbol": "W",
-      "created_at": "2026-08-31T00:43:17.709102252Z",
-      "first_seen": "2026-08-31T00:43:23.361739+00:00"
-    },
-    "8QJYLqZeYUvN9F4QbH1ZYuFgJYLhWhUdTKANGogqpump": {
-      "symbol": "$3310",
-      "created_at": "2026-08-31T00:43:10.703687457Z",
-      "first_seen": "2026-08-31T00:43:23.361739+00:00"
-    },
-    "GYQFF2wHwz5u3jFmxaoN1oMAVxWF9WY1y3r8PWb6pump": {
-      "symbol": "APEC",
-      "created_at": "2026-08-31T00:43:09.233430844Z",
-      "first_seen": "2026-08-31T00:43:23.361739+00:00"
-    },
-    "FJoWK71XcFsijoVNfQoDaWqYYtYGpDQezDpzaJ3epump": {
-      "symbol": "spaz",
-      "created_at": "2026-08-31T00:43:08.96307738Z",
-      "first_seen": "2026-08-31T00:43:23.361739+00:00"
-    },
-    "5ZXuSMpCyzpfbgJTzrunpzRrnzdcgReanSjpQ6c5pump": {
-      "symbol": "APEC",
-      "created_at": "2026-08-31T00:43:08.884292898Z",
-      "first_seen": "2026-08-31T00:43:23.361739+00:00"
-    },
-    "3VzvK2VSxag3x3LykgXwzJHXeqEwCQjJ4w6nTkHkpump": {
-      "symbol": "CGC",
-      "created_at": "2026-08-31T00:43:04.563441944Z",
-      "first_seen": "2026-08-31T00:43:23.361739+00:00"
-    },
-    "7Ch8bj7vTd6xyh6csPSza2jZpLjLTmNJJDR5s1Mjpump": {
-      "symbol": "HUH",
-      "created_at": "2026-08-31T00:43:02.823814456Z",
-      "first_seen": "2026-08-31T00:43:23.361739+00:00"
-    },
-    "7aosD2on6atEyytzDxWzY6tBRVoCBfum77Svyv7bpump": {
-      "symbol": "MELL",
-      "created_at": "2026-08-31T00:42:59.025586589Z",
-      "first_seen": "2026-08-31T00:43:23.361739+00:00"
-    },
     "6xzGvLH8uzvbUrn9veBcFsvz5WbV4vJTtzdMtHSkpump": {
       "symbol": "$30",
       "created_at": "2026-08-31T00:46:07.445924992Z",
@@ -1673,7 +1628,12 @@
     "B74gLLX1udtw6zQ4PUhyGBoKj8RofWsBXF2B6i3Epump": {
       "symbol": "DJT",
       "created_at": "2026-08-31T02:33:52.840303783Z",
-      "first_seen": "2026-08-31T02:34:11.568859+00:00"
+      "first_seen": "2026-08-31T02:34:11.568859+00:00",
+      "confirm": {
+        "liquidity": 29846.1,
+        "market_cap": 136622,
+        "at": "2026-08-31T02:43:57.327212+00:00"
+      }
     },
     "FTJzk2trMitDLouKLL7kdf4cRCFw89eVx8cZqYnzpump": {
       "symbol": "PiNk",
@@ -1794,6 +1754,56 @@
       "symbol": "BONER",
       "created_at": "2026-08-31T02:40:34.866385976Z",
       "first_seen": "2026-08-31T02:40:51.984694+00:00"
+    },
+    "AdGX2D1K61NvVwyVMdjFqu2uAjXkYLgdTbRqEbMspump": {
+      "symbol": "Rauch",
+      "created_at": "2026-08-31T02:43:45.900317335Z",
+      "first_seen": "2026-08-31T02:43:57.326966+00:00"
+    },
+    "GZ2U1JhdLvrYv6DKh9oECQB2yW4gf78JA4gyDCTmpump": {
+      "symbol": "BONER",
+      "created_at": "2026-08-31T02:43:45.557846893Z",
+      "first_seen": "2026-08-31T02:43:57.326966+00:00"
+    },
+    "CdED8Tkc4WpwvdhjGELEQAVscXwFFKqA3tDfWKiLpump": {
+      "symbol": "GTJR",
+      "created_at": "2026-08-31T02:43:41.606274825Z",
+      "first_seen": "2026-08-31T02:43:57.326966+00:00"
+    },
+    "4CXom24CvvVndU6sKKXuUZnJnZGPCULg9R2iNXmHpump": {
+      "symbol": "flipski",
+      "created_at": "2026-08-31T02:43:40.870624559Z",
+      "first_seen": "2026-08-31T02:43:57.326966+00:00"
+    },
+    "GakGdE5JMVZqQoz8HtLqoTjVjZy4KQKB4Qj8FgtFpump": {
+      "symbol": "SpongeBob",
+      "created_at": "2026-08-31T02:43:40.705745625Z",
+      "first_seen": "2026-08-31T02:43:57.326966+00:00"
+    },
+    "C5DMJKrM7vGY2ZUrxgXuJF1fW2Sq4ZewRMCiwHq8pump": {
+      "symbol": "PINKAPE",
+      "created_at": "2026-08-31T02:43:40.528489534Z",
+      "first_seen": "2026-08-31T02:43:57.326966+00:00"
+    },
+    "6zo1QzYyyagNag7G8LH5xaBfZ1LQkeRhakPSg4iLpump": {
+      "symbol": "abundance",
+      "created_at": "2026-08-31T02:43:39.537015851Z",
+      "first_seen": "2026-08-31T02:43:57.326966+00:00"
+    },
+    "7vYYo14zFLVAEXki5T2BgkxQgBaxrUUSZgusW4fApump": {
+      "symbol": "BONER",
+      "created_at": "2026-08-31T02:43:38.242707661Z",
+      "first_seen": "2026-08-31T02:43:57.326966+00:00"
+    },
+    "3QLKhr1SN8xSX9GZUEwaSE5CUno9PkXkn9YktyUEpump": {
+      "symbol": "BONER",
+      "created_at": "2026-08-31T02:43:38.047461943Z",
+      "first_seen": "2026-08-31T02:43:57.326966+00:00"
+    },
+    "4oRHSXG9VYkR9bR3ZxmTnPrnoyBXU32YXqVMwsAfpump": {
+      "symbol": "ABUNDANCE",
+      "created_at": "2026-08-31T02:43:37.294103183Z",
+      "first_seen": "2026-08-31T02:43:57.326966+00:00"
     }
   },
   "alerted": [
