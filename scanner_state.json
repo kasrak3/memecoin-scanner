@@ -1,55 +1,5 @@
 {
   "pending": {
-    "BAnDyPWLt4QeswMEcNhJApSVYR7BZF9CnfWCi3pg3UUC": {
-      "symbol": "",
-      "created_at": "2026-09-01T15:36:59.901162436Z",
-      "first_seen": "2026-09-01T15:37:10.801307+00:00"
-    },
-    "5uAY4Zmzh6L88nSoab8TphRg9SUdfEUEbkJbDn3X3cru": {
-      "symbol": "HYPE-DN",
-      "created_at": "2026-09-01T15:36:58.062448837Z",
-      "first_seen": "2026-09-01T15:37:10.801307+00:00"
-    },
-    "6ChVHN7PabNgUcJBTSZyzNWz5oF92iDF8Z9XJGFZyKbE": {
-      "symbol": "SOL-UP",
-      "created_at": "2026-09-01T15:36:58.036283523Z",
-      "first_seen": "2026-09-01T15:37:10.801307+00:00"
-    },
-    "Huq9oc5Y6893yKYniGJB8BmSQvXCCujnkqHBqnFD5Uby": {
-      "symbol": "XRP-UP",
-      "created_at": "2026-09-01T15:36:58.018770934Z",
-      "first_seen": "2026-09-01T15:37:10.801307+00:00"
-    },
-    "Bjd4mp2fmDwC7CgzYmdFcHDBQunUtmw6GmbbYhXmtQqk": {
-      "symbol": "XRP-UP",
-      "created_at": "2026-09-01T15:36:57.802914897Z",
-      "first_seen": "2026-09-01T15:37:10.801307+00:00"
-    },
-    "C882YBbNyFXivRkKwt8FCaZ6kjkw1h4NXuVR4stQwBxf": {
-      "symbol": "DZ76",
-      "created_at": "2026-09-01T15:36:57.783384Z",
-      "first_seen": "2026-09-01T15:37:10.801307+00:00"
-    },
-    "VMZ1P4JbD55ZnTNVSMGZ21AXRCe4KHBf7eQ6yZMNo9g": {
-      "symbol": "XRP-DN",
-      "created_at": "2026-09-01T15:36:56.917155584Z",
-      "first_seen": "2026-09-01T15:37:10.801307+00:00"
-    },
-    "4V88VyfoCdUDBnDpmXDmETcn1CGzwr1HvcHgB4WuD6sC": {
-      "symbol": "BTC-DN",
-      "created_at": "2026-09-01T15:36:56.856662558Z",
-      "first_seen": "2026-09-01T15:37:10.801307+00:00"
-    },
-    "5Lg81E6mFXQ9GZDudkJ9z5kVDJAc2A3Cwp8tYFVnc7nQ": {
-      "symbol": "BTC-UP",
-      "created_at": "2026-09-01T15:36:56.842832207Z",
-      "first_seen": "2026-09-01T15:37:10.801307+00:00"
-    },
-    "4xUVN8gfuvEkQkfezskfsYQXnhJ1PUUEQyjPLeerJ1Ae": {
-      "symbol": "ETH-UP",
-      "created_at": "2026-09-01T15:36:56.795819529Z",
-      "first_seen": "2026-09-01T15:37:10.801307+00:00"
-    },
     "FAqrf6NUCdYCL6zLybveCK2NxKnixDAeDBEaA7jMpump": {
       "symbol": "Ninjacat",
       "created_at": "2026-09-01T15:39:42.282153276Z",
@@ -1685,16 +1635,6 @@
       "created_at": "2026-09-01T17:09:15.141955037Z",
       "first_seen": "2026-09-01T17:09:40.946808+00:00"
     },
-    "97BDVxbw6qP7pkCV9n4Q7F4H3Xd4WS1xkaZqqfmspump": {
-      "symbol": "testicles",
-      "created_at": "2026-09-01T17:12:19.500408691Z",
-      "first_seen": "2026-09-01T17:12:25.235344+00:00",
-      "confirm": {
-        "liquidity": 5165.92,
-        "market_cap": 6671,
-        "at": "2026-09-01T17:36:49.440045+00:00"
-      }
-    },
     "8YtcCkxhTi8dJ5ghnjG5fkHSPREdT6FQBM5s7TEUpump": {
       "symbol": "ATLAS",
       "created_at": "2026-09-01T17:12:19.096306668Z",
@@ -1763,11 +1703,6 @@
     "45KZHsHgfZBm4zZ1chT8vFUA5ns8QhXy8FEpSJJK1sBj": {
       "symbol": "testicles",
       "created_at": "2026-09-01T17:14:50.245625821Z",
-      "first_seen": "2026-09-01T17:15:05.384635+00:00"
-    },
-    "DAbGfFFrqJU4e9mb9uM6scdp5phVku3VUXFMA29Y5XXy": {
-      "symbol": "",
-      "created_at": "2026-09-01T17:14:48.943461385Z",
       "first_seen": "2026-09-01T17:15:05.384635+00:00"
     },
     "5jsT3wmpxjberAgGHUBZNDoM1uL51tdoZHh47WQ4pump": {
@@ -2189,6 +2124,56 @@
       "symbol": "BCP",
       "created_at": "2026-09-01T17:36:29.760558511Z",
       "first_seen": "2026-09-01T17:36:49.439753+00:00"
+    },
+    "GPVXQHeqnJhfBg4tLA94PLsSzC8m8sux8MHPQjdLpump": {
+      "symbol": "OOPS",
+      "created_at": "2026-09-01T17:39:27.256435855Z",
+      "first_seen": "2026-09-01T17:39:34.862303+00:00"
+    },
+    "DhVvu7bgBbMEvqMrb5pMnX242ciTuRqKUJNhUfVRpump": {
+      "symbol": "Puss",
+      "created_at": "2026-09-01T17:39:24.991443613Z",
+      "first_seen": "2026-09-01T17:39:34.862303+00:00"
+    },
+    "EaCgiwdMDpZQoi4snt7JhKNJJaaEV3CcDrvBwE4fpump": {
+      "symbol": "SUCCEED",
+      "created_at": "2026-09-01T17:39:24.81334831Z",
+      "first_seen": "2026-09-01T17:39:34.862303+00:00"
+    },
+    "yQUMY5rgaKrumkZuXcz9QvdvV7pKytEGsuHdEvppump": {
+      "symbol": "NiggaButt",
+      "created_at": "2026-09-01T17:39:20.584431725Z",
+      "first_seen": "2026-09-01T17:39:34.862303+00:00"
+    },
+    "4DWGef8d1pvhfeEyXovChEpwDJUaDCKH1Jt5HsBYpump": {
+      "symbol": "insane",
+      "created_at": "2026-09-01T17:39:20.509223158Z",
+      "first_seen": "2026-09-01T17:39:34.862303+00:00"
+    },
+    "8XZQHkRSY375d8VcbYNS4CmdYxZLQh1afnTRLRh4pump": {
+      "symbol": "DOGGY",
+      "created_at": "2026-09-01T17:39:19.20294932Z",
+      "first_seen": "2026-09-01T17:39:34.862303+00:00"
+    },
+    "4oBoFe6Sx4Q8X6s8kriNY4fxLd6rd2B7sJ25C5Atpump": {
+      "symbol": "frogy",
+      "created_at": "2026-09-01T17:39:17.142169942Z",
+      "first_seen": "2026-09-01T17:39:34.862303+00:00"
+    },
+    "6EeLPw2pWetF4YKSLjLWKU9qxJanPGfxUWjcTnSGpump": {
+      "symbol": "Tata",
+      "created_at": "2026-09-01T17:39:14.778748703Z",
+      "first_seen": "2026-09-01T17:39:34.862303+00:00"
+    },
+    "CzDDw7DtEzMaRYXWJaeN41po9Ed3yBzprrCjXuhCpump": {
+      "symbol": "Lucia",
+      "created_at": "2026-09-01T17:39:08.809897706Z",
+      "first_seen": "2026-09-01T17:39:34.862303+00:00"
+    },
+    "HmYktAxHCJP3fbYDFdhpkZDzqRc1mVA2Tws31UJRpump": {
+      "symbol": "SPNE",
+      "created_at": "2026-09-01T17:39:08.492214484Z",
+      "first_seen": "2026-09-01T17:39:34.862303+00:00"
     }
   },
   "alerted": [
@@ -2379,8 +2364,6 @@
     "Gx4CUDqESJu3qGeEXCmFvVUwoGEWoHXpkdFpJ2r8pump"
   ],
   "rejected": [
-    "HDREQpxStbNVjU9sUTYQGg4qfZFuEy5a1Ur79cNAmtKh",
-    "E12eUrEpkkzYVo7qX4hbetXjqQipzPwSwWoahY7j1DFm",
     "Di3Lwh59vsYnwWMvFfs6qBdcta3rHUicf4wbr2jpVDdV",
     "77MtWvNTMvzugWYHw5hUsftzab6n4VJfj9U2b9sqw8vA",
     "EcKb81C77xrbUH9ymBRZdHJzjNpjREb11LFWSSmiivzK",
@@ -4378,6 +4361,8 @@
     "L8BXunnfQrhKNxK3aSLio5cR6AK8SvFP5vsAnkJpump",
     "FmAEQpg2Xk4Mg7Bo7h5nS66fvafSHV2E5zDjiRzCtyrg",
     "FU3MPoe7AsU29zJyRXX9hxCy3skrzfUdwnvaQsCHAxct",
-    "DKaUd3mdmSaEW4bVuyBwxMUSwFvJkc5JPJKzMkSby9jX"
+    "DKaUd3mdmSaEW4bVuyBwxMUSwFvJkc5JPJKzMkSby9jX",
+    "97BDVxbw6qP7pkCV9n4Q7F4H3Xd4WS1xkaZqqfmspump",
+    "DAbGfFFrqJU4e9mb9uM6scdp5phVku3VUXFMA29Y5XXy"
   ]
 }
