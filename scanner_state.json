@@ -1755,11 +1755,6 @@
       "created_at": "2026-09-01T02:09:41.157253679Z",
       "first_seen": "2026-09-01T02:09:49.762734+00:00"
     },
-    "ZnPm5NMrRwC7bEnPvZym5W88dYfn5ds5qPaZNv2NZcF": {
-      "symbol": "\u725b\u6765",
-      "created_at": "2026-09-01T02:09:35.501827098Z",
-      "first_seen": "2026-09-01T02:09:49.762734+00:00"
-    },
     "EUNYELqwGuzrgyyUrNmmYAJ4zma9LTRPRG3PTCEepump": {
       "symbol": "PPEPE",
       "created_at": "2026-09-01T02:09:34.822298415Z",
@@ -1833,11 +1828,6 @@
     "GwJHvJmvbMBekHhV7QeLso349GWFEeKEHy86qtdhpump": {
       "symbol": "dvces",
       "created_at": "2026-09-01T02:12:20.181985848Z",
-      "first_seen": "2026-09-01T02:12:35.149398+00:00"
-    },
-    "7jb3hXtgrNXYfo8aRAqjhcoaQcrnXZzjmNwB4tSpump": {
-      "symbol": "RST",
-      "created_at": "2026-09-01T02:12:14.20403011Z",
       "first_seen": "2026-09-01T02:12:35.149398+00:00"
     },
     "C9ueFg7ikvYkJuWJjH49CrXYmwtdHgzPYjddt9Uopump": {
@@ -1999,6 +1989,56 @@
       "symbol": "CURMON",
       "created_at": "2026-09-01T02:20:23.93235616Z",
       "first_seen": "2026-09-01T02:20:52.503822+00:00"
+    },
+    "neNYKVNtVKQN1vjARjdfSR11ZmLmSiH3QDkjKxrpump": {
+      "symbol": "CURBAN",
+      "created_at": "2026-09-01T02:23:30.3686503Z",
+      "first_seen": "2026-09-01T02:23:38.631244+00:00"
+    },
+    "EF1RShLJscZbinkvxqWd4sgTx2DZsGNiks5xauaMpump": {
+      "symbol": "FODY",
+      "created_at": "2026-09-01T02:23:26.380574196Z",
+      "first_seen": "2026-09-01T02:23:38.631244+00:00"
+    },
+    "EA6Y3eC1NtisancYwGwjcqxsWRX3sfKGP8uSog8gpump": {
+      "symbol": "\u2705",
+      "created_at": "2026-09-01T02:23:25.109226406Z",
+      "first_seen": "2026-09-01T02:23:38.631244+00:00"
+    },
+    "8gm1JCxmDmt8QxkLHyNx8YwpuSwUsZx5QxedqNoRpump": {
+      "symbol": "0.05",
+      "created_at": "2026-09-01T02:23:25.097566403Z",
+      "first_seen": "2026-09-01T02:23:38.631244+00:00"
+    },
+    "2veTZBYCU4UxvpRPAe83wvi3596v6V1ugtDsriwkpump": {
+      "symbol": "sol",
+      "created_at": "2026-09-01T02:23:24.995604743Z",
+      "first_seen": "2026-09-01T02:23:38.631244+00:00"
+    },
+    "8geD6xdjDWvCW5Pge2wH6QowU8e5R7qy9DvPF7cbpump": {
+      "symbol": "BUY.PIMP",
+      "created_at": "2026-09-01T02:23:18.200294916Z",
+      "first_seen": "2026-09-01T02:23:38.631244+00:00"
+    },
+    "GSxrHLi4mtfTPyAThK8WD66Puqoiq9QT6LKrA9uopump": {
+      "symbol": "Mabel",
+      "created_at": "2026-09-01T02:23:13.755639477Z",
+      "first_seen": "2026-09-01T02:23:38.631244+00:00"
+    },
+    "5viyv7zpVSejS3f8pTqd8xNMpH9meDKdVz7vNgBUpump": {
+      "symbol": "PCP",
+      "created_at": "2026-09-01T02:23:05.352919221Z",
+      "first_seen": "2026-09-01T02:23:38.631244+00:00"
+    },
+    "3unv3QLaTGuzWkEANn9R59t8HvKUtw88ARCwdtmVpump": {
+      "symbol": "MAN",
+      "created_at": "2026-09-01T02:23:03.227757013Z",
+      "first_seen": "2026-09-01T02:23:38.631244+00:00"
+    },
+    "AqfQe75vccYrvQfk2vythtRCUFpvuopnPATWLhGgpump": {
+      "symbol": "GROKRADAR",
+      "created_at": "2026-09-01T02:22:59.12459455Z",
+      "first_seen": "2026-09-01T02:23:38.631244+00:00"
     }
   },
   "alerted": [
@@ -2181,8 +2221,6 @@
     "5pekdz2FTssA1rJnfz9U6cH5YND96rbaBtiSybQHpump"
   ],
   "rejected": [
-    "947CyF7quetyibJWU4oRUpB1wZFCX4YrTwxG2xqRq5fK",
-    "FhjNYRCvqH48sBZ77pR4biQLPW7APeHMnUNNm3RqPBqi",
     "HonFa4JUFBF4F5Zgz8gPmymc8MB1DmNwY8QLqMqg2Gwu",
     "84oUFozXyPv2mtakhTEqPcxLEsdxBZU2Mitn4JKGqTka",
     "3QsJULRAcNH2Xappfape9oju1D2PNj8wWn24oc6UFczB",
@@ -4180,6 +4218,8 @@
     "kz8FrpUzaMTCt6TXsmNNnvue8aLvJZWnFgbSuiBpump",
     "DkoJsBWKMn4mHwHNfRxctazDXKezHVNq2DQPCzhnVqu8",
     "2Hz7jarCWer6xnrCZXkyyXVRTx7sDxiijbXCLpAEpump",
-    "GUPDEVWY8KCyTvrG3aDrEn84DeGLTQGLR1AZg1EMWx16"
+    "GUPDEVWY8KCyTvrG3aDrEn84DeGLTQGLR1AZg1EMWx16",
+    "ZnPm5NMrRwC7bEnPvZym5W88dYfn5ds5qPaZNv2NZcF",
+    "7jb3hXtgrNXYfo8aRAqjhcoaQcrnXZzjmNwB4tSpump"
   ]
 }
