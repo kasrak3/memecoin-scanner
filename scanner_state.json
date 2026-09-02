@@ -1,55 +1,5 @@
 {
   "pending": {
-    "7kwF63o43u8yjTSJBLP8jVA1f3ApKr7PUWgskuGC7HSX": {
-      "symbol": "BTC5Y",
-      "created_at": "2026-09-02T01:54:53.020801505Z",
-      "first_seen": "2026-09-02T01:55:03.168570+00:00"
-    },
-    "91zzC7co6eWS3YYTsfbSxWBGZ9mKu6FY8UwBRzCfu4Ae": {
-      "symbol": "BTC15N",
-      "created_at": "2026-09-02T01:54:53.00523995Z",
-      "first_seen": "2026-09-02T01:55:03.168570+00:00"
-    },
-    "CAmuhzbzDL7jL6haJd5Cxw4RX6MJcdocwtk3MkNDGzFu": {
-      "symbol": "ETH-UP",
-      "created_at": "2026-09-02T01:54:52.991659069Z",
-      "first_seen": "2026-09-02T01:55:03.168570+00:00"
-    },
-    "39jL1BR66zDjG1214an8v43ZVx5dXp1cZX1yVLV87xhA": {
-      "symbol": "XRP-UP",
-      "created_at": "2026-09-02T01:54:52.990246638Z",
-      "first_seen": "2026-09-02T01:55:03.168570+00:00"
-    },
-    "8JXZzwKsDrLxGitnsksXcYXbHi6QKf1DxpyuxJUC9je4": {
-      "symbol": "XRP-DN",
-      "created_at": "2026-09-02T01:54:52.978505382Z",
-      "first_seen": "2026-09-02T01:55:03.168570+00:00"
-    },
-    "Bf15fDcgBqAu1hSHtxQJEtSi23oHxvKMUgXqjgvBQiZU": {
-      "symbol": "HYPE-UP",
-      "created_at": "2026-09-02T01:54:52.966961883Z",
-      "first_seen": "2026-09-02T01:55:03.168570+00:00"
-    },
-    "8MNJ8uMrCZigzeaq9i83GifULg2gm1ZPwM8Dy1zgEhvZ": {
-      "symbol": "BTC-DN",
-      "created_at": "2026-09-02T01:54:52.897307297Z",
-      "first_seen": "2026-09-02T01:55:03.168570+00:00"
-    },
-    "9u45Fa6pH2cyjrfrucV25qhExoC7KtALX6RwPRSiaZtz": {
-      "symbol": "HYPE-UP",
-      "created_at": "2026-09-02T01:54:52.89561694Z",
-      "first_seen": "2026-09-02T01:55:03.168570+00:00"
-    },
-    "AteV6w38FLZtt7EL4T7mu4gdj4aPD55sjHzFDeLuFJvU": {
-      "symbol": "ETH-DN",
-      "created_at": "2026-09-02T01:54:52.892321293Z",
-      "first_seen": "2026-09-02T01:55:03.168570+00:00"
-    },
-    "5STJuNtXn8yqxSKz3QmbUPDrP8XXXDnqzhi8JioqFgMw": {
-      "symbol": "BTC-UP",
-      "created_at": "2026-09-02T01:54:52.882808327Z",
-      "first_seen": "2026-09-02T01:55:03.168570+00:00"
-    },
     "3kjSJzqR4CYsVaeEEYwo92aBu6vTYRYZWJHQDJrEpump": {
       "symbol": "PURPS",
       "created_at": "2026-09-02T01:57:47.545432052Z",
@@ -1999,6 +1949,56 @@
       "symbol": "SofiaFunds",
       "created_at": "2026-09-02T03:53:15.14546816Z",
       "first_seen": "2026-09-02T03:53:51.103149+00:00"
+    },
+    "BpyCVb4um4bYQnFvV98CszzS1ohR5x6DCM8acFJ4pump": {
+      "symbol": "CAP",
+      "created_at": "2026-09-02T03:56:42.127499379Z",
+      "first_seen": "2026-09-02T03:56:51.189064+00:00"
+    },
+    "HVVTuMihjPofRL6AJqTd6hr2is8ZL17eKdKLDdgbpump": {
+      "symbol": "NOSIG",
+      "created_at": "2026-09-02T03:56:40.976776187Z",
+      "first_seen": "2026-09-02T03:56:51.189064+00:00"
+    },
+    "9SQVmupPC5ZqvrQfg1bDDL7UgNK7LsLW6fi8bJyQpump": {
+      "symbol": "DERP",
+      "created_at": "2026-09-02T03:56:40.88548665Z",
+      "first_seen": "2026-09-02T03:56:51.189064+00:00"
+    },
+    "DbLKoeYwcZMEySmtY7ee34t2CSLaxaRhAQ8aHDzFpump": {
+      "symbol": "PIPPIN",
+      "created_at": "2026-09-02T03:56:27.907975741Z",
+      "first_seen": "2026-09-02T03:56:51.189064+00:00"
+    },
+    "8tgbziPnMa4tcyLrAo6xqvgpWD8MXAbgBxZtNUnmpump": {
+      "symbol": "Company",
+      "created_at": "2026-09-02T03:56:17.98878956Z",
+      "first_seen": "2026-09-02T03:56:51.189064+00:00"
+    },
+    "EhRAqWebM2kmswMTZt72crsKh6UmtS91UaNLZUwzpump": {
+      "symbol": "",
+      "created_at": "2026-09-02T03:56:16.364716318Z",
+      "first_seen": "2026-09-02T03:56:51.189064+00:00"
+    },
+    "3Dx3RGBujyw647A5Fm6ARSpd25kcjBr8MxYiN71Cpump": {
+      "symbol": "CAKE",
+      "created_at": "2026-09-02T03:56:14.284083368Z",
+      "first_seen": "2026-09-02T03:56:51.189064+00:00"
+    },
+    "5g2HHubsj6RV6earpbk856XrM2iZiJusxteWSx63pump": {
+      "symbol": "Subiryn",
+      "created_at": "2026-09-02T03:56:06.299072749Z",
+      "first_seen": "2026-09-02T03:56:51.189064+00:00"
+    },
+    "9b5KBHmX72e8iHZDRjuPaQYKF5BH1xb8Y3pga7Tmpump": {
+      "symbol": "CAKE",
+      "created_at": "2026-09-02T03:56:00.855254455Z",
+      "first_seen": "2026-09-02T03:56:51.189064+00:00"
+    },
+    "FRfpAcyWG8TtD7crJE437D5A4pScbqaGKGYq8KeEpump": {
+      "symbol": "$AURA",
+      "created_at": "2026-09-02T03:55:56.16936909Z",
+      "first_seen": "2026-09-02T03:56:51.189064+00:00"
     }
   },
   "alerted": [
