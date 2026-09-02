@@ -733,7 +733,12 @@
     "7eGWP35VMUqKTHbyTwZhv8aVcCK2iePaz1ju3nZrpump": {
       "symbol": "PUDL",
       "created_at": "2026-09-02T01:14:19.345232113Z",
-      "first_seen": "2026-09-02T01:14:33.357987+00:00"
+      "first_seen": "2026-09-02T01:14:33.357987+00:00",
+      "confirm": {
+        "liquidity": 14463.81,
+        "market_cap": 37610,
+        "at": "2026-09-02T02:26:51.839606+00:00"
+      }
     },
     "8YcAanxSGXWR45onh1oGh9Zury9F2GebT8FnoQc1pump": {
       "symbol": "Terminator",
@@ -1929,6 +1934,56 @@
       "symbol": "",
       "created_at": "2026-09-02T02:23:13.337373055Z",
       "first_seen": "2026-09-02T02:23:52.098391+00:00"
+    },
+    "BcZJKEuhYgkVgnUYehT2QbihrRXU3rsuW1YEUuWFJyJ8": {
+      "symbol": "STONKS",
+      "created_at": "2026-09-02T02:26:39.715432659Z",
+      "first_seen": "2026-09-02T02:26:51.839297+00:00"
+    },
+    "7oBovvN5fs9WmhTqh9u6UC4bKNnc8oHUBo63gMLipump": {
+      "symbol": "PUMPCAT",
+      "created_at": "2026-09-02T02:26:33.087246001Z",
+      "first_seen": "2026-09-02T02:26:51.839297+00:00"
+    },
+    "EgFyhNcsZzRLaQZa1V9UXH2E192DEeM3YeTy3u8upump": {
+      "symbol": "SILLYNUB",
+      "created_at": "2026-09-02T02:26:33.06946778Z",
+      "first_seen": "2026-09-02T02:26:51.839297+00:00"
+    },
+    "6wyf7Us4eXyAK2zRgYDXuZrhkZCo7rYBZAec91yLpump": {
+      "symbol": "wind",
+      "created_at": "2026-09-02T02:26:30.95383124Z",
+      "first_seen": "2026-09-02T02:26:51.839297+00:00"
+    },
+    "JDNUZqTvYsdQcnEXkJCT9Nn8MLCLiVgyN6C6fos2pump": {
+      "symbol": "SPX500",
+      "created_at": "2026-09-02T02:26:27.360996961Z",
+      "first_seen": "2026-09-02T02:26:51.839297+00:00"
+    },
+    "G4nQc7aQrAeQHdKSynoXpMGUXGYjhbbrGdZpmwJwb6YK": {
+      "symbol": "MEW",
+      "created_at": "2026-09-02T02:26:25.658904604Z",
+      "first_seen": "2026-09-02T02:26:51.839297+00:00"
+    },
+    "3M5xfJcHEpEKcD3jcycT7u3ykzXtstQGkYV2XkXnpump": {
+      "symbol": "PUMPNUB",
+      "created_at": "2026-09-02T02:26:25.453736276Z",
+      "first_seen": "2026-09-02T02:26:51.839297+00:00"
+    },
+    "H5sF3ZxhL28eQQJHqYx7gPdinWLsvqwsXrm1tit9pump": {
+      "symbol": "hair",
+      "created_at": "2026-09-02T02:26:20.820448329Z",
+      "first_seen": "2026-09-02T02:26:51.839297+00:00"
+    },
+    "3c2iKDzTaqUWrDuFWgcy7Abf2ZD21cpjQPauiccqpump": {
+      "symbol": "PUMP RIG",
+      "created_at": "2026-09-02T02:26:19.52456484Z",
+      "first_seen": "2026-09-02T02:26:51.839297+00:00"
+    },
+    "HNpBqrP9BH8cjzKgtSFfXZ9V81GqxqggFCZVKCmnz5Na": {
+      "symbol": "",
+      "created_at": "2026-09-02T02:26:15.896887559Z",
+      "first_seen": "2026-09-02T02:26:51.839297+00:00"
     }
   },
   "alerted": [
