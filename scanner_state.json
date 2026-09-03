@@ -1615,16 +1615,6 @@
       "created_at": "2026-09-03T19:51:05.786629154Z",
       "first_seen": "2026-09-03T19:51:09.906869+00:00"
     },
-    "3TrsJhHqPzwo5RWTzHpUGGgCvYzvdEEkUVa93PCVpump": {
-      "symbol": "BEAVER",
-      "created_at": "2026-09-03T19:51:04.762052407Z",
-      "first_seen": "2026-09-03T19:51:09.906869+00:00",
-      "confirm": {
-        "liquidity": 38671.65,
-        "market_cap": 208457,
-        "at": "2026-09-03T20:09:36.428805+00:00"
-      }
-    },
     "9JsgJXdnUBCE27pzM6XUdRCrcE5n247peEVwgnV8iP46": {
       "symbol": "CATAMINE",
       "created_at": "2026-09-03T19:51:01.177749843Z",
@@ -2059,6 +2049,56 @@
       "symbol": "JETCAT",
       "created_at": "2026-09-03T20:11:37.098374377Z",
       "first_seen": "2026-09-03T20:12:13.668747+00:00"
+    },
+    "AQTpbr3FvGD7XYNLY28rY8uN2csLUsvdLdWtG3mdA6BX": {
+      "symbol": "spooderman",
+      "created_at": "2026-09-03T20:14:36.804270924Z",
+      "first_seen": "2026-09-03T20:14:49.414718+00:00"
+    },
+    "HvKFtos9LPQ9tFJh85DrqE8g2E98F7LdMeduaKjRpump": {
+      "symbol": "Israel",
+      "created_at": "2026-09-03T20:14:36.736616776Z",
+      "first_seen": "2026-09-03T20:14:49.414718+00:00"
+    },
+    "B3VR5fWSrWyScTVtBmweCRaW3Qxk9qcugU8BKn1kpump": {
+      "symbol": "AGNT",
+      "created_at": "2026-09-03T20:14:34.84398428Z",
+      "first_seen": "2026-09-03T20:14:49.414718+00:00"
+    },
+    "Bras2KJR8b3t2c4DXxeJA8PC7p8xHW3hGGtSZiA8pump": {
+      "symbol": "FOMO",
+      "created_at": "2026-09-03T20:14:34.024007563Z",
+      "first_seen": "2026-09-03T20:14:49.414718+00:00"
+    },
+    "HKMutZDSLBSJVh6T36EmVwbgGHF2m5zmNR5kPVJ76Jv5": {
+      "symbol": "EPICELON",
+      "created_at": "2026-09-03T20:14:32.495270075Z",
+      "first_seen": "2026-09-03T20:14:49.414718+00:00"
+    },
+    "CKpf3LmEXWAc6WLnuReEM7rQZ2AUAAawJ6gNRydEyVht": {
+      "symbol": "SIF",
+      "created_at": "2026-09-03T20:14:32.468734756Z",
+      "first_seen": "2026-09-03T20:14:49.414718+00:00"
+    },
+    "FaRzREnfAvtAA6i77sNMiG3GpELZbSeyGrnvMZ5SWcLo": {
+      "symbol": "SIF",
+      "created_at": "2026-09-03T20:14:32.419600064Z",
+      "first_seen": "2026-09-03T20:14:49.414718+00:00"
+    },
+    "6grb5Rs3Le9B339wb5aNBjiFuX53VWnWoyHq52fUpump": {
+      "symbol": "VENOM",
+      "created_at": "2026-09-03T20:14:31.595556826Z",
+      "first_seen": "2026-09-03T20:14:49.414718+00:00"
+    },
+    "8oM8EapqDWocmADL3YLLBYYEV5s2Db5eUC3vqG6apump": {
+      "symbol": "glosevy",
+      "created_at": "2026-09-03T20:14:29.162848743Z",
+      "first_seen": "2026-09-03T20:14:49.414718+00:00"
+    },
+    "HU1JLE8QHTkQsha8MMqeHCsaDdwSFv7qctGAtqi1pump": {
+      "symbol": "CREEP",
+      "created_at": "2026-09-03T20:14:28.53954128Z",
+      "first_seen": "2026-09-03T20:14:49.414718+00:00"
     }
   },
   "alerted": [
@@ -2268,7 +2308,8 @@
     "ALHzYBU5i6dnS2EHDE9m4srZMc9Zx41iQrXmrz2xpump",
     "3R81h7xkvEfyY74YAiqUCBM8KVRVYJxnQjBcGVyGUWkZ",
     "JAdosY7EFjX7mLLP1Rb3ik9bQDDkduQHdJuKrNVvWZv4",
-    "Ae5bfgg6DbxqZny2JSsuGYJnhQEKzNkqVL7SsdqUpump"
+    "Ae5bfgg6DbxqZny2JSsuGYJnhQEKzNkqVL7SsdqUpump",
+    "3TrsJhHqPzwo5RWTzHpUGGgCvYzvdEEkUVa93PCVpump"
   ],
   "rejected": [
     "8a8FrM5JA1ECwWikUiYMYrdtP6ZPd3uh79UGGM1A5gwF",
