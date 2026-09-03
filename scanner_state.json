@@ -1,50 +1,5 @@
 {
   "pending": {
-    "ET2JP8d5d1iWpNvP4poYdTiV2dfyJhRrBANkZPrU2wbx": {
-      "symbol": "GS",
-      "created_at": "2026-09-03T14:58:00.587117409Z",
-      "first_seen": "2026-09-03T14:58:09.484548+00:00"
-    },
-    "5fXJGPJGyvePofxfAJiPmgt4yBjPZFFeU4wMERdPpump": {
-      "symbol": "speedrun",
-      "created_at": "2026-09-03T14:57:59.313004344Z",
-      "first_seen": "2026-09-03T14:58:09.484548+00:00"
-    },
-    "Dt4rEgFMQQLKjPtW4ButZq8gP8bykag2MSeffKsJpump": {
-      "symbol": "AI",
-      "created_at": "2026-09-03T14:57:58.356221748Z",
-      "first_seen": "2026-09-03T14:58:09.484548+00:00"
-    },
-    "EGdYE3ybz6nJWm1YP1gJygb2Mq9tA1vAbZq1VQyrpump": {
-      "symbol": "Human",
-      "created_at": "2026-09-03T14:57:55.277040376Z",
-      "first_seen": "2026-09-03T14:58:09.484548+00:00"
-    },
-    "EQ2hQfzrVQDCDRgraRNTcmhqZoULwpkYeLV5KFdTpump": {
-      "symbol": "AI",
-      "created_at": "2026-09-03T14:57:53.921107608Z",
-      "first_seen": "2026-09-03T14:58:09.484548+00:00"
-    },
-    "bk6BUxPsZ6fPxvTBFyWfnTyEdapknwWbkZLjjjHpump": {
-      "symbol": "Chainmogged",
-      "created_at": "2026-09-03T14:57:51.729313689Z",
-      "first_seen": "2026-09-03T14:58:09.484548+00:00"
-    },
-    "8bRYXmvJPKZPvd7YEkvikdjV2nhYT17UnK9RggGfpump": {
-      "symbol": "PAKISTAN",
-      "created_at": "2026-09-03T14:57:51.33661262Z",
-      "first_seen": "2026-09-03T14:58:09.484548+00:00"
-    },
-    "6HWpZbyU3jcwgPpjep7u28MNup5ynE6cUtJfqxQYpump": {
-      "symbol": "AI",
-      "created_at": "2026-09-03T14:57:48.924939818Z",
-      "first_seen": "2026-09-03T14:58:09.484548+00:00"
-    },
-    "9PMKdN8G8tXjcU4a69zKVzdvzyGtyDuofKonjkLepump": {
-      "symbol": "AI",
-      "created_at": "2026-09-03T14:57:46.483052607Z",
-      "first_seen": "2026-09-03T14:58:09.484548+00:00"
-    },
     "C5owVehhpzx3pYfHxh8ThyTL3LBMzkw7aRLeBEdWpump": {
       "symbol": "Kroonix",
       "created_at": "2026-09-03T15:00:48.555448921Z",
@@ -1518,7 +1473,12 @@
     "GeKhkmjkjXqX8mjaJ18YX6q3wej8ub5QW8JX348pump": {
       "symbol": "Kirk",
       "created_at": "2026-09-03T16:20:11.559498207Z",
-      "first_seen": "2026-09-03T16:20:20.371070+00:00"
+      "first_seen": "2026-09-03T16:20:20.371070+00:00",
+      "confirm": {
+        "liquidity": 16625.92,
+        "market_cap": 46239,
+        "at": "2026-09-03T16:59:57.745830+00:00"
+      }
     },
     "YHJRqcTZCfjtqUPndQF4eVwsmLH9Mhw4fHc2xnGYdm6": {
       "symbol": "$WW3",
@@ -2249,6 +2209,56 @@
       "symbol": "\u76f8\u4fe1\u5e74\u8f7b\u4eba",
       "created_at": "2026-09-03T16:57:04.099905822Z",
       "first_seen": "2026-09-03T16:57:17.697054+00:00"
+    },
+    "EpnDuRE6cLwYNTUgvjcvJGzPeHRv6J9AtGVTs2Nxpump": {
+      "symbol": "COG",
+      "created_at": "2026-09-03T16:59:53.527231541Z",
+      "first_seen": "2026-09-03T16:59:57.745501+00:00"
+    },
+    "CuHT8U75jxFpmZc8ANSt8jgPmQAs7KBL4oCXYWoTpump": {
+      "symbol": "COG",
+      "created_at": "2026-09-03T16:59:52.732743054Z",
+      "first_seen": "2026-09-03T16:59:57.745501+00:00"
+    },
+    "F9qU2ReWDgfvfKjX5RKkxUiBhNcB8mgT2A65qAqMCsqj": {
+      "symbol": "",
+      "created_at": "2026-09-03T16:59:50.60205353Z",
+      "first_seen": "2026-09-03T16:59:57.745501+00:00"
+    },
+    "8HQZAz4rWYZoVjoXoXiyoMR94EBbeSetBANbptKT6w5H": {
+      "symbol": "NIAH",
+      "created_at": "2026-09-03T16:59:49.608416663Z",
+      "first_seen": "2026-09-03T16:59:57.745501+00:00"
+    },
+    "ADAhEqCwq6EfSdd3McLdexWrZnu7ntHsQComb8j8pump": {
+      "symbol": "DERP",
+      "created_at": "2026-09-03T16:59:48.809703475Z",
+      "first_seen": "2026-09-03T16:59:57.745501+00:00"
+    },
+    "91kum4HaxMyJDgtuKYnDhYRLNePx4qdzwmUoaPQcpump": {
+      "symbol": "death",
+      "created_at": "2026-09-03T16:59:47.630994712Z",
+      "first_seen": "2026-09-03T16:59:57.745501+00:00"
+    },
+    "F9MUpY5GPaJn6THq5xVjd1jb8qAao3L3C4y31SSygQnr": {
+      "symbol": "\u202eKN0\u0422\u0405",
+      "created_at": "2026-09-03T16:59:45.58788961Z",
+      "first_seen": "2026-09-03T16:59:57.745501+00:00"
+    },
+    "EnVbgR255NAfRXWCyr5xThWApcyHVrSexG265dKnH6A1": {
+      "symbol": "",
+      "created_at": "2026-09-03T16:59:44.795579316Z",
+      "first_seen": "2026-09-03T16:59:57.745501+00:00"
+    },
+    "25iACAdYYrJkNxp2HkpJmj3bzeJEqu5FK72kD94Fpump": {
+      "symbol": "coge",
+      "created_at": "2026-09-03T16:59:40.803645749Z",
+      "first_seen": "2026-09-03T16:59:57.745501+00:00"
+    },
+    "C9APnFF5VZE4CrWxJXiozFMwsos5orQagEm3R135XF5Z": {
+      "symbol": "Lenny",
+      "created_at": "2026-09-03T16:59:40.346478657Z",
+      "first_seen": "2026-09-03T16:59:57.745501+00:00"
     }
   },
   "alerted": [
