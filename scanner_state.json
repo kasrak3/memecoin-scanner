@@ -1585,11 +1585,6 @@
       "created_at": "2026-09-06T13:02:06.314410141Z",
       "first_seen": "2026-09-06T13:02:09.269246+00:00"
     },
-    "3JH4wQbpmeXZeZZ4c8RzB44f6aSZ8TNTZzcTCM399z4j": {
-      "symbol": "ZEPE",
-      "created_at": "2026-09-06T13:02:04.826157706Z",
-      "first_seen": "2026-09-06T13:02:09.269246+00:00"
-    },
     "HQmP6St8uthoeam8WpyjwniHKEbpM2UezW9xv1z8pump": {
       "symbol": "LaMisery",
       "created_at": "2026-09-06T13:02:01.916125178Z",
@@ -1774,6 +1769,56 @@
       "symbol": "cap",
       "created_at": "2026-09-06T13:09:25.275292472Z",
       "first_seen": "2026-09-06T13:10:11.107885+00:00"
+    },
+    "pry9AuT4CxCpzcjQsBedKEsgqodR2hUBWFqkGRRpump": {
+      "symbol": "CASH",
+      "created_at": "2026-09-06T13:12:44.289680285Z",
+      "first_seen": "2026-09-06T13:12:51.282328+00:00"
+    },
+    "5qbda5p593wSGtrqiK3Po48Fszxi42pH2zQ149k36Hum": {
+      "symbol": "MPN",
+      "created_at": "2026-09-06T13:12:43.647706159Z",
+      "first_seen": "2026-09-06T13:12:51.282328+00:00"
+    },
+    "E2gejoxmmQ18R1FDkkUk36MGEm7ELKhAXoQqn4eLwKx8": {
+      "symbol": "Zerocoin",
+      "created_at": "2026-09-06T13:12:41.233256977Z",
+      "first_seen": "2026-09-06T13:12:51.282328+00:00"
+    },
+    "51u7DVGBAE4JCMQ8fvPw9rqi58D6xWRAygcu5PMahhbA": {
+      "symbol": "BILL",
+      "created_at": "2026-09-06T13:12:39.948656769Z",
+      "first_seen": "2026-09-06T13:12:51.282328+00:00"
+    },
+    "GZMfAG48tMjULxyAeKMinBGjsbkxXartCpDvKQ8rpump": {
+      "symbol": "MemeSeason",
+      "created_at": "2026-09-06T13:12:39.13377026Z",
+      "first_seen": "2026-09-06T13:12:51.282328+00:00"
+    },
+    "GceX9kwnDXus9NTNgd4pGDQdcQmY5yV68mhfcwZGpump": {
+      "symbol": "MIM",
+      "created_at": "2026-09-06T13:12:38.448351569Z",
+      "first_seen": "2026-09-06T13:12:51.282328+00:00"
+    },
+    "64jheH1UQW2641R6cPc2aFNZ9aVvtJKtAjCEgDna5Mpj": {
+      "symbol": "",
+      "created_at": "2026-09-06T13:12:38.326964388Z",
+      "first_seen": "2026-09-06T13:12:51.282328+00:00"
+    },
+    "99RFVkurTWRwsT3ZFfrXLpTC2KeELiDtDSh8AeBEQrts": {
+      "symbol": "zape",
+      "created_at": "2026-09-06T13:12:35.10759807Z",
+      "first_seen": "2026-09-06T13:12:51.282328+00:00"
+    },
+    "3NQ2HRCU8sXteKyTebUbyy4i7zKV4VsDDtS5GrtoGwYC": {
+      "symbol": "NAUT",
+      "created_at": "2026-09-06T13:12:35.049830992Z",
+      "first_seen": "2026-09-06T13:12:51.282328+00:00"
+    },
+    "7my8BhXRVrRPLCtYJKXYZNXT2Mzxx9sQAzar3W4vnLPa": {
+      "symbol": "OWP",
+      "created_at": "2026-09-06T13:12:33.712766032Z",
+      "first_seen": "2026-09-06T13:12:51.282328+00:00"
     }
   },
   "alerted": [
@@ -2000,7 +2045,6 @@
     "AnDQ9hDLAPBBcPebrqukTUGKGxC1zDSUBzyh3YXzpump"
   ],
   "rejected": [
-    "GmLk4eGggUk1FdkydVGdznWSmhePdmFcZsTpP93ogxWt",
     "vqw9nx1WU8rr2CoUiu3hJ5oKEqb8FM2cCRyWytKpump",
     "J41FstqqfMaa7MCTVJ2VmsdpwLQmCdpxY95F64ELTTjf",
     "BGgtbmQyZbBrk8KmwKTEmDYZivEKLVckCJjSZfao7tkt",
@@ -3999,6 +4043,7 @@
     "cScJqPcfQ81DpVvp1JHW33XJxpj3STz8r2ZbtvYpump",
     "8MQ4yX5VS4qwEHWg4oQjYWC3ECJguoUxEKtHK6RQF91P",
     "BDAtKBiFRrs2Rhwpkz1yXfdfSkqvFkZwf2UXjSzxDE4G",
-    "BpD9k7y1DqfiGxb7My5GTy9LEJqAiyyg7dksHGKHY1DM"
+    "BpD9k7y1DqfiGxb7My5GTy9LEJqAiyyg7dksHGKHY1DM",
+    "3JH4wQbpmeXZeZZ4c8RzB44f6aSZ8TNTZzcTCM399z4j"
   ]
 }
