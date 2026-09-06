@@ -1,50 +1,5 @@
 {
   "pending": {
-    "GrkUq1XKMdJ49aciN5vF3Wi8osVECNZy8dWzjxH5pump": {
-      "symbol": "SOLINU",
-      "created_at": "2026-09-06T06:07:26.406789782Z",
-      "first_seen": "2026-09-06T06:07:29.576724+00:00"
-    },
-    "Fvg1iRe6yw95gvowWnvrszKh9doXn3aqxtRoq7xCW9z": {
-      "symbol": "solworld",
-      "created_at": "2026-09-06T06:07:24.216160154Z",
-      "first_seen": "2026-09-06T06:07:29.576724+00:00"
-    },
-    "MLMELUHKTbN8kkwVNC14UgiGAxScnKMyBm3a3Lqpump": {
-      "symbol": "RICK",
-      "created_at": "2026-09-06T06:07:21.384749244Z",
-      "first_seen": "2026-09-06T06:07:29.576724+00:00"
-    },
-    "EeGVvoS48sjVwxsd8xmFCrGCGz5ZJtR22BSfn1SXQjVs": {
-      "symbol": "REPE",
-      "created_at": "2026-09-06T06:07:20.87442252Z",
-      "first_seen": "2026-09-06T06:07:29.576724+00:00"
-    },
-    "D1i7URw5jB7JTPrWYSMu33nAKca3JTuCksaL27mqpump": {
-      "symbol": "AI",
-      "created_at": "2026-09-06T06:07:18.261540818Z",
-      "first_seen": "2026-09-06T06:07:29.576724+00:00"
-    },
-    "69wWcCrNWJWWy51PcBvupfhjvnRPYpXcZAnxn54dotAp": {
-      "symbol": "p402",
-      "created_at": "2026-09-06T06:07:17.516978037Z",
-      "first_seen": "2026-09-06T06:07:29.576724+00:00"
-    },
-    "3f1PjrAQLCQb2KTU9wLPSsKfme8jLbdBSUNMju3Qpump": {
-      "symbol": "HomeWork",
-      "created_at": "2026-09-06T06:07:12.605457129Z",
-      "first_seen": "2026-09-06T06:07:29.576724+00:00"
-    },
-    "4XfPnGD9gGiWHDFbwkMkXqyFZCgAp66p5drokBYnEYFc": {
-      "symbol": "\u54c8\u57fa\u7c73",
-      "created_at": "2026-09-06T06:06:55.608503368Z",
-      "first_seen": "2026-09-06T06:07:29.576724+00:00"
-    },
-    "EnVGt5GciuGU3QhStxmBh2doR8UxkD8ryhP4RzSSpump": {
-      "symbol": "POONS",
-      "created_at": "2026-09-06T06:06:50.375939136Z",
-      "first_seen": "2026-09-06T06:07:29.576724+00:00"
-    },
     "7Gyt1MVVW7cHJd6sRkcy8BmDnogCmL2d47H8GaqZpump": {
       "symbol": "$CAT",
       "created_at": "2026-09-06T06:09:53.0834319Z",
@@ -1573,7 +1528,12 @@
     "4PoWKTDpcZvptTr687Bg3c7Jg7YD79Q9opr8KdaCPeZT": {
       "symbol": "BAZINGA",
       "created_at": "2026-09-06T07:53:02.296091987Z",
-      "first_seen": "2026-09-06T07:53:53.108279+00:00"
+      "first_seen": "2026-09-06T07:53:53.108279+00:00",
+      "confirm": {
+        "liquidity": 7538.65,
+        "market_cap": 7216,
+        "at": "2026-09-06T08:09:03.934169+00:00"
+      }
     },
     "3gaSvr6samuF8nkXp3Zy1KVTRdQhNzAmNtFR7SHUpump": {
       "symbol": "jonkrill",
@@ -1779,6 +1739,56 @@
       "symbol": "SnoopDrag",
       "created_at": "2026-09-06T08:05:17.843608422Z",
       "first_seen": "2026-09-06T08:06:01.187944+00:00"
+    },
+    "2Cyii6AKampibBYCGpxVnCR6XjnfSBJczg4Eq13D21Ax": {
+      "symbol": "CNPY",
+      "created_at": "2026-09-06T08:08:58.982903675Z",
+      "first_seen": "2026-09-06T08:09:03.933840+00:00"
+    },
+    "Hu9gBXmtwY8gns2JGXnT8Tt9Kopa6E4mKZFYzav5mHiH": {
+      "symbol": "",
+      "created_at": "2026-09-06T08:08:48.090100429Z",
+      "first_seen": "2026-09-06T08:09:03.933840+00:00"
+    },
+    "3E2Hx9nS8deZcwzqMQ39WAkzAxQzom8Y27TEtwW9pump": {
+      "symbol": "Sp5MORT",
+      "created_at": "2026-09-06T08:08:46.977697209Z",
+      "first_seen": "2026-09-06T08:09:03.933840+00:00"
+    },
+    "6uKf2t9vsMUVNgGZ4qNURQg56RUEHH59BvN3AGCopump": {
+      "symbol": "Plat",
+      "created_at": "2026-09-06T08:08:45.143296465Z",
+      "first_seen": "2026-09-06T08:09:03.933840+00:00"
+    },
+    "FjwSa2jcDCAR6aprQsFygz7i6vkLyFEp7fZcCTdpump": {
+      "symbol": "$1",
+      "created_at": "2026-09-06T08:08:44.590845902Z",
+      "first_seen": "2026-09-06T08:09:03.933840+00:00"
+    },
+    "5UWVyDoTds4tKbDoqC7zDbVJAVyPNoa7wax8R55nKcTt": {
+      "symbol": "BAZINGA",
+      "created_at": "2026-09-06T08:08:44.494745052Z",
+      "first_seen": "2026-09-06T08:09:03.933840+00:00"
+    },
+    "3TbsxqRvWjQKDJju67yrtbsNBXDyo3DUjWj9aFvdpump": {
+      "symbol": "NIGGA",
+      "created_at": "2026-09-06T08:08:44.322291513Z",
+      "first_seen": "2026-09-06T08:09:03.933840+00:00"
+    },
+    "BPcHoawDrhLswko1CB1wEcpKu5JskUK7Cj7rhV4BcbSZ": {
+      "symbol": "BTRC",
+      "created_at": "2026-09-06T08:08:38.438695522Z",
+      "first_seen": "2026-09-06T08:09:03.933840+00:00"
+    },
+    "6Eea1drNq5rboVrK8ei4H3Mg4i7yQ3sEmSqwxzMeASet": {
+      "symbol": "INUVIDIA",
+      "created_at": "2026-09-06T08:08:29.4480821Z",
+      "first_seen": "2026-09-06T08:09:03.933840+00:00"
+    },
+    "HVJyRdu82yc7q7716HYXThkctGjtJHDnFArpuwxfpump": {
+      "symbol": "TOAD",
+      "created_at": "2026-09-06T08:08:26.495722503Z",
+      "first_seen": "2026-09-06T08:09:03.933840+00:00"
     }
   },
   "alerted": [
