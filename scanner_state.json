@@ -1,50 +1,5 @@
 {
   "pending": {
-    "6BBELwebbUY3UDvHFj6MHU2pKghAMXKQBT3SRrPqpump": {
-      "symbol": "Hank",
-      "created_at": "2026-09-06T09:50:39.095871589Z",
-      "first_seen": "2026-09-06T09:50:45.766553+00:00"
-    },
-    "G7p9a9Xf7hz4eh4qGr64T2wPJpK6m55bFAP8FNHupump": {
-      "symbol": "one big",
-      "created_at": "2026-09-06T09:50:33.249468093Z",
-      "first_seen": "2026-09-06T09:50:45.766553+00:00"
-    },
-    "J6YY2nutqe346wDdLUm9MGUFX8immEZnDY6JeVQKpump": {
-      "symbol": "Bounce",
-      "created_at": "2026-09-06T09:50:29.372169683Z",
-      "first_seen": "2026-09-06T09:50:45.766553+00:00"
-    },
-    "2WkS9eVYYwY3xWPBn1V3XTZAtwyoYEyj35Wq7ENCpump": {
-      "symbol": "$DINO",
-      "created_at": "2026-09-06T09:50:25.787108749Z",
-      "first_seen": "2026-09-06T09:50:45.766553+00:00"
-    },
-    "5qcSEnXKGUNJY1PfkgYBLx6AXGRc925wRfb557zWpump": {
-      "symbol": "allinu",
-      "created_at": "2026-09-06T09:50:20.608403068Z",
-      "first_seen": "2026-09-06T09:50:45.766553+00:00"
-    },
-    "GVSJZ5kEMNsUwSQo6mpdPkVjMSbgvuiCec8tffNupump": {
-      "symbol": "ZKCAT",
-      "created_at": "2026-09-06T09:50:14.663158872Z",
-      "first_seen": "2026-09-06T09:50:45.766553+00:00"
-    },
-    "9nu2pwvoQBzPDXJ3qHwJdEn8LHAtmA8bCaJbXcjLpump": {
-      "symbol": "TRALL",
-      "created_at": "2026-09-06T09:50:14.178275806Z",
-      "first_seen": "2026-09-06T09:50:45.766553+00:00"
-    },
-    "CZagUbM6z3EfcrLhgQ1SSjKfY2sHt2R39Sa1VSWR2rQy": {
-      "symbol": "",
-      "created_at": "2026-09-06T09:50:10.102310645Z",
-      "first_seen": "2026-09-06T09:50:45.766553+00:00"
-    },
-    "Dx8uCoT1SXkQEtKuSYKp8AQoVDASK4qWGTydgZASpump": {
-      "symbol": "DYOR",
-      "created_at": "2026-09-06T09:50:08.809392222Z",
-      "first_seen": "2026-09-06T09:50:45.766553+00:00"
-    },
     "4PudyUdZhWPwv7vo7Sz4XxEGJEad3aYWDvqyKPvSz2bq": {
       "symbol": "SSD",
       "created_at": "2026-09-06T09:53:44.875872248Z",
@@ -1763,7 +1718,12 @@
     "GSBZLSX8R8nq9qp2fs5oaLcQS72aG1SFEyuqbS1Apump": {
       "symbol": "SOLLIFE",
       "created_at": "2026-09-06T11:40:39.287493328Z",
-      "first_seen": "2026-09-06T11:41:03.808927+00:00"
+      "first_seen": "2026-09-06T11:41:03.808927+00:00",
+      "confirm": {
+        "liquidity": 38654.18,
+        "market_cap": 210640,
+        "at": "2026-09-06T11:53:34.164690+00:00"
+      }
     },
     "G73XHsydHyjEDKtvxndtt2m2mEmDTQVwYyyxgXjHpump": {
       "symbol": "MAGA",
@@ -1919,6 +1879,56 @@
       "symbol": "WOLF",
       "created_at": "2026-09-06T11:49:50.606298068Z",
       "first_seen": "2026-09-06T11:50:26.947563+00:00"
+    },
+    "6nJvh1tTwNREANzuG7dmVT91JyaotvgFp9jJWYPEpump": {
+      "symbol": "GROKRISE",
+      "created_at": "2026-09-06T11:53:28.332096321Z",
+      "first_seen": "2026-09-06T11:53:34.164323+00:00"
+    },
+    "D5E5GAnewL4B9JjqbSCUUAPb1FQUiiH3qyZWXeGXpump": {
+      "symbol": "SBI",
+      "created_at": "2026-09-06T11:53:25.17678268Z",
+      "first_seen": "2026-09-06T11:53:34.164323+00:00"
+    },
+    "8wwycRxWnbnsHSZie25zwuoNYqkkKsXmb7eiVDQgpump": {
+      "symbol": "MAGOBBLE",
+      "created_at": "2026-09-06T11:52:54.488799629Z",
+      "first_seen": "2026-09-06T11:53:34.164323+00:00"
+    },
+    "6QASp7bFH5mFwmXQZvLNkU6SzxHz4EZD9EchsxnzXraU": {
+      "symbol": "verity",
+      "created_at": "2026-09-06T11:52:53.085460935Z",
+      "first_seen": "2026-09-06T11:53:34.164323+00:00"
+    },
+    "DG8pid46CsuKopuKiXjM4Agpw1D2r8bctXjmsuwKLeQd": {
+      "symbol": "MPN",
+      "created_at": "2026-09-06T11:52:49.776297511Z",
+      "first_seen": "2026-09-06T11:53:34.164323+00:00"
+    },
+    "Ar4XiUvSEP3DzTwuRqsBXL8ZYMN8SzGMj3bQk5Gmpump": {
+      "symbol": "Astros",
+      "created_at": "2026-09-06T11:52:49.62991493Z",
+      "first_seen": "2026-09-06T11:53:34.164323+00:00"
+    },
+    "6ChzUWNCyrdMdGhSNovAn8Ejwor5L2CPpBCzR6zNZVm7": {
+      "symbol": "",
+      "created_at": "2026-09-06T11:52:49.183923756Z",
+      "first_seen": "2026-09-06T11:53:34.164323+00:00"
+    },
+    "tp2s52zEdRStrEg96ayx2uUD7BhR5QKjzf8fuQ5pump": {
+      "symbol": "ZCAT",
+      "created_at": "2026-09-06T11:52:45.21027552Z",
+      "first_seen": "2026-09-06T11:53:34.164323+00:00"
+    },
+    "6paTNc833WgdpLaFAMmFrmVcTg9qyU5V4VBukhgHv2J3": {
+      "symbol": "ADA",
+      "created_at": "2026-09-06T11:52:44.459841897Z",
+      "first_seen": "2026-09-06T11:53:34.164323+00:00"
+    },
+    "2bjNaYHbRBS73nuwPgQxWcb1H14SNW4JF2xXhfW1TqH4": {
+      "symbol": "BILL",
+      "created_at": "2026-09-06T11:52:41.986443704Z",
+      "first_seen": "2026-09-06T11:53:34.164323+00:00"
     }
   },
   "alerted": [
