@@ -1,50 +1,5 @@
 {
   "pending": {
-    "E9mSqzx3TLav8pzpYdpxLD8ur8P2fPVgXfiZHPCE3NgZ": {
-      "symbol": "ZTEST",
-      "created_at": "2026-09-06T09:35:17.04993092Z",
-      "first_seen": "2026-09-06T09:35:24.179058+00:00"
-    },
-    "9MvYiw5SYEmBqmtUbEAwUw6VZZ3coF59jNVTttEVpump": {
-      "symbol": "SXSN",
-      "created_at": "2026-09-06T09:35:14.578668146Z",
-      "first_seen": "2026-09-06T09:35:24.179058+00:00"
-    },
-    "CbTotUp65HJxzkZhYDvqSfEMXh2CRpQPAhchH11rpump": {
-      "symbol": "AICOIN",
-      "created_at": "2026-09-06T09:35:08.807678145Z",
-      "first_seen": "2026-09-06T09:35:24.179058+00:00"
-    },
-    "3JVwPKcCthzmtnFfHAJfozemLNAeAr36KZEnzb7Zpump": {
-      "symbol": "AICOIN",
-      "created_at": "2026-09-06T09:35:05.357645532Z",
-      "first_seen": "2026-09-06T09:35:24.179058+00:00"
-    },
-    "7V1ABLaSnu26iwr6fhrkh9oNpuEuLhZ8fwrb8Rqgpump": {
-      "symbol": "MOCHI",
-      "created_at": "2026-09-06T09:35:03.462569035Z",
-      "first_seen": "2026-09-06T09:35:24.179058+00:00"
-    },
-    "27SRVKRQDghXCq2Qb65B3oYw44qsmyQF36WmgXZ3r3Gp": {
-      "symbol": "FLOCK",
-      "created_at": "2026-09-06T09:35:02.036624057Z",
-      "first_seen": "2026-09-06T09:35:24.179058+00:00"
-    },
-    "7AZMMF64QmhVmH3U1qQwHt7xUnd8hwU8iMiV4Qd2pump": {
-      "symbol": "CASHfrog",
-      "created_at": "2026-09-06T09:34:51.749147007Z",
-      "first_seen": "2026-09-06T09:35:24.179058+00:00"
-    },
-    "8bj1MFuMmMmDEaQTGrWCNZsJeWhfYnFf8bMifYfNaSyx": {
-      "symbol": "TSM",
-      "created_at": "2026-09-06T09:34:51.463529852Z",
-      "first_seen": "2026-09-06T09:35:24.179058+00:00"
-    },
-    "HMXHhKN2FTA2sANiqYf745gWUnQAM5GVwLJAFGkmpump": {
-      "symbol": "AICOIN",
-      "created_at": "2026-09-06T09:34:47.28787301Z",
-      "first_seen": "2026-09-06T09:35:24.179058+00:00"
-    },
     "CChkQ47rSzkXuHZB6F2Mqf8BMjXzXgr6Yg1SqjsHpump": {
       "symbol": "beer",
       "created_at": "2026-09-06T09:38:18.060055044Z",
@@ -1919,6 +1874,56 @@
       "symbol": "",
       "created_at": "2026-09-06T11:34:21.627400159Z",
       "first_seen": "2026-09-06T11:34:56.508035+00:00"
+    },
+    "76Ce9MhYQ3DW3g6An9J4KAEXii5EAzjRxBc8qWv6fmB8": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-09-06T11:37:56.287092458Z",
+      "first_seen": "2026-09-06T11:38:00.602368+00:00"
+    },
+    "DfeHQtVeBwV98Y1j9SW4N5MYKpMmafFfofNqErzHK9b4": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-09-06T11:37:56.278953341Z",
+      "first_seen": "2026-09-06T11:38:00.602368+00:00"
+    },
+    "4G776EjCTfqoRH4hzLMEimap1d8QSjPMyqXRN2uYjKNu": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-09-06T11:37:56.278254059Z",
+      "first_seen": "2026-09-06T11:38:00.602368+00:00"
+    },
+    "31sEoPTcLrneqG7ZToFpzDHeYzwtLk97cynyQqAFTsjF": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-09-06T11:37:56.277047753Z",
+      "first_seen": "2026-09-06T11:38:00.602368+00:00"
+    },
+    "EonmWX8cBSzoKYPHx2LUT2f1BnLRTKkSTAAm1jBiCM45": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-09-06T11:37:56.276864554Z",
+      "first_seen": "2026-09-06T11:38:00.602368+00:00"
+    },
+    "83GPHx3BpoiMkgb3KC1g6nTpR8TtrTjLkSAqFZJvP6KG": {
+      "symbol": "BTC5N",
+      "created_at": "2026-09-06T11:37:56.224116578Z",
+      "first_seen": "2026-09-06T11:38:00.602368+00:00"
+    },
+    "79CzJg8LVFGGDdfrLdTNvLeMdN6Ayr2HpaD97w9jGoJt": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-09-06T11:37:56.220663398Z",
+      "first_seen": "2026-09-06T11:38:00.602368+00:00"
+    },
+    "9MRcuD9b75YVNwNCts3ydcKVsyLwPrECmSkYmkoc9MYf": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-09-06T11:37:56.21030725Z",
+      "first_seen": "2026-09-06T11:38:00.602368+00:00"
+    },
+    "8BDHSZh86drGx1mRbYKmmxG11CA2jaJUoC8aoC3gB3kc": {
+      "symbol": "BTC5Y",
+      "created_at": "2026-09-06T11:37:56.150490452Z",
+      "first_seen": "2026-09-06T11:38:00.602368+00:00"
+    },
+    "6XnVezwbcnz65ZJqQ5gCHt1DuMbPmnxMcyptbsd62X9A": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-09-06T11:37:55.150202989Z",
+      "first_seen": "2026-09-06T11:38:00.602368+00:00"
     }
   },
   "alerted": [
