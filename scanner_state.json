@@ -1440,16 +1440,6 @@
       "created_at": "2026-09-07T01:57:21.230107592Z",
       "first_seen": "2026-09-07T01:57:35.221304+00:00"
     },
-    "AAvKyZBgu855grAwPKnugPusH7WazeryoWCBXmbEMQxG": {
-      "symbol": "QQQ",
-      "created_at": "2026-09-07T01:57:20.481946473Z",
-      "first_seen": "2026-09-07T01:57:35.221304+00:00",
-      "confirm": {
-        "liquidity": 13204.07,
-        "market_cap": 16644,
-        "at": "2026-09-07T02:08:46.005945+00:00"
-      }
-    },
     "4sBhicfNaLRWeeSFM3TvhGSaN1dNCwWyDvE5Cxpnpump": {
       "symbol": "WIFLEG",
       "created_at": "2026-09-07T01:57:19.813008022Z",
@@ -1674,6 +1664,56 @@
       "symbol": "NASDANQ",
       "created_at": "2026-09-07T02:08:25.878536033Z",
       "first_seen": "2026-09-07T02:08:46.005699+00:00"
+    },
+    "DDfuDJJGHqQzDFcABho4Xx7fEF6AJZY7EsqfzCYK1V2Y": {
+      "symbol": "Ahh",
+      "created_at": "2026-09-07T02:11:25.84489912Z",
+      "first_seen": "2026-09-07T02:11:34.783904+00:00"
+    },
+    "2qPWdW76KJmMS2jvWXcLdqQqwCRuAqV33tP9diXrpump": {
+      "symbol": "NASDANQ",
+      "created_at": "2026-09-07T02:11:24.80336008Z",
+      "first_seen": "2026-09-07T02:11:34.783904+00:00"
+    },
+    "79M2GvKbXDEN9EuKUumNam2KaePcTJhPm9Pfo79f4Urq": {
+      "symbol": "TOMAKONGZ",
+      "created_at": "2026-09-07T02:11:19.70634083Z",
+      "first_seen": "2026-09-07T02:11:34.783904+00:00"
+    },
+    "CQXeMyFZpVYuYYMaJpvJwXVUrCU871WSjph9bd71pump": {
+      "symbol": "Nasowl",
+      "created_at": "2026-09-07T02:11:19.115884794Z",
+      "first_seen": "2026-09-07T02:11:34.783904+00:00"
+    },
+    "E8n4AZdzPbsnfe6ELHudFAzeWyRmHeeFTtqfBDxQpump": {
+      "symbol": "NASDANQ",
+      "created_at": "2026-09-07T02:11:17.470073363Z",
+      "first_seen": "2026-09-07T02:11:34.783904+00:00"
+    },
+    "AX3ACyFgunf7QKvnHqrxz4Yzr75facstp6HLR6EyUu5s": {
+      "symbol": "TOMAKONGZ",
+      "created_at": "2026-09-07T02:11:17.258664667Z",
+      "first_seen": "2026-09-07T02:11:34.783904+00:00"
+    },
+    "58fStxjXi5nyqwbsC8BQsN6ipQ2UUbfZw4eUX9PGpump": {
+      "symbol": "ASDT",
+      "created_at": "2026-09-07T02:11:15.890510133Z",
+      "first_seen": "2026-09-07T02:11:34.783904+00:00"
+    },
+    "6zcbqkMn6BazFrJZuL3Mzw4apvJSHBmXNp2kJDEsoHsu": {
+      "symbol": "TOMAKONGZ",
+      "created_at": "2026-09-07T02:11:14.072206416Z",
+      "first_seen": "2026-09-07T02:11:34.783904+00:00"
+    },
+    "DbA66QTeMeHXW9UeR1FnQ2cgDx9QakSfkjY4q9Tbpump": {
+      "symbol": "9/11",
+      "created_at": "2026-09-07T02:11:13.851580791Z",
+      "first_seen": "2026-09-07T02:11:34.783904+00:00"
+    },
+    "FFscUcN4YGGdTyUMTwtD1ECz2g8HmQZqmBLibQnyyxcR": {
+      "symbol": "NASCRACK",
+      "created_at": "2026-09-07T02:11:11.703876486Z",
+      "first_seen": "2026-09-07T02:11:34.783904+00:00"
     }
   },
   "alerted": [
@@ -1907,7 +1947,8 @@
     "DqVCyJqV3Tsm3ve1426cWi1NeEpgJRWAGFj6GRsVpump",
     "7GDcQgdPfyCnvUuMZwh9Yhaza4MDgw3fFSNidmsNvQty",
     "6XWJpQJvY7icahEnDLXmmbi1GrUeftzjBQNx2WBNpump",
-    "FZqjnpEsrM35azvJbgXVgNQjssg8VNS5BVuWfsBb55Yi"
+    "FZqjnpEsrM35azvJbgXVgNQjssg8VNS5BVuWfsBb55Yi",
+    "AAvKyZBgu855grAwPKnugPusH7WazeryoWCBXmbEMQxG"
   ],
   "rejected": [
     "BfPNRArpCyshmj38bnQBY1CLR2f1TsiG74DbsTLE86eR",
