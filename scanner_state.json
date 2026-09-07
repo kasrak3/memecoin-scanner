@@ -1425,11 +1425,6 @@
       "created_at": "2026-09-07T01:54:39.543880525Z",
       "first_seen": "2026-09-07T01:54:47.093277+00:00"
     },
-    "3zPoxaNjenyHs1LHih2RyWRkum9TPiqTktYAvisfpump": {
-      "symbol": "WOFI",
-      "created_at": "2026-09-07T01:57:27.004637059Z",
-      "first_seen": "2026-09-07T01:57:35.221304+00:00"
-    },
     "3AigsdatYaDJSAfMoWbBmnef5uMo3AMuxW8qrBwMH9zj": {
       "symbol": "TAODUCK",
       "created_at": "2026-09-07T01:57:24.876937197Z",
@@ -1448,7 +1443,12 @@
     "AAvKyZBgu855grAwPKnugPusH7WazeryoWCBXmbEMQxG": {
       "symbol": "QQQ",
       "created_at": "2026-09-07T01:57:20.481946473Z",
-      "first_seen": "2026-09-07T01:57:35.221304+00:00"
+      "first_seen": "2026-09-07T01:57:35.221304+00:00",
+      "confirm": {
+        "liquidity": 13204.07,
+        "market_cap": 16644,
+        "at": "2026-09-07T02:08:46.005945+00:00"
+      }
     },
     "4sBhicfNaLRWeeSFM3TvhGSaN1dNCwWyDvE5Cxpnpump": {
       "symbol": "WIFLEG",
@@ -1624,6 +1624,56 @@
       "symbol": "att",
       "created_at": "2026-09-07T02:05:36.067685282Z",
       "first_seen": "2026-09-07T02:06:00.869822+00:00"
+    },
+    "4YruLqXhdNUK9z4KPHxmJFTVMvrTQZkomZimPncQpump": {
+      "symbol": "NasTITS",
+      "created_at": "2026-09-07T02:08:44.25137736Z",
+      "first_seen": "2026-09-07T02:08:46.005699+00:00"
+    },
+    "4NeRgrAVQm6TWwzBPxmAcKdXPFMN9EMkEdy2ayompump": {
+      "symbol": "NASDANQ",
+      "created_at": "2026-09-07T02:08:39.230039878Z",
+      "first_seen": "2026-09-07T02:08:46.005699+00:00"
+    },
+    "7LfvcHc8mZbKoSe2R36hMPPNFT4VLtLBoRKqLkMSpump": {
+      "symbol": "NASDANQ",
+      "created_at": "2026-09-07T02:08:39.133197254Z",
+      "first_seen": "2026-09-07T02:08:46.005699+00:00"
+    },
+    "7D16FmwhUS3qJjVhJmYG5iro73N54wHPvp4Zq9R8dhib": {
+      "symbol": "",
+      "created_at": "2026-09-07T02:08:36.559197874Z",
+      "first_seen": "2026-09-07T02:08:46.005699+00:00"
+    },
+    "FNtz3fBnuvpMoZYSk3hTDZiMBA1EJ4yR5uArPGx2pump": {
+      "symbol": "Stonk",
+      "created_at": "2026-09-07T02:08:36.49143773Z",
+      "first_seen": "2026-09-07T02:08:46.005699+00:00"
+    },
+    "DYsrAxWmNhaaW5MzzpYmn5v4Kw2kZXcKSZFbLRdjSTNK": {
+      "symbol": "ZIF",
+      "created_at": "2026-09-07T02:08:31.437567927Z",
+      "first_seen": "2026-09-07T02:08:46.005699+00:00"
+    },
+    "8aMxm6RSQMsH8fHfTCY8Q1fYu24m983n5zNN9sW1pump": {
+      "symbol": "Nasswam",
+      "created_at": "2026-09-07T02:08:27.744951768Z",
+      "first_seen": "2026-09-07T02:08:46.005699+00:00"
+    },
+    "3wUGDAXaifZq4AED4jncNv9Qb3NAC6jjo9Y4NQBvq9H6": {
+      "symbol": "TOMAKONGZ",
+      "created_at": "2026-09-07T02:08:27.281817521Z",
+      "first_seen": "2026-09-07T02:08:46.005699+00:00"
+    },
+    "3FTVJAF4rdBd9j4tCnxHeK4CMkHpgD3B35afwsibWTPH": {
+      "symbol": "TOMAKONGZ",
+      "created_at": "2026-09-07T02:08:26.072902288Z",
+      "first_seen": "2026-09-07T02:08:46.005699+00:00"
+    },
+    "4r8rW4GnEH7ZrjJ863cJNyYwB72UE1UEyy5dbgZypump": {
+      "symbol": "NASDANQ",
+      "created_at": "2026-09-07T02:08:25.878536033Z",
+      "first_seen": "2026-09-07T02:08:46.005699+00:00"
     }
   },
   "alerted": [
@@ -1860,7 +1910,6 @@
     "FZqjnpEsrM35azvJbgXVgNQjssg8VNS5BVuWfsBb55Yi"
   ],
   "rejected": [
-    "vi187GL4kzCoKpxQZSWij97Z56XnpGHYrm1oK3tpump",
     "BfPNRArpCyshmj38bnQBY1CLR2f1TsiG74DbsTLE86eR",
     "4SNNGdykgyHeB7Rz8Znxu8uJwCagCvAQkTuNtC4j7oqY",
     "2WdGJVqBLi6Z76JUB6QR8WKiXAntqaLMbBdrqimGNqFt",
@@ -3859,6 +3908,7 @@
     "d8FyQWFvk6woXqTxF9K5HibaL3iW3LmKD5zpMnSpump",
     "6ZmKaHjHK72Hi2KjzJjyvNK3YrLSJET4s4FKiVaan8Bm",
     "FGiRk5bkwtjyjcHYtCYYgn4UXP4FWEEgdWBHkBNDeRdr",
-    "BdcXAhhcVfeAi9KbK2tS8Mtkn3owJQNBcWFN3JatZ3sr"
+    "BdcXAhhcVfeAi9KbK2tS8Mtkn3owJQNBcWFN3JatZ3sr",
+    "3zPoxaNjenyHs1LHih2RyWRkum9TPiqTktYAvisfpump"
   ]
 }
