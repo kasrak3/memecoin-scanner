@@ -1,55 +1,5 @@
 {
   "pending": {
-    "22LfNZ1YqM889qiJGtysYHPYqczf9uV6iR6pP6RgYrqy": {
-      "symbol": "ETH-UP",
-      "created_at": "2026-09-07T14:00:00.494075Z",
-      "first_seen": "2026-09-07T14:00:03.033954+00:00"
-    },
-    "2sEgcC8pQ2H5YqpcqEDshbhXP1ryURxP7tCUvWcvETae": {
-      "symbol": "HYPE-DN",
-      "created_at": "2026-09-07T14:00:00.477798517Z",
-      "first_seen": "2026-09-07T14:00:03.033954+00:00"
-    },
-    "97egEDmzFCnHDqHmhhqZjDRWEXQmn6iTDY4H9mhTxf71": {
-      "symbol": "ETH-DN",
-      "created_at": "2026-09-07T14:00:00.4590881Z",
-      "first_seen": "2026-09-07T14:00:03.033954+00:00"
-    },
-    "8ve6z3htL9x7jUnq4kosqYfk1M7ivgdM1HGJAfauD8ME": {
-      "symbol": "XRP-DN",
-      "created_at": "2026-09-07T13:59:59.228126455Z",
-      "first_seen": "2026-09-07T14:00:03.033954+00:00"
-    },
-    "3dX4GdPNSbMZTXC39cQTcZ1uhi9PdQAder7bjTjEpump": {
-      "symbol": "LMAO",
-      "created_at": "2026-09-07T13:59:58.499206629Z",
-      "first_seen": "2026-09-07T14:00:03.033954+00:00"
-    },
-    "GZHP1qf2iByG491jVsNq7mZq8GgwrRaNpp8KbZbSpump": {
-      "symbol": "LAPTOP",
-      "created_at": "2026-09-07T13:59:58.444888776Z",
-      "first_seen": "2026-09-07T14:00:03.033954+00:00"
-    },
-    "H3K4EGXjN7eXRK4CpEnyMt3SntismeQyko1yyqJ4eczw": {
-      "symbol": "AiBSURD",
-      "created_at": "2026-09-07T13:59:58.294919797Z",
-      "first_seen": "2026-09-07T14:00:03.033954+00:00"
-    },
-    "3F1ZnznDozQUUUUQPsQm7ybcM355yQqCAXDfiNTvHusy": {
-      "symbol": "HYPE-UP",
-      "created_at": "2026-09-07T13:59:57.421609264Z",
-      "first_seen": "2026-09-07T14:00:03.033954+00:00"
-    },
-    "DYZdFxwtBtMYtqkrpsmfDAZZePvjWdrEe6PGiQLpfUat": {
-      "symbol": "BTC5Y",
-      "created_at": "2026-09-07T13:59:57.397849421Z",
-      "first_seen": "2026-09-07T14:00:03.033954+00:00"
-    },
-    "UN2drpW6JkMz5wC9QcR5aabvwpemEbjnFdCCr1Rg8Si": {
-      "symbol": "XRP-UP",
-      "created_at": "2026-09-07T13:59:57.36604817Z",
-      "first_seen": "2026-09-07T14:00:03.033954+00:00"
-    },
     "FpMux7CpwHr3b37RekrJm4AAan28R5UwMoM1nnUapump": {
       "symbol": "Hirono",
       "created_at": "2026-09-07T14:02:52.942721925Z",
@@ -1813,7 +1763,12 @@
     "5HeRfPi37s4UFj1dLc1LSo4R2zbo1cEjTTV2KtNEpump": {
       "symbol": "NIVI",
       "created_at": "2026-09-07T15:50:08.188855574Z",
-      "first_seen": "2026-09-07T15:50:15.906640+00:00"
+      "first_seen": "2026-09-07T15:50:15.906640+00:00",
+      "confirm": {
+        "liquidity": 31052.17,
+        "market_cap": 143117,
+        "at": "2026-09-07T16:01:35.693405+00:00"
+      }
     },
     "S7xwTPgoBAmfFFWC471i6zeRQNxDfUHgujmLrwcpump": {
       "symbol": "AFD",
@@ -2009,6 +1964,56 @@
       "symbol": "sol",
       "created_at": "2026-09-07T15:58:21.987984389Z",
       "first_seen": "2026-09-07T15:58:42.526147+00:00"
+    },
+    "9a8U7TYSPBX1NWeoCb5j9g3C1hK4qMXNNXJtwLNKpump": {
+      "symbol": "NAIJAPRIC",
+      "created_at": "2026-09-07T16:01:25.823889433Z",
+      "first_seen": "2026-09-07T16:01:35.693129+00:00"
+    },
+    "3WBRJwhiiQ5x5DLkmgRkWZ468cpoyDje7PVKSP2opump": {
+      "symbol": "Hypno",
+      "created_at": "2026-09-07T16:01:24.965833872Z",
+      "first_seen": "2026-09-07T16:01:35.693129+00:00"
+    },
+    "9VS56cSvwgAjFBa8sPwTYDaEonnYceQdULNqRnePpump": {
+      "symbol": "IMPACT",
+      "created_at": "2026-09-07T16:01:22.861142714Z",
+      "first_seen": "2026-09-07T16:01:35.693129+00:00"
+    },
+    "6nysEfCkMp8rWqwJrNPTAQTsiS91pvNsttV55UhApump": {
+      "symbol": "F35",
+      "created_at": "2026-09-07T16:01:22.711346168Z",
+      "first_seen": "2026-09-07T16:01:35.693129+00:00"
+    },
+    "DRbegwcYS3zYrt1nhYCUG5NFMdfmh2UYyHeoLnSCpump": {
+      "symbol": "LAPTOP",
+      "created_at": "2026-09-07T16:01:20.927885382Z",
+      "first_seen": "2026-09-07T16:01:35.693129+00:00"
+    },
+    "Go6NQqd7GPvbVzBbo5FyP5NFz7GcqFkLqoxxwQR1afZi": {
+      "symbol": "",
+      "created_at": "2026-09-07T16:01:20.194284322Z",
+      "first_seen": "2026-09-07T16:01:35.693129+00:00"
+    },
+    "5zjqAf4tczcqdZE6hK1Yy2cMvSU1SpYChxvnD53T7vBE": {
+      "symbol": "ASSRP",
+      "created_at": "2026-09-07T16:01:17.677690718Z",
+      "first_seen": "2026-09-07T16:01:35.693129+00:00"
+    },
+    "Gr3E9aFUGR8fee5Fycz627yLR9AVPrbdnpPJ5ddjqnWQ": {
+      "symbol": "LAPTOP",
+      "created_at": "2026-09-07T16:01:17.513292438Z",
+      "first_seen": "2026-09-07T16:01:35.693129+00:00"
+    },
+    "DW2ACihXr27ivc5SJRa1cc7fJgDfr5kgYYkizz3kNKUC": {
+      "symbol": "ANTFUN",
+      "created_at": "2026-09-07T16:01:09.601551764Z",
+      "first_seen": "2026-09-07T16:01:35.693129+00:00"
+    },
+    "En8VQoQ6TBn3tX7BJXfLzrAJSASg7TcndFW1Mrqi366y": {
+      "symbol": "LUNARIAN",
+      "created_at": "2026-09-07T16:00:58.9118074Z",
+      "first_seen": "2026-09-07T16:01:35.693129+00:00"
     }
   },
   "alerted": [
