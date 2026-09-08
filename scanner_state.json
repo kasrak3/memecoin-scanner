@@ -1,55 +1,5 @@
 {
   "pending": {
-    "E25Eb8FEVFtQeYqiQweNpCrSuj92VEYuruqMHqPUztdT": {
-      "symbol": "CAPITALCAT",
-      "created_at": "2026-09-08T02:15:14.591608787Z",
-      "first_seen": "2026-09-08T02:15:19.054685+00:00"
-    },
-    "5Kj7AFxv6HnHC21ag62p3buc7bkSvS6HXQ4YM5WRpump": {
-      "symbol": "Tate",
-      "created_at": "2026-09-08T02:15:11.011574227Z",
-      "first_seen": "2026-09-08T02:15:19.054685+00:00"
-    },
-    "FQBd7eMm68c2FoVgKSU84mVA863DXfatdeEJL7mZpump": {
-      "symbol": "LUMINATOR",
-      "created_at": "2026-09-08T02:15:11.006818808Z",
-      "first_seen": "2026-09-08T02:15:19.054685+00:00"
-    },
-    "CDN6ZF5rkaCwNPFbCv6cbRCQUaEzgdATVxWJiW4pump": {
-      "symbol": "retire",
-      "created_at": "2026-09-08T02:15:10.988831731Z",
-      "first_seen": "2026-09-08T02:15:19.054685+00:00"
-    },
-    "CFdLJRDKmi9ph73j945NnuqfXZCXwiUGGPbF2Accpump": {
-      "symbol": "Files",
-      "created_at": "2026-09-08T02:15:09.522428163Z",
-      "first_seen": "2026-09-08T02:15:19.054685+00:00"
-    },
-    "SvMo2ab6Vxfgny2UUNZkf9ABWAXw1C34J9mTxMEpump": {
-      "symbol": "HighRisk",
-      "created_at": "2026-09-08T02:15:09.484473504Z",
-      "first_seen": "2026-09-08T02:15:19.054685+00:00"
-    },
-    "AuriapjDZW52eBQjGr4hjLwLLDwb7iMCGHWmxQQNpump": {
-      "symbol": "mooncat",
-      "created_at": "2026-09-08T02:15:07.900084496Z",
-      "first_seen": "2026-09-08T02:15:19.054685+00:00"
-    },
-    "9zagvAj1fUi5WyzPmisk6JMPDiYPvtxGzQNzWBCwpump": {
-      "symbol": "HALH",
-      "created_at": "2026-09-08T02:15:06.740928904Z",
-      "first_seen": "2026-09-08T02:15:19.054685+00:00"
-    },
-    "G4F5WLWy7PezaRk5tM1oHMhVMRBBejMcTY3bHFo7pump": {
-      "symbol": "mooncat",
-      "created_at": "2026-09-08T02:15:05.483329176Z",
-      "first_seen": "2026-09-08T02:15:19.054685+00:00"
-    },
-    "CLNpd3GzZWspWKd2ddy1cahV5Zqh8GKjh4wBeQXGpump": {
-      "symbol": "Chudling",
-      "created_at": "2026-09-08T02:15:03.723377201Z",
-      "first_seen": "2026-09-08T02:15:19.054685+00:00"
-    },
     "HJpt5XgbvDe2BGrer8pRByTjWArm5zmqVhgRAUw6pump": {
       "symbol": "CME",
       "created_at": "2026-09-08T02:17:44.943470923Z",
@@ -1678,7 +1628,12 @@
     "zrmswgfyBjwCFziMo4S5EQdpx2GWRBpEK3vK434tx22": {
       "symbol": "Token",
       "created_at": "2026-09-08T03:45:27.064773039Z",
-      "first_seen": "2026-09-08T03:45:45.195686+00:00"
+      "first_seen": "2026-09-08T03:45:45.195686+00:00",
+      "confirm": {
+        "liquidity": 34130,
+        "market_cap": 170324,
+        "at": "2026-09-08T04:17:48.939382+00:00"
+      }
     },
     "A9vNQbXEVCLgt4547qoevDWxcjsx1PCQneJn6F7Qpump": {
       "symbol": "fg",
@@ -2249,6 +2204,56 @@
       "symbol": "XRP",
       "created_at": "2026-09-08T04:14:14.768270999Z",
       "first_seen": "2026-09-08T04:15:06.520655+00:00"
+    },
+    "AC4KubkmghGUBAokjZeMm766ocyQB9d4xp8Y2BKWpump": {
+      "symbol": "DUCKT",
+      "created_at": "2026-09-08T04:17:44.616661241Z",
+      "first_seen": "2026-09-08T04:17:48.939087+00:00"
+    },
+    "ou6pe32zUpezv5CDa9WpwABtSVzCwkeC7YKCnv9pump": {
+      "symbol": "CIRCLEJERK",
+      "created_at": "2026-09-08T04:17:42.722718533Z",
+      "first_seen": "2026-09-08T04:17:48.939087+00:00"
+    },
+    "4TdhjnPSNsf6CkRGzf9X7RPqsa83nFpaPX3zPrh9pump": {
+      "symbol": "PSYOP",
+      "created_at": "2026-09-08T04:17:38.350168792Z",
+      "first_seen": "2026-09-08T04:17:48.939087+00:00"
+    },
+    "E9r1bWef8i5vjQ7RvpqwUZNrxXF1gpAmjLj4LARF6jY7": {
+      "symbol": "",
+      "created_at": "2026-09-08T04:17:37.53548566Z",
+      "first_seen": "2026-09-08T04:17:48.939087+00:00"
+    },
+    "8sFVy4UtdzESPv5ofYKgrTf8mSLesCD9GTF2n3yvpump": {
+      "symbol": "PEIN",
+      "created_at": "2026-09-08T04:17:33.761503786Z",
+      "first_seen": "2026-09-08T04:17:48.939087+00:00"
+    },
+    "52Awk2oNzc1fraAZRU7XBHT7dEUwr8iVvirNF4LabpfB": {
+      "symbol": "MPN",
+      "created_at": "2026-09-08T04:17:32.569839835Z",
+      "first_seen": "2026-09-08T04:17:48.939087+00:00"
+    },
+    "BnKkjMERJrSuvLqLpvjLkBzGBJqpgJGjc2UEh8ZJ67WA": {
+      "symbol": "STONK",
+      "created_at": "2026-09-08T04:17:31.975037423Z",
+      "first_seen": "2026-09-08T04:17:48.939087+00:00"
+    },
+    "2kMrtZynxo5Y4DMWytHj8Yutkp8RzchSKoJmyzdU6CNo": {
+      "symbol": "Token",
+      "created_at": "2026-09-08T04:17:29.463279861Z",
+      "first_seen": "2026-09-08T04:17:48.939087+00:00"
+    },
+    "G9JbLoxawT7BUDmSZuiEX3u62Cda2JENzeE8QAtWpump": {
+      "symbol": "BONER",
+      "created_at": "2026-09-08T04:17:26.337964592Z",
+      "first_seen": "2026-09-08T04:17:48.939087+00:00"
+    },
+    "6SSiZKXUqYQ7PYyZ5SH7QydT5ekE2B68SKeDdikopump": {
+      "symbol": "AOTC",
+      "created_at": "2026-09-08T04:17:26.309236191Z",
+      "first_seen": "2026-09-08T04:17:48.939087+00:00"
     }
   },
   "alerted": [
