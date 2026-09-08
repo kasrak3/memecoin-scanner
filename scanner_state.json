@@ -730,11 +730,6 @@
       "created_at": "2026-09-08T11:42:12.437750512Z",
       "first_seen": "2026-09-08T11:42:25.853629+00:00"
     },
-    "14WTKrerm87pE7nxpSh1nviHU7r64hCZzbaTRFuhNubL": {
-      "symbol": "QI",
-      "created_at": "2026-09-08T11:42:12.378870158Z",
-      "first_seen": "2026-09-08T11:42:25.853629+00:00"
-    },
     "ADVh8JDKHpACKC1X71C7RWjkCzSNThN4nWoAAQHnpump": {
       "symbol": "DERP",
       "created_at": "2026-09-08T11:42:12.230478989Z",
@@ -969,6 +964,56 @@
       "symbol": "$SNPR",
       "created_at": "2026-09-08T11:51:21.686909049Z",
       "first_seen": "2026-09-08T11:51:43.431589+00:00"
+    },
+    "9LCFKZdXMpunBhqEJq8ioJWXiEQ2jA7EgQzQsZ1Bpump": {
+      "symbol": "MCAT",
+      "created_at": "2026-09-08T11:54:04.841505363Z",
+      "first_seen": "2026-09-08T11:54:07.087529+00:00"
+    },
+    "3CbrM52ezkT3ghAFEZsZz8Ec5qVpmiHPM8uc7oRgpump": {
+      "symbol": "Koo",
+      "created_at": "2026-09-08T11:54:00.286275848Z",
+      "first_seen": "2026-09-08T11:54:07.087529+00:00"
+    },
+    "8QARWKzZB7rHTt8jfwQE8MQKua1xVmdBAX1yNNFYpump": {
+      "symbol": "ASSZ",
+      "created_at": "2026-09-08T11:53:58.526097372Z",
+      "first_seen": "2026-09-08T11:54:07.087529+00:00"
+    },
+    "1V7duJ8BtUt8FBp2DDmSQi2Rrur1wG1XmveTumUpump": {
+      "symbol": "Treecoin",
+      "created_at": "2026-09-08T11:53:56.525932012Z",
+      "first_seen": "2026-09-08T11:54:07.087529+00:00"
+    },
+    "PsRG32rE47huRwUPVxyZPbiD6ML49vYxFVasYuapump": {
+      "symbol": "Treecoin",
+      "created_at": "2026-09-08T11:53:50.941427813Z",
+      "first_seen": "2026-09-08T11:54:07.087529+00:00"
+    },
+    "3Hwy9HHVFjEsBUuPtu9sAXtLzD141et5qmfJkMQiwx8R": {
+      "symbol": "DUFFLE",
+      "created_at": "2026-09-08T11:53:47.329530546Z",
+      "first_seen": "2026-09-08T11:54:07.087529+00:00"
+    },
+    "2wZdvnRK8XdoqLaDQUA7A4Ci9YgBGYqqCDxQpMD5pump": {
+      "symbol": "stockmarket",
+      "created_at": "2026-09-08T11:53:46.087337218Z",
+      "first_seen": "2026-09-08T11:54:07.087529+00:00"
+    },
+    "Eoq8iNDymLFCLParmGrzbJkLfXZQGqH6nC2X3G4pump": {
+      "symbol": "ST",
+      "created_at": "2026-09-08T11:53:43.314616105Z",
+      "first_seen": "2026-09-08T11:54:07.087529+00:00"
+    },
+    "Bea9utBmMbCuGdNbSPo36YByyhE47UTjtjymeoUvpump": {
+      "symbol": "Treecoin",
+      "created_at": "2026-09-08T11:53:39.759298262Z",
+      "first_seen": "2026-09-08T11:54:07.087529+00:00"
+    },
+    "6NAeprzvxDhhgFJEqjXTm8h4adoMYQuz13KQ88B9pump": {
+      "symbol": "TONKS",
+      "created_at": "2026-09-08T11:53:37.818850708Z",
+      "first_seen": "2026-09-08T11:54:07.087529+00:00"
     }
   },
   "alerted": [
@@ -1219,7 +1264,6 @@
     "zrmswgfyBjwCFziMo4S5EQdpx2GWRBpEK3vK434tx22"
   ],
   "rejected": [
-    "5eQoCaAm8rsmfTXYewcPBfgj4fhEE5P542Px9hvJvk3p",
     "CZaeEwkLZ7McNcDDEvdBKxtQWNCX3GBV9nZkEKNY4de",
     "A4CxryLTqnBGdrAUzeWfFS28SY3wkfeNJj3uW3Ypump",
     "8HdXD2rAq2XtDQwdsnb44BvCuALJphFSpXKKKQ35JHHh",
@@ -3218,6 +3262,7 @@
     "DKFRMKrkJnRpFgnRRNoHuNtHDaBhN8sFTuEEmHEQ25sM",
     "CXPDRUXTwffsdqbn5gUUwWg6pk1GhGjHubs7KsSC55t6",
     "Evk1BwPkBBhRMHchDET9ejjvYaKnGyTjPZirXdDo3Lb6",
-    "FfHxdBBxKmCZpfVAQKuVMwzJ8dVM5EQixevhbzYSxQCh"
+    "FfHxdBBxKmCZpfVAQKuVMwzJ8dVM5EQixevhbzYSxQCh",
+    "14WTKrerm87pE7nxpSh1nviHU7r64hCZzbaTRFuhNubL"
   ]
 }
