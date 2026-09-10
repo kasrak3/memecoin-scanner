@@ -1,50 +1,5 @@
 {
   "pending": {
-    "5ARsV2iLdqpY9Y1n8efpCiAc4Bg3a7wiDb4xWAhiUELh": {
-      "symbol": "XRP",
-      "created_at": "2026-09-10T14:02:26.823766589Z",
-      "first_seen": "2026-09-10T14:02:37.209715+00:00"
-    },
-    "7zTrMMoxXCJMSaUfAzQntzZUg8xTZ8GhzN5XWzLSTNK": {
-      "symbol": "MARIO",
-      "created_at": "2026-09-10T14:02:24.034603571Z",
-      "first_seen": "2026-09-10T14:02:37.209715+00:00"
-    },
-    "5NyBKH7FToQYikPthyA3MPeXJMyB4jyBHh7r9trEHfNe": {
-      "symbol": "UBER",
-      "created_at": "2026-09-10T14:02:23.817165448Z",
-      "first_seen": "2026-09-10T14:02:37.209715+00:00"
-    },
-    "AtE4jt8NpuwGXDkdKF9hbWkXf1jQNPd45tt6BUyopump": {
-      "symbol": "AK1",
-      "created_at": "2026-09-10T14:02:23.10225042Z",
-      "first_seen": "2026-09-10T14:02:37.209715+00:00"
-    },
-    "6dcgdFrqg2fpc5Lmu6U2z98sc6fYRMd2aPuRXq4qpump": {
-      "symbol": "p",
-      "created_at": "2026-09-10T14:02:23.077462371Z",
-      "first_seen": "2026-09-10T14:02:37.209715+00:00"
-    },
-    "BRsBkj7aJzKXzumQGdAhWx8m58quDnCtaQjuy2EgvLzg": {
-      "symbol": "ZFORGE",
-      "created_at": "2026-09-10T14:02:22.255884851Z",
-      "first_seen": "2026-09-10T14:02:37.209715+00:00"
-    },
-    "9jFtbYvLE6dj6qD6CSkWE6uKnRuqxgcUTEJ5Lro2pump": {
-      "symbol": "G\u00f6sta",
-      "created_at": "2026-09-10T14:02:17.564780965Z",
-      "first_seen": "2026-09-10T14:02:37.209715+00:00"
-    },
-    "52F696S91TyPg8ABj18tDcDSKh54sDjgqmdCtSaW7pe1": {
-      "symbol": "",
-      "created_at": "2026-09-10T14:02:16.946974447Z",
-      "first_seen": "2026-09-10T14:02:37.209715+00:00"
-    },
-    "FKWaGJZjCU1oFoxMmf8DAXG6xEh4wyMAhy5JbhJfpump": {
-      "symbol": "$\u4f69\u5854",
-      "created_at": "2026-09-10T14:02:15.307677938Z",
-      "first_seen": "2026-09-10T14:02:37.209715+00:00"
-    },
     "A7AMzgmjip852gEJpVXMaHGvRsj551XspSNK6C3nC1zx": {
       "symbol": "NEIRO",
       "created_at": "2026-09-10T14:05:19.943487169Z",
@@ -1813,7 +1768,12 @@
     "ECJRmguoJZehUVEceGs53JXS3gwY2XwabqV5e4SXJJnv": {
       "symbol": "FLY",
       "created_at": "2026-09-10T15:44:19.13140445Z",
-      "first_seen": "2026-09-10T15:44:32.084488+00:00"
+      "first_seen": "2026-09-10T15:44:32.084488+00:00",
+      "confirm": {
+        "liquidity": 3532.7,
+        "market_cap": 1871,
+        "at": "2026-09-10T16:03:45.784185+00:00"
+      }
     },
     "66fKLKr8XYBz4WLhKh6mJtaKfg84ijWKMjSAuHgLLqwj": {
       "symbol": "KNOTS",
@@ -2149,6 +2109,56 @@
       "symbol": "Athena",
       "created_at": "2026-09-10T16:00:12.569085203Z",
       "first_seen": "2026-09-10T16:00:57.191441+00:00"
+    },
+    "D5X1f861HMYthLiMowF3Ccw9ULgsL6iCjxtt38vQpump": {
+      "symbol": "RICK",
+      "created_at": "2026-09-10T16:03:36.302281581Z",
+      "first_seen": "2026-09-10T16:03:45.783815+00:00"
+    },
+    "Cwb7i4dBAVrYCZd4VNMCzv8gC6rzUe83UWGUwLHZBDSC": {
+      "symbol": "OWP",
+      "created_at": "2026-09-10T16:03:35.191392888Z",
+      "first_seen": "2026-09-10T16:03:45.783815+00:00"
+    },
+    "FF75zFSrkCY6ruw9wBfFSQraXQ4ZJMD1ed8hAE5miksy": {
+      "symbol": "KIRKATORX",
+      "created_at": "2026-09-10T16:03:34.711123947Z",
+      "first_seen": "2026-09-10T16:03:45.783815+00:00"
+    },
+    "8maHcip4W29Ez1uHSvWeQHPFbnskJ5h7LjB3Zp2yEiMs": {
+      "symbol": "USELESS",
+      "created_at": "2026-09-10T16:03:28.664339458Z",
+      "first_seen": "2026-09-10T16:03:45.783815+00:00"
+    },
+    "GRgqW9wGvKGucGjYwiHQRy7EX6Yy9Kgg2X4sg93xpump": {
+      "symbol": "DOOROC",
+      "created_at": "2026-09-10T16:03:27.711964896Z",
+      "first_seen": "2026-09-10T16:03:45.783815+00:00"
+    },
+    "AMrxQpnvU7hr4EpymT47ZWpVHdshtjLaGK16S66heHeK": {
+      "symbol": "OWP",
+      "created_at": "2026-09-10T16:03:23.808043187Z",
+      "first_seen": "2026-09-10T16:03:45.783815+00:00"
+    },
+    "EeRqpUm6v9pgHQqrFF12q1dFw37LaNQrKLtHgdWakoto": {
+      "symbol": "LAUNCHFOMO",
+      "created_at": "2026-09-10T16:03:20.998669644Z",
+      "first_seen": "2026-09-10T16:03:45.783815+00:00"
+    },
+    "4TCnVsP1kUvQttFjvWkeU67xRBHFCu32PXp9h7Mypump": {
+      "symbol": "HALH",
+      "created_at": "2026-09-10T16:03:19.848076454Z",
+      "first_seen": "2026-09-10T16:03:45.783815+00:00"
+    },
+    "21Kvoe6jfEGsTzi9kZ3hxnBBPPDHzsCZpsZHNCiJpump": {
+      "symbol": "CASHCAT",
+      "created_at": "2026-09-10T16:03:16.803629022Z",
+      "first_seen": "2026-09-10T16:03:45.783815+00:00"
+    },
+    "Ui8xyicRD3FHBiAVGFHqjJmUNQBQ2wi6f9qGutnpump": {
+      "symbol": "Democratism",
+      "created_at": "2026-09-10T16:03:15.140277404Z",
+      "first_seen": "2026-09-10T16:03:45.783815+00:00"
     }
   },
   "alerted": [
