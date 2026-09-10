@@ -1655,16 +1655,6 @@
       "created_at": "2026-09-10T12:32:59.008529328Z",
       "first_seen": "2026-09-10T12:33:25.706305+00:00"
     },
-    "38FAP2Sst1sEy41VTeobVtDdk1rpPxaAs5ivS8tMpump": {
-      "symbol": "BOOBS",
-      "created_at": "2026-09-10T12:35:47.212280638Z",
-      "first_seen": "2026-09-10T12:35:57.221443+00:00",
-      "confirm": {
-        "liquidity": 36822.9,
-        "market_cap": 207873,
-        "at": "2026-09-10T12:51:41.513945+00:00"
-      }
-    },
     "4WggdrxECfK8WqzbnPzorestmcFVwPgnJssWnfjQpump": {
       "symbol": "BPCATE",
       "created_at": "2026-09-10T12:35:46.984669021Z",
@@ -2109,6 +2099,56 @@
       "symbol": "MPN",
       "created_at": "2026-09-10T12:56:45.08250885Z",
       "first_seen": "2026-09-10T12:56:59.168175+00:00"
+    },
+    "BkPn6cgy9PUVSu7aZ4pdt8NA5ws8jqgV9dJNemDdpump": {
+      "symbol": "ALEXANDER",
+      "created_at": "2026-09-10T12:59:32.186366524Z",
+      "first_seen": "2026-09-10T12:59:38.494062+00:00"
+    },
+    "4WBsZo7HEvLT8BNLrp6hSxAy2n9VUfy6ZQZ7YCEpA5fa": {
+      "symbol": "KNOTS",
+      "created_at": "2026-09-10T12:59:31.63614869Z",
+      "first_seen": "2026-09-10T12:59:38.494062+00:00"
+    },
+    "DQRamerVPTYmbXCir2eTjmeMkufuyTiFvwzWouUW78Jb": {
+      "symbol": "Groyper",
+      "created_at": "2026-09-10T12:59:30.796070432Z",
+      "first_seen": "2026-09-10T12:59:38.494062+00:00"
+    },
+    "ByqrS31551Tchd2d2KLqN8gqugHjhTKadFhwryanpump": {
+      "symbol": "BetOnBlak",
+      "created_at": "2026-09-10T12:59:22.742097793Z",
+      "first_seen": "2026-09-10T12:59:38.494062+00:00"
+    },
+    "9T6CNGhT3smVMc9UTejB5Enag87eVDmdmkbJp7L3mnHX": {
+      "symbol": "",
+      "created_at": "2026-09-10T12:59:20.731335078Z",
+      "first_seen": "2026-09-10T12:59:38.494062+00:00"
+    },
+    "16qD3TG4YLFRxBTiChXQMBxbfbaoCLfCCyEeiY85NS2": {
+      "symbol": "STONK",
+      "created_at": "2026-09-10T12:59:20.352528764Z",
+      "first_seen": "2026-09-10T12:59:38.494062+00:00"
+    },
+    "5bZgm1iatZ8Dgk8h2679NT2UveN7L5hQ3zuFoAnwQgwb": {
+      "symbol": "Hedge",
+      "created_at": "2026-09-10T12:59:20.34734398Z",
+      "first_seen": "2026-09-10T12:59:38.494062+00:00"
+    },
+    "4gQvtQAZYYiqrvsF6FENXSdL5wEPKfWvYGAi3VK6pump": {
+      "symbol": "Groyper",
+      "created_at": "2026-09-10T12:59:11.950205867Z",
+      "first_seen": "2026-09-10T12:59:38.494062+00:00"
+    },
+    "ArCnGCVGKdJiAG5W3SwToHjeUYYDSjAoHcMZdC6ax4wW": {
+      "symbol": "ALEXANDER",
+      "created_at": "2026-09-10T12:59:11.36967029Z",
+      "first_seen": "2026-09-10T12:59:38.494062+00:00"
+    },
+    "GW1scB4SZqHLDhK7hnWZWAc9FZpT5AHE6Lf2s7Sfpump": {
+      "symbol": "CHILLPUMP",
+      "created_at": "2026-09-10T12:59:09.728146211Z",
+      "first_seen": "2026-09-10T12:59:38.494062+00:00"
     }
   },
   "alerted": [
@@ -2371,7 +2411,8 @@
     "3XxUS4G69YxtgP1hkCR9EAq98BUcDZFGJpNitKM6uM1s",
     "wMdfe6BvamMjEnJGyX4sttshd3ww95sMddyTFweaimh",
     "5XkJN5cArTjkvD4C3RcNBHzuwuPZALxDdUnUPgTyfskL",
-    "57ZnPuXHMHhKjxtjxw5itv8VVoVUHXLKsqqVgCYnpump"
+    "57ZnPuXHMHhKjxtjxw5itv8VVoVUHXLKsqqVgCYnpump",
+    "38FAP2Sst1sEy41VTeobVtDdk1rpPxaAs5ivS8tMpump"
   ],
   "rejected": [
     "AV7mPH1kpJw1yhXk1Kzvw6A5yCV9TyFdcyvL9pgDs69t",
