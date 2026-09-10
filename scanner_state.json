@@ -1670,11 +1670,6 @@
       "created_at": "2026-09-10T22:04:23.432621576Z",
       "first_seen": "2026-09-10T22:04:45.688161+00:00"
     },
-    "3fbRKdLj4T74nP5HmYKLscmLadSbfbHZE2J6rYwTpump": {
-      "symbol": "TNT",
-      "created_at": "2026-09-10T22:04:23.416954157Z",
-      "first_seen": "2026-09-10T22:04:45.688161+00:00"
-    },
     "7NNaKvmRaugLCLRA3UN9viFQ7p1f7yP5wfy7Wa4ypump": {
       "symbol": "Devin",
       "created_at": "2026-09-10T22:04:22.091202112Z",
@@ -1839,6 +1834,56 @@
       "symbol": "pump",
       "created_at": "2026-09-10T22:13:55.780922018Z",
       "first_seen": "2026-09-10T22:14:06.697391+00:00"
+    },
+    "CDVS65r8cqjjbiUwc5w1b4iP4FiEvCWskNSv3J3Ws1at": {
+      "symbol": "RUSH",
+      "created_at": "2026-09-10T22:16:37.15935468Z",
+      "first_seen": "2026-09-10T22:16:41.045860+00:00"
+    },
+    "DYPg1Wzz3ivgbKN4SvZMQvz6YE4E25mNSt2dbXuaBcCV": {
+      "symbol": "SPY",
+      "created_at": "2026-09-10T22:16:36.761732205Z",
+      "first_seen": "2026-09-10T22:16:41.045860+00:00"
+    },
+    "AaKAhnMjeT9MhEr65aUJQvPwCKWqPtwwJPZERa331REL": {
+      "symbol": "MPN",
+      "created_at": "2026-09-10T22:16:34.843386745Z",
+      "first_seen": "2026-09-10T22:16:41.045860+00:00"
+    },
+    "6WpMAEVrsFkXeus6YYXZssbx446ssjRttbEDdWkCpump": {
+      "symbol": "IPO",
+      "created_at": "2026-09-10T22:16:34.381233944Z",
+      "first_seen": "2026-09-10T22:16:41.045860+00:00"
+    },
+    "BZxRdRjNhj1W7bekweYcTfZVvxBdwRdgBzTQJi5g7HF6": {
+      "symbol": "KULKARNIAP",
+      "created_at": "2026-09-10T22:16:30.026792155Z",
+      "first_seen": "2026-09-10T22:16:41.045860+00:00"
+    },
+    "FJ1NCSTdVzcvsGM71xb94cer3yRYcnFGiPPpUvS7pump": {
+      "symbol": "NVIDIA",
+      "created_at": "2026-09-10T22:16:28.659386486Z",
+      "first_seen": "2026-09-10T22:16:41.045860+00:00"
+    },
+    "FaLAmtLB646qdEYpzGrC2RyT2pXvDxiijscyFRJPSTNK": {
+      "symbol": "WiggaCock",
+      "created_at": "2026-09-10T22:16:28.44886354Z",
+      "first_seen": "2026-09-10T22:16:41.045860+00:00"
+    },
+    "825h7nfoeHHYy6TEynz4x9kTLWvr4hbZroeVMxT9sPkE": {
+      "symbol": "Nvidia",
+      "created_at": "2026-09-10T22:16:28.337523745Z",
+      "first_seen": "2026-09-10T22:16:41.045860+00:00"
+    },
+    "6mwunnci72zgh28ea4gNwi2srGoHUS7tprV3NaxMDxij": {
+      "symbol": "CLAUDE",
+      "created_at": "2026-09-10T22:16:25.263763137Z",
+      "first_seen": "2026-09-10T22:16:41.045860+00:00"
+    },
+    "7donDbCW3vnpeyb435L63gZDLE9K9Sxprk1KWnqj1K4m": {
+      "symbol": "Nvidia",
+      "created_at": "2026-09-10T22:16:23.829350791Z",
+      "first_seen": "2026-09-10T22:16:41.045860+00:00"
     }
   },
   "alerted": [
@@ -2112,7 +2157,6 @@
     "86hthLopFmiq1kayHGFGxTVYX4x6TUgH3AVD3yGrSTNK"
   ],
   "rejected": [
-    "ABY3X6QPuDHkgTbxkaJSzpJtdJXRVBhezkf4BbmSDv8b",
     "3wrw9mvcEG9eiygSZAjcmer5qBGL9dEME7vPfw3RpaNh",
     "46bHpfoMkqaZNHGxRh5ctuQzwVSNBL2nWiW1r9JLA4Fy",
     "CmGYFxQvNgENebemNSG2nqqNuzhjqXv79iYy8FW5pump",
@@ -4111,6 +4155,7 @@
     "14jc1rAmfkxkbyeiqrxU6qyoBVrTkVHamPoomTCAadQW",
     "5E7UVMvwwDkYkzD1SWdhQiye9QMs85dwcxeNycP7FhBM",
     "BGpEZM5EarsKSFr6xJAWm1RY9f85kY2GKAKtCC3fKqPV",
-    "2paY33BC3Lf4E5VpXAWPTiJ6qxDPc1kSDrg9miPXYXtw"
+    "2paY33BC3Lf4E5VpXAWPTiJ6qxDPc1kSDrg9miPXYXtw",
+    "3fbRKdLj4T74nP5HmYKLscmLadSbfbHZE2J6rYwTpump"
   ]
 }
