@@ -1515,11 +1515,6 @@
       "created_at": "2026-09-10T05:40:27.165601903Z",
       "first_seen": "2026-09-10T05:40:53.168618+00:00"
     },
-    "8DA4H7iNqJHDBwh5e4azB8ghqPVfHr4JEA7Fy43SG4Ez": {
-      "symbol": "NVDA",
-      "created_at": "2026-09-10T05:43:10.49077097Z",
-      "first_seen": "2026-09-10T05:43:19.346767+00:00"
-    },
     "DyNstCVr7tAqcgHasVVVPTEy6APaJidiAjwZHh9YgF2Z": {
       "symbol": "MPN",
       "created_at": "2026-09-10T05:43:10.47056139Z",
@@ -1764,6 +1759,56 @@
       "symbol": "KIRKSKI",
       "created_at": "2026-09-10T05:52:46.803725098Z",
       "first_seen": "2026-09-10T05:53:17.356189+00:00"
+    },
+    "CgXUVatGefdBgh88Aqvh4QwnC1ncrT7VZjgqsVRqwiZn": {
+      "symbol": "SOB",
+      "created_at": "2026-09-10T05:55:41.043460712Z",
+      "first_seen": "2026-09-10T05:55:48.722961+00:00"
+    },
+    "6fUS51narPS3yTPRgQtnZR4rtSLuaFe9gsXx2zy2pump": {
+      "symbol": "DOOYET",
+      "created_at": "2026-09-10T05:55:39.385359268Z",
+      "first_seen": "2026-09-10T05:55:48.722961+00:00"
+    },
+    "BwASZL6zMQP5fMJS2ESkiw9kqFCj8iKBRHbCGEUypump": {
+      "symbol": "fg",
+      "created_at": "2026-09-10T05:55:36.655553384Z",
+      "first_seen": "2026-09-10T05:55:48.722961+00:00"
+    },
+    "E5HJG7g2n6qqr8XLA886bQm8KggNLWR3m3YqNMx2pump": {
+      "symbol": "doge",
+      "created_at": "2026-09-10T05:55:36.089145312Z",
+      "first_seen": "2026-09-10T05:55:48.722961+00:00"
+    },
+    "12ickmkz9JpoXZTpGP5HmJpqcBKqwFk2AVaJ5ZZ8pump": {
+      "symbol": "SPLASHY",
+      "created_at": "2026-09-10T05:55:36.030035081Z",
+      "first_seen": "2026-09-10T05:55:48.722961+00:00"
+    },
+    "HkPt6SpMRFDd1ryKKZKM4eXBTCbVU7NpVbp9aQvGpump": {
+      "symbol": "SPLASHY",
+      "created_at": "2026-09-10T05:55:36.01076954Z",
+      "first_seen": "2026-09-10T05:55:48.722961+00:00"
+    },
+    "474P1vJkPKMimLcmX9pqd8fEb2NdFShW9tDgS2Yhpump": {
+      "symbol": "SPLASHY",
+      "created_at": "2026-09-10T05:55:35.831802088Z",
+      "first_seen": "2026-09-10T05:55:48.722961+00:00"
+    },
+    "49HCBCHsZBtfvJwBeFhKyjpyAiVsKLftQt1ZLu9ewxUT": {
+      "symbol": "MEOW",
+      "created_at": "2026-09-10T05:55:31.78727745Z",
+      "first_seen": "2026-09-10T05:55:48.722961+00:00"
+    },
+    "4FcXXM3r4ngbKZSF6qdfAVJyjz9Amb7BkgAsYfuLpump": {
+      "symbol": "Sheep",
+      "created_at": "2026-09-10T05:55:29.101734158Z",
+      "first_seen": "2026-09-10T05:55:48.722961+00:00"
+    },
+    "8qQ4n6yW7r1vHYmENUyUm3UzaFaihvjNhPQtCemkpump": {
+      "symbol": "Stockhold",
+      "created_at": "2026-09-10T05:55:26.563831257Z",
+      "first_seen": "2026-09-10T05:55:48.722961+00:00"
     }
   },
   "alerted": [
@@ -2026,7 +2071,6 @@
     "3XxUS4G69YxtgP1hkCR9EAq98BUcDZFGJpNitKM6uM1s"
   ],
   "rejected": [
-    "D3zMF86epCsKcwXPjYieSPmLjii9zr8kgQwCsrHxnwY8",
     "7ejXfWcYYJXqMR1fKxMDwEAzhoixs6Fs5dFgEnK9pump",
     "rm1hRhAyYJcCS4TDq81q9n9P6dDEGg9MsQhweFp2QCc",
     "9VkxzR6mGqcKNHqgMV8MBSkudJVjMcEe6j63VYuRAv5Z",
@@ -4025,6 +4069,7 @@
     "8U2jj1zK8tYEFoftpa5Ym3EzbPZF6eDPEYXAoaDGpump",
     "1FtdFFcaTFcndMzmk4Y3sYSZjSovTjJ65ZQM8j3Aiiv",
     "BqPfEuqABTYDxMDm6bdpXFuRgMRdZJtDjvDHq4HFpump",
-    "H39NxT71GG5oujv4TZ7hPAeMhevqLqa45xrpefWpump"
+    "H39NxT71GG5oujv4TZ7hPAeMhevqLqa45xrpefWpump",
+    "8DA4H7iNqJHDBwh5e4azB8ghqPVfHr4JEA7Fy43SG4Ez"
   ]
 }
