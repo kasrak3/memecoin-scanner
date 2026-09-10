@@ -595,11 +595,6 @@
       "created_at": "2026-09-10T04:57:09.164500659Z",
       "first_seen": "2026-09-10T04:57:28.296416+00:00"
     },
-    "CHSHytDesQW9bqLKeo6CGq5uwp8S4zqcjFqCFPgbsscK": {
-      "symbol": "BRIAN",
-      "created_at": "2026-09-10T04:57:06.736716783Z",
-      "first_seen": "2026-09-10T04:57:28.296416+00:00"
-    },
     "4UFeTS1CUUGBH3dHprehgh8CkktV6NTHBwCB6bvZpump": {
       "symbol": "oof",
       "created_at": "2026-09-10T04:57:06.437851747Z",
@@ -829,6 +824,56 @@
       "symbol": "KIRKNATOR",
       "created_at": "2026-09-10T05:05:32.949082574Z",
       "first_seen": "2026-09-10T05:06:06.863508+00:00"
+    },
+    "4Pid3EXyAskfJNJLB3kh4wzcjnuiWdecXHma4Akcpump": {
+      "symbol": "Hopper",
+      "created_at": "2026-09-10T05:08:09.084284562Z",
+      "first_seen": "2026-09-10T05:08:18.897870+00:00"
+    },
+    "3XyvujpPUfyzd9eaHUzntBQQxfFADBw29WjVBHpSpump": {
+      "symbol": "Sender",
+      "created_at": "2026-09-10T05:08:08.810352527Z",
+      "first_seen": "2026-09-10T05:08:18.897870+00:00"
+    },
+    "7TmJHGdCDnE1TjZWSG7WjiEyQLpQFqid1rG3YRh8n9nN": {
+      "symbol": "DOPAMINE",
+      "created_at": "2026-09-10T05:08:07.539661274Z",
+      "first_seen": "2026-09-10T05:08:18.897870+00:00"
+    },
+    "bZkt7Ztgfcp5kmRy72Estf1GSzwdojNGedNgPFX5Aev": {
+      "symbol": "COUPON",
+      "created_at": "2026-09-10T05:08:06.558341848Z",
+      "first_seen": "2026-09-10T05:08:18.897870+00:00"
+    },
+    "FECCCMdH12iNxUy6mnwDx6fbHLMBAfhUVW1XExZ2pump": {
+      "symbol": "OMERT\u00c0",
+      "created_at": "2026-09-10T05:08:05.710376404Z",
+      "first_seen": "2026-09-10T05:08:18.897870+00:00"
+    },
+    "CCCCPZC9aJeUnnCDiFvqNM6zC1yr3LhZx6tbiH5AV8nY": {
+      "symbol": "",
+      "created_at": "2026-09-10T05:08:02.152423353Z",
+      "first_seen": "2026-09-10T05:08:18.897870+00:00"
+    },
+    "4HTSkwKxP32ZjKX74Q8mXneNhnYfJBGRLzMNpnd9pump": {
+      "symbol": "KIRKHEM",
+      "created_at": "2026-09-10T05:07:53.51575572Z",
+      "first_seen": "2026-09-10T05:08:18.897870+00:00"
+    },
+    "2JEhdo7PGGojMtKAkfi7DtUi5zkQJZcv6s4CDoDFpump": {
+      "symbol": "sol",
+      "created_at": "2026-09-10T05:07:52.611390959Z",
+      "first_seen": "2026-09-10T05:08:18.897870+00:00"
+    },
+    "25ra19fV51DqyzjVZ9qcnUCPA7Sj4kKxwHFhz4EKpump": {
+      "symbol": "Fentfold",
+      "created_at": "2026-09-10T05:07:51.621983685Z",
+      "first_seen": "2026-09-10T05:08:18.897870+00:00"
+    },
+    "HsXCHB3FVsy8jeoehQV1zgiihYtFJ2xe3o7WEH9DDzzh": {
+      "symbol": "MPN",
+      "created_at": "2026-09-10T05:07:42.2691712Z",
+      "first_seen": "2026-09-10T05:08:18.897870+00:00"
     }
   },
   "alerted": [
@@ -1091,7 +1136,6 @@
     "3XxUS4G69YxtgP1hkCR9EAq98BUcDZFGJpNitKM6uM1s"
   ],
   "rejected": [
-    "45kfZNoa4wJuF6McKC6trG4582hTxQZFrBaFj2Hqpump",
     "6Xs7fSgSshMsKfKCJyrfdCYVtVXmcnfj3T9Ht7r3R4ub",
     "3HGzZfHMhPz3LYcHRwLEVi293E9CVYvTsWzYq8xTz2uJ",
     "8rWLx9EJHanFdBRuM5iRyyDitLEDY7RypB1yFEBPmYmQ",
@@ -3090,6 +3134,7 @@
     "3HPjrrQLjicGoqjaNiKUJVbhfkB9b9fv8DB7Mb4FXHPX",
     "cNGwbJMVQe327W92daSHGA3JjTQJuRi5bgwigW2pump",
     "Ht22p49ZwKHS8K9TXwKu6KbTg5W6eobetdCArqC1pump",
-    "8HArpqrLLB6g8aSh9yFiZXswbSVz7GDiNGvD2QPvAW3c"
+    "8HArpqrLLB6g8aSh9yFiZXswbSVz7GDiNGvD2QPvAW3c",
+    "CHSHytDesQW9bqLKeo6CGq5uwp8S4zqcjFqCFPgbsscK"
   ]
 }
