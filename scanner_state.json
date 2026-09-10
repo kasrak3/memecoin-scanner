@@ -833,7 +833,12 @@
     "FXC1ETYa1d9ks59eVr6wSytaFDC32LLV7knfVvVNpump": {
       "symbol": "AIO",
       "created_at": "2026-09-10T21:23:31.189208137Z",
-      "first_seen": "2026-09-10T21:23:32.989596+00:00"
+      "first_seen": "2026-09-10T21:23:32.989596+00:00",
+      "confirm": {
+        "liquidity": 19854.13,
+        "market_cap": 64606,
+        "at": "2026-09-10T21:34:47.826706+00:00"
+      }
     },
     "EaKgcTphJ94E7PHgAxbDprQBMLug4U4UC6Y5uRugpump": {
       "symbol": "$WOLFGIGI",
@@ -1069,6 +1074,56 @@
       "symbol": "ZODL",
       "created_at": "2026-09-10T21:32:07.351341325Z",
       "first_seen": "2026-09-10T21:32:31.215240+00:00"
+    },
+    "EoDzcdnUwBhyAztpvULtHG9zJ21VjsEBMHaJaoAusjQm": {
+      "symbol": "RFK",
+      "created_at": "2026-09-10T21:34:40.995515559Z",
+      "first_seen": "2026-09-10T21:34:47.826355+00:00"
+    },
+    "31fAA1gRZfEkYJGLvGxGMz4yDzovDTWkJCYF8hyrZyEo": {
+      "symbol": "RFK",
+      "created_at": "2026-09-10T21:34:40.115768374Z",
+      "first_seen": "2026-09-10T21:34:47.826355+00:00"
+    },
+    "3rvX55DoCDLoVs14KTt7dnxayzYMPbSMqGYf8Qkm4HLj": {
+      "symbol": "",
+      "created_at": "2026-09-10T21:34:39.209280852Z",
+      "first_seen": "2026-09-10T21:34:47.826355+00:00"
+    },
+    "2ccJ6YXCEgZmL7hDmF9ydRwHPCSZQQLyR7dsEHF6TL9i": {
+      "symbol": "RFK",
+      "created_at": "2026-09-10T21:34:38.844569798Z",
+      "first_seen": "2026-09-10T21:34:47.826355+00:00"
+    },
+    "6MAJdfqYbhdbGYZe6tyhYagoTidttMnhTf6Jguns9Jqq": {
+      "symbol": "RFK",
+      "created_at": "2026-09-10T21:34:38.107448787Z",
+      "first_seen": "2026-09-10T21:34:47.826355+00:00"
+    },
+    "H2yyJbriCty5ak5Kg3B4i5d765qpp5YiLvUbo92tt2Qz": {
+      "symbol": "RFK",
+      "created_at": "2026-09-10T21:34:37.012541151Z",
+      "first_seen": "2026-09-10T21:34:47.826355+00:00"
+    },
+    "3oTRXuSywvBGWrPg6YAFQBYN7W5wRWhhzZzDXiFxvFUN": {
+      "symbol": "RFK",
+      "created_at": "2026-09-10T21:34:36.280402344Z",
+      "first_seen": "2026-09-10T21:34:47.826355+00:00"
+    },
+    "GV1bRbYw6Qj9LkgF13yH6j5ynkjNLuGHPr78Ese7S5pL": {
+      "symbol": "",
+      "created_at": "2026-09-10T21:34:35.626485745Z",
+      "first_seen": "2026-09-10T21:34:47.826355+00:00"
+    },
+    "5kyrjmMMLkquHYXJhu6FvSTsDoSP8F8yqwq71N6qpump": {
+      "symbol": "TRIO",
+      "created_at": "2026-09-10T21:34:35.468516891Z",
+      "first_seen": "2026-09-10T21:34:47.826355+00:00"
+    },
+    "BsGMhfyD4WS9XHEVzdsMGEj7GPAeD2mhNgoFAY2uP6KA": {
+      "symbol": "RFK",
+      "created_at": "2026-09-10T21:34:35.258399759Z",
+      "first_seen": "2026-09-10T21:34:47.826355+00:00"
     }
   },
   "alerted": [
