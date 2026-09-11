@@ -1048,7 +1048,12 @@
     "nNZM8T4SHN4qRLVa5NdRNCcn1cneL5fCqMr9uNWpump": {
       "symbol": "TRIPLET",
       "created_at": "2026-09-11T11:44:16.3915163Z",
-      "first_seen": "2026-09-11T11:44:28.338297+00:00"
+      "first_seen": "2026-09-11T11:44:28.338297+00:00",
+      "confirm": {
+        "liquidity": 25903.01,
+        "market_cap": 104835,
+        "at": "2026-09-11T11:56:13.474702+00:00"
+      }
     },
     "FdWpmc385cy4ZbWaFTVyuBvmVp2E6orXorMqEaRNYkSU": {
       "symbol": "",
@@ -1269,6 +1274,56 @@
       "symbol": "FW",
       "created_at": "2026-09-11T11:53:27.191367951Z",
       "first_seen": "2026-09-11T11:53:50.787587+00:00"
+    },
+    "CX3jgskUPnfF22NmJkgSUXVYzGy78Yp98x1iEyLBWNh": {
+      "symbol": "",
+      "created_at": "2026-09-11T11:56:07.039471635Z",
+      "first_seen": "2026-09-11T11:56:13.474469+00:00"
+    },
+    "5AfjyTEcRqu9t8cBusoeWfbNAFnCAmEwi5yiBMfhox3p": {
+      "symbol": "RICO",
+      "created_at": "2026-09-11T11:56:06.46451345Z",
+      "first_seen": "2026-09-11T11:56:13.474469+00:00"
+    },
+    "36y1A738QCoeSXzGjhVnBmaeUWbS541s3iG1jAwDuLfP": {
+      "symbol": "ZARD",
+      "created_at": "2026-09-11T11:56:06.403268743Z",
+      "first_seen": "2026-09-11T11:56:13.474469+00:00"
+    },
+    "GsMhuxpmtYw3Lco731v2rrps2U1QQ6wDbPeLA3BWJWQs": {
+      "symbol": "JDI",
+      "created_at": "2026-09-11T11:56:04.928637194Z",
+      "first_seen": "2026-09-11T11:56:13.474469+00:00"
+    },
+    "9ZZMYUc1CURVxUYpunBvoFAN9CNxtJAxnodMCJmEpump": {
+      "symbol": "Nikki",
+      "created_at": "2026-09-11T11:56:04.274075551Z",
+      "first_seen": "2026-09-11T11:56:13.474469+00:00"
+    },
+    "AwPL3KxbFzYAD8MA9etX9MEuKpMfcXM9AF5PuoYaMMch": {
+      "symbol": "LIQUITITTY",
+      "created_at": "2026-09-11T11:56:04.257295234Z",
+      "first_seen": "2026-09-11T11:56:13.474469+00:00"
+    },
+    "4w7YTYWChPAvHy6DQxfsSqvjJx2GEb81tPSeeHWbpump": {
+      "symbol": "Nike",
+      "created_at": "2026-09-11T11:56:02.798647948Z",
+      "first_seen": "2026-09-11T11:56:13.474469+00:00"
+    },
+    "2d3smostfjyeWh6yd3ZpWY7pjiBDgxFpGkzSY3Jtpump": {
+      "symbol": "ETAR",
+      "created_at": "2026-09-11T11:55:59.397035635Z",
+      "first_seen": "2026-09-11T11:56:13.474469+00:00"
+    },
+    "EE6KF9YEUpQoMqsNMHmXAzaWPDTfvQGX4TQLgwdixtmp": {
+      "symbol": "BOOBLE",
+      "created_at": "2026-09-11T11:55:57.667965885Z",
+      "first_seen": "2026-09-11T11:56:13.474469+00:00"
+    },
+    "GhjUgksLiLdjwwVqQPndrCibsnY4zXXgmee94pAepump": {
+      "symbol": "TOAD",
+      "created_at": "2026-09-11T11:55:54.718654882Z",
+      "first_seen": "2026-09-11T11:56:13.474469+00:00"
     }
   },
   "alerted": [
