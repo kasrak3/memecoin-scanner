@@ -1640,11 +1640,6 @@
       "created_at": "2026-09-11T22:09:51.336494262Z",
       "first_seen": "2026-09-11T22:10:14.627759+00:00"
     },
-    "Hpm83sbzGpAigsCrqZjuz7MtU8qMhQT936WoPd9orrC7": {
-      "symbol": "SOLPRICE",
-      "created_at": "2026-09-11T22:09:49.247621791Z",
-      "first_seen": "2026-09-11T22:10:14.627759+00:00"
-    },
     "4AKio2guc7C8Pmzy6UmvJnq6wUKioBgZTxvpEQiApump": {
       "symbol": "MILKY",
       "created_at": "2026-09-11T22:09:49.246329547Z",
@@ -1678,11 +1673,6 @@
     "2qBDz8vfTx6kq5bebK1t5BfJ7onQn65ucYabodiSpump": {
       "symbol": "Jewneegy",
       "created_at": "2026-09-11T22:12:47.23817699Z",
-      "first_seen": "2026-09-11T22:12:57.197071+00:00"
-    },
-    "oUdL2CkB1RxQQiYyJfrPyVsPGnSE3V5ybT8pHoTpump": {
-      "symbol": "HOOD",
-      "created_at": "2026-09-11T22:12:46.989894628Z",
       "first_seen": "2026-09-11T22:12:57.197071+00:00"
     },
     "2KvASDF9ADSXkVpzgPCjNzhTSwXyktHAJRN8tQbKpump": {
@@ -1904,6 +1894,56 @@
       "symbol": "$AURA",
       "created_at": "2026-09-11T22:23:32.618231701Z",
       "first_seen": "2026-09-11T22:24:05.212526+00:00"
+    },
+    "FDFwngu7eWGV5izL3PfoxVcCMyzXrHaxnKfETgZNsP7R": {
+      "symbol": "hehe",
+      "created_at": "2026-09-11T22:26:37.16380572Z",
+      "first_seen": "2026-09-11T22:26:51.433686+00:00"
+    },
+    "34M46aAZ6DsLkFNHdcAvaAfXnHEvGfTdwFpzm2ZPQgsj": {
+      "symbol": "Retail",
+      "created_at": "2026-09-11T22:26:36.453481445Z",
+      "first_seen": "2026-09-11T22:26:51.433686+00:00"
+    },
+    "7SHddfNgcViQRxi5LjPd6DgNLPNmDc1v1p85PNGB8GiD": {
+      "symbol": "STONKMAX",
+      "created_at": "2026-09-11T22:26:32.79395055Z",
+      "first_seen": "2026-09-11T22:26:51.433686+00:00"
+    },
+    "GeDPwE3rJfE6VrfbAm13HsgvPybfxMAHZukmekhhG1gb": {
+      "symbol": "",
+      "created_at": "2026-09-11T22:26:29.987397302Z",
+      "first_seen": "2026-09-11T22:26:51.433686+00:00"
+    },
+    "Gan9x6zj5opQ7aj6gRmyp5Vspap6foESNpv8s2DACydT": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-09-11T22:26:27.73811981Z",
+      "first_seen": "2026-09-11T22:26:51.433686+00:00"
+    },
+    "7AwvXQtprdjCRpvgJP5dJZvECefgyFZEhfsMgwHyfi8a": {
+      "symbol": "OWP",
+      "created_at": "2026-09-11T22:26:27.058655703Z",
+      "first_seen": "2026-09-11T22:26:51.433686+00:00"
+    },
+    "E6m4BTMyPz6nv8MQRQZKS8HJ38N4C1FSMWgZmLCtpump": {
+      "symbol": "basket",
+      "created_at": "2026-09-11T22:26:26.671027335Z",
+      "first_seen": "2026-09-11T22:26:51.433686+00:00"
+    },
+    "CVWqoqNPWjBZESSM4m1fVmRdHon6JDpZpxvmkLMM7RNg": {
+      "symbol": "MPN",
+      "created_at": "2026-09-11T22:26:26.453397121Z",
+      "first_seen": "2026-09-11T22:26:51.433686+00:00"
+    },
+    "ETf76k6FBnvVLfe6Z27uq9npgxHA3Ark5X73CYUv9nTu": {
+      "symbol": "",
+      "created_at": "2026-09-11T22:26:24.146346122Z",
+      "first_seen": "2026-09-11T22:26:51.433686+00:00"
+    },
+    "AujqXrTjaAeEfdKUzfzmztEs14ZrCS3RSM6joUZ8pump": {
+      "symbol": "STOCKINU",
+      "created_at": "2026-09-11T22:26:23.958975066Z",
+      "first_seen": "2026-09-11T22:26:51.433686+00:00"
     }
   },
   "alerted": [
@@ -2185,8 +2225,6 @@
     "4FmtvrR3tgtcUT4qkGSKJx386u6CfFno3QE7KCesXoZV"
   ],
   "rejected": [
-    "2EL1Kx6Wm2iE972FRBLYPPRFToXSFNPN57hBThcrgYw6",
-    "7SLqjJ4wLK7pH1BivPNphoUiXeGiLBWDZktSP8CqQ9r2",
     "CfLGahs8TLPW66NzBbm6Jz5XC2hv3H9QwQA2tdARoEN9",
     "MnwYbEkKU8jgHbWMYbaTdHxYzU1513CEjULGDeNpump",
     "8FyUfQJqPhDwd2K6ZXgc47VbM41nXWLd5KZCBWDiEjT5",
@@ -4184,6 +4222,8 @@
     "8APzAJf8JkG3knvQDoBtZ1CSTXGVt89x12SNppsE58NG",
     "6Lapj7KB39s7MRhokUrpHgHKLjuNxBBVdQ2dKw9Pd5fj",
     "7Vmt7TLxLJYuvXSrcmxAH8cMePetZW3wdDbagy1p5fnv",
-    "BEajZBVrXHjWhr6rF5rXqqHLQjE6L4BG84i3EkkTpump"
+    "BEajZBVrXHjWhr6rF5rXqqHLQjE6L4BG84i3EkkTpump",
+    "Hpm83sbzGpAigsCrqZjuz7MtU8qMhQT936WoPd9orrC7",
+    "oUdL2CkB1RxQQiYyJfrPyVsPGnSE3V5ybT8pHoTpump"
   ]
 }
