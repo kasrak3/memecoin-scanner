@@ -875,11 +875,6 @@
       "created_at": "2026-09-11T11:11:43.823929676Z",
       "first_seen": "2026-09-11T11:11:48.693089+00:00"
     },
-    "3oLzzhbHph381Aa2BGUuhDbuEfXUNVuuQELgiK7kWB5q": {
-      "symbol": "STOCKSMINE",
-      "created_at": "2026-09-11T11:11:41.925830136Z",
-      "first_seen": "2026-09-11T11:11:48.693089+00:00"
-    },
     "2jspSCiRCZzKJEA8fCBNsjkkKpKjkXJFJ4K37KEAiRYD": {
       "symbol": "BEAN",
       "created_at": "2026-09-11T11:11:39.183471156Z",
@@ -1119,6 +1114,56 @@
       "symbol": "SPLAT",
       "created_at": "2026-09-11T11:20:48.074730673Z",
       "first_seen": "2026-09-11T11:21:12.752322+00:00"
+    },
+    "7zUEXK5aT7PAjEuP4ngsBuN3xGJqBdN3cBc4mo2bSnPt": {
+      "symbol": "COAL",
+      "created_at": "2026-09-11T11:23:11.548086399Z",
+      "first_seen": "2026-09-11T11:23:30.209791+00:00"
+    },
+    "DXs18yuPkTZuYk8uvcbkn9YE2yAqBcRyaWAfVPHopump": {
+      "symbol": "\u2b06\ufe0f",
+      "created_at": "2026-09-11T11:23:09.582628832Z",
+      "first_seen": "2026-09-11T11:23:30.209791+00:00"
+    },
+    "E62nTLVC5NLv1duMm8UUzDYeXw8Du38DCrieBkcXBAGS": {
+      "symbol": "HWANG",
+      "created_at": "2026-09-11T11:23:08.147438537Z",
+      "first_seen": "2026-09-11T11:23:30.209791+00:00"
+    },
+    "CHpB3BVNdgKHXNvuajSmErXVWErzAbFEUyvaTQxMCeAB": {
+      "symbol": "",
+      "created_at": "2026-09-11T11:23:06.159720618Z",
+      "first_seen": "2026-09-11T11:23:30.209791+00:00"
+    },
+    "YR8DGiW5hhbJr4XuuTaeoUoTtHfNaCC8j6tvcKFpump": {
+      "symbol": "WTC",
+      "created_at": "2026-09-11T11:23:06.085679418Z",
+      "first_seen": "2026-09-11T11:23:30.209791+00:00"
+    },
+    "GrhB6gBneCYQUR64e1rPjmeF9umAZhAr5yd1NnLTmoon": {
+      "symbol": "Netali",
+      "created_at": "2026-09-11T11:23:05.786433829Z",
+      "first_seen": "2026-09-11T11:23:30.209791+00:00"
+    },
+    "HJX4KBR1TppZaVr2L8HcRpK1NRC6TNUiEvbAmZqKEM6s": {
+      "symbol": "EMBER",
+      "created_at": "2026-09-11T11:23:05.33373406Z",
+      "first_seen": "2026-09-11T11:23:30.209791+00:00"
+    },
+    "7UYqN1xr666McM5NAWmKQuX3joKhouwJeRrSRoJBpump": {
+      "symbol": "\ud83d\udc02\ud83c\udc04\ufe0f",
+      "created_at": "2026-09-11T11:23:01.9748845Z",
+      "first_seen": "2026-09-11T11:23:30.209791+00:00"
+    },
+    "9pGhZTTAFJyUoAxDPqHEYSAbgqmy4fRraiECtLuARFnW": {
+      "symbol": "Peptides",
+      "created_at": "2026-09-11T11:23:01.758451024Z",
+      "first_seen": "2026-09-11T11:23:30.209791+00:00"
+    },
+    "CjTtZ9KSVh3MHTs3pqzWi7qcfaohTF2CcT9bDg4b3FLY": {
+      "symbol": "YLF",
+      "created_at": "2026-09-11T11:23:00.135923884Z",
+      "first_seen": "2026-09-11T11:23:30.209791+00:00"
     }
   },
   "alerted": [
@@ -1396,7 +1441,6 @@
     "HXy14dCLY6aCaux9xDKb2LDxX7prmH89S4JacuU1iTWc"
   ],
   "rejected": [
-    "3yF1D2iXWtAXu1nPCFJzpwGm2evT9B33XYhr7CyUpump",
     "FXTHAEiuHdDhCe9nJKbm6AFVeHAjUaVX5j7mui3RxRG5",
     "25iZDpQANzRqSsBtKdpBLkNtdShdqrm2hZVLDw3RgfDi",
     "AFvj8o3ToxMuauCFd5RLTjR7ZQpq7jg4nPgsy48Toghb",
@@ -3395,6 +3439,7 @@
     "5jokjSWhZpC4Vv6bL8DF6WFvvdJh2vGNrVw7HgkZDrAj",
     "3NfT4zGGNS6SCLdM64MV7DNLZbuJApmEhBDuyXmtEYom",
     "5xhU8f6P7pzJ9cyEoe2e8frw1XnG67DkpM2qV9zX8cMm",
-    "Gy9nzAtHxPBrqCkJERqNqXHDyhSrRUH8uN9P87JExFjf"
+    "Gy9nzAtHxPBrqCkJERqNqXHDyhSrRUH8uN9P87JExFjf",
+    "3oLzzhbHph381Aa2BGUuhDbuEfXUNVuuQELgiK7kWB5q"
   ]
 }
