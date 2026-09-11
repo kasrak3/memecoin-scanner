@@ -1,10 +1,5 @@
 {
   "pending": {
-    "5vDcT1XNA6i1s3qYXx9arD3XsKGn6KDPJDWe2zJGwvfo": {
-      "symbol": "Stonker",
-      "created_at": "2026-09-11T04:30:22.757747874Z",
-      "first_seen": "2026-09-11T04:30:29.188764+00:00"
-    },
     "6R9kQfeAHzQowgiFtiX4z94uM8mphcjDh96bWB7ENVfQ": {
       "symbol": "Stonker",
       "created_at": "2026-09-11T04:30:22.241391779Z",
@@ -40,15 +35,15 @@
       "created_at": "2026-09-11T04:30:12.571271781Z",
       "first_seen": "2026-09-11T04:30:29.188764+00:00"
     },
-    "ANkKrR88soey2iskAyT9vsxHPKvvsoXqToEYTNfYZf3C": {
-      "symbol": "",
-      "created_at": "2026-09-11T04:30:11.276364662Z",
-      "first_seen": "2026-09-11T04:30:29.188764+00:00"
-    },
     "FvCmqaEVQQUA1cxsvCv7qFcMT9zAjrcyuyzE24X5STNK": {
       "symbol": "BALD",
       "created_at": "2026-09-11T04:30:11.264419625Z",
-      "first_seen": "2026-09-11T04:30:29.188764+00:00"
+      "first_seen": "2026-09-11T04:30:29.188764+00:00",
+      "confirm": {
+        "liquidity": 19183.53,
+        "market_cap": 52584,
+        "at": "2026-09-11T04:40:38.567960+00:00"
+      }
     },
     "BMguqVJk3kMTxmGVNfy12BwCjUZbdGEeHLVcgpTJpvM5": {
       "symbol": "2CHIN",
@@ -249,6 +244,56 @@
       "symbol": "Hepe",
       "created_at": "2026-09-11T04:38:18.534357102Z",
       "first_seen": "2026-09-11T04:38:36.862465+00:00"
+    },
+    "A3LdPxGp2Sv4bRjZwPCa1rVmfxiFbRDBG3N37TjQpump": {
+      "symbol": "GTR",
+      "created_at": "2026-09-11T04:40:27.946703402Z",
+      "first_seen": "2026-09-11T04:40:38.567695+00:00"
+    },
+    "7g2wH17hzFHSA98uFZ2T6bmEC1PokBZhHv6Qk617bUWD": {
+      "symbol": "IBM",
+      "created_at": "2026-09-11T04:40:25.269574398Z",
+      "first_seen": "2026-09-11T04:40:38.567695+00:00"
+    },
+    "5ueFnWJzA7jwUE4PWew42ZpZZiwNsBjnxruJdbkSpV6z": {
+      "symbol": "LOOP",
+      "created_at": "2026-09-11T04:40:24.055640629Z",
+      "first_seen": "2026-09-11T04:40:38.567695+00:00"
+    },
+    "E6Lzyywd5Rm82VcpGqoyP8gFaQQAGKmrjv7FkRH3pump": {
+      "symbol": "NOTHING",
+      "created_at": "2026-09-11T04:40:24.019428204Z",
+      "first_seen": "2026-09-11T04:40:38.567695+00:00"
+    },
+    "2GE6h1uMsBLM2qEkdfewExkfyr1wmp2dARvwwQji3qmK": {
+      "symbol": "SEXFLY",
+      "created_at": "2026-09-11T04:40:22.586867899Z",
+      "first_seen": "2026-09-11T04:40:38.567695+00:00"
+    },
+    "4icpkmLga2hHKcMmy5qiJ2DMfzWEyWXd9MFxJDniSPuu": {
+      "symbol": "YOSHKA",
+      "created_at": "2026-09-11T04:40:16.34155713Z",
+      "first_seen": "2026-09-11T04:40:38.567695+00:00"
+    },
+    "8JkERur6CQTQAQt82mwKKgSh2D6kx8pwR1Butx3bRm5c": {
+      "symbol": "flywheel",
+      "created_at": "2026-09-11T04:40:14.115474926Z",
+      "first_seen": "2026-09-11T04:40:38.567695+00:00"
+    },
+    "HhsXMnG4VCipU396URma3MBSUixFPTuruTzbn7kepump": {
+      "symbol": "BUZZ",
+      "created_at": "2026-09-11T04:40:13.490980627Z",
+      "first_seen": "2026-09-11T04:40:38.567695+00:00"
+    },
+    "8BXrvzJTFcfqNHXcZ8MWuNmCHHMicadkN3v6mgJApump": {
+      "symbol": "att",
+      "created_at": "2026-09-11T04:40:11.937165111Z",
+      "first_seen": "2026-09-11T04:40:38.567695+00:00"
+    },
+    "2nzmapFLDrvsay9NWFE1ios1fLjs1nX98rbK3QpSpump": {
+      "symbol": "NIGGATAKEOVER",
+      "created_at": "2026-09-11T04:40:10.634148569Z",
+      "first_seen": "2026-09-11T04:40:38.567695+00:00"
     }
   },
   "alerted": [
@@ -524,8 +569,6 @@
     "B5q9bUUp67M1HYeATSqSiHWx1Hxg46geSvVvJ4qZsSCr"
   ],
   "rejected": [
-    "4txRoUSyqmBzDqL5qH9aebfwjaVPZpmnoaWCAbDoGdK1",
-    "EYP6CgenjGn6vvgazpmbNJFkeKbFnZLqniRFqLh1Gzsm",
     "2oczGfTZSVv1v5CVFhovPhtDaegoHjNQAVZgtWCXdYaH",
     "BdTshNUo5MGr2yz2kQwhctUjFhuFfpZa3kiX9UZ7R9GU",
     "EtWsGeFafv9fXnVB4rnxPunwBG8uC8bJamtF4XgJpump",
@@ -2523,6 +2566,8 @@
     "6twqpiK8KEzHwyCR4kHwR2cu216X5YYJhjT2k69edfk8",
     "Bfz1y4yWm8J2vutv2Cf44s5KWzVWNYAG3ZHw4tJPWtYD",
     "nuGJJUzM66sYmo75hPuXKicdwqwakvzHvxAc2Vhpump",
-    "DtX5HGQ4YwnhzipfSNKCqjEunDNAFn9ZjUkBusrF6XNn"
+    "DtX5HGQ4YwnhzipfSNKCqjEunDNAFn9ZjUkBusrF6XNn",
+    "5vDcT1XNA6i1s3qYXx9arD3XsKGn6KDPJDWe2zJGwvfo",
+    "ANkKrR88soey2iskAyT9vsxHPKvvsoXqToEYTNfYZf3C"
   ]
 }
