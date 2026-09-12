@@ -1,55 +1,5 @@
 {
   "pending": {
-    "6nhazGPCBhsvxTwEmS7A9i2M6BC1Wa9rW7uX5i89pump": {
-      "symbol": "MC",
-      "created_at": "2026-09-12T15:41:38.428637331Z",
-      "first_seen": "2026-09-12T15:41:44.994446+00:00"
-    },
-    "25waHFNaPphNasVLNhDUpoNjLn8d7C6vZb9FZ21Qpump": {
-      "symbol": "TITSLA",
-      "created_at": "2026-09-12T15:41:36.572023371Z",
-      "first_seen": "2026-09-12T15:41:44.994446+00:00"
-    },
-    "6pmPjTrr44sTmDSMe5NVUqVNAiH7FpgPazz731Lppump": {
-      "symbol": "Pump air",
-      "created_at": "2026-09-12T15:41:35.895492985Z",
-      "first_seen": "2026-09-12T15:41:44.994446+00:00"
-    },
-    "D2wkreDASCw5hCpn4cyB4D9iKf5tZ6Mu4HMUc2Fnpump": {
-      "symbol": "Faucat",
-      "created_at": "2026-09-12T15:41:35.789414267Z",
-      "first_seen": "2026-09-12T15:41:44.994446+00:00"
-    },
-    "HUWoxjdBQH9eLTAuvHzEpFo5Z6vM9MNCD4NvsZZpump": {
-      "symbol": "airdrop",
-      "created_at": "2026-09-12T15:41:35.660855471Z",
-      "first_seen": "2026-09-12T15:41:44.994446+00:00"
-    },
-    "2HmWo3vQt3wUsgN38cp2Wy2UT9pHGGbL64uHK6Lopump": {
-      "symbol": "PumpDog",
-      "created_at": "2026-09-12T15:41:32.632597292Z",
-      "first_seen": "2026-09-12T15:41:44.994446+00:00"
-    },
-    "7eTQEFSSxvNPUZRPmv1ttu6n3sG1wJNh6hHQFQrQJyxC": {
-      "symbol": "PCC",
-      "created_at": "2026-09-12T15:41:31.091853515Z",
-      "first_seen": "2026-09-12T15:41:44.994446+00:00"
-    },
-    "5cdh1eomVs4FDw6EBkVRNcUEHF5XssMCEWXEdDCBpump": {
-      "symbol": "HODL",
-      "created_at": "2026-09-12T15:41:28.860775939Z",
-      "first_seen": "2026-09-12T15:41:44.994446+00:00"
-    },
-    "CkAqUhs9WtdYcm8MJLmMdWfv6xLEaBhM2LbwWXbE1MRV": {
-      "symbol": "TCAT",
-      "created_at": "2026-09-12T15:41:27.538966277Z",
-      "first_seen": "2026-09-12T15:41:44.994446+00:00"
-    },
-    "B8T75mRywC881A4xfRQT9oyzqgxBSNw3ZsWDngUApump": {
-      "symbol": "cap",
-      "created_at": "2026-09-12T15:41:23.898098906Z",
-      "first_seen": "2026-09-12T15:41:44.994446+00:00"
-    },
     "3zQknSnC7aDUgWtdqRNtagNTG8xtgxQbBHZz2SiPucqZ": {
       "symbol": "REVHAMI",
       "created_at": "2026-09-12T15:44:26.690738633Z",
@@ -1763,7 +1713,12 @@
     "3R2SXjzK11nr5kNgPBRFzefrbTdQ7CtrAb2JPf2dgrUj": {
       "symbol": "BATON",
       "created_at": "2026-09-12T17:20:31.586462895Z",
-      "first_seen": "2026-09-12T17:20:45.046799+00:00"
+      "first_seen": "2026-09-12T17:20:45.046799+00:00",
+      "confirm": {
+        "liquidity": 5827.49,
+        "market_cap": 6996,
+        "at": "2026-09-12T17:43:47.368271+00:00"
+      }
     },
     "o5SzU2YEE8F4rUAj3kDDtdEZQymMWGDB96GqjX2pump": {
       "symbol": "BRONHOOD",
@@ -2114,6 +2069,56 @@
       "symbol": "neet",
       "created_at": "2026-09-12T17:40:37.202099052Z",
       "first_seen": "2026-09-12T17:40:56.513970+00:00"
+    },
+    "45tGFzStwjYHm538q39kf9tfxCji6BsUgNtntrFkx8Gv": {
+      "symbol": "BAT0N",
+      "created_at": "2026-09-12T17:43:41.438011908Z",
+      "first_seen": "2026-09-12T17:43:47.367924+00:00"
+    },
+    "9bnESk1z2xQ47KtqAaiH3VN8aGemwuPy1arZqCLjTRiX": {
+      "symbol": "NINJAPAD",
+      "created_at": "2026-09-12T17:43:36.217661632Z",
+      "first_seen": "2026-09-12T17:43:47.367924+00:00"
+    },
+    "8sNvL9VZWTwa5Lde9NSNhKhsuribQGZ4i9W2aC6Epump": {
+      "symbol": "Bracket",
+      "created_at": "2026-09-12T17:43:35.745320248Z",
+      "first_seen": "2026-09-12T17:43:47.367924+00:00"
+    },
+    "HQViqBKFMnYDLris12Mv4cVTVoYiTmo9FJKEvQXMpump": {
+      "symbol": "PUVI",
+      "created_at": "2026-09-12T17:43:33.254886526Z",
+      "first_seen": "2026-09-12T17:43:47.367924+00:00"
+    },
+    "B96wAriyfPeGBrTPH43suAfFh87RsbLNVVTmXxfXpump": {
+      "symbol": "LEGO",
+      "created_at": "2026-09-12T17:43:30.245965515Z",
+      "first_seen": "2026-09-12T17:43:47.367924+00:00"
+    },
+    "5CfepUsyXgYrpRBuj34nt41DGShf84f1pQT619yimwek": {
+      "symbol": "PMUP",
+      "created_at": "2026-09-12T17:43:27.877848848Z",
+      "first_seen": "2026-09-12T17:43:47.367924+00:00"
+    },
+    "wLPDV4QoJznF1MKqVXb2xV3WdRYe7HjRypUn1s8pump": {
+      "symbol": "PMUP",
+      "created_at": "2026-09-12T17:43:27.501034301Z",
+      "first_seen": "2026-09-12T17:43:47.367924+00:00"
+    },
+    "BsXBiv4Gzeq5YvV5TMJxL4KYTGoQeZ5chLe9T2tzpump": {
+      "symbol": "MMC",
+      "created_at": "2026-09-12T17:43:27.095502229Z",
+      "first_seen": "2026-09-12T17:43:47.367924+00:00"
+    },
+    "GMskjqM9iCgbiqhc1dhPhvgA76TQ7qf3xFBrDJqopump": {
+      "symbol": "KIMCHI",
+      "created_at": "2026-09-12T17:43:27.091806771Z",
+      "first_seen": "2026-09-12T17:43:47.367924+00:00"
+    },
+    "6ZEgd2XAtTHYZECF2uDwW45cDj3KyrtyNmdnBeS3pump": {
+      "symbol": "BPCATE",
+      "created_at": "2026-09-12T17:43:22.12537083Z",
+      "first_seen": "2026-09-12T17:43:47.367924+00:00"
     }
   },
   "alerted": [
