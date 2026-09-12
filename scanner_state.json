@@ -1525,11 +1525,6 @@
       "created_at": "2026-09-12T05:34:34.116647798Z",
       "first_seen": "2026-09-12T05:35:00.935170+00:00"
     },
-    "9Z2NdCnpJFhSH9be3mvopGdxDFMTY5LP3t5BJnpZi9tB": {
-      "symbol": "BTC",
-      "created_at": "2026-09-12T05:34:28.053837252Z",
-      "first_seen": "2026-09-12T05:35:00.935170+00:00"
-    },
     "BuYBST3oExzh37BcVTBdXSuBWt4yqjTVhok2eKEVpump": {
       "symbol": "TITS",
       "created_at": "2026-09-12T05:34:25.630329787Z",
@@ -1568,16 +1563,6 @@
     "4mTes1YQYr9Zj6f5TQ2Vyv6BZUAgsvsysfcx5Ub9n1bh": {
       "symbol": "",
       "created_at": "2026-09-12T05:37:10.498389131Z",
-      "first_seen": "2026-09-12T05:37:24.947950+00:00"
-    },
-    "CYiQRcP1ruJHJdnuvrPivMeaR4D8gbu7m7fBwb1C9FKG": {
-      "symbol": "revolve",
-      "created_at": "2026-09-12T05:37:10.204426184Z",
-      "first_seen": "2026-09-12T05:37:24.947950+00:00"
-    },
-    "Eqq6YM6a7bdgNSTUzZqKHq4yjgnj4BXePTH3ekF9MUMR": {
-      "symbol": "AMemeCoin",
-      "created_at": "2026-09-12T05:37:09.956605872Z",
       "first_seen": "2026-09-12T05:37:24.947950+00:00"
     },
     "43gEBpAGi79v8jiTPqP7WA7BUFTGcETvGd4AMYBr69yp": {
@@ -1739,6 +1724,56 @@
       "symbol": "revolve",
       "created_at": "2026-09-12T05:44:08.987464494Z",
       "first_seen": "2026-09-12T05:44:46.575901+00:00"
+    },
+    "CJgogKfUuDaB3K3jsrMJ4z1g1nVPgjkspfNSHTWbpRNS": {
+      "symbol": "TSM",
+      "created_at": "2026-09-12T05:47:04.379689721Z",
+      "first_seen": "2026-09-12T05:47:16.035012+00:00"
+    },
+    "DjveAcZ59TvnekSFCY2GyeNmDkLguSaVqM51MzvBpump": {
+      "symbol": "BOOTY",
+      "created_at": "2026-09-12T05:47:03.614282113Z",
+      "first_seen": "2026-09-12T05:47:16.035012+00:00"
+    },
+    "HcEdYSPJcS5vMTotsikMqsDu7j3WXEPL9K2YtvwPpump": {
+      "symbol": "FOMOCEO",
+      "created_at": "2026-09-12T05:47:03.126909452Z",
+      "first_seen": "2026-09-12T05:47:16.035012+00:00"
+    },
+    "FKzuhaQBCys9FzpENcRQeERUz9bCwfRpxL6XKm32F3yx": {
+      "symbol": "",
+      "created_at": "2026-09-12T05:47:03.074609536Z",
+      "first_seen": "2026-09-12T05:47:16.035012+00:00"
+    },
+    "6QreHtv16rqDjkw68eeCWL9EbJ1aGKgrc6NwxZnppump": {
+      "symbol": "SANDIH",
+      "created_at": "2026-09-12T05:47:01.957407626Z",
+      "first_seen": "2026-09-12T05:47:16.035012+00:00"
+    },
+    "6zbDo4uKFfhmAK3VukFKVdPxGB6oGLMCCjFKNjKNePcc": {
+      "symbol": "MICRON",
+      "created_at": "2026-09-12T05:46:50.827076514Z",
+      "first_seen": "2026-09-12T05:47:16.035012+00:00"
+    },
+    "PK41eCki3rnGZWTeNPsyCVFsy5uwnvLN1qeWSXtpump": {
+      "symbol": "PUMPDICK",
+      "created_at": "2026-09-12T05:46:50.180876202Z",
+      "first_seen": "2026-09-12T05:47:16.035012+00:00"
+    },
+    "Dbh3B2e2boLqzUbjnH9G1YtYckzUX7nKv1EMmjP3pump": {
+      "symbol": "TJR",
+      "created_at": "2026-09-12T05:46:49.042945873Z",
+      "first_seen": "2026-09-12T05:47:16.035012+00:00"
+    },
+    "GVxeQgGFTusaqmKG5o6UV5evgpmGMai8Pxnqxfugpump": {
+      "symbol": "BTC",
+      "created_at": "2026-09-12T05:46:47.858364323Z",
+      "first_seen": "2026-09-12T05:47:16.035012+00:00"
+    },
+    "Ea2WvkJeRomf6twcJ2AFD9Dc6833sScQmpHgJFqqKCb8": {
+      "symbol": "SOLAMA",
+      "created_at": "2026-09-12T05:46:45.565515455Z",
+      "first_seen": "2026-09-12T05:47:16.035012+00:00"
     }
   },
   "alerted": [
@@ -2023,9 +2058,6 @@
     "ECRofhnyq7VzCqhLFWVx1zHXxVadRBYtT8wWCwVGpump"
   ],
   "rejected": [
-    "5znNKSi4u15o4t7zameWkGW7P7iBBgZ8jASCSWtTLheJ",
-    "EtSyyjeZsugkqfzRARMQX266rh7R89jbBdJYXXNfJhRR",
-    "DuMFawYRdfji616aFAHBZuUEJreinNYyjkkenZBjnes1",
     "8TuFB7FfNxUmWsVogcKhPc7v4bCYczsRnNptFFSPRR8n",
     "3JpKMuYvbrxm9k7RTX3iQ2Ta1fhRcax6A9s5eSdMfa7L",
     "2PJkVCxiYsPLUwFNFccN8EBdZh1L61ceMWFpPWJmULWg",
@@ -4022,6 +4054,9 @@
     "DT7cAYcLzXo4Tjiur87JR68Kp1y8TmELrPHVGv6Vpump",
     "AJDheHRoDhrpYqoV5fjFq84XcKS47QXBDbeQwozgpump",
     "Ehc1Z83MqsA5smENNxQGuRN2wd9hni8Wk9f1FzRrJXC1",
-    "Ma6bxVH3mhgj4RLKaWuH7R7H5XP6LFqwnsJuUdjhufo"
+    "Ma6bxVH3mhgj4RLKaWuH7R7H5XP6LFqwnsJuUdjhufo",
+    "9Z2NdCnpJFhSH9be3mvopGdxDFMTY5LP3t5BJnpZi9tB",
+    "CYiQRcP1ruJHJdnuvrPivMeaR4D8gbu7m7fBwb1C9FKG",
+    "Eqq6YM6a7bdgNSTUzZqKHq4yjgnj4BXePTH3ekF9MUMR"
   ]
 }
