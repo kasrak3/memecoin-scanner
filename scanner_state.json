@@ -1063,7 +1063,12 @@
     "7Sf44Ap7PbaLoCmYRHPU9oArsjj1HyqvdhT8mpikpQ7C": {
       "symbol": "RAWR",
       "created_at": "2026-09-13T12:31:29.193493094Z",
-      "first_seen": "2026-09-13T12:31:48.194338+00:00"
+      "first_seen": "2026-09-13T12:31:48.194338+00:00",
+      "confirm": {
+        "liquidity": 17263.15,
+        "market_cap": 40499,
+        "at": "2026-09-13T12:42:23.640191+00:00"
+      }
     },
     "GEsG8c6o2UfiHadAkDABMfgQZyUsAQMtdvv31N5MFK7c": {
       "symbol": "SOLSTONK",
@@ -1229,6 +1234,56 @@
       "symbol": "MLP",
       "created_at": "2026-09-13T12:39:18.422157335Z",
       "first_seen": "2026-09-13T12:39:41.693240+00:00"
+    },
+    "HHvRbckgirr9aUWsG5T3jqGrCfRCoA3dbmf2prHepump": {
+      "symbol": "rip",
+      "created_at": "2026-09-13T12:42:17.70597602Z",
+      "first_seen": "2026-09-13T12:42:23.639907+00:00"
+    },
+    "A5PS4iEhFBdycKxGmKZRpXPASVvZCbrupHkMy7Knpump": {
+      "symbol": "sc",
+      "created_at": "2026-09-13T12:42:16.460308473Z",
+      "first_seen": "2026-09-13T12:42:23.639907+00:00"
+    },
+    "AVVPrdGo6mKR9GdFn3u1x6kZ7mZwWJQJQ2GQVvHJT8wL": {
+      "symbol": "",
+      "created_at": "2026-09-13T12:42:15.364552134Z",
+      "first_seen": "2026-09-13T12:42:23.639907+00:00"
+    },
+    "ApvtR2iXN9bfCmLphitbeqPc2aR1X2VNAHqZfz7Wpump": {
+      "symbol": "HodlDeliv",
+      "created_at": "2026-09-13T12:42:10.886566119Z",
+      "first_seen": "2026-09-13T12:42:23.639907+00:00"
+    },
+    "GwjZ3PMTBCJ1LSEQoyGvfRxSe33SpPpzMjF2xCXEKB9L": {
+      "symbol": "",
+      "created_at": "2026-09-13T12:42:09.423217927Z",
+      "first_seen": "2026-09-13T12:42:23.639907+00:00"
+    },
+    "84HS22o5f5E61BXU42SyvwycehCrUsusqcM1SA1bJi6v": {
+      "symbol": "Mimema",
+      "created_at": "2026-09-13T12:42:04.687893376Z",
+      "first_seen": "2026-09-13T12:42:23.639907+00:00"
+    },
+    "9vjbXxFPBnEi9e3g5euGvuqgS3bik5SSTpETqtdipump": {
+      "symbol": "FADD",
+      "created_at": "2026-09-13T12:42:00.12187422Z",
+      "first_seen": "2026-09-13T12:42:23.639907+00:00"
+    },
+    "5aSmh1jiS24NXPRkqJ7a1afb9Sson3zY26stuAmvpump": {
+      "symbol": "FADD",
+      "created_at": "2026-09-13T12:41:59.075290157Z",
+      "first_seen": "2026-09-13T12:42:23.639907+00:00"
+    },
+    "EwXpFcuPSUfijtnsfkLmXVUK54Lj7bYvmAbBKFEcpump": {
+      "symbol": "Soon..",
+      "created_at": "2026-09-13T12:41:58.43831915Z",
+      "first_seen": "2026-09-13T12:42:23.639907+00:00"
+    },
+    "9fDJraYEd3deSAJaRFuCUqxm2RN51LuH4UwNa99pnfGs": {
+      "symbol": "MPN",
+      "created_at": "2026-09-13T12:41:56.948461562Z",
+      "first_seen": "2026-09-13T12:42:23.639907+00:00"
     }
   },
   "alerted": [
