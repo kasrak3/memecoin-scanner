@@ -1,50 +1,5 @@
 {
   "pending": {
-    "3v1YoWToi2avHUnTCppHumLWPXh9QrYWL2n5mhRFNjy5": {
-      "symbol": "",
-      "created_at": "2026-09-13T17:09:06.19451447Z",
-      "first_seen": "2026-09-13T17:09:11.895963+00:00"
-    },
-    "5TMAu85xM5EgY4zNhL4XLXBqDL5wJxGYMKJRWaqVcYrz": {
-      "symbol": "",
-      "created_at": "2026-09-13T17:09:05.867019612Z",
-      "first_seen": "2026-09-13T17:09:11.895963+00:00"
-    },
-    "6V5qTdYH12YcSjM6EgPhs5gya1FNn6uJhvWzMVvTBQ94": {
-      "symbol": "AGI",
-      "created_at": "2026-09-13T17:09:05.493844611Z",
-      "first_seen": "2026-09-13T17:09:11.895963+00:00"
-    },
-    "FU7pvoDwU4598BSqPuNaaqxfxWSGGSBBHZxBhxHqpump": {
-      "symbol": "OTC",
-      "created_at": "2026-09-13T17:09:01.440517435Z",
-      "first_seen": "2026-09-13T17:09:11.895963+00:00"
-    },
-    "5QrgLiKPTQhgGwksgP2QY1sZTgE7GhsKDjJ5vYy1pump": {
-      "symbol": "@ANSEM",
-      "created_at": "2026-09-13T17:08:58.502750529Z",
-      "first_seen": "2026-09-13T17:09:11.895963+00:00"
-    },
-    "2tQT8mW8eHVQjrQNEGyMbbDGwxgK6u9pZWZSaeSZvnXv": {
-      "symbol": "",
-      "created_at": "2026-09-13T17:08:50.819744213Z",
-      "first_seen": "2026-09-13T17:09:11.895963+00:00"
-    },
-    "GwNh4EJwmcbsai6TJYLtEryuUueA7qEihp2BuNY5zue1": {
-      "symbol": "MPN",
-      "created_at": "2026-09-13T17:08:50.22698206Z",
-      "first_seen": "2026-09-13T17:09:11.895963+00:00"
-    },
-    "AS6Y5p9m33z9L1KtvgyhfvFgLDffRs5gF77Zas1srpPe": {
-      "symbol": "RCL",
-      "created_at": "2026-09-13T17:08:50.094859505Z",
-      "first_seen": "2026-09-13T17:09:11.895963+00:00"
-    },
-    "2a3QM6rZhdRgiDMrdYBDzQMXmCZXZ5sdBSW9EK2Upump": {
-      "symbol": "OpenAI",
-      "created_at": "2026-09-13T17:08:41.659077447Z",
-      "first_seen": "2026-09-13T17:09:11.895963+00:00"
-    },
     "XhoTVnLDQxcfvNn5XE3WT5a9ywQfWvZDnMUTk79qYqG": {
       "symbol": "LLM",
       "created_at": "2026-09-13T17:11:38.654304237Z",
@@ -2324,6 +2279,56 @@
       "symbol": "SEMAN",
       "created_at": "2026-09-13T19:07:30.315478923Z",
       "first_seen": "2026-09-13T19:08:01.518843+00:00"
+    },
+    "2xc1wQXSWUbf2fMuNehsbDArqmW8HvbLk5zRu6kXpump": {
+      "symbol": "GD",
+      "created_at": "2026-09-13T19:10:35.029200552Z",
+      "first_seen": "2026-09-13T19:10:36.976641+00:00"
+    },
+    "43y8qQimGG47MADWtvfbAKXwZ3hEQ1xDCcHiRNNnAQGt": {
+      "symbol": "Course",
+      "created_at": "2026-09-13T19:10:35.008798005Z",
+      "first_seen": "2026-09-13T19:10:36.976641+00:00"
+    },
+    "5jMEqGa27XwHWcXwNvCF4K38pU4CTzyw2XYKpGpaH53c": {
+      "symbol": "STONKBULL",
+      "created_at": "2026-09-13T19:10:33.888865807Z",
+      "first_seen": "2026-09-13T19:10:36.976641+00:00"
+    },
+    "7LjJEPjfbnpjtuavk9iKiuTsQ7HBaCXUp3Erd1Zz5UaR": {
+      "symbol": "VOFCE",
+      "created_at": "2026-09-13T19:10:33.406889768Z",
+      "first_seen": "2026-09-13T19:10:36.976641+00:00"
+    },
+    "E8pK4bRYV2oqbBFTjKuTD1XoVwHNKTjRhXkyB54VhyuM": {
+      "symbol": "LAIKA",
+      "created_at": "2026-09-13T19:10:33.370858736Z",
+      "first_seen": "2026-09-13T19:10:36.976641+00:00"
+    },
+    "7ea6WLmgq5PauACYVWjjMsLQ9GG6J7Mb5HgE6RfwiGKr": {
+      "symbol": "AI",
+      "created_at": "2026-09-13T19:10:29.871657482Z",
+      "first_seen": "2026-09-13T19:10:36.976641+00:00"
+    },
+    "3Rp9Z7SMKfBD8YzuViasjetQzdvRPZ9yCgwzAJvrpump": {
+      "symbol": "Course",
+      "created_at": "2026-09-13T19:10:24.635710046Z",
+      "first_seen": "2026-09-13T19:10:36.976641+00:00"
+    },
+    "78fUKj9oVLrKMRgxgDykEqv8rZ5Akso3M5qHxhP7pump": {
+      "symbol": "BRUZ",
+      "created_at": "2026-09-13T19:10:18.104276043Z",
+      "first_seen": "2026-09-13T19:10:36.976641+00:00"
+    },
+    "2aEEEnkdLsALrPXf9rKZoQ1LAMbwC715WU68FVzppump": {
+      "symbol": "$CPEPE",
+      "created_at": "2026-09-13T19:10:17.395720568Z",
+      "first_seen": "2026-09-13T19:10:36.976641+00:00"
+    },
+    "GQJLiDm79tiH1zdoJBS7ajxFWQALzWfJVhoCQVRdFKiz": {
+      "symbol": "AGI",
+      "created_at": "2026-09-13T19:10:16.868897555Z",
+      "first_seen": "2026-09-13T19:10:36.976641+00:00"
     }
   },
   "alerted": [
