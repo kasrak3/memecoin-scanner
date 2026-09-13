@@ -1685,11 +1685,6 @@
       "created_at": "2026-09-13T13:07:48.145231518Z",
       "first_seen": "2026-09-13T13:08:01.681944+00:00"
     },
-    "F7KfS6QvzP7bms9y6xA6zHQbUPLsiuPsEfmXQQUx144n": {
-      "symbol": "GTA 6 Coin",
-      "created_at": "2026-09-13T13:07:46.282237969Z",
-      "first_seen": "2026-09-13T13:08:01.681944+00:00"
-    },
     "9oVomakKckkWnpQV2RNRArqnCjDboWdQpoM62LQApump": {
       "symbol": "Jewishdog",
       "created_at": "2026-09-13T13:07:45.25236955Z",
@@ -1859,6 +1854,56 @@
       "symbol": "RCL",
       "created_at": "2026-09-13T13:17:00.680720071Z",
       "first_seen": "2026-09-13T13:17:10.027247+00:00"
+    },
+    "2xUDXS8X4AysB5ztTGkyeZFfxH2TLngKKHcxyuwedyYo": {
+      "symbol": "core",
+      "created_at": "2026-09-13T13:20:04.321890254Z",
+      "first_seen": "2026-09-13T13:20:15.392911+00:00"
+    },
+    "6WNW82zrXESf6gd2GtjSzm98mubuSiLfsbQtsfCxpump": {
+      "symbol": "GROK",
+      "created_at": "2026-09-13T13:20:01.755699005Z",
+      "first_seen": "2026-09-13T13:20:15.392911+00:00"
+    },
+    "8QM4EMX2bFm8MnV5C52eZjGVDcFeCXpPtR4rFUJhpump": {
+      "symbol": "LOBSTER",
+      "created_at": "2026-09-13T13:20:00.822035286Z",
+      "first_seen": "2026-09-13T13:20:15.392911+00:00"
+    },
+    "8BqzsMGC536RT7XsDp3DHztEQSuq9FLmmyyUmqb1pump": {
+      "symbol": "LOBSTER",
+      "created_at": "2026-09-13T13:20:00.114808423Z",
+      "first_seen": "2026-09-13T13:20:15.392911+00:00"
+    },
+    "65F8pFQxsWkLdPtzkxSuG9T46ZJrhaCiUTbh3X2Bpump": {
+      "symbol": "PRIV",
+      "created_at": "2026-09-13T13:19:58.896898054Z",
+      "first_seen": "2026-09-13T13:20:15.392911+00:00"
+    },
+    "EyRkEuvK5CGuJZzHkboPWFwYKnHN5i7iFNwa1DfKhGAm": {
+      "symbol": "",
+      "created_at": "2026-09-13T13:19:58.867639912Z",
+      "first_seen": "2026-09-13T13:20:15.392911+00:00"
+    },
+    "3LE63MkwMwQHoFyVahKUVyxaJbzxLtrwYzb59p7jpump": {
+      "symbol": "Rabbit",
+      "created_at": "2026-09-13T13:19:56.96118683Z",
+      "first_seen": "2026-09-13T13:20:15.392911+00:00"
+    },
+    "D8sBZGC5S1aadzP1okJhaWLdX3LmwXNrX6FYRwnQpump": {
+      "symbol": "Rabbit",
+      "created_at": "2026-09-13T13:19:54.411822773Z",
+      "first_seen": "2026-09-13T13:20:15.392911+00:00"
+    },
+    "6kuH1jqC275iHQJdC82HQJZ9s4e7SiKHDhK8vAhupump": {
+      "symbol": "Qooblar",
+      "created_at": "2026-09-13T13:19:53.62725946Z",
+      "first_seen": "2026-09-13T13:20:15.392911+00:00"
+    },
+    "9vSyW6toVMbjpRUiq45ay8tPxKduMpvvb99uZ78Hpump": {
+      "symbol": "$GTA6",
+      "created_at": "2026-09-13T13:19:53.207740724Z",
+      "first_seen": "2026-09-13T13:20:15.392911+00:00"
     }
   },
   "alerted": [
@@ -2159,7 +2204,6 @@
     "GigA5pdDKQSkCVPSbCQVcrdisZW1ZZ9eWK7rahDrKj4j"
   ],
   "rejected": [
-    "8K5X85PAJHAAVSvYaAzgVPPAPsqqHmvx16ZyBiscYF8L",
     "8R4W22J6ohTqUJR5kas1M5FU1skFwBMA6rsFEJ75pump",
     "DyAMvfKh5hK1mmZjxyu8Jtou2jbCZ4nztYdeH2e9y5bd",
     "FMzysFKc6bmPBRmfmzJLosnd1vD7MfS4p2DdXKQvJ9tt",
@@ -4158,6 +4202,7 @@
     "Ai8uA5mWG43jKVoxHrRfzGwifSCQsybSj243PYZupump",
     "7Sf44Ap7PbaLoCmYRHPU9oArsjj1HyqvdhT8mpikpQ7C",
     "Bxp4EKrFWK8ER3tpSnyfK7yEvyXg3KcmoFQRfZjjTQ4r",
-    "5aSmh1jiS24NXPRkqJ7a1afb9Sson3zY26stuAmvpump"
+    "5aSmh1jiS24NXPRkqJ7a1afb9Sson3zY26stuAmvpump",
+    "F7KfS6QvzP7bms9y6xA6zHQbUPLsiuPsEfmXQQUx144n"
   ]
 }
