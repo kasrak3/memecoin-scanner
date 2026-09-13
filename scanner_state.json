@@ -1100,16 +1100,6 @@
       "created_at": "2026-09-13T12:34:11.106272857Z",
       "first_seen": "2026-09-13T12:34:23.582957+00:00"
     },
-    "GigA5pdDKQSkCVPSbCQVcrdisZW1ZZ9eWK7rahDrKj4j": {
-      "symbol": "GIGABRAIN",
-      "created_at": "2026-09-13T12:34:09.754241487Z",
-      "first_seen": "2026-09-13T12:34:23.582957+00:00",
-      "confirm": {
-        "liquidity": 29876.7,
-        "market_cap": 131900,
-        "at": "2026-09-13T12:45:06.893771+00:00"
-      }
-    },
     "Ge1mkQGVTXScpcgQrVozXeEA5XdLE7ea6zP2rWm4rnV1": {
       "symbol": "AlmonD",
       "created_at": "2026-09-13T12:34:07.467875128Z",
@@ -1329,6 +1319,56 @@
       "symbol": "BUBU",
       "created_at": "2026-09-13T12:44:35.544351663Z",
       "first_seen": "2026-09-13T12:45:06.893484+00:00"
+    },
+    "23Y5KGrpVh1nYnhcG136hunNiXT1FqRt53Bka7WKxDmb": {
+      "symbol": "bawu",
+      "created_at": "2026-09-13T12:47:47.941301825Z",
+      "first_seen": "2026-09-13T12:47:51.475542+00:00"
+    },
+    "3EfLQbR58zCtyTfJFLxfAya7W6cuVQPe3JUALC8Ypump": {
+      "symbol": "sol",
+      "created_at": "2026-09-13T12:47:46.067509056Z",
+      "first_seen": "2026-09-13T12:47:51.475542+00:00"
+    },
+    "GT5MsSAwEB6u4XWsXo1BLPAoY21X8twAATjFCiNstMA5": {
+      "symbol": "MPN",
+      "created_at": "2026-09-13T12:47:45.832171943Z",
+      "first_seen": "2026-09-13T12:47:51.475542+00:00"
+    },
+    "5zU7Fib693W922jqsNrb3Njt1wpVkWuBCKY1eRjopump": {
+      "symbol": "RETARD",
+      "created_at": "2026-09-13T12:47:45.127178794Z",
+      "first_seen": "2026-09-13T12:47:51.475542+00:00"
+    },
+    "2yo5ppXVVbNyjqM9XfiRcLXQZ7uMMcNMP2AJ7o5cmoon": {
+      "symbol": "MARLON",
+      "created_at": "2026-09-13T12:47:44.410547642Z",
+      "first_seen": "2026-09-13T12:47:51.475542+00:00"
+    },
+    "7pfGffTUez3TYPMTvTqspqo3Ra5svjemiazCqEcJpump": {
+      "symbol": "SOLKAI",
+      "created_at": "2026-09-13T12:47:43.032824615Z",
+      "first_seen": "2026-09-13T12:47:51.475542+00:00"
+    },
+    "28U14vLY7eErT8f69rejFMyjSFdKiQxVjwTmuJRspump": {
+      "symbol": "soljunki",
+      "created_at": "2026-09-13T12:47:43.031363764Z",
+      "first_seen": "2026-09-13T12:47:51.475542+00:00"
+    },
+    "49ifzXYZfbFseYAdyghNticB2wB4Qrz1xCAUgjMbpump": {
+      "symbol": "BINCHILLIN",
+      "created_at": "2026-09-13T12:47:39.929195329Z",
+      "first_seen": "2026-09-13T12:47:51.475542+00:00"
+    },
+    "BSZHavfsHnhW8C4q4GTh3JMZKwy2Vne3TqV1PexWQwCE": {
+      "symbol": "PCL",
+      "created_at": "2026-09-13T12:47:37.75018355Z",
+      "first_seen": "2026-09-13T12:47:51.475542+00:00"
+    },
+    "GBQkBCNsaGrWRNHZVkhRKeJj7CB5bAjuVE6wuygDpump": {
+      "symbol": "Visper",
+      "created_at": "2026-09-13T12:47:35.013934877Z",
+      "first_seen": "2026-09-13T12:47:51.475542+00:00"
     }
   },
   "alerted": [
@@ -1625,7 +1665,8 @@
     "9ddWQuR6Hy7MS1d5Cd8t9AExi8wzrVrexGX75U2Tpump",
     "8w689zFsegRorSrRkYzhcHrWrxhy8CFyYfCdSezHpump",
     "BmhfH3W7JdEe7UGkw47m1EH8F6ov3M5jDc222ffK9Eeh",
-    "AMXQxV4Gz5rXzwHav1vDCy94aTB4HiiSb7yrUNvqSTNK"
+    "AMXQxV4Gz5rXzwHav1vDCy94aTB4HiiSb7yrUNvqSTNK",
+    "GigA5pdDKQSkCVPSbCQVcrdisZW1ZZ9eWK7rahDrKj4j"
   ],
   "rejected": [
     "HW7ViahJdj44Y8KiZN6m7TC6taaLeukfnPQ7anoZZ8MS",
