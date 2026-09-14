@@ -738,7 +738,12 @@
     "5WUUk6HVQrx8XZ4ksbXAMZHhny2DEyocJPE55M9Npump": {
       "symbol": "MadisonBeer",
       "created_at": "2026-09-14T05:21:47.523151777Z",
-      "first_seen": "2026-09-14T05:21:59.335200+00:00"
+      "first_seen": "2026-09-14T05:21:59.335200+00:00",
+      "confirm": {
+        "liquidity": 13153.04,
+        "market_cap": 31300,
+        "at": "2026-09-14T05:36:09.375358+00:00"
+      }
     },
     "129Yd7gqyJxsXXbCE9rK8u2zmgp969AhfLgg3TSZpurp": {
       "symbol": "POP",
@@ -1034,6 +1039,56 @@
       "symbol": "MPN",
       "created_at": "2026-09-14T05:33:07.064389508Z",
       "first_seen": "2026-09-14T05:33:43.077827+00:00"
+    },
+    "J61xaMJC4bvEx5QNfpeK8iJxxA1rdh6shoD4jRHzFyGC": {
+      "symbol": "MPN",
+      "created_at": "2026-09-14T05:35:58.965156661Z",
+      "first_seen": "2026-09-14T05:36:09.374956+00:00"
+    },
+    "3NtYuwYh2MZwkQnjTH6Sjiy57TCfT8yNFViD5dTZpump": {
+      "symbol": "q50",
+      "created_at": "2026-09-14T05:35:58.158007359Z",
+      "first_seen": "2026-09-14T05:36:09.374956+00:00"
+    },
+    "8NKD8aLGS7iNEbewckqR8tg6Q9M2gzJ957x54q66YRQM": {
+      "symbol": "",
+      "created_at": "2026-09-14T05:35:56.461789603Z",
+      "first_seen": "2026-09-14T05:36:09.374956+00:00"
+    },
+    "92P2GsRC52axXi26E9rRmw5ByYt2WUxJgujRumtpump": {
+      "symbol": "JUGS",
+      "created_at": "2026-09-14T05:35:56.351897423Z",
+      "first_seen": "2026-09-14T05:36:09.374956+00:00"
+    },
+    "3cHkfZ7Zy1pk5A7RPdsMeYqShqTd467BsFC7Dj7ozvp5": {
+      "symbol": "",
+      "created_at": "2026-09-14T05:35:53.421265944Z",
+      "first_seen": "2026-09-14T05:36:09.374956+00:00"
+    },
+    "CeVqJt8LVxpzHhQgVd87RkKK5K7TPmggkVMaYH6qDjhb": {
+      "symbol": "",
+      "created_at": "2026-09-14T05:35:48.124100562Z",
+      "first_seen": "2026-09-14T05:36:09.374956+00:00"
+    },
+    "9Vmdf5QV6ipFvcDr3amgkSzhAvkdZ3pP91RFZYn1pump": {
+      "symbol": ".",
+      "created_at": "2026-09-14T05:35:44.382205047Z",
+      "first_seen": "2026-09-14T05:36:09.374956+00:00"
+    },
+    "Gm25pzitNUdvW4T1nm3amKTyGRwGMBBgFt95SjYBpump": {
+      "symbol": "fg",
+      "created_at": "2026-09-14T05:35:43.86905463Z",
+      "first_seen": "2026-09-14T05:36:09.374956+00:00"
+    },
+    "GCvfrTMoJKiBbp6t4yAGopNsqJLMYf8n5Px5ZRqKpump": {
+      "symbol": "FAST",
+      "created_at": "2026-09-14T05:35:43.849143546Z",
+      "first_seen": "2026-09-14T05:36:09.374956+00:00"
+    },
+    "3e3kPWZZNdQGiT22yjEVV6EPqywgUPxHPM8iDzUSWnw7": {
+      "symbol": "SHORTALON",
+      "created_at": "2026-09-14T05:35:42.270216025Z",
+      "first_seen": "2026-09-14T05:36:09.374956+00:00"
     }
   },
   "alerted": [
