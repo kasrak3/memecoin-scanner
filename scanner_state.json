@@ -488,7 +488,12 @@
     "AcnBcR3WxMoinjrVZnvKhaZeEYzxCSvTuBunnzxspump": {
       "symbol": "NFA",
       "created_at": "2026-09-14T05:08:08.33098942Z",
-      "first_seen": "2026-09-14T05:08:36.302933+00:00"
+      "first_seen": "2026-09-14T05:08:36.302933+00:00",
+      "confirm": {
+        "liquidity": 15916.83,
+        "market_cap": 43919,
+        "at": "2026-09-14T05:24:17.562807+00:00"
+      }
     },
     "8niwmgvD97wgUqoK89VAscng4N1gs9gZd3trMnU6iDEV": {
       "symbol": "DEV",
@@ -789,6 +794,56 @@
       "symbol": "PCL",
       "created_at": "2026-09-14T05:21:30.746156728Z",
       "first_seen": "2026-09-14T05:21:59.335200+00:00"
+    },
+    "6VAgpiBjX2TSaJ9P2fm7A4vxABFJnr3YGMXeyHZaXESt": {
+      "symbol": "IA",
+      "created_at": "2026-09-14T05:24:13.037241808Z",
+      "first_seen": "2026-09-14T05:24:17.562434+00:00"
+    },
+    "AbyTDmxprYAt2usNzf1YmV8aJ6vRb9i9eP9H3wwUpump": {
+      "symbol": "RASMR",
+      "created_at": "2026-09-14T05:24:10.437739269Z",
+      "first_seen": "2026-09-14T05:24:17.562434+00:00"
+    },
+    "8SD3wu5TNFsS9zD8TMJWtnxPdoSWWNVqR2PNicPHpump": {
+      "symbol": "KNOB",
+      "created_at": "2026-09-14T05:24:05.254746797Z",
+      "first_seen": "2026-09-14T05:24:17.562434+00:00"
+    },
+    "DRFmTZZRNWcnFntTE8m3aavkPeWrBf2rfhZnYPqtpump": {
+      "symbol": "WCD",
+      "created_at": "2026-09-14T05:24:03.997409127Z",
+      "first_seen": "2026-09-14T05:24:17.562434+00:00"
+    },
+    "GXkYJt4y56bPxabUYkHEFSQp5sHzobTKUXcDau3Tpump": {
+      "symbol": "ASIANGERS",
+      "created_at": "2026-09-14T05:23:59.797880338Z",
+      "first_seen": "2026-09-14T05:24:17.562434+00:00"
+    },
+    "B33ayDghTPRJV69zBdtbrMb4YNKRKmRcLdfY2rE5C1UF": {
+      "symbol": "MPN",
+      "created_at": "2026-09-14T05:23:56.69481556Z",
+      "first_seen": "2026-09-14T05:24:17.562434+00:00"
+    },
+    "AGm7SWaH18kvFgtxM5t8ZKnrK7EgPFuj6tCsJ5dJpump": {
+      "symbol": "CHILLGUY",
+      "created_at": "2026-09-14T05:23:55.401412999Z",
+      "first_seen": "2026-09-14T05:24:17.562434+00:00"
+    },
+    "EgW1i6stnq9ZKSa3ASPrX2JJebiaPN9iKdSiehmmopQn": {
+      "symbol": "MPN",
+      "created_at": "2026-09-14T05:23:54.742126762Z",
+      "first_seen": "2026-09-14T05:24:17.562434+00:00"
+    },
+    "GeDCoBLxokiUnDnaCoaACZ7L52a6zMKZU9C1Xx5hpump": {
+      "symbol": "ASIANGERS",
+      "created_at": "2026-09-14T05:23:52.064280256Z",
+      "first_seen": "2026-09-14T05:24:17.562434+00:00"
+    },
+    "Y8hMz5DTXD8kbqd1xCSEa44jmhoSgd3yNT2PRgNr1Rj": {
+      "symbol": "KNOB",
+      "created_at": "2026-09-14T05:23:51.78660475Z",
+      "first_seen": "2026-09-14T05:24:17.562434+00:00"
     }
   },
   "alerted": [
