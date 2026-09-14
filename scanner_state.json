@@ -880,16 +880,6 @@
       "created_at": "2026-09-14T22:23:38.921922578Z",
       "first_seen": "2026-09-14T22:23:46.803840+00:00"
     },
-    "GPrTuSgAXVVJ67bAU4xe3UFD5aDDmVj7bZy73vTQpump": {
-      "symbol": "clarity",
-      "created_at": "2026-09-14T22:23:38.877305042Z",
-      "first_seen": "2026-09-14T22:23:46.803840+00:00",
-      "confirm": {
-        "liquidity": 19072.43,
-        "market_cap": 60057,
-        "at": "2026-09-14T22:35:35.534993+00:00"
-      }
-    },
     "3FSpBAytDmkNGFdku6p1f8fo6s69abiE9vUEP2xJpump": {
       "symbol": "DOOROC",
       "created_at": "2026-09-14T22:23:36.959810713Z",
@@ -1164,6 +1154,56 @@
       "symbol": "NV2",
       "created_at": "2026-09-14T22:35:16.140087764Z",
       "first_seen": "2026-09-14T22:35:35.534746+00:00"
+    },
+    "2Ed2WGTPFtPRkwQNHoGkppi9ogsa2mp3CoJM3azZpump": {
+      "symbol": "Hope",
+      "created_at": "2026-09-14T22:37:57.000041365Z",
+      "first_seen": "2026-09-14T22:38:07.622477+00:00"
+    },
+    "HLx7bW7mi1eRgKLzdxvcyZVTuroc2Tzi2LvEoRa2cLeq": {
+      "symbol": "MPN",
+      "created_at": "2026-09-14T22:37:52.650169549Z",
+      "first_seen": "2026-09-14T22:38:07.622477+00:00"
+    },
+    "9TTXWCtr1oKMtbTmtbhUYR3e28HGrUZoZynthkEWpump": {
+      "symbol": "VORTEX",
+      "created_at": "2026-09-14T22:37:49.163169283Z",
+      "first_seen": "2026-09-14T22:38:07.622477+00:00"
+    },
+    "45HZiTS3vjJNvYYaBBfumrQn7Hjr45HJo5dbsQn4rvqw": {
+      "symbol": "Baby",
+      "created_at": "2026-09-14T22:37:46.715562862Z",
+      "first_seen": "2026-09-14T22:38:07.622477+00:00"
+    },
+    "EUmhmk4AbnzWYYc2Kt2bqHqdZSJXbde7E2i1b7Bu9cWZ": {
+      "symbol": "PACKLY",
+      "created_at": "2026-09-14T22:37:45.721784619Z",
+      "first_seen": "2026-09-14T22:38:07.622477+00:00"
+    },
+    "DW2hru88je9cipFBeXwQnRe6szHHjqg3qqdgfEhCizKB": {
+      "symbol": "Clam",
+      "created_at": "2026-09-14T22:37:42.850314197Z",
+      "first_seen": "2026-09-14T22:38:07.622477+00:00"
+    },
+    "BzwwUXqSdkRrqCEoMNjoSRiJujfyGHMM9EPkb7xqpump": {
+      "symbol": "$AURA",
+      "created_at": "2026-09-14T22:37:42.256574608Z",
+      "first_seen": "2026-09-14T22:38:07.622477+00:00"
+    },
+    "8SLKsSKhDHbRKvLaxhjxE3dXxcc8B56U1Y9g27i9pump": {
+      "symbol": "CRISTIANO",
+      "created_at": "2026-09-14T22:37:42.14829406Z",
+      "first_seen": "2026-09-14T22:38:07.622477+00:00"
+    },
+    "9ZMycC3LfzcoRxJuZfhtVDiixnCGdygjLuq3nbVVpump": {
+      "symbol": "Aware",
+      "created_at": "2026-09-14T22:37:41.209675839Z",
+      "first_seen": "2026-09-14T22:38:07.622477+00:00"
+    },
+    "CU1HQ3eE4Kr3QVqBfeziKzmVoMv27fh6iKsRdVanwyhN": {
+      "symbol": "SPORTS",
+      "created_at": "2026-09-14T22:37:41.184116965Z",
+      "first_seen": "2026-09-14T22:38:07.622477+00:00"
     }
   },
   "alerted": [
@@ -1470,7 +1510,8 @@
     "5WUUk6HVQrx8XZ4ksbXAMZHhny2DEyocJPE55M9Npump",
     "Ev5GAuTCnN8RUEmWQkaLRtRP5rosEmKEerq6Wsxxpump",
     "CmFurHrGGaodeAbgWvH5ewSU63woJKr1tLdLKWa8pump",
-    "6XV1bfWhSZfmeZgfRzJHSZ51df31BNVzNE8Xxr2Kpump"
+    "6XV1bfWhSZfmeZgfRzJHSZ51df31BNVzNE8Xxr2Kpump",
+    "GPrTuSgAXVVJ67bAU4xe3UFD5aDDmVj7bZy73vTQpump"
   ],
   "rejected": [
     "6d2Xsj3fVeCo5bRiYEjnyeb6z5Y3VHpfhomyseWopump",
