@@ -1185,19 +1185,9 @@
       "created_at": "2026-09-14T13:27:47.645888843Z",
       "first_seen": "2026-09-14T13:28:19.943451+00:00"
     },
-    "3xpf8wmXs8UERZysHspo4pWnqTYjyBrbicFjHzgFTmkE": {
-      "symbol": "401K",
-      "created_at": "2026-09-14T13:30:29.983531837Z",
-      "first_seen": "2026-09-14T13:30:35.061109+00:00"
-    },
     "8obvnqeQFG8NzC8LgkSo5tUx3sdBtscZJ6LdqtCJpump": {
       "symbol": "BTC",
       "created_at": "2026-09-14T13:30:27.750816081Z",
-      "first_seen": "2026-09-14T13:30:35.061109+00:00"
-    },
-    "BaBuYxnW9Jrc135bCjDj3CWDFqZcgHnc2iAySiW5pump": {
-      "symbol": "Redbull",
-      "created_at": "2026-09-14T13:30:26.961414444Z",
       "first_seen": "2026-09-14T13:30:35.061109+00:00"
     },
     "2u47ZCqaGBEyDMWkd5Eu16HYWFVKB1Aes5spoyjJpump": {
@@ -1218,11 +1208,6 @@
     "8xB6H7m3cLWPjgNPpmW5WX1HZ1iEbPWaxBeu9125ZVzq": {
       "symbol": "ANS",
       "created_at": "2026-09-14T13:30:22.921934323Z",
-      "first_seen": "2026-09-14T13:30:35.061109+00:00"
-    },
-    "58ehfLXBBXeguu24iyaZEkRECPYaiNTppjvay4RCoHJS": {
-      "symbol": "NIKE",
-      "created_at": "2026-09-14T13:30:22.859455687Z",
       "first_seen": "2026-09-14T13:30:35.061109+00:00"
     },
     "Gq4PgbnBncndSVNxw7EACVcJbpp6rkTUsRgrYN1mpump": {
@@ -1434,6 +1419,56 @@
       "symbol": "PEOPLE",
       "created_at": "2026-09-14T13:39:26.257663821Z",
       "first_seen": "2026-09-14T13:39:49.747789+00:00"
+    },
+    "FEq9N7XxEcCVpruX68EnpYBPj76TikuuP9ydCEH5pump": {
+      "symbol": "FERSPE",
+      "created_at": "2026-09-14T13:42:03.682442835Z",
+      "first_seen": "2026-09-14T13:42:07.949025+00:00"
+    },
+    "8hTE2GWmdQYngHfntvhMQUNU2QKVQwKfVkTKfp4Npump": {
+      "symbol": "Aphrodite",
+      "created_at": "2026-09-14T13:42:02.848789136Z",
+      "first_seen": "2026-09-14T13:42:07.949025+00:00"
+    },
+    "8NxEHwHjWPX3ff32yuddt98R3SZVFzUq3HUKXKWapump": {
+      "symbol": "LEMEOW",
+      "created_at": "2026-09-14T13:41:58.839457981Z",
+      "first_seen": "2026-09-14T13:42:07.949025+00:00"
+    },
+    "DnPGmn74paQHFHEKoDNoR3Kf61TgSZuEh6q5kNHsSt8P": {
+      "symbol": "BRAWL",
+      "created_at": "2026-09-14T13:41:56.770403003Z",
+      "first_seen": "2026-09-14T13:42:07.949025+00:00"
+    },
+    "AaAcU1G81JFFWowkr2UMobxkzHPwpnr6j25ycXTMpump": {
+      "symbol": "dd",
+      "created_at": "2026-09-14T13:41:56.358166604Z",
+      "first_seen": "2026-09-14T13:42:07.949025+00:00"
+    },
+    "EJh1oN1fFqWtfQUJ83KvvLMBbb6XKfgHdYZTXncpump": {
+      "symbol": "@Unipcs",
+      "created_at": "2026-09-14T13:41:51.242257457Z",
+      "first_seen": "2026-09-14T13:42:07.949025+00:00"
+    },
+    "qvQqpLURivRUtLVzx64HNgYBTUU9wtLys6vKrcxpump": {
+      "symbol": "LOL",
+      "created_at": "2026-09-14T13:41:48.049860748Z",
+      "first_seen": "2026-09-14T13:42:07.949025+00:00"
+    },
+    "FqNBxj5n3ddFeB8gFLeUM93izQbjKNH6TAwHGQAnpump": {
+      "symbol": "sling",
+      "created_at": "2026-09-14T13:41:45.79478339Z",
+      "first_seen": "2026-09-14T13:42:07.949025+00:00"
+    },
+    "9eRzZuBaBKBk7TeQGf5geW25792kzgCLs943a1htpump": {
+      "symbol": "LOL",
+      "created_at": "2026-09-14T13:41:44.12295983Z",
+      "first_seen": "2026-09-14T13:42:07.949025+00:00"
+    },
+    "H6y4GEq1cSi6ztK3GTkJe4BUCLq3zuAWw1AJdppipump": {
+      "symbol": "ROBINCAT",
+      "created_at": "2026-09-14T13:41:41.11919695Z",
+      "first_seen": "2026-09-14T13:42:07.949025+00:00"
     }
   },
   "alerted": [
@@ -1740,9 +1775,6 @@
     "5WUUk6HVQrx8XZ4ksbXAMZHhny2DEyocJPE55M9Npump"
   ],
   "rejected": [
-    "AZ6ntpkCEc5jU3dsF8ULcvweCb5b7qjrnAqQqYx8pump",
-    "Gd2igp4YL8Sn1nag3F8U98Eo2eJrgFxjk6DSaRorpump",
-    "7AQSz7VnbSwFA3dixHSQbpS1MeDLsUx2a6UoMbDjpump",
     "EEg1Y8md3xVoxUbWz7nW9LavoMDF8nTvgshNZdtkojsZ",
     "8VPnJERQ8YUjL9yYdcW51RA7UCG7vqbpXJbGKPfvGhi9",
     "W6c6GygviMh5qkVKpcWAXUQBEMKWhrBKanCCTbTRFer",
@@ -3739,6 +3771,9 @@
     "GbPz3DAiVaYn4b1RVFZSuYoszeT5UoehAa1fEPqw1qcC",
     "3unExorRHRXCHkJ95KNb4c1seg3o4gpwgDxC5UrJEgyk",
     "C3KxSXbNK9BSpPkGErmvsx2fCagt6YuaDtDyqW9pump",
-    "FEbnHDiWf26ZncURUQfVUGrAwcv39Jsn1iee8A8YAESe"
+    "FEbnHDiWf26ZncURUQfVUGrAwcv39Jsn1iee8A8YAESe",
+    "3xpf8wmXs8UERZysHspo4pWnqTYjyBrbicFjHzgFTmkE",
+    "BaBuYxnW9Jrc135bCjDj3CWDFqZcgHnc2iAySiW5pump",
+    "58ehfLXBBXeguu24iyaZEkRECPYaiNTppjvay4RCoHJS"
   ]
 }
