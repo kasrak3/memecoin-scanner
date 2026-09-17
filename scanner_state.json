@@ -150,11 +150,6 @@
       "created_at": "2026-09-17T04:52:06.392685869Z",
       "first_seen": "2026-09-17T04:52:15.800868+00:00"
     },
-    "DbSCzzNz34WPs1hermopGYtLGJ1FsSU33qpkfDLxiNXu": {
-      "symbol": "WISH",
-      "created_at": "2026-09-17T04:52:03.526421126Z",
-      "first_seen": "2026-09-17T04:52:15.800868+00:00"
-    },
     "BtDPZDD5Mbszmsg2d3h8E3vntJtcR4VnpxxpnA9VQD7s": {
       "symbol": "",
       "created_at": "2026-09-17T04:52:03.195190303Z",
@@ -163,11 +158,6 @@
     "5tDgPbV44iRM4L1DdZUmW9zqufs2PV5Fkfj8s6bWpump": {
       "symbol": "VERSUCH",
       "created_at": "2026-09-17T04:52:02.728466596Z",
-      "first_seen": "2026-09-17T04:52:15.800868+00:00"
-    },
-    "LMYJ6T1MxeojgW4imqKGcuMYraLhqsWV2uFG4MSVmX6": {
-      "symbol": "BOAR",
-      "created_at": "2026-09-17T04:52:00.972875231Z",
       "first_seen": "2026-09-17T04:52:15.800868+00:00"
     },
     "Fy5jJQQNo1BvSSECBYKY8MkEaDs7o4MFjxeF8V9Vpump": {
@@ -394,6 +384,56 @@
       "symbol": "ZIDELINED",
       "created_at": "2026-09-17T05:00:19.627242464Z",
       "first_seen": "2026-09-17T05:00:34.412149+00:00"
+    },
+    "2pXb1SDX6osRxH36uPjfc4pqKA9vtFcGHGweoFrGVRz6": {
+      "symbol": "SORACLE",
+      "created_at": "2026-09-17T05:02:28.335470587Z",
+      "first_seen": "2026-09-17T05:02:40.495917+00:00"
+    },
+    "Gj9TPp8ALPFyeSXSXaLs5ZXsGH6t4LnVnYosNsbftYAb": {
+      "symbol": "STJUDE",
+      "created_at": "2026-09-17T05:02:27.945471594Z",
+      "first_seen": "2026-09-17T05:02:40.495917+00:00"
+    },
+    "S5ixnxpW1h4TYXN5M6Mya6AhRhVFWf2zvmwwJvnpump": {
+      "symbol": "TCAT",
+      "created_at": "2026-09-17T05:02:27.0824817Z",
+      "first_seen": "2026-09-17T05:02:40.495917+00:00"
+    },
+    "9twqwPqZPuxbtCWogJTMXdbrrLPitHuU2Gu6ANE7ew5x": {
+      "symbol": "STJUDE",
+      "created_at": "2026-09-17T05:02:26.375429428Z",
+      "first_seen": "2026-09-17T05:02:40.495917+00:00"
+    },
+    "2RxjH86uh6D4LGgqXLCG6M4MaqNnic1Qju7wCrnzpump": {
+      "symbol": "Rich",
+      "created_at": "2026-09-17T05:02:25.425540896Z",
+      "first_seen": "2026-09-17T05:02:40.495917+00:00"
+    },
+    "J2Hu3uHKbsSaUEsxXEsqo8p4nTyphoVKtV2ac3spn4bx": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-09-17T05:02:25.007394152Z",
+      "first_seen": "2026-09-17T05:02:40.495917+00:00"
+    },
+    "B6AdReZxuyPTuNvP6avFbGbK3i8oPnQzcYyBrvjZBphE": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-09-17T05:02:25.006383076Z",
+      "first_seen": "2026-09-17T05:02:40.495917+00:00"
+    },
+    "7UdteACitprjh43N9SVcFhNJtunKJTB3zz7SycvHh7G8": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-09-17T05:02:25.002643252Z",
+      "first_seen": "2026-09-17T05:02:40.495917+00:00"
+    },
+    "7xjD3NMGTsZEaLzksbJ9DGBKoNJSXbt5x21qWsNTLov7": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-09-17T05:02:24.97758661Z",
+      "first_seen": "2026-09-17T05:02:40.495917+00:00"
+    },
+    "E64rWZi3wdzWtoH8kjGZQLycJFZHEL9UhnoEi3etrSTr": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-09-17T05:02:24.862039329Z",
+      "first_seen": "2026-09-17T05:02:40.495917+00:00"
     }
   },
   "alerted": [
@@ -706,8 +746,6 @@
     "oP3ziG59gh69LPxtvEe6pdyJaYXBieYog8SPdKYpump"
   ],
   "rejected": [
-    "ANd8uz5bu4ACwPNxH2sWuambdt3DChcKMd9nQbR8YpM8",
-    "9DKHEqnxEs2ABgGdrTputhyq1TzcwW54BQmiTkZiAAQC",
     "CfYB4zpzpKHaNiUSLb4yu32frssMUKpt6xAPD8Dpump",
     "i6HqPtSyN8Bwi8mTtTGgMiCczkNnvS6opZbhYtSpump",
     "FNcoKoJqo6ExckcTQFVNcnSvrMvZXoBcZhzhcXtqfzz6",
@@ -2705,6 +2743,8 @@
     "H3H7Nym8aKTgoHXvjvPXivCafnbZP22rd72XMLoST1U",
     "B1vCbGRmfKdGKAVjZz81V4gJJvwAY1bBzcRAvJzUjT83",
     "ByyE9xkDk1vEb1Qg7d8sEDHZSVWS82VGxxKr32LP2L2q",
-    "ARqnvACrAjkDWLMoJgg6o7pdekqujrM6AT4LPECzNTnR"
+    "ARqnvACrAjkDWLMoJgg6o7pdekqujrM6AT4LPECzNTnR",
+    "DbSCzzNz34WPs1hermopGYtLGJ1FsSU33qpkfDLxiNXu",
+    "LMYJ6T1MxeojgW4imqKGcuMYraLhqsWV2uFG4MSVmX6"
   ]
 }
