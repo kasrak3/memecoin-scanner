@@ -1,55 +1,5 @@
 {
   "pending": {
-    "PiFefvR4chsLkvqC9s5Sj8ynkt4ZMJjGFNX2rzdpump": {
-      "symbol": "7",
-      "created_at": "2026-09-22T11:28:29.100029434Z",
-      "first_seen": "2026-09-22T11:28:40.276826+00:00"
-    },
-    "9TMfxmMPfY84JUoM6ZdF99yHTyVvk7DqeRC695veZFmG": {
-      "symbol": "OWP",
-      "created_at": "2026-09-22T11:28:27.492643029Z",
-      "first_seen": "2026-09-22T11:28:40.276826+00:00"
-    },
-    "FCQJS3rayY9dVdFLwQ4y1w4d1vjnkbXYXLMVDSdgpump": {
-      "symbol": "NUVEX",
-      "created_at": "2026-09-22T11:28:27.367858919Z",
-      "first_seen": "2026-09-22T11:28:40.276826+00:00"
-    },
-    "9Bh5TYDd8aghZZGusF7EgAJAzvwT9TrYM6gUBeDTpump": {
-      "symbol": "SOL",
-      "created_at": "2026-09-22T11:28:27.302954579Z",
-      "first_seen": "2026-09-22T11:28:40.276826+00:00"
-    },
-    "42vKxgy72zuAdYwQwDeihtivWd4LfEmxNAJqFDGhpump": {
-      "symbol": "Yoink",
-      "created_at": "2026-09-22T11:28:23.577901564Z",
-      "first_seen": "2026-09-22T11:28:40.276826+00:00"
-    },
-    "46xnLnHdQmSTXZ7hUnBSqkjkvMdJGzsLrXBMA2dUpump": {
-      "symbol": "KarateInu",
-      "created_at": "2026-09-22T11:28:21.670127383Z",
-      "first_seen": "2026-09-22T11:28:40.276826+00:00"
-    },
-    "FrW4apyyGt4rkNtWboVDezkQPWgK15bQbPd1vfGnpump": {
-      "symbol": "404",
-      "created_at": "2026-09-22T11:28:19.783877648Z",
-      "first_seen": "2026-09-22T11:28:40.276826+00:00"
-    },
-    "4RAFNuJSQtxVdLK46nYxXFpodBEKxrkryETZ9eXnJHKc": {
-      "symbol": "Robert",
-      "created_at": "2026-09-22T11:28:19.568500614Z",
-      "first_seen": "2026-09-22T11:28:40.276826+00:00"
-    },
-    "ELbBA7Gjx5TLwTG6Q5ruvooQNWhCsLvLQUqxFVeUR5DA": {
-      "symbol": "RCL",
-      "created_at": "2026-09-22T11:28:18.638428796Z",
-      "first_seen": "2026-09-22T11:28:40.276826+00:00"
-    },
-    "Hc47jr7N5WexYmxSQrYV4Q49cUcpv9kxZk3yxcod8BZt": {
-      "symbol": "BIGFORKTEC",
-      "created_at": "2026-09-22T11:28:13.828768681Z",
-      "first_seen": "2026-09-22T11:28:40.276826+00:00"
-    },
     "7YAgaLUtQeW4sygfHAvynFb5enBJTBC8ng7dU5uSzufL": {
       "symbol": "MPN",
       "created_at": "2026-09-22T11:31:03.197486723Z",
@@ -2499,6 +2449,56 @@
       "symbol": "\u202eKORG",
       "created_at": "2026-09-22T13:27:41.7121644Z",
       "first_seen": "2026-09-22T13:28:15.160774+00:00"
+    },
+    "BYyBnYRGmmBrQbr6vnVQMm5dk9fa8sTxxsJCxyjTckk5": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-09-22T13:30:40.074990417Z",
+      "first_seen": "2026-09-22T13:30:49.588859+00:00"
+    },
+    "2TBqq9HGZoiPbMzwU4CVEE1UpAx7THKnE5Lza1PvJAc6": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-09-22T13:30:39.890365657Z",
+      "first_seen": "2026-09-22T13:30:49.588859+00:00"
+    },
+    "2FSdYiUNw4z9GRrC7vfUUEG8pxvo3gNAft3fLtq4uymc": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-09-22T13:30:39.886460415Z",
+      "first_seen": "2026-09-22T13:30:49.588859+00:00"
+    },
+    "68xG7Z4KXJHCe9wSytGmk3wnkrv5bV8F9XMrpZkrxHTW": {
+      "symbol": "HYPE-DN",
+      "created_at": "2026-09-22T13:30:39.705257673Z",
+      "first_seen": "2026-09-22T13:30:49.588859+00:00"
+    },
+    "EQZc4185SYVNhQfEBzsJ3epmN8xnPo886aWfvrYo355X": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-09-22T13:30:39.683373465Z",
+      "first_seen": "2026-09-22T13:30:49.588859+00:00"
+    },
+    "444ETpurr7tdyRVwzqShWaR4a1B54j3mieXmeWQu4LWh": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-09-22T13:30:39.67076968Z",
+      "first_seen": "2026-09-22T13:30:49.588859+00:00"
+    },
+    "FMAhHwDB7z7aAMuLhyavwPuba2iSvobMAHkA9dv4z2ds": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-09-22T13:30:39.596579812Z",
+      "first_seen": "2026-09-22T13:30:49.588859+00:00"
+    },
+    "A2SHHsFXN9gPGDwgAnmthHmp8ZfACmro4ioX4WccDWZQ": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-09-22T13:30:39.510293884Z",
+      "first_seen": "2026-09-22T13:30:49.588859+00:00"
+    },
+    "CKTcpFLhjBQAcxbVEWJcdkVzbQRxJ1GCC88HekCdWavx": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-09-22T13:30:39.426831611Z",
+      "first_seen": "2026-09-22T13:30:49.588859+00:00"
+    },
+    "G8yNewshj6vwZ7UezmEMGE6b8ArtJFxhFrHwG4KUNPY3": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-09-22T13:30:38.27668192Z",
+      "first_seen": "2026-09-22T13:30:49.588859+00:00"
     }
   },
   "alerted": [
