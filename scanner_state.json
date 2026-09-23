@@ -1720,16 +1720,6 @@
       "created_at": "2026-09-23T22:45:30.999000139Z",
       "first_seen": "2026-09-23T22:45:37.637425+00:00"
     },
-    "HpWGRTs5x2pmWrGKpD5cXpZhja1uuXbPBqf7kYo2mz86": {
-      "symbol": "GAYMF",
-      "created_at": "2026-09-23T22:45:27.916918145Z",
-      "first_seen": "2026-09-23T22:45:37.637425+00:00",
-      "confirm": {
-        "liquidity": 19374.65,
-        "market_cap": 45296,
-        "at": "2026-09-23T22:58:37.115956+00:00"
-      }
-    },
     "HBajdo7tTjjZ66vCXTb3BxF8yw8jE1uyUc3e246nrBGq": {
       "symbol": "AMP",
       "created_at": "2026-09-23T22:45:26.538647277Z",
@@ -2019,6 +2009,56 @@
       "symbol": "AISHITS",
       "created_at": "2026-09-23T22:58:18.069847867Z",
       "first_seen": "2026-09-23T22:58:37.115719+00:00"
+    },
+    "5W2sf2bhX6C8mUqASzw8sfPYLymHjrjJBnQVrb3Spump": {
+      "symbol": "neeg",
+      "created_at": "2026-09-23T23:01:12.381033215Z",
+      "first_seen": "2026-09-23T23:01:15.326555+00:00"
+    },
+    "HdV2w5Q6GryLLiLe6uDVAdn27D2ApXbGdCXPGpuLCzgU": {
+      "symbol": "COPPER",
+      "created_at": "2026-09-23T23:01:11.619359224Z",
+      "first_seen": "2026-09-23T23:01:15.326555+00:00"
+    },
+    "GbZxtDdvEBb2U6EoZ9eUATqR55RZD5BBH5gBRDWE1NW7": {
+      "symbol": "SHHHH",
+      "created_at": "2026-09-23T23:01:10.982315487Z",
+      "first_seen": "2026-09-23T23:01:15.326555+00:00"
+    },
+    "BKL8bFMpPjxDfXuJCGSyRtqbAhP99a2uD8Jmo5VTRZvW": {
+      "symbol": "kms",
+      "created_at": "2026-09-23T23:01:09.020269838Z",
+      "first_seen": "2026-09-23T23:01:15.326555+00:00"
+    },
+    "EMLPJVvbcN161VSWKyqk72RqUESbmwsZEQrCP2hCQyf1": {
+      "symbol": "",
+      "created_at": "2026-09-23T23:01:08.356740727Z",
+      "first_seen": "2026-09-23T23:01:15.326555+00:00"
+    },
+    "3MFtbqHCswRhjWn2UupH73vwWFkt2sf9o8FTrtWynw7n": {
+      "symbol": "",
+      "created_at": "2026-09-23T23:01:08.223467161Z",
+      "first_seen": "2026-09-23T23:01:15.326555+00:00"
+    },
+    "7f5nZ1rmU5ptSTMhwCPMWeLNEdupfwt4Lt1NYVxMBAGS": {
+      "symbol": "HORNY",
+      "created_at": "2026-09-23T23:01:07.995318417Z",
+      "first_seen": "2026-09-23T23:01:15.326555+00:00"
+    },
+    "Hbe4e8rrxioqY5HXiXrBoZ21h1WGQCagagNDYE6Ypump": {
+      "symbol": "COV\u0415RT",
+      "created_at": "2026-09-23T23:01:07.197435819Z",
+      "first_seen": "2026-09-23T23:01:15.326555+00:00"
+    },
+    "Cq9iRbB8ayu8JFHamvJfyZ18R4SmTP3FvV3Ygvn7pump": {
+      "symbol": "CUMSTOCK",
+      "created_at": "2026-09-23T23:01:07.186716734Z",
+      "first_seen": "2026-09-23T23:01:15.326555+00:00"
+    },
+    "8pjvS65dBCWCwuPonemrtscGmK1opXnwaFS7Lrjpump": {
+      "symbol": "song",
+      "created_at": "2026-09-23T23:01:06.509365462Z",
+      "first_seen": "2026-09-23T23:01:15.326555+00:00"
     }
   },
   "alerted": [
@@ -2331,7 +2371,8 @@
     "oP3ziG59gh69LPxtvEe6pdyJaYXBieYog8SPdKYpump",
     "AtbAaWSw6q4E4xSqVb6H1953Dq5HKF6WUAwpQdwdpump",
     "c7zP55vADXDi3snuMCc67zcYQogz1VBc5UZZ6fPpump",
-    "HRRpAc72ibDUEQzhBtSBQcyzFGGFVtrR5YFireStHF6B"
+    "HRRpAc72ibDUEQzhBtSBQcyzFGGFVtrR5YFireStHF6B",
+    "HpWGRTs5x2pmWrGKpD5cXpZhja1uuXbPBqf7kYo2mz86"
   ],
   "rejected": [
     "3PiRvefDWuFLYPZSRpxwWmopTLzv9wBRyamgRbdTzkXd",
