@@ -118,7 +118,12 @@
     "AtbAaWSw6q4E4xSqVb6H1953Dq5HKF6WUAwpQdwdpump": {
       "symbol": "",
       "created_at": "2026-09-23T11:30:37.316332211Z",
-      "first_seen": "2026-09-23T11:31:01.370255+00:00"
+      "first_seen": "2026-09-23T11:31:01.370255+00:00",
+      "confirm": {
+        "liquidity": 36886.89,
+        "market_cap": 175437,
+        "at": "2026-09-23T11:41:14.258337+00:00"
+      }
     },
     "FenCwT4LQhNvcAvNAAjfYeu8BMsX1XsLnBouE5tPgB65": {
       "symbol": "GOD",
@@ -349,6 +354,56 @@
       "symbol": "CHICKEN",
       "created_at": "2026-09-23T11:38:50.43115702Z",
       "first_seen": "2026-09-23T11:39:09.951977+00:00"
+    },
+    "8QoUk5LF2zn66DUaA5zReVi7mnrcHbqxSCoygsvUKQfN": {
+      "symbol": "BOT",
+      "created_at": "2026-09-23T11:41:09.731947755Z",
+      "first_seen": "2026-09-23T11:41:14.257983+00:00"
+    },
+    "EKxuV2ncmBMXpuw666ntv4aAHnaFMqSdKH5VUJXXrNvo": {
+      "symbol": "ICIB",
+      "created_at": "2026-09-23T11:41:06.623732801Z",
+      "first_seen": "2026-09-23T11:41:14.257983+00:00"
+    },
+    "GJREmxJf94CHfPN8P89UVNN7obMZAHMT1m7Kxc5spump": {
+      "symbol": "MONEY",
+      "created_at": "2026-09-23T11:41:04.48214872Z",
+      "first_seen": "2026-09-23T11:41:14.257983+00:00"
+    },
+    "Bb7NrXcZk4Vz1AmE2RnXrB84GRhxDr5mAyQ6JN6pump": {
+      "symbol": "DOGE",
+      "created_at": "2026-09-23T11:40:59.471825902Z",
+      "first_seen": "2026-09-23T11:41:14.257983+00:00"
+    },
+    "CpuT91jrEFG1ikcYtccrPP59WM9N95ARgEks9qfDpump": {
+      "symbol": "MUSEINU",
+      "created_at": "2026-09-23T11:40:58.12810781Z",
+      "first_seen": "2026-09-23T11:41:14.257983+00:00"
+    },
+    "Cyf2RSQMhmLkjfwJD8YHPNGEU56vY4ZNKoMGcoXFMgan": {
+      "symbol": "",
+      "created_at": "2026-09-23T11:40:57.801061154Z",
+      "first_seen": "2026-09-23T11:41:14.257983+00:00"
+    },
+    "BwvqmmwBm4bhzn3xy7cAc9mQG3EqamUP6VDx7Xa4pump": {
+      "symbol": "BOB",
+      "created_at": "2026-09-23T11:40:55.0784462Z",
+      "first_seen": "2026-09-23T11:41:14.257983+00:00"
+    },
+    "AhHqZNSQbVNsvtv6LqRLcVSVPuZoCKCQeo1jXbqGpump": {
+      "symbol": "MAXX",
+      "created_at": "2026-09-23T11:40:54.75888134Z",
+      "first_seen": "2026-09-23T11:41:14.257983+00:00"
+    },
+    "EoG8iE2oWdzfzt9ysnioEUEVjiry8E5U3uqWhbL4pump": {
+      "symbol": "PrizePad",
+      "created_at": "2026-09-23T11:40:53.958171364Z",
+      "first_seen": "2026-09-23T11:41:14.257983+00:00"
+    },
+    "GXKYs7yJUuJAT8dAoG2F33cydkMVSyZQLdunT3B5LvV9": {
+      "symbol": "EGG",
+      "created_at": "2026-09-23T11:40:53.678252354Z",
+      "first_seen": "2026-09-23T11:41:14.257983+00:00"
     }
   },
   "alerted": [
