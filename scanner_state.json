@@ -540,16 +540,6 @@
       "created_at": "2026-09-24T21:47:38.148243198Z",
       "first_seen": "2026-09-24T21:47:56.227604+00:00"
     },
-    "6RNtRks5gWuYjXP8ERjp2ZThsEqbXDP23WsMWiYapump": {
-      "symbol": "babygoon",
-      "created_at": "2026-09-24T21:47:36.826916034Z",
-      "first_seen": "2026-09-24T21:47:56.227604+00:00",
-      "confirm": {
-        "liquidity": 18221.49,
-        "market_cap": 49928,
-        "at": "2026-09-24T22:00:58.006568+00:00"
-      }
-    },
     "3fVE47PKeicCDahwz2wqdWz36gjzkZzqvdLfk8p1pump": {
       "symbol": "CHAROC",
       "created_at": "2026-09-24T21:50:00.430379609Z",
@@ -849,6 +839,56 @@
       "symbol": "SOL",
       "created_at": "2026-09-24T22:00:39.325053656Z",
       "first_seen": "2026-09-24T22:00:58.006282+00:00"
+    },
+    "487R5cGM9Lc2tDkhgjQzKXCFYwnppuCyDcPrxWXapump": {
+      "symbol": "RASFAG",
+      "created_at": "2026-09-24T22:03:08.477129441Z",
+      "first_seen": "2026-09-24T22:03:11.946502+00:00"
+    },
+    "BjWVUxg3VxJRCJTykq75EGYmEDbXahku82oBt6CWeiLz": {
+      "symbol": "PEPETIDE",
+      "created_at": "2026-09-24T22:03:06.095422422Z",
+      "first_seen": "2026-09-24T22:03:11.946502+00:00"
+    },
+    "4thhr2k3qyuLEZZcsHqMWWJVjcg9W6DxXGUtQ3sHeaTF": {
+      "symbol": "PARLAY",
+      "created_at": "2026-09-24T22:03:02.604258708Z",
+      "first_seen": "2026-09-24T22:03:11.946502+00:00"
+    },
+    "Bt7W5tGxS1KuequHxLBESVuVaMP4mNWpBLy4h6o1FvYa": {
+      "symbol": "",
+      "created_at": "2026-09-24T22:03:02.370050253Z",
+      "first_seen": "2026-09-24T22:03:11.946502+00:00"
+    },
+    "5EEtqTdDCn5ja6muCmpRjjtDFjbwzin9FE3jseMmw2oM": {
+      "symbol": "MPN",
+      "created_at": "2026-09-24T22:02:59.329157289Z",
+      "first_seen": "2026-09-24T22:03:11.946502+00:00"
+    },
+    "GDTzZjk9UAqJzBi3Eb71ebhtwupoG7cyBXS32nDSpump": {
+      "symbol": "$LA BEAST",
+      "created_at": "2026-09-24T22:02:59.069730525Z",
+      "first_seen": "2026-09-24T22:03:11.946502+00:00"
+    },
+    "9jNK2hZbYovpHcF4tytEVu5AhSXdT72PiRRqVU8Evczn": {
+      "symbol": "MDOG",
+      "created_at": "2026-09-24T22:02:57.236712014Z",
+      "first_seen": "2026-09-24T22:03:11.946502+00:00"
+    },
+    "Gr2qxpXJqXUdTph2tJxArHt4iwkdZdxpCeGdYBfrpump": {
+      "symbol": "MILK",
+      "created_at": "2026-09-24T22:02:57.139889736Z",
+      "first_seen": "2026-09-24T22:03:11.946502+00:00"
+    },
+    "HUiBGttRPTJVBjYY6Rs7MuipxkzXY1Eceze6LHAGXW8K": {
+      "symbol": "Motion",
+      "created_at": "2026-09-24T22:02:56.372521911Z",
+      "first_seen": "2026-09-24T22:03:11.946502+00:00"
+    },
+    "31ebHhnhC1SGAW5k1ERVrwzuTHJvMYM46TrVvLjxpump": {
+      "symbol": "CHIMP",
+      "created_at": "2026-09-24T22:02:56.274847577Z",
+      "first_seen": "2026-09-24T22:03:11.946502+00:00"
     }
   },
   "alerted": [
@@ -1166,7 +1206,8 @@
     "9VB2bPWT3gStPJd8F7nk8kJcQtNX7EyPD3CfUXTCaSvk",
     "39DjBM64Je9nXx3eZsBc4vc5v82bKkddbNNQWi4npump",
     "EFW3VwqYPzoc58reVMy2GxEjv78xQ765pQy1JMdBVoB9",
-    "FnBS4V6kyWXKWfgH3tT6Xu162WubcgtqjVTHcU5Zpump"
+    "FnBS4V6kyWXKWfgH3tT6Xu162WubcgtqjVTHcU5Zpump",
+    "6RNtRks5gWuYjXP8ERjp2ZThsEqbXDP23WsMWiYapump"
   ],
   "rejected": [
     "8VtX5h8ynPMGJJ3K7t5q2LhpJRv8PfsNA9uQKnwKjNfM",
