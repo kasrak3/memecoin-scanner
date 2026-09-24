@@ -543,7 +543,12 @@
     "6RNtRks5gWuYjXP8ERjp2ZThsEqbXDP23WsMWiYapump": {
       "symbol": "babygoon",
       "created_at": "2026-09-24T21:47:36.826916034Z",
-      "first_seen": "2026-09-24T21:47:56.227604+00:00"
+      "first_seen": "2026-09-24T21:47:56.227604+00:00",
+      "confirm": {
+        "liquidity": 18221.49,
+        "market_cap": 49928,
+        "at": "2026-09-24T22:00:58.006568+00:00"
+      }
     },
     "3fVE47PKeicCDahwz2wqdWz36gjzkZzqvdLfk8p1pump": {
       "symbol": "CHAROC",
@@ -794,6 +799,56 @@
       "symbol": "2077",
       "created_at": "2026-09-24T21:58:25.992040918Z",
       "first_seen": "2026-09-24T21:58:45.861019+00:00"
+    },
+    "GreJdNt1tM6hiNjhqgDKgW1XFxzSDC5tMoUkQkUrpump": {
+      "symbol": "BLACKYCAT",
+      "created_at": "2026-09-24T22:00:48.146711726Z",
+      "first_seen": "2026-09-24T22:00:58.006282+00:00"
+    },
+    "9wrE4tdUA12WEgHL9rV5Q2veeVq2bm4KJB6tSoQZscds": {
+      "symbol": "Xi",
+      "created_at": "2026-09-24T22:00:47.649137866Z",
+      "first_seen": "2026-09-24T22:00:58.006282+00:00"
+    },
+    "9sVhmH2qZL2JxZmfpPSZ4p2kX39oeF5oQ1fRpHjrpump": {
+      "symbol": "gorgory",
+      "created_at": "2026-09-24T22:00:47.343866649Z",
+      "first_seen": "2026-09-24T22:00:58.006282+00:00"
+    },
+    "DfAnTLmG1tTqMN163zjqoibK1y54yvJ5V7Fg2VHACZku": {
+      "symbol": "Xi",
+      "created_at": "2026-09-24T22:00:47.323160703Z",
+      "first_seen": "2026-09-24T22:00:58.006282+00:00"
+    },
+    "4tQMukL6hU4VBAdxbcWEYcjdiTmKRpRXDgVg1wk9pump": {
+      "symbol": "HANS",
+      "created_at": "2026-09-24T22:00:47.12076588Z",
+      "first_seen": "2026-09-24T22:00:58.006282+00:00"
+    },
+    "7pzKBgXVa8czvYNpTxnroAYwM6YX3JMzovoQmBQepump": {
+      "symbol": "REFDOG",
+      "created_at": "2026-09-24T22:00:44.68682103Z",
+      "first_seen": "2026-09-24T22:00:58.006282+00:00"
+    },
+    "9BvN8kNJZZ1XP8cUsPbHJZfcPQnSsjmzvkxPiwFjpump": {
+      "symbol": "baba lion",
+      "created_at": "2026-09-24T22:00:42.679550185Z",
+      "first_seen": "2026-09-24T22:00:58.006282+00:00"
+    },
+    "3pr884jGighVEBj5uWVirBoXsXC9YwxViJXx4up1pump": {
+      "symbol": "MOLTSCAPE",
+      "created_at": "2026-09-24T22:00:40.711945695Z",
+      "first_seen": "2026-09-24T22:00:58.006282+00:00"
+    },
+    "6H9etVq1KfNHs5yCAantF3n8FguHQke1J3n2oTQspump": {
+      "symbol": "PUI",
+      "created_at": "2026-09-24T22:00:39.691861604Z",
+      "first_seen": "2026-09-24T22:00:58.006282+00:00"
+    },
+    "F9Bo6LBbpSu9Bk2UkWQXMqXeJjhTMvXy7NtXMHAtpump": {
+      "symbol": "SOL",
+      "created_at": "2026-09-24T22:00:39.325053656Z",
+      "first_seen": "2026-09-24T22:00:58.006282+00:00"
     }
   },
   "alerted": [
