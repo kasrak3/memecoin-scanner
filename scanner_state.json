@@ -1,55 +1,5 @@
 {
   "pending": {
-    "C3TS1RMY52ZQaKZAQgXhpjmgv138aJzPs2kuBXN9pump": {
-      "symbol": "dev",
-      "created_at": "2026-09-25T00:03:53.119964936Z",
-      "first_seen": "2026-09-25T00:04:03.329392+00:00"
-    },
-    "Dj5YJNysWviCHCcbp61Y8naHC63498Rscwb7oib8pump": {
-      "symbol": "stability",
-      "created_at": "2026-09-25T00:03:53.100004738Z",
-      "first_seen": "2026-09-25T00:04:03.329392+00:00"
-    },
-    "6ixNpR3Eb1WvvuWab1pNt8c895PpTsQZFyGmhgANpump": {
-      "symbol": "BIG",
-      "created_at": "2026-09-25T00:03:52.427788073Z",
-      "first_seen": "2026-09-25T00:04:03.329392+00:00"
-    },
-    "GNXBSxB3L4JBApDMf946Hrppnmj1UeY6VEu7iDhhxkXi": {
-      "symbol": "ROC",
-      "created_at": "2026-09-25T00:03:51.945167682Z",
-      "first_seen": "2026-09-25T00:04:03.329392+00:00"
-    },
-    "2jEiQ7ngWgfz78mHw8STF8ytmYDQkFgKJXWXqJ91wx8G": {
-      "symbol": "SBA",
-      "created_at": "2026-09-25T00:03:51.315674627Z",
-      "first_seen": "2026-09-25T00:04:03.329392+00:00"
-    },
-    "29q22yx4BsYZRiHeKRyTuCXhj5bdBumbnt2TMh1spump": {
-      "symbol": "circle",
-      "created_at": "2026-09-25T00:03:49.349761878Z",
-      "first_seen": "2026-09-25T00:04:03.329392+00:00"
-    },
-    "4rBBNe8arifCSVc6PY4jSyef5daRqyQyhChaNaFB4SgG": {
-      "symbol": "",
-      "created_at": "2026-09-25T00:03:48.291956716Z",
-      "first_seen": "2026-09-25T00:04:03.329392+00:00"
-    },
-    "8VJDe1BKcFKv2LacZ8TLHBcFyrR62nxYsCPXmGVfLNup": {
-      "symbol": "MPN",
-      "created_at": "2026-09-25T00:03:46.216390921Z",
-      "first_seen": "2026-09-25T00:04:03.329392+00:00"
-    },
-    "9pnLf7ieCFv56z57XN4jks3QJzujy4BSKwtp9zU54onZ": {
-      "symbol": "MPN",
-      "created_at": "2026-09-25T00:03:45.908639881Z",
-      "first_seen": "2026-09-25T00:04:03.329392+00:00"
-    },
-    "DpRe5G7ZzAupW3depM3vgjuz5jw8tKef5VcSc7BWpump": {
-      "symbol": "NPC",
-      "created_at": "2026-09-25T00:03:44.19284784Z",
-      "first_seen": "2026-09-25T00:04:03.329392+00:00"
-    },
     "Gtcpy161ZmCB6TVtreHANTxBsEBNz4G4mALua3GNvx4s": {
       "symbol": "BRAT",
       "created_at": "2026-09-25T00:06:46.405810185Z",
@@ -1935,16 +1885,6 @@
       "created_at": "2026-09-25T01:50:21.561397701Z",
       "first_seen": "2026-09-25T01:50:39.066900+00:00"
     },
-    "73UdGDgdYhbk2JfhaU8qRjMUS7mxDg6so9pcSam9pump": {
-      "symbol": "PILLS",
-      "created_at": "2026-09-25T01:50:21.206665134Z",
-      "first_seen": "2026-09-25T01:50:39.066900+00:00",
-      "confirm": {
-        "liquidity": 27339.62,
-        "market_cap": 101762,
-        "at": "2026-09-25T02:01:33.465350+00:00"
-      }
-    },
     "BXnXHfMTQkhuLNASVExpnfPCYp7UHwqnY1wtRUhYpump": {
       "symbol": "STENKS",
       "created_at": "2026-09-25T01:50:20.172639074Z",
@@ -2164,6 +2104,56 @@
       "symbol": "duluth",
       "created_at": "2026-09-25T02:01:10.917948462Z",
       "first_seen": "2026-09-25T02:01:33.465085+00:00"
+    },
+    "EXMmZn9xBEF64ctFMFV1RtcVhQSZR32jFcXUovcVhB2e": {
+      "symbol": "GRASS",
+      "created_at": "2026-09-25T02:04:08.1101432Z",
+      "first_seen": "2026-09-25T02:04:19.555334+00:00"
+    },
+    "BXKGL5YSMnhkdV9coF8J4ZCBB67qpJKuegcbxs5bpump": {
+      "symbol": "s",
+      "created_at": "2026-09-25T02:04:06.46498213Z",
+      "first_seen": "2026-09-25T02:04:19.555334+00:00"
+    },
+    "Epd3pBL5HZiaicVr62wkKoWP4K2KNf2LR2snQf1BSx1Z": {
+      "symbol": "TOUCH ticker",
+      "created_at": "2026-09-25T02:04:02.763018084Z",
+      "first_seen": "2026-09-25T02:04:19.555334+00:00"
+    },
+    "5WKef5LcfFYxaFaPTHWrsVKShfCxgC9LuF8hdaqLNvtC": {
+      "symbol": "TOUCH ticker",
+      "created_at": "2026-09-25T02:04:02.680965246Z",
+      "first_seen": "2026-09-25T02:04:19.555334+00:00"
+    },
+    "DTSNiMWpmuFaGyqho1PvAH2TJzJjhr8r5CNHLHJtoK6k": {
+      "symbol": "TOUCH ticker",
+      "created_at": "2026-09-25T02:04:02.649427196Z",
+      "first_seen": "2026-09-25T02:04:19.555334+00:00"
+    },
+    "AeY5bDEX7CeEpBwuWgJpDuMJvk8dshgP3zaQUZiBpump": {
+      "symbol": "Gyron",
+      "created_at": "2026-09-25T02:03:59.63540204Z",
+      "first_seen": "2026-09-25T02:04:19.555334+00:00"
+    },
+    "EyL1A4PbrEqxGW6cWtare1745MStU4tqi8FtFz9Sxv27": {
+      "symbol": "OPEN",
+      "created_at": "2026-09-25T02:03:59.33890856Z",
+      "first_seen": "2026-09-25T02:04:19.555334+00:00"
+    },
+    "DiX6oXNXY2fagn6aZ3w3sqLCPUBTWRxDg1f49VUTpump": {
+      "symbol": "FStream",
+      "created_at": "2026-09-25T02:03:59.141211282Z",
+      "first_seen": "2026-09-25T02:04:19.555334+00:00"
+    },
+    "9UrQLiej82sRTRwgKE5Ry11XHMHVp261iUAMMxrWGVAx": {
+      "symbol": "TOUCH ticker",
+      "created_at": "2026-09-25T02:03:58.157786405Z",
+      "first_seen": "2026-09-25T02:04:19.555334+00:00"
+    },
+    "6JkvJT9KnExwrRedYs1WjRSk5FxRwkJ7NjHgiTckAFoX": {
+      "symbol": "TOUCH ticker",
+      "created_at": "2026-09-25T02:03:58.082305667Z",
+      "first_seen": "2026-09-25T02:04:19.555334+00:00"
     }
   },
   "alerted": [
@@ -2485,7 +2475,8 @@
     "6RNtRks5gWuYjXP8ERjp2ZThsEqbXDP23WsMWiYapump",
     "DWhb1a973JPmUreFTXVYDAu9vZoy1dsrbr7teL954BGg",
     "Cyj9aTUi6PK8BfoAtWvo3dMmNQTwsDFwsy9MWHbFSTNK",
-    "5iqjhP5ig6JWdXQf6hYAwojZeMf11pTCvH87gCQtpump"
+    "5iqjhP5ig6JWdXQf6hYAwojZeMf11pTCvH87gCQtpump",
+    "73UdGDgdYhbk2JfhaU8qRjMUS7mxDg6so9pcSam9pump"
   ],
   "rejected": [
     "Anwmy54ajo483bHNLMXnzD1x3r1CJfiSTExbdqMan7Km",
