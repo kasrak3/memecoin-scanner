@@ -1,25 +1,5 @@
 {
   "pending": {
-    "BiDUEZJgaUf7vW4dPt5ksdhPhLY5FcV5PHXLkxetYsJ8": {
-      "symbol": "crowd.",
-      "created_at": "2026-09-27T15:28:14.665620301Z",
-      "first_seen": "2026-09-27T15:28:46.849320+00:00"
-    },
-    "BbzkKx3uLmwfFPrP8fTv2oTNaE415W1MsAHMQjTZpump": {
-      "symbol": "",
-      "created_at": "2026-09-27T15:27:52.241643864Z",
-      "first_seen": "2026-09-27T15:28:46.849320+00:00"
-    },
-    "ZfGPTG81cnVfJdtv4FB5Mt37Y98fSyUGt7VcZxDpump": {
-      "symbol": "GEM",
-      "created_at": "2026-09-27T15:27:43.471570833Z",
-      "first_seen": "2026-09-27T15:28:46.849320+00:00"
-    },
-    "9PhCergFWmLsYs1qAAimcvsN8wPz5bAMEHEiiicZpump": {
-      "symbol": "PACK",
-      "created_at": "2026-09-27T15:27:04.872137571Z",
-      "first_seen": "2026-09-27T15:28:46.849320+00:00"
-    },
     "8xtx4znXrXUPXU4JEh6wxoCVBcTrgxMtF1MGZhFWhLQw": {
       "symbol": "PUDGY",
       "created_at": "2026-09-27T15:33:50.986462091Z",
@@ -440,11 +420,6 @@
       "created_at": "2026-09-27T17:14:44.972002228Z",
       "first_seen": "2026-09-27T17:16:48.622123+00:00"
     },
-    "XnWFNovuvfPD5rx4KKceFq5Qr7YvdjHxH2brL4dpump": {
-      "symbol": "Beast",
-      "created_at": "2026-09-27T17:18:40.945466433Z",
-      "first_seen": "2026-09-27T17:19:02.240492+00:00"
-    },
     "zYWYxLBjRd6k5skHPTzKs3b1tYr1bxjaR3DfteRpump": {
       "symbol": "BLASTAR",
       "created_at": "2026-09-27T17:16:47.169617946Z",
@@ -649,6 +624,56 @@
       "symbol": "100000000x",
       "created_at": "2026-09-27T17:27:45.783318674Z",
       "first_seen": "2026-09-27T17:27:54.038298+00:00"
+    },
+    "HQwbZnxEQRrDukNGvPGXvJPq33ebZrQgqzTw6q68pump": {
+      "symbol": "Penque",
+      "created_at": "2026-09-27T17:30:03.301530287Z",
+      "first_seen": "2026-09-27T17:30:04.822209+00:00"
+    },
+    "CfRcfXu5wYiPhqxrD1vKPRLsYRL1X2m3C2762GBLizoF": {
+      "symbol": "FUN",
+      "created_at": "2026-09-27T17:30:03.268963852Z",
+      "first_seen": "2026-09-27T17:30:04.822209+00:00"
+    },
+    "8iwpDLaMP2xYQMbcfRgbr2HVMMVeqBpUDaDm5haUpump": {
+      "symbol": "NEARPAD",
+      "created_at": "2026-09-27T17:30:03.01549986Z",
+      "first_seen": "2026-09-27T17:30:04.822209+00:00"
+    },
+    "423XsNKp9TTKw8GWBwP8fgXdk2f3usBHSJWnZwcNXJw9": {
+      "symbol": "",
+      "created_at": "2026-09-27T17:30:01.414446832Z",
+      "first_seen": "2026-09-27T17:30:04.822209+00:00"
+    },
+    "GTJpMEEsEDvMmAfXRHX6X7HDeFSKZnaHKjZEiJawTcd1": {
+      "symbol": "OWP",
+      "created_at": "2026-09-27T17:29:59.505288705Z",
+      "first_seen": "2026-09-27T17:30:04.822209+00:00"
+    },
+    "Guj5gUXRmECsBJoATspcauQ9bRRjyt1MUcMpyRYpump": {
+      "symbol": "Fisherman",
+      "created_at": "2026-09-27T17:29:59.271018853Z",
+      "first_seen": "2026-09-27T17:30:04.822209+00:00"
+    },
+    "LN9S5ehVTUypi4zX6p795m3CMAfd9kCw2fPyih1Pf48": {
+      "symbol": "RAMP",
+      "created_at": "2026-09-27T17:29:59.185422557Z",
+      "first_seen": "2026-09-27T17:30:04.822209+00:00"
+    },
+    "684XGsZ6xgYGRpvFMWC95a1RK1eRPPAnQUq5oCqPpump": {
+      "symbol": "Watching",
+      "created_at": "2026-09-27T17:29:58.689103645Z",
+      "first_seen": "2026-09-27T17:30:04.822209+00:00"
+    },
+    "7gjdPtWYhwGTyCPe6hNFgZnhPZmpyBaN7yEMcBjjpump": {
+      "symbol": "\u2b06\ufe0f",
+      "created_at": "2026-09-27T17:29:57.728305095Z",
+      "first_seen": "2026-09-27T17:30:04.822209+00:00"
+    },
+    "G264aH75WxBX9cknCSnC7ixpYPnkwd2gE5Mf2WNqeEDB": {
+      "symbol": "GUARD",
+      "created_at": "2026-09-27T17:29:57.062645502Z",
+      "first_seen": "2026-09-27T17:30:04.822209+00:00"
     }
   },
   "alerted": [
@@ -986,7 +1011,6 @@
     "8BnWWXtrWhNatLp624txHCVnohGRvBj8L1oygndpump"
   ],
   "rejected": [
-    "2TTQc1HmP8GRKTot5DXszDih5KMymw15ndkkZnnhS4Yo",
     "26BZVVmPySB4UH8XppWfj2rEgKZjAVDsMMXUwBzLpump",
     "Bg43NQq4bxQBLAH6J24Q5nAgwsbqVwKRiZVWboa1Pycp",
     "E9t9bQBCocQ5YBB2eZn9qZVSRRPrCHi6967SY8X9T2N1",
@@ -2985,6 +3009,7 @@
     "pYw8BM4NhG8r11NHCFzQPdniXgtMviAEdEWbsr2pump",
     "VEnbFNs7yCnN4aeNRXkgL25cBXg96nWVfHiQBN1pump",
     "tbexi2NANoovGUyzNZEY8iJEAXwDgSDijuSLfAApump",
-    "vbgZdiueZb4MSRJZ9UXYgo7MqjigQPZqjEMLu1Npump"
+    "vbgZdiueZb4MSRJZ9UXYgo7MqjigQPZqjEMLu1Npump",
+    "XnWFNovuvfPD5rx4KKceFq5Qr7YvdjHxH2brL4dpump"
   ]
 }
