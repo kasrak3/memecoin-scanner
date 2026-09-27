@@ -1680,16 +1680,6 @@
       "created_at": "2026-09-27T18:28:37.849713556Z",
       "first_seen": "2026-09-27T18:28:54.391550+00:00"
     },
-    "3BrdzuCrF5mDyFDBc8se1odzNqnB85x2SHQvNaBxpump": {
-      "symbol": "CTO",
-      "created_at": "2026-09-27T18:28:35.490842372Z",
-      "first_seen": "2026-09-27T18:28:54.391550+00:00",
-      "confirm": {
-        "liquidity": 6055.71,
-        "market_cap": 7791,
-        "at": "2026-09-27T18:44:36.994517+00:00"
-      }
-    },
     "7yYENdrMfWQudZXGbLaseqC4nFshfBP8GuvyKC1iDra1": {
       "symbol": "Buyside",
       "created_at": "2026-09-27T18:28:32.239471282Z",
@@ -2109,6 +2099,56 @@
       "symbol": "SM",
       "created_at": "2026-09-27T18:49:34.097886444Z",
       "first_seen": "2026-09-27T18:50:00.027902+00:00"
+    },
+    "9s2UHTDhL95hifpXaQPZhDtf5z6J8Cr26YWYpir6EqHs": {
+      "symbol": "SHXRK",
+      "created_at": "2026-09-27T18:52:37.521158946Z",
+      "first_seen": "2026-09-27T18:52:39.655551+00:00"
+    },
+    "HDpXNtzp61nuwshpN5h8xLAz8QvXwy1VvKrDHMSJ81X6": {
+      "symbol": "OWP",
+      "created_at": "2026-09-27T18:52:37.296155542Z",
+      "first_seen": "2026-09-27T18:52:39.655551+00:00"
+    },
+    "EZrjz153qnGqLEQR52VxT6RaShKpzbZjBtJcCZu6pump": {
+      "symbol": "Success",
+      "created_at": "2026-09-27T18:52:37.278147663Z",
+      "first_seen": "2026-09-27T18:52:39.655551+00:00"
+    },
+    "Ad47nDNz6oVz4ZhGh9BPGJfgYxuzHDcgRwViAfRJearn": {
+      "symbol": "JEW",
+      "created_at": "2026-09-27T18:52:36.605360626Z",
+      "first_seen": "2026-09-27T18:52:39.655551+00:00"
+    },
+    "GfRit4VhAMo18TsXfPd6YmNUNpv2r5BMWuZdWuhqxqP4": {
+      "symbol": "MNTN",
+      "created_at": "2026-09-27T18:52:36.086874226Z",
+      "first_seen": "2026-09-27T18:52:39.655551+00:00"
+    },
+    "ETbtEjaaGTgTgTn2TpYd4P8veDa6Rxv14841yn4zyyYu": {
+      "symbol": "MPN",
+      "created_at": "2026-09-27T18:52:32.777986561Z",
+      "first_seen": "2026-09-27T18:52:39.655551+00:00"
+    },
+    "6YGruwExsS112ziAk3cFzupdcQt21GFPKLjcaynKtQvu": {
+      "symbol": "Daniel",
+      "created_at": "2026-09-27T18:52:28.760523548Z",
+      "first_seen": "2026-09-27T18:52:39.655551+00:00"
+    },
+    "Cv8DCVR3u6GQHg4p2JMgHg2EQmZqA6Gp26jGBKFjpump": {
+      "symbol": "\u6bd4\u7279\u5e01",
+      "created_at": "2026-09-27T18:52:28.002379384Z",
+      "first_seen": "2026-09-27T18:52:39.655551+00:00"
+    },
+    "8AHJMjMFfPVL4p4b56PA3XdTW6sM3TAyF6TiuUZfNMt7": {
+      "symbol": "PCAT",
+      "created_at": "2026-09-27T18:52:27.48236009Z",
+      "first_seen": "2026-09-27T18:52:39.655551+00:00"
+    },
+    "2U2mczqvjw5ZAMSbTEX7Yw5qsvHPHcYf5gTiha1ZVba8": {
+      "symbol": "POLYMARGIN",
+      "created_at": "2026-09-27T18:52:26.991237456Z",
+      "first_seen": "2026-09-27T18:52:39.655551+00:00"
     }
   },
   "alerted": [
@@ -2447,7 +2487,6 @@
     "H69uJNb3XRGo3ApW193g221ndQeA6gyRhvLZqMfvpump"
   ],
   "rejected": [
-    "3i4x3xgbTjL399pSbjWcHt8BRXYKpUj2gdhfp7rfZLcq",
     "6DyBEvdFXdqEgxUKejUuCF74X9nFYVkaYbvwLnE6kir8",
     "1BnH5Js4xkyP2k1gcEqwPajVwQGCfipyZ7kT1Qgpump",
     "F9HNLL1MRBGz1rSrDXAumdWN6HySTFdeQbVawYPDRZvW",
@@ -4446,6 +4485,7 @@
     "GBPGfwqC6uiU1SeSkohwp7JdL3pjPgu3rhBCZuNHwFG9",
     "DiUSDV1XfDAkyai14n9LGDpHUeJusQr2S5a4cURLtVJM",
     "AGvPFxwuMMnVcP9AbxUach378yg43e599MPSbQCYCunw",
-    "8rq6zNTaF3XCtANQLYUiTL2F9idYsWYV93qXJBzdj7mc"
+    "8rq6zNTaF3XCtANQLYUiTL2F9idYsWYV93qXJBzdj7mc",
+    "3BrdzuCrF5mDyFDBc8se1odzNqnB85x2SHQvNaBxpump"
   ]
 }
