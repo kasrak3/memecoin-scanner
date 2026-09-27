@@ -675,11 +675,6 @@
       "created_at": "2026-09-27T05:40:34.893266297Z",
       "first_seen": "2026-09-27T05:40:48.038134+00:00"
     },
-    "BWqRsoU9syqsU8birkm3ZNWAQiBRCB9oLKjL3txVpump": {
-      "symbol": "Xbank",
-      "created_at": "2026-09-27T05:40:32.066636055Z",
-      "first_seen": "2026-09-27T05:40:48.038134+00:00"
-    },
     "iBqqAdb6Z1VZrM4FDvTkfzeeCVTV2Cw9EEznP8Dpump": {
       "symbol": "KEEF",
       "created_at": "2026-09-27T05:40:30.663881054Z",
@@ -1009,6 +1004,56 @@
       "symbol": "YO",
       "created_at": "2026-09-27T05:53:54.923594569Z",
       "first_seen": "2026-09-27T05:54:04.688471+00:00"
+    },
+    "SF5QRmwfT45yPNhR7jEPyoF8gZ3qkPGGXY891fmpump": {
+      "symbol": "newcoin",
+      "created_at": "2026-09-27T05:56:10.277226605Z",
+      "first_seen": "2026-09-27T05:56:18.749433+00:00"
+    },
+    "E3F3m8n3xWDcLRgGoQe2y8AMgencPGfBNwAHe6AMpump": {
+      "symbol": "HORUS",
+      "created_at": "2026-09-27T05:56:10.189174038Z",
+      "first_seen": "2026-09-27T05:56:18.749433+00:00"
+    },
+    "DjB2DP85MwxfD8q4gJh1nnMk6Yp9gQRukhjwXo9zpump": {
+      "symbol": "ITVGOLD",
+      "created_at": "2026-09-27T05:56:10.001788994Z",
+      "first_seen": "2026-09-27T05:56:18.749433+00:00"
+    },
+    "2AkPHNJDo64LiodFtm8cvTtFycWiEf3QDnrpVUrwhFCt": {
+      "symbol": "",
+      "created_at": "2026-09-27T05:56:08.900683424Z",
+      "first_seen": "2026-09-27T05:56:18.749433+00:00"
+    },
+    "CG1MNZWxVUkTy7GbxSUkWdV37Y8vWR3eoeCn4kZvBAGS": {
+      "symbol": "MRBEAST",
+      "created_at": "2026-09-27T05:56:08.498349018Z",
+      "first_seen": "2026-09-27T05:56:18.749433+00:00"
+    },
+    "GUQtCUQkeojUe4UVEVXBYgZV3ZztApbnfW9yzYduC6rd": {
+      "symbol": "",
+      "created_at": "2026-09-27T05:56:06.206712949Z",
+      "first_seen": "2026-09-27T05:56:18.749433+00:00"
+    },
+    "9bkLMfdGUBHTBxSu4wLjottHKUUEHXQtDAGx6BoooAFj": {
+      "symbol": "",
+      "created_at": "2026-09-27T05:56:05.233159917Z",
+      "first_seen": "2026-09-27T05:56:18.749433+00:00"
+    },
+    "8FXHCPBc6HZPUs7ynPsJTnQVZZrbVTZmgoZmnDB2pump": {
+      "symbol": "The XBank",
+      "created_at": "2026-09-27T05:56:04.067482808Z",
+      "first_seen": "2026-09-27T05:56:18.749433+00:00"
+    },
+    "6gHfGv2vuGbhxA2xBbv9tyh2ZkZwQvdn1LQj5Lj1DPbC": {
+      "symbol": "RCL",
+      "created_at": "2026-09-27T05:56:02.202682241Z",
+      "first_seen": "2026-09-27T05:56:18.749433+00:00"
+    },
+    "FFHrwbZ1pZzEcAcQKmq3UGTrmKSidFcuLg6HrS7Npump": {
+      "symbol": "up",
+      "created_at": "2026-09-27T05:56:02.048893649Z",
+      "first_seen": "2026-09-27T05:56:18.749433+00:00"
     }
   },
   "alerted": [
@@ -1343,7 +1388,6 @@
     "8xvzGFP8kreKmQY12gzTfCk3BfJ1zV8zf3hsC4Sb3UM2"
   ],
   "rejected": [
-    "6SmYNkBjjv7N34y4LRzzSgks1D4uV8zbaCuFVQsnjS5t",
     "ABEkMtiAHW9VSsDvt7f8rVjpGmSQp1Wc6MaJboBM53Na",
     "8WjyqQHv856Lc2phJ1Dd8gX8yoSmfZHLqjT8bY5g3wxW",
     "H91t5wcNp6ZcxT7P1ZMjEguexSv1utgTsE6GamH4pump",
@@ -3342,6 +3386,7 @@
     "6hGVudfroZkUd6ikL4xNggbzgVPjJzUhxd4qRpzeTQVC",
     "Ab6CVmhqD3x1bvMZBnjJBJqeTLMm7tAapcZwSU6apump",
     "CNe4ndr6H6c9aVnaNzEdZpMnPXYCV1dGzemhokJ422tZ",
-    "BbvzaDjoU1jprFN7VYd4xVzt3sz9vTdGQJenV7bNnHQK"
+    "BbvzaDjoU1jprFN7VYd4xVzt3sz9vTdGQJenV7bNnHQK",
+    "BWqRsoU9syqsU8birkm3ZNWAQiBRCB9oLKjL3txVpump"
   ]
 }
