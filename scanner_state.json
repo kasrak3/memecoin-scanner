@@ -675,11 +675,6 @@
       "created_at": "2026-09-27T17:32:13.7475411Z",
       "first_seen": "2026-09-27T17:32:20.337802+00:00"
     },
-    "3LgZaLPdEbK8EdmXJEnZNqxR91g2kB5AAeka9tF9LSs6": {
-      "symbol": "RAMP",
-      "created_at": "2026-09-27T17:32:12.605043905Z",
-      "first_seen": "2026-09-27T17:32:20.337802+00:00"
-    },
     "4jwnqaK6A9ujvhNP5LjkFc5poGHytUntniJFiGiJpump": {
       "symbol": "CLOSER",
       "created_at": "2026-09-27T17:32:11.027348103Z",
@@ -693,7 +688,12 @@
     "H69uJNb3XRGo3ApW193g221ndQeA6gyRhvLZqMfvpump": {
       "symbol": "bukangi",
       "created_at": "2026-09-27T17:32:09.231531689Z",
-      "first_seen": "2026-09-27T17:32:20.337802+00:00"
+      "first_seen": "2026-09-27T17:32:20.337802+00:00",
+      "confirm": {
+        "liquidity": 36978.65,
+        "market_cap": 177577,
+        "at": "2026-09-27T17:43:28.668510+00:00"
+      }
     },
     "8R6M9KJYcowuxF59177c7t3sCMwb6fMYykeBR4zwpump": {
       "symbol": "VIBESHELF",
@@ -914,6 +914,56 @@
       "symbol": "boob",
       "created_at": "2026-09-27T17:41:01.180108565Z",
       "first_seen": "2026-09-27T17:41:12.028469+00:00"
+    },
+    "5c28sGhoLuXtQw5S1CHFC1kGBGR9MofAGnMu2nZNN6hF": {
+      "symbol": "PALE",
+      "created_at": "2026-09-27T17:43:20.574663341Z",
+      "first_seen": "2026-09-27T17:43:28.668127+00:00"
+    },
+    "GUzViMVq5cXqTfr8jRGmMJd3Nz2rJsz4BCzjKMHVpump": {
+      "symbol": "HANDOUT",
+      "created_at": "2026-09-27T17:43:19.743036657Z",
+      "first_seen": "2026-09-27T17:43:28.668127+00:00"
+    },
+    "GMnpa2gEu1YqHUAnuK3uiATi8HH6ftMoJueDcsKMpump": {
+      "symbol": "bnf",
+      "created_at": "2026-09-27T17:43:17.134962664Z",
+      "first_seen": "2026-09-27T17:43:28.668127+00:00"
+    },
+    "4Sbqpaa1pvn7RibuKc6caNJ77tjcQC9WuxHRnzdSpump": {
+      "symbol": "BOARD",
+      "created_at": "2026-09-27T17:43:15.829035375Z",
+      "first_seen": "2026-09-27T17:43:28.668127+00:00"
+    },
+    "B4fhDZF5FYnqrPep3wmVc2ggD5ut87V4sFopd7XTpump": {
+      "symbol": "$TRP",
+      "created_at": "2026-09-27T17:43:15.081047345Z",
+      "first_seen": "2026-09-27T17:43:28.668127+00:00"
+    },
+    "i3rqufFQeJ8VJTouwykpjpbKh2xYQsGmjrzUWRppump": {
+      "symbol": "GrenCAT",
+      "created_at": "2026-09-27T17:43:12.910997858Z",
+      "first_seen": "2026-09-27T17:43:28.668127+00:00"
+    },
+    "4SDGSn3GcNwfAdLPtSJrzNx1q4MaQ5vqsSMQCoVoQZHZ": {
+      "symbol": "BIGBOOBS",
+      "created_at": "2026-09-27T17:43:11.660151212Z",
+      "first_seen": "2026-09-27T17:43:28.668127+00:00"
+    },
+    "J2zAjtyz2dsJVe26zX81RFf3PCUmh8kLsAgr9iAupump": {
+      "symbol": "test",
+      "created_at": "2026-09-27T17:43:11.008622011Z",
+      "first_seen": "2026-09-27T17:43:28.668127+00:00"
+    },
+    "4XZ7NdLUZcYafFgoJvcpba3te6qFs2VmhJxe2JAHpump": {
+      "symbol": "ELIZABETH",
+      "created_at": "2026-09-27T17:43:06.346080677Z",
+      "first_seen": "2026-09-27T17:43:28.668127+00:00"
+    },
+    "TYi3eB3XwyGkScWXqXq4EzehkGubCkx2tqzgwh6pump": {
+      "symbol": "MSHIBA",
+      "created_at": "2026-09-27T17:43:05.89141849Z",
+      "first_seen": "2026-09-27T17:43:28.668127+00:00"
     }
   },
   "alerted": [
@@ -1251,7 +1301,6 @@
     "8BnWWXtrWhNatLp624txHCVnohGRvBj8L1oygndpump"
   ],
   "rejected": [
-    "Bg43NQq4bxQBLAH6J24Q5nAgwsbqVwKRiZVWboa1Pycp",
     "E9t9bQBCocQ5YBB2eZn9qZVSRRPrCHi6967SY8X9T2N1",
     "8UUBk9UuvpqHv5hfPZQrUFhnDHrrVPgoqbAVwwQ7CZQ8",
     "r86cjXofshwxcsvj8bkcdSHwmJzFshWMsduJWs8pump",
@@ -3250,6 +3299,7 @@
     "tbexi2NANoovGUyzNZEY8iJEAXwDgSDijuSLfAApump",
     "vbgZdiueZb4MSRJZ9UXYgo7MqjigQPZqjEMLu1Npump",
     "XnWFNovuvfPD5rx4KKceFq5Qr7YvdjHxH2brL4dpump",
-    "LN9S5ehVTUypi4zX6p795m3CMAfd9kCw2fPyih1Pf48"
+    "LN9S5ehVTUypi4zX6p795m3CMAfd9kCw2fPyih1Pf48",
+    "3LgZaLPdEbK8EdmXJEnZNqxR91g2kB5AAeka9tF9LSs6"
   ]
 }
