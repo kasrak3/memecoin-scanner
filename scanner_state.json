@@ -678,7 +678,12 @@
     "2c7AzoxqEF8o9wuTJwdGrhhbqEa32FtdRybEWaxEpump": {
       "symbol": "SHAREPAY",
       "created_at": "2026-09-27T12:29:48.609601435Z",
-      "first_seen": "2026-09-27T12:30:09.793779+00:00"
+      "first_seen": "2026-09-27T12:30:09.793779+00:00",
+      "confirm": {
+        "liquidity": 11539.14,
+        "market_cap": 21380,
+        "at": "2026-09-27T13:17:17.413189+00:00"
+      }
     },
     "EYMmwRnunYKBCMMxj6fDijTjhXQKDqcRfWNovwD3pump": {
       "symbol": "DOOYET",
@@ -1524,6 +1529,56 @@
       "symbol": "Games",
       "created_at": "2026-09-27T13:14:13.32531844Z",
       "first_seen": "2026-09-27T13:14:31.990372+00:00"
+    },
+    "A49CTCysYuqEy9ejDJxH7WJw9tVoGfWCU8HRjvRgTz8V": {
+      "symbol": "OWP",
+      "created_at": "2026-09-27T13:17:06.685173217Z",
+      "first_seen": "2026-09-27T13:17:17.412869+00:00"
+    },
+    "Eho8XRZQffnvRv1ArgztKRPMaiL5aFp6PLindZTSG6m3": {
+      "symbol": "OWP",
+      "created_at": "2026-09-27T13:17:06.02368995Z",
+      "first_seen": "2026-09-27T13:17:17.412869+00:00"
+    },
+    "GYgKUuKquPatNMrv2cka3q85zcyMvNUmgwSb5vE3wHzj": {
+      "symbol": "RCL",
+      "created_at": "2026-09-27T13:17:05.389242456Z",
+      "first_seen": "2026-09-27T13:17:17.412869+00:00"
+    },
+    "ECz35VDiWKf8krRa4dwnML8Lua4Ww4u1pm3eZJNLpump": {
+      "symbol": "INMATES",
+      "created_at": "2026-09-27T13:17:03.241346025Z",
+      "first_seen": "2026-09-27T13:17:17.412869+00:00"
+    },
+    "GeRLNYBvKjf2cG2HXAA2qTmMwSjsPFxveM4AhsA4kPAD": {
+      "symbol": "STRATUM",
+      "created_at": "2026-09-27T13:17:02.172777459Z",
+      "first_seen": "2026-09-27T13:17:17.412869+00:00"
+    },
+    "5TSuazGqKucty4ciKehKzy6TaxPvod7FFF3ekZLycUKL": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-09-27T13:17:01.249469508Z",
+      "first_seen": "2026-09-27T13:17:17.412869+00:00"
+    },
+    "2tgwQ6KNmTh8TVkk872j3wyXedmGjpswfgLTJpr26HdA": {
+      "symbol": "",
+      "created_at": "2026-09-27T13:16:56.499402155Z",
+      "first_seen": "2026-09-27T13:17:17.412869+00:00"
+    },
+    "FjJXhdN1hBDA3PHW6tumQ3q5J95b7tUwdpSCtd7Upump": {
+      "symbol": "SATINU",
+      "created_at": "2026-09-27T13:16:54.9456919Z",
+      "first_seen": "2026-09-27T13:17:17.412869+00:00"
+    },
+    "9ghKXRoett3dqZPVWZ7jTvxsdLQg7uXMaERHtjfLpump": {
+      "symbol": "PAUL",
+      "created_at": "2026-09-27T13:16:53.465816092Z",
+      "first_seen": "2026-09-27T13:17:17.412869+00:00"
+    },
+    "45L3ouLYgHnBjzcVodF1ogRhqq55o9Qa72oVgDn1pump": {
+      "symbol": "\ud809\udc2a",
+      "created_at": "2026-09-27T13:16:50.362354638Z",
+      "first_seen": "2026-09-27T13:17:17.412869+00:00"
     }
   },
   "alerted": [
