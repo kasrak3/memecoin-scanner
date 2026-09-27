@@ -1683,7 +1683,12 @@
     "3BrdzuCrF5mDyFDBc8se1odzNqnB85x2SHQvNaBxpump": {
       "symbol": "CTO",
       "created_at": "2026-09-27T18:28:35.490842372Z",
-      "first_seen": "2026-09-27T18:28:54.391550+00:00"
+      "first_seen": "2026-09-27T18:28:54.391550+00:00",
+      "confirm": {
+        "liquidity": 6055.71,
+        "market_cap": 7791,
+        "at": "2026-09-27T18:44:36.994517+00:00"
+      }
     },
     "7yYENdrMfWQudZXGbLaseqC4nFshfBP8GuvyKC1iDra1": {
       "symbol": "Buyside",
@@ -1793,11 +1798,6 @@
     "7yjDqM93E6THxfJDz7BpPGwZTjrCXAzYc5AkcXWFzQ8W": {
       "symbol": "",
       "created_at": "2026-09-27T18:33:50.304235075Z",
-      "first_seen": "2026-09-27T18:34:04.352136+00:00"
-    },
-    "8rq6zNTaF3XCtANQLYUiTL2F9idYsWYV93qXJBzdj7mc": {
-      "symbol": "HEISENBERG",
-      "created_at": "2026-09-27T18:33:49.699591161Z",
       "first_seen": "2026-09-27T18:34:04.352136+00:00"
     },
     "HKG2uXyvu8VECSnf3aytA2aeawBGS5AKzQMfrXVcpump": {
@@ -1959,6 +1959,56 @@
       "symbol": "m/acc",
       "created_at": "2026-09-27T18:41:44.534586007Z",
       "first_seen": "2026-09-27T18:41:58.057704+00:00"
+    },
+    "BpmDeFxXAfARokpjPSmJZAA5M48Qsy1j2RdWtUMgYASn": {
+      "symbol": "AMD",
+      "created_at": "2026-09-27T18:44:33.00697466Z",
+      "first_seen": "2026-09-27T18:44:36.994121+00:00"
+    },
+    "J1EM68NAZE1XhtA2MEAUrKNnMSv5YcEr5bf4cYcqKwrJ": {
+      "symbol": "MPN",
+      "created_at": "2026-09-27T18:44:32.453090014Z",
+      "first_seen": "2026-09-27T18:44:36.994121+00:00"
+    },
+    "6bAV41P3UfMgpt6B2WptvZRwZdffpyt9V11sufozmbaE": {
+      "symbol": "100x",
+      "created_at": "2026-09-27T18:44:30.317894501Z",
+      "first_seen": "2026-09-27T18:44:36.994121+00:00"
+    },
+    "7qAKVvyZoehusYYS6wUBXMphUpXGW5kzoEW37qBjboot": {
+      "symbol": "BOOTCAT",
+      "created_at": "2026-09-27T18:44:30.072257595Z",
+      "first_seen": "2026-09-27T18:44:36.994121+00:00"
+    },
+    "Dj8XTMeHn5XBvvMwMbBQ6c88U5efJBMJ4Azj48aPqS56": {
+      "symbol": "HI",
+      "created_at": "2026-09-27T18:44:29.229010673Z",
+      "first_seen": "2026-09-27T18:44:36.994121+00:00"
+    },
+    "32RudYGRGydAywhmYQQdGFCuvSs4Y1kgP6bvVUwCmCbp": {
+      "symbol": "Excatlibur",
+      "created_at": "2026-09-27T18:44:27.727952617Z",
+      "first_seen": "2026-09-27T18:44:36.994121+00:00"
+    },
+    "2hJC8f4AbDx9nGobPUojWNXnFCvJCoLU4mARCATnZhnJ": {
+      "symbol": "PAIDCAD",
+      "created_at": "2026-09-27T18:44:25.95294668Z",
+      "first_seen": "2026-09-27T18:44:36.994121+00:00"
+    },
+    "8q9K2dAuiVpFs7WN5DTA8zLCem2RqmQCGkWdnKgYpump": {
+      "symbol": "EARNCAT",
+      "created_at": "2026-09-27T18:44:22.139836285Z",
+      "first_seen": "2026-09-27T18:44:36.994121+00:00"
+    },
+    "FZUVSF4qCkQ56HZUJfrGaekjKV3DPaZkCvKeXaecpump": {
+      "symbol": "GPT",
+      "created_at": "2026-09-27T18:44:20.909968475Z",
+      "first_seen": "2026-09-27T18:44:36.994121+00:00"
+    },
+    "CtW7WuyXLsCiDe4r7UrP2C2hmjCyvxjLvmR4VJ4Eearn": {
+      "symbol": "TRUMP",
+      "created_at": "2026-09-27T18:44:18.735912298Z",
+      "first_seen": "2026-09-27T18:44:36.994121+00:00"
     }
   },
   "alerted": [
@@ -2297,7 +2347,6 @@
     "H69uJNb3XRGo3ApW193g221ndQeA6gyRhvLZqMfvpump"
   ],
   "rejected": [
-    "FD2SnNCE3oruoTBcraW2kfanL7KzNkJfNK2oPMjcF2fv",
     "3i4x3xgbTjL399pSbjWcHt8BRXYKpUj2gdhfp7rfZLcq",
     "6DyBEvdFXdqEgxUKejUuCF74X9nFYVkaYbvwLnE6kir8",
     "1BnH5Js4xkyP2k1gcEqwPajVwQGCfipyZ7kT1Qgpump",
@@ -4296,6 +4345,7 @@
     "4Sbqpaa1pvn7RibuKc6caNJ77tjcQC9WuxHRnzdSpump",
     "GBPGfwqC6uiU1SeSkohwp7JdL3pjPgu3rhBCZuNHwFG9",
     "DiUSDV1XfDAkyai14n9LGDpHUeJusQr2S5a4cURLtVJM",
-    "AGvPFxwuMMnVcP9AbxUach378yg43e599MPSbQCYCunw"
+    "AGvPFxwuMMnVcP9AbxUach378yg43e599MPSbQCYCunw",
+    "8rq6zNTaF3XCtANQLYUiTL2F9idYsWYV93qXJBzdj7mc"
   ]
 }
