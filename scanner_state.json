@@ -78,7 +78,12 @@
     "AvFcZhtaPMY3D8oVNrCTmvc8vQbBFV6QC36Kc9dFpump": {
       "symbol": "Basket",
       "created_at": "2026-09-28T13:46:52.226330436Z",
-      "first_seen": "2026-09-28T13:47:04.753251+00:00"
+      "first_seen": "2026-09-28T13:47:04.753251+00:00",
+      "confirm": {
+        "liquidity": 15393.28,
+        "market_cap": 36301,
+        "at": "2026-09-28T13:57:15.794528+00:00"
+      }
     },
     "EUQYGBdzrzos7fYMQ1pBQohYS1DcDmcgXRb5UsMcpump": {
       "symbol": "BYZIQOSOL",
@@ -299,6 +304,56 @@
       "symbol": "",
       "created_at": "2026-09-28T13:54:47.735040598Z",
       "first_seen": "2026-09-28T13:55:12.587749+00:00"
+    },
+    "2XiNHJWDQ1om7zDtQZt7qLc4kjRT6Qg3bRj7VdfVJFuf": {
+      "symbol": "RCL",
+      "created_at": "2026-09-28T13:57:13.400071662Z",
+      "first_seen": "2026-09-28T13:57:15.794223+00:00"
+    },
+    "2SuA1PcQq7fahvX1L1k2pWRAez8EcuJxaF5pE5wNnvPG": {
+      "symbol": "OWP",
+      "created_at": "2026-09-28T13:57:12.479970653Z",
+      "first_seen": "2026-09-28T13:57:15.794223+00:00"
+    },
+    "ALugdznRrxhAm4HwGCCE8Xad6cMTpgaVBhwCmC6zeg8t": {
+      "symbol": "RCL",
+      "created_at": "2026-09-28T13:57:12.340768829Z",
+      "first_seen": "2026-09-28T13:57:15.794223+00:00"
+    },
+    "9eQsbGDcc2wJz456Db8XCtQiYNhJ4XWUhAebuCZkfx7": {
+      "symbol": "TEST",
+      "created_at": "2026-09-28T13:57:12.267075472Z",
+      "first_seen": "2026-09-28T13:57:15.794223+00:00"
+    },
+    "DpfZsMsKovxgRE6W52Y5bBgDE69VGHaGGcBksfDUdoRf": {
+      "symbol": "",
+      "created_at": "2026-09-28T13:57:11.491948837Z",
+      "first_seen": "2026-09-28T13:57:15.794223+00:00"
+    },
+    "8WHdXLCjtSyPfrPxcbr67zdtCBsysiuSk5kBrHV2pump": {
+      "symbol": "Gentoo",
+      "created_at": "2026-09-28T13:57:10.788592681Z",
+      "first_seen": "2026-09-28T13:57:15.794223+00:00"
+    },
+    "4H9d6nSGSsc1JEtLckapjrgHivXRPcxKC4tgg7QrdwQt": {
+      "symbol": "test",
+      "created_at": "2026-09-28T13:57:10.194403303Z",
+      "first_seen": "2026-09-28T13:57:15.794223+00:00"
+    },
+    "CBXnC1RNuwbi8HtkSrFZdpiB8rLVxigXuC93UajJk6z3": {
+      "symbol": "KYC",
+      "created_at": "2026-09-28T13:57:05.139502532Z",
+      "first_seen": "2026-09-28T13:57:15.794223+00:00"
+    },
+    "8VH8XbJbcaogdr9yF8bB6LZzZ4i6jfAucTMQRWv9T6gj": {
+      "symbol": "Pygoscelis",
+      "created_at": "2026-09-28T13:57:04.706759322Z",
+      "first_seen": "2026-09-28T13:57:15.794223+00:00"
+    },
+    "GwDRTxPss9h1hxg3okRbG6kAAx1YoSFMkDGX2sdEHxRs": {
+      "symbol": "WIZ",
+      "created_at": "2026-09-28T13:57:04.431994527Z",
+      "first_seen": "2026-09-28T13:57:15.794223+00:00"
     }
   },
   "alerted": [
