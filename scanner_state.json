@@ -1010,11 +1010,6 @@
       "created_at": "2026-09-28T05:59:30.686719914Z",
       "first_seen": "2026-09-28T05:59:48.571927+00:00"
     },
-    "3jtzMfDZXqse1L9YdvfQjMtJ6Gwqczc77BfxUN29owBV": {
-      "symbol": "SWISH",
-      "created_at": "2026-09-28T05:59:29.685522023Z",
-      "first_seen": "2026-09-28T05:59:48.571927+00:00"
-    },
     "21VyQ5F6sPNegmdobx1N4EA1tEgMbrpCUPsyLAEJmoon": {
       "symbol": "Faisal",
       "created_at": "2026-09-28T05:59:29.542812028Z",
@@ -1169,6 +1164,56 @@
       "symbol": "accelerate",
       "created_at": "2026-09-28T06:07:17.316166777Z",
       "first_seen": "2026-09-28T06:07:40.502417+00:00"
+    },
+    "AwNk7GgQTem9uZ5WUcy91BuoxCoXo3it9LqzdZu7Nfj1": {
+      "symbol": "AXIS",
+      "created_at": "2026-09-28T06:10:16.578788841Z",
+      "first_seen": "2026-09-28T06:10:20.622375+00:00"
+    },
+    "Httb6tHpE8w4ikBt6fxFM1H6pZrVn7JNoV3DiimstM1q": {
+      "symbol": "AGI",
+      "created_at": "2026-09-28T06:10:16.238203785Z",
+      "first_seen": "2026-09-28T06:10:20.622375+00:00"
+    },
+    "BtL28NigKwq5pUX4v1WPwF1cDmmvaZURSdCbyKcyAzxT": {
+      "symbol": "",
+      "created_at": "2026-09-28T06:10:15.660753374Z",
+      "first_seen": "2026-09-28T06:10:20.622375+00:00"
+    },
+    "EKz3mFTAeARpgb5i7CLJRWyE46mn2PFkGapoq6QUYEnH": {
+      "symbol": "SAWADIKA",
+      "created_at": "2026-09-28T06:10:15.62683051Z",
+      "first_seen": "2026-09-28T06:10:20.622375+00:00"
+    },
+    "5XDuEK1mnfmYtwHbSbfeXir5iYMSpP1rcoLe86b3pump": {
+      "symbol": "c/acc",
+      "created_at": "2026-09-28T06:10:15.001048433Z",
+      "first_seen": "2026-09-28T06:10:20.622375+00:00"
+    },
+    "4wutEDgt19nZ9QNKS9k44CDcLQnxrjtKggxCbZPkyuXL": {
+      "symbol": "MORTGAGE",
+      "created_at": "2026-09-28T06:10:13.509849813Z",
+      "first_seen": "2026-09-28T06:10:20.622375+00:00"
+    },
+    "46qQdfUwe32wP6PFun3nAXp8utnK6iCSohfx6aJnapzL": {
+      "symbol": "MSI",
+      "created_at": "2026-09-28T06:10:13.499384057Z",
+      "first_seen": "2026-09-28T06:10:20.622375+00:00"
+    },
+    "DoDNFhyafD3vkasFZPpxAWcsso1YYyFRctHHW6CGWGL2": {
+      "symbol": "PSTONE",
+      "created_at": "2026-09-28T06:10:11.285004605Z",
+      "first_seen": "2026-09-28T06:10:20.622375+00:00"
+    },
+    "A4kxNRoX2UivJLeD6rmUT6dXbsTc24qPm2LC6axDpump": {
+      "symbol": "MSI",
+      "created_at": "2026-09-28T06:10:09.677641131Z",
+      "first_seen": "2026-09-28T06:10:20.622375+00:00"
+    },
+    "6G2nSRnENpnQtKXwqLDAjMZpNppFe49EkW7aqMqH9XmF": {
+      "symbol": "MPN",
+      "created_at": "2026-09-28T06:10:06.678429582Z",
+      "first_seen": "2026-09-28T06:10:20.622375+00:00"
     }
   },
   "alerted": [
@@ -1509,7 +1554,6 @@
     "BvnqdYwuFrvi9ds63EtwQLYME89ikJkULnJPAd83pump"
   ],
   "rejected": [
-    "DkDsTu1BWViRD5PTrRiGgEQNRMrmcWZt1FLENziQ1n2M",
     "Dt4YeznoDtwMfkrWBJiq9pYb9oEpEKqV1NniFTAmiUM6",
     "ueD5uxEfg3NJhR29UtHaPFmb5ucuzQozF2fHVPkpump",
     "DodZFswtNMVp86JAZAQrxKZ2Ey4ZSanMDyhk2fc46a2f",
@@ -3508,6 +3552,7 @@
     "THSE4yY8b7TdD6rVuNfabDdEj7xyCBDPpWeXa2Upump",
     "An239jNg2HeWF6rwBJH3JjauwX3DGVXoTUgigQ6J5L8G",
     "7XxibbLGq6iy7nXnUzaNHkP2sE6hsPgnSV1iYESjASLy",
-    "sMq1SzVQGZVdT6zT2cHedmo19tN7DiqQaDAywswpump"
+    "sMq1SzVQGZVdT6zT2cHedmo19tN7DiqQaDAywswpump",
+    "3jtzMfDZXqse1L9YdvfQjMtJ6Gwqczc77BfxUN29owBV"
   ]
 }
