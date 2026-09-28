@@ -1,55 +1,5 @@
 {
   "pending": {
-    "Cp4ghvh7xSt2UbRT3wuZjsjp6NRN2c9Be2ioXpt6anhu": {
-      "symbol": "",
-      "created_at": "2026-09-28T15:02:25.148911604Z",
-      "first_seen": "2026-09-28T15:02:34.778984+00:00"
-    },
-    "G1JtyBhKSUN89tFjSSTuk8g5Pmnc8GFtzGDTBNG5pump": {
-      "symbol": "SCRCAT",
-      "created_at": "2026-09-28T15:02:24.769146668Z",
-      "first_seen": "2026-09-28T15:02:34.778984+00:00"
-    },
-    "6AUGF7XzHQzvLERjAXYj4EGafycUFVqf1EgdnnjPQ58H": {
-      "symbol": "RAY",
-      "created_at": "2026-09-28T15:02:21.657747705Z",
-      "first_seen": "2026-09-28T15:02:34.778984+00:00"
-    },
-    "7Z5UKLMgnVhZAfRRSPP5hm1yQBBEWTZDdVTADpDLwNSF": {
-      "symbol": "80085",
-      "created_at": "2026-09-28T15:02:20.654947968Z",
-      "first_seen": "2026-09-28T15:02:34.778984+00:00"
-    },
-    "7kPCgBAStSoKuh68hQjPY5yE7WuGjHbp5RN3MVGAQnZB": {
-      "symbol": "ANTLAIR",
-      "created_at": "2026-09-28T15:02:20.387402348Z",
-      "first_seen": "2026-09-28T15:02:34.778984+00:00"
-    },
-    "ER7EPPYHsQtBKy3aa9t5L8kvjYSVCwrK2KYFFvjjsJRj": {
-      "symbol": "5",
-      "created_at": "2026-09-28T15:02:18.81847003Z",
-      "first_seen": "2026-09-28T15:02:34.778984+00:00"
-    },
-    "8AMWvqgeQVzdJ4TSGSguUeZdNmUu1puLcVTsSsU9pump": {
-      "symbol": "IYIPARTI",
-      "created_at": "2026-09-28T15:02:16.602846236Z",
-      "first_seen": "2026-09-28T15:02:34.778984+00:00"
-    },
-    "EDDuPMvPsTKQtH5n5DP71Qp1NbxDVzePaB2XG7A2CgoK": {
-      "symbol": "CMD",
-      "created_at": "2026-09-28T15:02:14.717644444Z",
-      "first_seen": "2026-09-28T15:02:34.778984+00:00"
-    },
-    "BQELk6R5N5nMJXNG3jHhjxcbA4LSGoHi9cQRt45npump": {
-      "symbol": "NIGHTCAT",
-      "created_at": "2026-09-28T15:02:14.630654038Z",
-      "first_seen": "2026-09-28T15:02:34.778984+00:00"
-    },
-    "HAazSU5deoEr3fshhLWLjXSS1E78ztnKiotqfJTmpump": {
-      "symbol": "MONEY",
-      "created_at": "2026-09-28T15:02:14.394252076Z",
-      "first_seen": "2026-09-28T15:02:34.778984+00:00"
-    },
     "DtqoTrKaJGUFbjZfhs7YEGvifogpnA2cxwMwpgxHpump": {
       "symbol": "SOOTS",
       "created_at": "2026-09-28T15:05:01.458774698Z",
@@ -1633,7 +1583,12 @@
     "7jjHtz8aGsz9H9KXidDcenJMhczMUi1FoECuHfsRpump": {
       "symbol": "Vikings",
       "created_at": "2026-09-28T16:28:09.038817978Z",
-      "first_seen": "2026-09-28T16:28:16.365113+00:00"
+      "first_seen": "2026-09-28T16:28:16.365113+00:00",
+      "confirm": {
+        "liquidity": 29192.51,
+        "market_cap": 114212,
+        "at": "2026-09-28T17:04:38.844667+00:00"
+      }
     },
     "7VPeDwAX73KaDdiWFc1dgG2Qca3EaFQn15ZWYWjkESnC": {
       "symbol": "BITx",
@@ -2319,6 +2274,56 @@
       "symbol": "FROINK",
       "created_at": "2026-09-28T17:01:39.117393178Z",
       "first_seen": "2026-09-28T17:01:59.909136+00:00"
+    },
+    "2rQXt9syrCKheKtE22RRiQHMZKuP2xXGBc8v9vmwR25m": {
+      "symbol": "Fern",
+      "created_at": "2026-09-28T17:04:32.142144403Z",
+      "first_seen": "2026-09-28T17:04:38.844341+00:00"
+    },
+    "gary38zVE46XfdTZHa7QRwQGdJ9axXaE3WYt5U5K2C3": {
+      "symbol": "GARY",
+      "created_at": "2026-09-28T17:04:31.784085952Z",
+      "first_seen": "2026-09-28T17:04:38.844341+00:00"
+    },
+    "EikiFoJajAb9F8u98JpmqdmNPAVvUnwWaoEmHKLhpump": {
+      "symbol": "Memes",
+      "created_at": "2026-09-28T17:04:28.96201615Z",
+      "first_seen": "2026-09-28T17:04:38.844341+00:00"
+    },
+    "AmH9zPcVV7kLwdhYPXKK7vfnQenku9RJ2HnGtxUQYD1p": {
+      "symbol": "MERTISTAN",
+      "created_at": "2026-09-28T17:04:27.20533596Z",
+      "first_seen": "2026-09-28T17:04:38.844341+00:00"
+    },
+    "CQrS4kcQ8VxhL8GHLdavwvqYKicYqWt7XpFn95NcyEM6": {
+      "symbol": "IROH",
+      "created_at": "2026-09-28T17:04:27.20293488Z",
+      "first_seen": "2026-09-28T17:04:38.844341+00:00"
+    },
+    "9a4rSbKdVwRJVKnBiCmi1183LtKghqWKvfUD8rvrpump": {
+      "symbol": "M00n",
+      "created_at": "2026-09-28T17:04:26.859040256Z",
+      "first_seen": "2026-09-28T17:04:38.844341+00:00"
+    },
+    "6z92xw4oCWRxo9ynBEfpu5ksxEHVMuYN5VK6Wj7Lpump": {
+      "symbol": "anoncoin",
+      "created_at": "2026-09-28T17:04:24.188067426Z",
+      "first_seen": "2026-09-28T17:04:38.844341+00:00"
+    },
+    "HprAmDLGEKeaUC2oPpMai5JfAcRQYxmnZXHihKGUm3CL": {
+      "symbol": "MERTISTAN",
+      "created_at": "2026-09-28T17:04:23.603251821Z",
+      "first_seen": "2026-09-28T17:04:38.844341+00:00"
+    },
+    "2X9yHDsDektDoEhnbSqGt5npMRAPZF7gn3pWSafmxZci": {
+      "symbol": "OWP",
+      "created_at": "2026-09-28T17:04:21.575874062Z",
+      "first_seen": "2026-09-28T17:04:38.844341+00:00"
+    },
+    "GdjF8iV7BncBvvDihvcWpuaNFZ72VgdFvd7AzEcypump": {
+      "symbol": "stardih",
+      "created_at": "2026-09-28T17:04:21.311537045Z",
+      "first_seen": "2026-09-28T17:04:38.844341+00:00"
     }
   },
   "alerted": [
