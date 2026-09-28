@@ -1,55 +1,5 @@
 {
   "pending": {
-    "9NwfRBSw2QC9m72BWGVrU4gH9Z9oGHCMzFeZZFEQFXnR": {
-      "symbol": "MPN",
-      "created_at": "2026-09-28T15:46:11.70991919Z",
-      "first_seen": "2026-09-28T15:46:18.998095+00:00"
-    },
-    "9TeRyS2WE3QWn3a7PvPEMyJ7o3jJQVATKTjpCypmEu5V": {
-      "symbol": "PONS",
-      "created_at": "2026-09-28T15:46:11.337976279Z",
-      "first_seen": "2026-09-28T15:46:18.998095+00:00"
-    },
-    "Dkw3qGFjm6TqeWa9GmobCs99vKEMYk8yHBz31mfmVEW2": {
-      "symbol": "PONS",
-      "created_at": "2026-09-28T15:46:09.973907392Z",
-      "first_seen": "2026-09-28T15:46:18.998095+00:00"
-    },
-    "3Q2YTDYaifhRqeUyvdXACGYTZ1hyBZwAdTVvifGJMK2k": {
-      "symbol": "INU",
-      "created_at": "2026-09-28T15:46:09.591383345Z",
-      "first_seen": "2026-09-28T15:46:18.998095+00:00"
-    },
-    "HoViAZC2aZjdwZLNxLJXwxiTM3SqkNZNqvUTMrk3STNK": {
-      "symbol": "OpenShell",
-      "created_at": "2026-09-28T15:46:07.642950138Z",
-      "first_seen": "2026-09-28T15:46:18.998095+00:00"
-    },
-    "4CTa8GPy8Gx1LXB4o1QD49iky1D3drQpfuTrgiBXpump": {
-      "symbol": "Cracked",
-      "created_at": "2026-09-28T15:46:06.071849815Z",
-      "first_seen": "2026-09-28T15:46:18.998095+00:00"
-    },
-    "HfW7vwdBFaNYySQ68k2rGR89LuT125PmNxcUk7Jfecmd": {
-      "symbol": "OWP",
-      "created_at": "2026-09-28T15:46:03.068543712Z",
-      "first_seen": "2026-09-28T15:46:18.998095+00:00"
-    },
-    "W3fCWKcSoWJvSiX1qSqet62ENit3nsJoTxiKkE3BAGS": {
-      "symbol": "OPENCLAW",
-      "created_at": "2026-09-28T15:46:01.918275203Z",
-      "first_seen": "2026-09-28T15:46:18.998095+00:00"
-    },
-    "HF6ECJdWhZSVLUc9JvUDHC21jhM9c5S73WQwut7ypump": {
-      "symbol": "SATINU",
-      "created_at": "2026-09-28T15:45:59.688223021Z",
-      "first_seen": "2026-09-28T15:46:18.998095+00:00"
-    },
-    "4uAuYkjKQGtxJkK6qkg7LLtCKzvQzZacduvEVzWspump": {
-      "symbol": "Flight 14",
-      "created_at": "2026-09-28T15:45:52.763880506Z",
-      "first_seen": "2026-09-28T15:46:18.998095+00:00"
-    },
     "F979xHmsZ2DXnLLyJLBY1NUHwKY5xxmPkdZHjLv6pump": {
       "symbol": "att",
       "created_at": "2026-09-28T15:48:53.174233168Z",
@@ -1718,7 +1668,12 @@
     "D2SvPS62muUEfCSbgY1kxUAJn7Srrx6QQHZ6hE3uyYDv": {
       "symbol": "CoD:MW4",
       "created_at": "2026-09-28T17:17:28.027643603Z",
-      "first_seen": "2026-09-28T17:17:35.362060+00:00"
+      "first_seen": "2026-09-28T17:17:35.362060+00:00",
+      "confirm": {
+        "liquidity": 25386.79,
+        "market_cap": 88972,
+        "at": "2026-09-28T17:48:40.972138+00:00"
+      }
     },
     "5QjHoMwQYTrfkjbRguDVGMegN6RRQHw4peNbFBPspump": {
       "symbol": "FDXX",
@@ -2309,6 +2264,56 @@
       "symbol": "CPAD",
       "created_at": "2026-09-28T17:45:50.16885661Z",
       "first_seen": "2026-09-28T17:46:09.628733+00:00"
+    },
+    "Em91pxiivLU78B8Am6uFcNZDUX7bTQ2WYtUPiMvMY7Ro": {
+      "symbol": "TEST",
+      "created_at": "2026-09-28T17:48:32.646483161Z",
+      "first_seen": "2026-09-28T17:48:40.971771+00:00"
+    },
+    "AF8jmRLAX1bu1rhjeZDdqo9CMiZfrAqergjwPkPPRjUi": {
+      "symbol": "GOMO",
+      "created_at": "2026-09-28T17:48:31.775736649Z",
+      "first_seen": "2026-09-28T17:48:40.971771+00:00"
+    },
+    "Hsx8urjvHUbe9k1u1KbPeJoCWpYhtMkKbjPWYHhyTVZ4": {
+      "symbol": "OWP",
+      "created_at": "2026-09-28T17:48:31.463122137Z",
+      "first_seen": "2026-09-28T17:48:40.971771+00:00"
+    },
+    "H5fta4kpRVbzceszC9hGEXaztngNA5RkekuVJ7UbuDyL": {
+      "symbol": "OWP",
+      "created_at": "2026-09-28T17:48:31.423362583Z",
+      "first_seen": "2026-09-28T17:48:40.971771+00:00"
+    },
+    "Bab3YRSmvKzmjLLnmrARRtnhDkqCbDyAcskYwWXAGE8N": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-09-28T17:48:31.373048143Z",
+      "first_seen": "2026-09-28T17:48:40.971771+00:00"
+    },
+    "2BYhpWakeU7hKhQ5dcL5emVmL6mLxiGQDJmCLcucdvUc": {
+      "symbol": "SORACLE",
+      "created_at": "2026-09-28T17:48:31.288671197Z",
+      "first_seen": "2026-09-28T17:48:40.971771+00:00"
+    },
+    "3xMMWVZCHvhBMdbZk9DKZrzNikAZKxSB1Qk2dgBrBspm": {
+      "symbol": "MPN",
+      "created_at": "2026-09-28T17:48:31.272550401Z",
+      "first_seen": "2026-09-28T17:48:40.971771+00:00"
+    },
+    "BaR881pDMCGafgon3CaToPvrM5DsJ9Bq24LF5qtZUE2M": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-09-28T17:48:31.232210857Z",
+      "first_seen": "2026-09-28T17:48:40.971771+00:00"
+    },
+    "2q8hGFeFTxYua9ARZfL9EknBhSdJbkBN9noeD9TNRt7Y": {
+      "symbol": "MPN",
+      "created_at": "2026-09-28T17:48:31.200288575Z",
+      "first_seen": "2026-09-28T17:48:40.971771+00:00"
+    },
+    "CAuAKfxa5rCCBxHTiS8bWVZNd8hhGZxAV6EKFGBTAZuY": {
+      "symbol": "OWP",
+      "created_at": "2026-09-28T17:48:30.696912656Z",
+      "first_seen": "2026-09-28T17:48:40.971771+00:00"
     }
   },
   "alerted": [
