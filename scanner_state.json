@@ -75,16 +75,6 @@
       "created_at": "2026-09-28T13:46:52.51239063Z",
       "first_seen": "2026-09-28T13:47:04.753251+00:00"
     },
-    "AvFcZhtaPMY3D8oVNrCTmvc8vQbBFV6QC36Kc9dFpump": {
-      "symbol": "Basket",
-      "created_at": "2026-09-28T13:46:52.226330436Z",
-      "first_seen": "2026-09-28T13:47:04.753251+00:00",
-      "confirm": {
-        "liquidity": 15393.28,
-        "market_cap": 36301,
-        "at": "2026-09-28T13:57:15.794528+00:00"
-      }
-    },
     "EUQYGBdzrzos7fYMQ1pBQohYS1DcDmcgXRb5UsMcpump": {
       "symbol": "BYZIQOSOL",
       "created_at": "2026-09-28T13:46:52.104912858Z",
@@ -354,6 +344,56 @@
       "symbol": "WIZ",
       "created_at": "2026-09-28T13:57:04.431994527Z",
       "first_seen": "2026-09-28T13:57:15.794223+00:00"
+    },
+    "G11dS5v4iVxiMWGpA1cH1k1qag1FEMvZ6xpRFQWr1QQm": {
+      "symbol": "",
+      "created_at": "2026-09-28T13:59:14.877961315Z",
+      "first_seen": "2026-09-28T13:59:19.293822+00:00"
+    },
+    "A7r5bmgUAjvu8URDKSzfF25jbJRuVd7H341YmCwSh2bA": {
+      "symbol": "MPN",
+      "created_at": "2026-09-28T13:59:14.796930346Z",
+      "first_seen": "2026-09-28T13:59:19.293822+00:00"
+    },
+    "DFv7vJqS5DAcEzR4GJUSBH6g9ZLpYiSizgjt5UTyCTec": {
+      "symbol": "Nokia",
+      "created_at": "2026-09-28T13:59:13.91610299Z",
+      "first_seen": "2026-09-28T13:59:19.293822+00:00"
+    },
+    "9o8sF5c9cbX247am9wg3qEdhyhSrKqzFtCrFf5UfqEwH": {
+      "symbol": "DEG",
+      "created_at": "2026-09-28T13:59:13.806871029Z",
+      "first_seen": "2026-09-28T13:59:19.293822+00:00"
+    },
+    "CjqnumZkcpZbD8vQxQuUFdNq1AsrRu5bMuVxwrWrRRPw": {
+      "symbol": "MPN",
+      "created_at": "2026-09-28T13:59:12.820179673Z",
+      "first_seen": "2026-09-28T13:59:19.293822+00:00"
+    },
+    "8jqo6p5crB712zH4t6LG1U5hjdZdz4RwXVmVjx6HBe4S": {
+      "symbol": "Prionailurus",
+      "created_at": "2026-09-28T13:59:10.644202932Z",
+      "first_seen": "2026-09-28T13:59:19.293822+00:00"
+    },
+    "6kbtdumhntghKzmBbQJxWcNWk6AnckEsM3vowyNspump": {
+      "symbol": "Yooo",
+      "created_at": "2026-09-28T13:59:07.204314989Z",
+      "first_seen": "2026-09-28T13:59:19.293822+00:00"
+    },
+    "9hmbjZ7VzbNAvq5WeGXxKXKX7cV5MWp3epcSYrCv9mMf": {
+      "symbol": "MPN",
+      "created_at": "2026-09-28T13:59:06.00772293Z",
+      "first_seen": "2026-09-28T13:59:19.293822+00:00"
+    },
+    "GuxxuP3geVJJF3m9gNUW92tGyVE7vehq5hcXuizEpump": {
+      "symbol": "Cradle Ai",
+      "created_at": "2026-09-28T13:59:05.259020507Z",
+      "first_seen": "2026-09-28T13:59:19.293822+00:00"
+    },
+    "CKX9v3f45Xx1FvYhuSrqHes1x4YKcN1V3mNnEm5Cpump": {
+      "symbol": "$AIBRO",
+      "created_at": "2026-09-28T13:59:04.417702179Z",
+      "first_seen": "2026-09-28T13:59:19.293822+00:00"
     }
   },
   "alerted": [
@@ -693,7 +733,8 @@
     "B1R8KSPoHA4jvy3wXPAYBPU1pVs5iMuecoB5JqLYSAtT",
     "BvnqdYwuFrvi9ds63EtwQLYME89ikJkULnJPAd83pump",
     "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump",
-    "FSJPGs5c8FYv17T2ncUoNPTSe6Gh2FbafddvmVF3pump"
+    "FSJPGs5c8FYv17T2ncUoNPTSe6Gh2FbafddvmVF3pump",
+    "AvFcZhtaPMY3D8oVNrCTmvc8vQbBFV6QC36Kc9dFpump"
   ],
   "rejected": [
     "BaEPj9EEDYCEzVKVJQSwSibh2sMhJiycoBgrYByr8EEw",
