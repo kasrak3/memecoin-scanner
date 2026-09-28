@@ -1500,11 +1500,6 @@
       "created_at": "2026-09-28T14:52:34.729615893Z",
       "first_seen": "2026-09-28T14:52:42.577593+00:00"
     },
-    "CmifCkjEupob6iXpLwdRcKmuaLxmNfYF5aXPdMdhWSyZ": {
-      "symbol": "Betty",
-      "created_at": "2026-09-28T14:52:34.657793032Z",
-      "first_seen": "2026-09-28T14:52:42.577593+00:00"
-    },
     "144asWUwDgVSpZB5GeRM85WW32y9f3PkEPQ7wbCjpump": {
       "symbol": "KIN",
       "created_at": "2026-09-28T14:52:33.188328471Z",
@@ -1613,7 +1608,12 @@
     "gSFEMobwJozGbDahwATDtBiyXV9VNxCJgiT4kG6pump": {
       "symbol": "HOLDFAST",
       "created_at": "2026-09-28T14:57:19.782212832Z",
-      "first_seen": "2026-09-28T14:57:34.817058+00:00"
+      "first_seen": "2026-09-28T14:57:34.817058+00:00",
+      "confirm": {
+        "liquidity": 12218.44,
+        "market_cap": 24551,
+        "at": "2026-09-28T15:12:40.472621+00:00"
+      }
     },
     "6S6T2ez7tF7VsyEJe2xx1Sn3BzizBFrSAWN5wVKzpump": {
       "symbol": "Benny",
@@ -1894,6 +1894,56 @@
       "symbol": "Count",
       "created_at": "2026-09-28T15:09:44.518945194Z",
       "first_seen": "2026-09-28T15:10:04.105358+00:00"
+    },
+    "5UHH7yapJttpjydzpipN7zwf1pTBpKy5VPVRawTjpump": {
+      "symbol": "FANTASYCAT",
+      "created_at": "2026-09-28T15:12:36.261764511Z",
+      "first_seen": "2026-09-28T15:12:40.472327+00:00"
+    },
+    "3GBGeBKB4MHLQDXKy8Gpb4rjwSgK6mKWjL63gz6apump": {
+      "symbol": "MONEY",
+      "created_at": "2026-09-28T15:12:36.155627972Z",
+      "first_seen": "2026-09-28T15:12:40.472327+00:00"
+    },
+    "ycjAR4N2snbX4rheX7KXYSHKEoNZTwDnwWonbRoq9rd": {
+      "symbol": "Ban Coin",
+      "created_at": "2026-09-28T15:12:32.427998644Z",
+      "first_seen": "2026-09-28T15:12:40.472327+00:00"
+    },
+    "59RvFYQbPZYtkkgjSJoo9DLzVY75jwfx22mAf1mgpump": {
+      "symbol": "$PAWSTRA",
+      "created_at": "2026-09-28T15:12:31.231104764Z",
+      "first_seen": "2026-09-28T15:12:40.472327+00:00"
+    },
+    "xmx2693iwsUW4SVszhLHgpHDXJpheJWPvxNRhgdpump": {
+      "symbol": "e/stag",
+      "created_at": "2026-09-28T15:12:31.145985126Z",
+      "first_seen": "2026-09-28T15:12:40.472327+00:00"
+    },
+    "5ha3ZK6z6AeX4DXmpxcDDYQAddaugc4Q6zKVRrxTpump": {
+      "symbol": "BOOBLESS",
+      "created_at": "2026-09-28T15:12:30.620222321Z",
+      "first_seen": "2026-09-28T15:12:40.472327+00:00"
+    },
+    "BCA6BwYatJJ17Esq17MYjtNJtbE3Xw2pfNK51qkfpump": {
+      "symbol": "HDL",
+      "created_at": "2026-09-28T15:12:30.186958138Z",
+      "first_seen": "2026-09-28T15:12:40.472327+00:00"
+    },
+    "iGEQTLxcRtMosdSM1KLg1j8hq8CBfftTr6R4tzhpump": {
+      "symbol": "MrBeast",
+      "created_at": "2026-09-28T15:12:29.562016903Z",
+      "first_seen": "2026-09-28T15:12:40.472327+00:00"
+    },
+    "75CPUxnnkrDzqFhGuvphLTnNBtM6N9oLxGihVGbNpump": {
+      "symbol": "AI",
+      "created_at": "2026-09-28T15:12:29.192350429Z",
+      "first_seen": "2026-09-28T15:12:40.472327+00:00"
+    },
+    "AydRfNVhSYs9RfCcy36LwgTzhqJRyPJScV2QLgGUxMMF": {
+      "symbol": "TRUMP",
+      "created_at": "2026-09-28T15:12:28.707180637Z",
+      "first_seen": "2026-09-28T15:12:40.472327+00:00"
     }
   },
   "alerted": [
@@ -2237,7 +2287,6 @@
     "AvFcZhtaPMY3D8oVNrCTmvc8vQbBFV6QC36Kc9dFpump"
   ],
   "rejected": [
-    "4sQkmD6bTLUiPac7QyyycraMV6yhUpFg8ghHQv79sbeS",
     "gy6ZPYougUNUEWep1FBAYsaZEthq2vmZ4GsJUL9pump",
     "VDz25iUkr6YXMZnYht3Zsy7fPqz1Pt28zBSzg6gpump",
     "KG3LaWjahGhEthsu9vkbimzEnN5cSJ94Z7iCWCxpump",
@@ -4236,6 +4285,7 @@
     "9CaZJ9T31Fgb8yuTewRuak5ZqGRu7t7Rbp3bD9n5ozUb",
     "FgZaCHgdHqzXEnVdnZyKCN7MXsdqR9Rw18zgudFVj4ci",
     "2XC7LhZcAtBjcvYjhYWdzrr1twYS5e13bkhq4k2dNbn4",
-    "BpLtWGsc6ofL4Z7mFj95cnCSxf6q4Nf6nF8TwjnozUnx"
+    "BpLtWGsc6ofL4Z7mFj95cnCSxf6q4Nf6nF8TwjnozUnx",
+    "CmifCkjEupob6iXpLwdRcKmuaLxmNfYF5aXPdMdhWSyZ"
   ]
 }
