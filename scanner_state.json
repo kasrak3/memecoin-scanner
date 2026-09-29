@@ -1070,11 +1070,6 @@
       "created_at": "2026-09-29T13:32:42.975701287Z",
       "first_seen": "2026-09-29T13:32:51.042244+00:00"
     },
-    "GY3NQLxvykPz38x7XSAgHM6HmSqSSGmZ55JUJJoUut73": {
-      "symbol": "THUMB",
-      "created_at": "2026-09-29T13:32:42.968324964Z",
-      "first_seen": "2026-09-29T13:32:51.042244+00:00"
-    },
     "GEqQq7q639z7tb9meq8EtyFcrErBXEtohbqCEwQwQjjK": {
       "symbol": "",
       "created_at": "2026-09-29T13:32:42.054964629Z",
@@ -1314,6 +1309,56 @@
       "symbol": "COCKROACH",
       "created_at": "2026-09-29T13:42:00.746941113Z",
       "first_seen": "2026-09-29T13:42:14.117282+00:00"
+    },
+    "A7z4nMjokaRy61efxu9MWuDeMjmXySN8pMH8J5Kipump": {
+      "symbol": "COCKROACH",
+      "created_at": "2026-09-29T13:44:31.890812233Z",
+      "first_seen": "2026-09-29T13:44:36.590897+00:00"
+    },
+    "9CzQ7KooH2GoQnTNfhcp9aWKFqV5bBPSieocSC74pump": {
+      "symbol": "cmfCoin",
+      "created_at": "2026-09-29T13:44:31.84232492Z",
+      "first_seen": "2026-09-29T13:44:36.590897+00:00"
+    },
+    "91ybYtnE1TYg1kiYzzEbcFm72AcizeMQEU5o2g7spump": {
+      "symbol": "LORIAN",
+      "created_at": "2026-09-29T13:44:31.564139766Z",
+      "first_seen": "2026-09-29T13:44:36.590897+00:00"
+    },
+    "9C3EKFDnTohTpFUCQQNx2UnK2dBbeUJbi8TjfPbjpump": {
+      "symbol": "COCKROACH",
+      "created_at": "2026-09-29T13:44:28.707205868Z",
+      "first_seen": "2026-09-29T13:44:36.590897+00:00"
+    },
+    "FA6egTPpt8hBjAq5LzEBx1ooEt4wRQFJiw4sf5Q7jrJU": {
+      "symbol": "",
+      "created_at": "2026-09-29T13:44:28.429460958Z",
+      "first_seen": "2026-09-29T13:44:36.590897+00:00"
+    },
+    "JDg4THR2SrR8W1KXyhVcHtHZjGBpPfMZbt1WigtJpump": {
+      "symbol": "COCKROACH",
+      "created_at": "2026-09-29T13:44:28.374769987Z",
+      "first_seen": "2026-09-29T13:44:36.590897+00:00"
+    },
+    "9t7ubcmM1XpGRpjouXMr2ZMjNuseBEWbb4aJ8SX6pump": {
+      "symbol": "COCKROACH",
+      "created_at": "2026-09-29T13:44:28.373381378Z",
+      "first_seen": "2026-09-29T13:44:36.590897+00:00"
+    },
+    "EjTw7nsKq8voRecWD8tjDPQ9zH8VFioNxYsvxukGpump": {
+      "symbol": "COCKROACH",
+      "created_at": "2026-09-29T13:44:28.361294889Z",
+      "first_seen": "2026-09-29T13:44:36.590897+00:00"
+    },
+    "8rVEdLTKEWUM8rfo55QkToCPRU5m9vsVCv8zLP55pump": {
+      "symbol": "test",
+      "created_at": "2026-09-29T13:44:25.84872124Z",
+      "first_seen": "2026-09-29T13:44:36.590897+00:00"
+    },
+    "6f7PMdXgymDwUxURttjFkR9AfGKoM7kdSVkuhkVXxC4X": {
+      "symbol": "",
+      "created_at": "2026-09-29T13:44:25.531780936Z",
+      "first_seen": "2026-09-29T13:44:36.590897+00:00"
     }
   },
   "alerted": [
@@ -1666,7 +1711,6 @@
     "3kWATYWZcHiZ948oKKu6AMQXjicD2kz8ziGNH8Rupump"
   ],
   "rejected": [
-    "DKFRMKrkJnRpFgnRRNoHuNtHDaBhN8sFTuEEmHEQ25sM",
     "CXPDRUXTwffsdqbn5gUUwWg6pk1GhGjHubs7KsSC55t6",
     "Evk1BwPkBBhRMHchDET9ejjvYaKnGyTjPZirXdDo3Lb6",
     "FfHxdBBxKmCZpfVAQKuVMwzJ8dVM5EQixevhbzYSxQCh",
@@ -3665,6 +3709,7 @@
     "GBdZbXDa7p2PM6UdzVDhow9Wq8twcKkbi4p6HJyKjys",
     "cNbENeAaB9CTHzZNWdwaUqrKAeeQXFzzGeKWT4epump",
     "4beib1GvtJCkWik18sEfQSy51dpUU5oAW6T4xcz6Scu2",
-    "J9WttU7UnvndNjofsbeh5UAC9U5KZ9fhfU1FCt9ZvCL7"
+    "J9WttU7UnvndNjofsbeh5UAC9U5KZ9fhfU1FCt9ZvCL7",
+    "GY3NQLxvykPz38x7XSAgHM6HmSqSSGmZ55JUJJoUut73"
   ]
 }
