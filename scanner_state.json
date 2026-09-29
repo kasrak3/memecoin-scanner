@@ -1543,7 +1543,12 @@
     "7BZK1gM5sW4epGypAR3z7acdH2ARvSJpDMgrJSMBpump": {
       "symbol": "BUNTRUMP",
       "created_at": "2026-09-29T00:23:07.233491443Z",
-      "first_seen": "2026-09-29T00:23:19.838070+00:00"
+      "first_seen": "2026-09-29T00:23:19.838070+00:00",
+      "confirm": {
+        "liquidity": 31995.98,
+        "market_cap": 125266,
+        "at": "2026-09-29T00:33:32.547248+00:00"
+      }
     },
     "B837nrJ1YhqvA7QTTsLhkZZtZg9geUokMuHF8SHypump": {
       "symbol": "$LA BEAST",
@@ -1724,6 +1729,56 @@
       "symbol": "ANTHROPIG",
       "created_at": "2026-09-29T00:30:31.414642651Z",
       "first_seen": "2026-09-29T00:30:56.305616+00:00"
+    },
+    "BTsYxbSrvBkVsiiX543zukpA9gNQ9ySMU3Lbgyi9jupx": {
+      "symbol": "EQUIPCAT",
+      "created_at": "2026-09-29T00:33:29.561797974Z",
+      "first_seen": "2026-09-29T00:33:32.546903+00:00"
+    },
+    "BCAV2FEqyem9YdaJHKFyeRSQr1bDxgevhfFHWZ9ppump": {
+      "symbol": "Murphy",
+      "created_at": "2026-09-29T00:33:28.477790942Z",
+      "first_seen": "2026-09-29T00:33:32.546903+00:00"
+    },
+    "FbUhW7R3HrP3REzP1phs7F91VQvtQ11tMMXcsy2mhA1k": {
+      "symbol": "",
+      "created_at": "2026-09-29T00:33:26.980437261Z",
+      "first_seen": "2026-09-29T00:33:32.546903+00:00"
+    },
+    "Dc7QCxjnQ4CmGCEPJxNXXW7XqtmCG2FZMVjg1bhFpump": {
+      "symbol": "WaidyBtw",
+      "created_at": "2026-09-29T00:33:19.211650872Z",
+      "first_seen": "2026-09-29T00:33:32.546903+00:00"
+    },
+    "9Sorsrf1uwyNFFyr68fz77iwX5YpgXQT7DJaz5M7pump": {
+      "symbol": "PERRO",
+      "created_at": "2026-09-29T00:33:13.74562267Z",
+      "first_seen": "2026-09-29T00:33:32.546903+00:00"
+    },
+    "2GW3zeeJqSpK3y6ahx5wcX845TcG6XRNTPDGMvSsZPah": {
+      "symbol": "SICAT",
+      "created_at": "2026-09-29T00:33:12.719072093Z",
+      "first_seen": "2026-09-29T00:33:32.546903+00:00"
+    },
+    "75dqsJhgmv3tGCnbp9ga2LzVJAECLqWJLyYRM7Qipump": {
+      "symbol": "FIAT",
+      "created_at": "2026-09-29T00:33:07.657678178Z",
+      "first_seen": "2026-09-29T00:33:32.546903+00:00"
+    },
+    "1fRVDg4E8vUPBpAW32rc8HYaq6NneY7XZZ6SREHpump": {
+      "symbol": "NTDA",
+      "created_at": "2026-09-29T00:33:07.577567092Z",
+      "first_seen": "2026-09-29T00:33:32.546903+00:00"
+    },
+    "5nVoE9XDEsx8GZM3hX95wKeQNjbeAhxrcNGWKjXfpump": {
+      "symbol": "FAF",
+      "created_at": "2026-09-29T00:33:03.382094069Z",
+      "first_seen": "2026-09-29T00:33:32.546903+00:00"
+    },
+    "GGhNnEadaAs6CG9M8mBLrBbj8VYCLq16wHh9FsCNJQ8s": {
+      "symbol": "TRASH",
+      "created_at": "2026-09-29T00:33:02.652533802Z",
+      "first_seen": "2026-09-29T00:33:32.546903+00:00"
     }
   },
   "alerted": [
