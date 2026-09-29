@@ -450,16 +450,6 @@
       "created_at": "2026-09-29T22:28:56.818139829Z",
       "first_seen": "2026-09-29T22:29:04.721355+00:00"
     },
-    "AoJUHgDTYAFVQbUDsk7SJWh9gajG28UJKjNN8DGfpump": {
-      "symbol": "MYCOIN",
-      "created_at": "2026-09-29T22:28:55.860632736Z",
-      "first_seen": "2026-09-29T22:29:04.721355+00:00",
-      "confirm": {
-        "liquidity": 18036.49,
-        "market_cap": 48346,
-        "at": "2026-09-29T22:54:07.267409+00:00"
-      }
-    },
     "DXR1VnSMcvMR1cUyXaPkK6Hvs7zyo2K7T8PjbSL5S1WA": {
       "symbol": "",
       "created_at": "2026-09-29T22:28:54.820867576Z",
@@ -719,16 +709,6 @@
       "symbol": "FWEE",
       "created_at": "2026-09-29T22:42:16.13141624Z",
       "first_seen": "2026-09-29T22:42:24.013283+00:00"
-    },
-    "7rRNjSyx4vAcAY3KcFkrrmZpmhnmpBRYodr1TwcUpump": {
-      "symbol": "SC",
-      "created_at": "2026-09-29T22:42:14.866339442Z",
-      "first_seen": "2026-09-29T22:42:24.013283+00:00",
-      "confirm": {
-        "liquidity": 32772.83,
-        "market_cap": 141669,
-        "at": "2026-09-29T22:54:07.267409+00:00"
-      }
     },
     "28ucrp6JZqGDnHRMX5fTEuwAewVWrptXjgucBeBDpump": {
       "symbol": "FreakTrade",
@@ -1019,6 +999,56 @@
       "symbol": "Dog Think",
       "created_at": "2026-09-29T22:53:56.466369799Z",
       "first_seen": "2026-09-29T22:54:07.267217+00:00"
+    },
+    "J99ptuNb7Z16VDB8gT9wq8W7vigAZFp1pSCQZwUnHUJd": {
+      "symbol": "ROBINHOOD",
+      "created_at": "2026-09-29T22:56:25.83343251Z",
+      "first_seen": "2026-09-29T22:56:31.638384+00:00"
+    },
+    "7cJMK7mQjNctpkoTfoDmJXbYeWZiE23ADbadcf72pump": {
+      "symbol": "SIC",
+      "created_at": "2026-09-29T22:56:24.709291307Z",
+      "first_seen": "2026-09-29T22:56:31.638384+00:00"
+    },
+    "CT9uwHQvFxcdSJA6q5e9v5gCrgq7GBi4PcRWWSvRpump": {
+      "symbol": "DICE",
+      "created_at": "2026-09-29T22:56:23.32887215Z",
+      "first_seen": "2026-09-29T22:56:31.638384+00:00"
+    },
+    "CzKv83AH7gEGhpevj2NfELyXNcqBH4gYD18LPZM2pump": {
+      "symbol": "NUGS",
+      "created_at": "2026-09-29T22:56:22.140712423Z",
+      "first_seen": "2026-09-29T22:56:31.638384+00:00"
+    },
+    "EvCZDNp9vd7Fn9ryiGL2LWEPm1gSY8cXZyRTbW345DTt": {
+      "symbol": "ELONMUSK",
+      "created_at": "2026-09-29T22:56:21.193582468Z",
+      "first_seen": "2026-09-29T22:56:31.638384+00:00"
+    },
+    "3kR43CKNJ3FpbzoW3pixZuTDd26K9BjpH7RYHy7rBAGS": {
+      "symbol": "WATCHCOIN",
+      "created_at": "2026-09-29T22:56:21.058761036Z",
+      "first_seen": "2026-09-29T22:56:31.638384+00:00"
+    },
+    "9fonGqQ7hW8Sn9uvK7j6f9fqdAWwGEkU5yq1PRcSRp1V": {
+      "symbol": "ELONMUSK",
+      "created_at": "2026-09-29T22:56:20.976225872Z",
+      "first_seen": "2026-09-29T22:56:31.638384+00:00"
+    },
+    "AxZ1UuvFdWznaSJV5SwMnjmyzoMHcRi27bKCEDuvJ5ed": {
+      "symbol": "ELONMUSK",
+      "created_at": "2026-09-29T22:56:20.961102867Z",
+      "first_seen": "2026-09-29T22:56:31.638384+00:00"
+    },
+    "CXi9xmob3M4u9NQ7ejXnzYXuHSoDjjJVonZF1tR9pump": {
+      "symbol": "JACC",
+      "created_at": "2026-09-29T22:56:20.90890223Z",
+      "first_seen": "2026-09-29T22:56:31.638384+00:00"
+    },
+    "BFBPhYzGx3EEApjQtzCtXcnLTJ8fEoXuwvotTaZKftyD": {
+      "symbol": "ELONMUSK",
+      "created_at": "2026-09-29T22:56:20.908323644Z",
+      "first_seen": "2026-09-29T22:56:31.638384+00:00"
     }
   },
   "alerted": [
@@ -1371,7 +1401,9 @@
     "3kWATYWZcHiZ948oKKu6AMQXjicD2kz8ziGNH8Rupump",
     "C2YdnuDjX1GF79j6Wyaaz4gZ6DXDELwQwbpocrfApump",
     "3P9fUkuooZGa1ygJtkq3jqQRFNknoULFgQYMpmnFsYND",
-    "BYaxkgDfkUApMgsXu4SiJ5yc6DTSfLxp6an3PvVVpump"
+    "BYaxkgDfkUApMgsXu4SiJ5yc6DTSfLxp6an3PvVVpump",
+    "AoJUHgDTYAFVQbUDsk7SJWh9gajG28UJKjNN8DGfpump",
+    "7rRNjSyx4vAcAY3KcFkrrmZpmhnmpBRYodr1TwcUpump"
   ],
   "rejected": [
     "5eWBXgRExQDzYq8mL7ZKhS6SH3tYACTZekgt92a9Kxrw",
