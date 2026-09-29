@@ -1390,11 +1390,6 @@
       "created_at": "2026-09-29T13:46:45.315892244Z",
       "first_seen": "2026-09-29T13:46:59.617093+00:00"
     },
-    "6udp7qmWhm8FHu87RQmCtD9df3Ue4asVLSMCnUGnAVxe": {
-      "symbol": "JUMP",
-      "created_at": "2026-09-29T13:46:42.041732378Z",
-      "first_seen": "2026-09-29T13:46:59.617093+00:00"
-    },
     "7iYZpyDkCzzUF16wGGdYhQCZL8KHrTzGMHQeYpKWfCM9": {
       "symbol": "DEADBEEF",
       "created_at": "2026-09-29T13:46:40.962923496Z",
@@ -1549,6 +1544,56 @@
       "symbol": "DICE",
       "created_at": "2026-09-29T13:53:54.849373766Z",
       "first_seen": "2026-09-29T13:54:19.388981+00:00"
+    },
+    "5y6pT3Ed1evWEa7aw56Djo1wbAZsYQhkHEfLfHtLgjd4": {
+      "symbol": "America",
+      "created_at": "2026-09-29T13:56:41.147906667Z",
+      "first_seen": "2026-09-29T13:56:46.304859+00:00"
+    },
+    "9SPF3AnasFJQtjAH2oYbaueWSwaNBK1bKJAvSqQQpump": {
+      "symbol": "Amazon",
+      "created_at": "2026-09-29T13:56:40.923402617Z",
+      "first_seen": "2026-09-29T13:56:46.304859+00:00"
+    },
+    "3D5HpLzMPANyuwKmJKukjnzruVsHqpS2BmHjHLQzmE38": {
+      "symbol": "America",
+      "created_at": "2026-09-29T13:56:40.82635976Z",
+      "first_seen": "2026-09-29T13:56:46.304859+00:00"
+    },
+    "6nkn9iesSJfS5hJX5jmGxzEsuBvRSjNZhSLX2w1Bpump": {
+      "symbol": "TOAD",
+      "created_at": "2026-09-29T13:56:40.14952865Z",
+      "first_seen": "2026-09-29T13:56:46.304859+00:00"
+    },
+    "8ve9toVieA2dP64yPc75LQyEMg1QAZvD6LsUbQHVpump": {
+      "symbol": "D",
+      "created_at": "2026-09-29T13:56:39.39017544Z",
+      "first_seen": "2026-09-29T13:56:46.304859+00:00"
+    },
+    "8iqC8oGK4ksTq3cUsUK2nJJDMBFEdfn4m6xHAzDFFkbb": {
+      "symbol": "67OHIO",
+      "created_at": "2026-09-29T13:56:36.143728198Z",
+      "first_seen": "2026-09-29T13:56:46.304859+00:00"
+    },
+    "6LB72ZiadMj28zFuSzHH5CVXipTzf3ovyH8cuNQzLPML": {
+      "symbol": "America",
+      "created_at": "2026-09-29T13:56:35.615370422Z",
+      "first_seen": "2026-09-29T13:56:46.304859+00:00"
+    },
+    "FHA3rjoouaB2FWUsFPMQZvGbTwyQAB7ZZAoZTkyKJPoz": {
+      "symbol": "AMERICA",
+      "created_at": "2026-09-29T13:56:35.542518809Z",
+      "first_seen": "2026-09-29T13:56:46.304859+00:00"
+    },
+    "2GDCezkpXprmSbafhS8fZbVqPJo16B8Fb6k1tJPkPZYa": {
+      "symbol": "America",
+      "created_at": "2026-09-29T13:56:35.519343801Z",
+      "first_seen": "2026-09-29T13:56:46.304859+00:00"
+    },
+    "D9XHiGnxRWnzbvHJ49b7xTq5UEcVd8bqxpVtyeCo8C6G": {
+      "symbol": "America",
+      "created_at": "2026-09-29T13:56:35.018287822Z",
+      "first_seen": "2026-09-29T13:56:46.304859+00:00"
     }
   },
   "alerted": [
@@ -1901,7 +1946,6 @@
     "3kWATYWZcHiZ948oKKu6AMQXjicD2kz8ziGNH8Rupump"
   ],
   "rejected": [
-    "FfHxdBBxKmCZpfVAQKuVMwzJ8dVM5EQixevhbzYSxQCh",
     "14WTKrerm87pE7nxpSh1nviHU7r64hCZzbaTRFuhNubL",
     "7Qt2r1GZU41otzEs55TZGvc6nz4vnXUjTzp9LhE4YXLQ",
     "4bC8T3hvFoXXcuoX6yeQeVQvWkszhpZHh6kjSWdsGhXM",
@@ -3900,6 +3944,7 @@
     "J9WttU7UnvndNjofsbeh5UAC9U5KZ9fhfU1FCt9ZvCL7",
     "GY3NQLxvykPz38x7XSAgHM6HmSqSSGmZ55JUJJoUut73",
     "CMZx6zWNX7rDrjiYG4heDRJNwhWrMjbbHbm1e5SHD62u",
-    "H4KUxsEgCp2yDpFvyDuGM5k6XevSKKrrKUxZ3Zr6nyJc"
+    "H4KUxsEgCp2yDpFvyDuGM5k6XevSKKrrKUxZ3Zr6nyJc",
+    "6udp7qmWhm8FHu87RQmCtD9df3Ue4asVLSMCnUGnAVxe"
   ]
 }
