@@ -495,16 +495,6 @@
       "created_at": "2026-09-28T23:30:22.271607282Z",
       "first_seen": "2026-09-28T23:30:40.431454+00:00"
     },
-    "7SpVU1kJEDtrQexRWgZy64ZXnHjhHyimRjB2zmHZpump": {
-      "symbol": "RuneChain",
-      "created_at": "2026-09-28T23:32:43.459734195Z",
-      "first_seen": "2026-09-28T23:32:46.916799+00:00",
-      "confirm": {
-        "liquidity": 8727.66,
-        "market_cap": 13949,
-        "at": "2026-09-29T00:15:54.787562+00:00"
-      }
-    },
     "26z5UBKc3nexnuwpXzjmZS1T72MkcvZFYygR1deapump": {
       "symbol": "DAFLOOR",
       "created_at": "2026-09-28T23:32:42.927210607Z",
@@ -1464,6 +1454,56 @@
       "symbol": "ETH-UP",
       "created_at": "2026-09-29T00:15:39.032116176Z",
       "first_seen": "2026-09-29T00:15:54.787200+00:00"
+    },
+    "k6P6cc6t5sqAE63HEHsPz6wYdT1Tkvs2YgErXKJpump": {
+      "symbol": "GITFEES",
+      "created_at": "2026-09-29T00:18:12.694206783Z",
+      "first_seen": "2026-09-29T00:18:22.446680+00:00"
+    },
+    "E57GZd6rZ6xESDNeoJTk9QedqbsAbM8E49jLCDKuSdvz": {
+      "symbol": "VSB",
+      "created_at": "2026-09-29T00:18:11.162145517Z",
+      "first_seen": "2026-09-29T00:18:22.446680+00:00"
+    },
+    "Df1WFgfBtJhkGWSHMZgFQUbfnWaT3AMRWHmhwpcqpump": {
+      "symbol": "plug",
+      "created_at": "2026-09-29T00:18:10.113570391Z",
+      "first_seen": "2026-09-29T00:18:22.446680+00:00"
+    },
+    "6eM6jfaeaCJHchM5iKQVcZMNrqaFXjeh7i25VyHUcXGU": {
+      "symbol": "GAYCAT",
+      "created_at": "2026-09-29T00:18:07.943070835Z",
+      "first_seen": "2026-09-29T00:18:22.446680+00:00"
+    },
+    "FGCEFd7K7aSjZF2ehrhssV5mUJivnoiPebazndmzpump": {
+      "symbol": "FUKFRANK",
+      "created_at": "2026-09-29T00:18:07.336485586Z",
+      "first_seen": "2026-09-29T00:18:22.446680+00:00"
+    },
+    "9hE9JkdeByjdKJXf4YEK9uFVp8hmqP11sCE8QwCmQ5tM": {
+      "symbol": "CPAD",
+      "created_at": "2026-09-29T00:18:07.085162579Z",
+      "first_seen": "2026-09-29T00:18:22.446680+00:00"
+    },
+    "bNT2dTLWAbbBQcsPxsZgQmdDumjiMDVuDBsLMrU1J2z": {
+      "symbol": "XDP",
+      "created_at": "2026-09-29T00:18:06.06889817Z",
+      "first_seen": "2026-09-29T00:18:22.446680+00:00"
+    },
+    "DFXpAeLgwrew4LFnQfBHVcaM5bcHVj1QpYCaXUgfBpXa": {
+      "symbol": "VSB",
+      "created_at": "2026-09-29T00:18:03.671739491Z",
+      "first_seen": "2026-09-29T00:18:22.446680+00:00"
+    },
+    "Cadtymen3jLGH4yxUFioXqNCMF3whvJzDndEQ3GcWuXb": {
+      "symbol": "",
+      "created_at": "2026-09-29T00:18:02.746024747Z",
+      "first_seen": "2026-09-29T00:18:22.446680+00:00"
+    },
+    "71Vb2NW4qpvUcrUrEt8V9yYngaEzw8cuWy2S2YmLpump": {
+      "symbol": "SAMPSON",
+      "created_at": "2026-09-29T00:18:02.544437407Z",
+      "first_seen": "2026-09-29T00:18:22.446680+00:00"
     }
   },
   "alerted": [
@@ -1806,7 +1846,8 @@
     "FSJPGs5c8FYv17T2ncUoNPTSe6Gh2FbafddvmVF3pump",
     "AvFcZhtaPMY3D8oVNrCTmvc8vQbBFV6QC36Kc9dFpump",
     "AVTFiwVP2NJhKzLndiSHLoWcxdUS3buEC5nqd8HbSTNK",
-    "2SWXLespX4sC3rzMnbS4pXyUt6aVqSaZK8X7fg8ppump"
+    "2SWXLespX4sC3rzMnbS4pXyUt6aVqSaZK8X7fg8ppump",
+    "7SpVU1kJEDtrQexRWgZy64ZXnHjhHyimRjB2zmHZpump"
   ],
   "rejected": [
     "HG3p4PBD4tSJwMABKp8hr8zbef9BeEDaStRCAdLR7XaL",
