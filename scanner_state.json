@@ -590,16 +590,6 @@
       "created_at": "2026-09-29T22:35:27.338116681Z",
       "first_seen": "2026-09-29T22:35:36.188083+00:00"
     },
-    "BYaxkgDfkUApMgsXu4SiJ5yc6DTSfLxp6an3PvVVpump": {
-      "symbol": "SS",
-      "created_at": "2026-09-29T22:35:27.233862591Z",
-      "first_seen": "2026-09-29T22:35:36.188083+00:00",
-      "confirm": {
-        "liquidity": 33430.63,
-        "market_cap": 147316,
-        "at": "2026-09-29T22:47:00.556817+00:00"
-      }
-    },
     "9Et3JZKXDKmiM9obR4k5Lgb6yTH4dzJmdCUhgLk5pump": {
       "symbol": "INUITION",
       "created_at": "2026-09-29T22:35:26.269157978Z",
@@ -658,11 +648,6 @@
     "HWDFC3SL8ik5kQd1gXnVF93CvSJHpKHw1cbAimVQpump": {
       "symbol": "ANAL",
       "created_at": "2026-09-29T22:37:37.401358607Z",
-      "first_seen": "2026-09-29T22:37:50.272087+00:00"
-    },
-    "9EGMz6zNZTNrah3uAHb1nKzqKCmgYaZGZnB2DMSZrAi6": {
-      "symbol": "dots",
-      "created_at": "2026-09-29T22:37:36.623699908Z",
       "first_seen": "2026-09-29T22:37:50.272087+00:00"
     },
     "7HZSktShXG7y3g2cKYCNDGK1X8sBDMSgXFp4RNLWpump": {
@@ -874,6 +859,56 @@
       "symbol": "Solaboyz",
       "created_at": "2026-09-29T22:46:44.631394171Z",
       "first_seen": "2026-09-29T22:47:00.556644+00:00"
+    },
+    "8nHD9QzqiYAbccsmFuvkKXW7jcrWzxP14dyZcCgCpump": {
+      "symbol": "DOM",
+      "created_at": "2026-09-29T22:49:17.407166987Z",
+      "first_seen": "2026-09-29T22:49:23.391411+00:00"
+    },
+    "3KYVxYngKRf3n8FoC8C2x9jP8giGtdPFE9Vis74Kpump": {
+      "symbol": "FAST\u20ac",
+      "created_at": "2026-09-29T22:49:13.435210866Z",
+      "first_seen": "2026-09-29T22:49:23.391411+00:00"
+    },
+    "3VXnySdPzsUic2QnPinQ91UTsaGcj78VARVu4jKmNuMB": {
+      "symbol": "SI",
+      "created_at": "2026-09-29T22:49:10.780224224Z",
+      "first_seen": "2026-09-29T22:49:23.391411+00:00"
+    },
+    "3qSuEqdr3B3Bk3LaQCexW6ku8uUhvdDzNxCqeNQ4GtyU": {
+      "symbol": "",
+      "created_at": "2026-09-29T22:49:09.66620045Z",
+      "first_seen": "2026-09-29T22:49:23.391411+00:00"
+    },
+    "EaYxUG3VH3B7aWMsHnzanRBhoomD4C8Szi1Htj1hpump": {
+      "symbol": "Soon",
+      "created_at": "2026-09-29T22:49:09.252674995Z",
+      "first_seen": "2026-09-29T22:49:23.391411+00:00"
+    },
+    "BUrgQySCUWvD5BpZnStneXnxtNPngKEmAn3L8VAEpump": {
+      "symbol": "$CHILLSI",
+      "created_at": "2026-09-29T22:49:07.969718822Z",
+      "first_seen": "2026-09-29T22:49:23.391411+00:00"
+    },
+    "CFJHmwtuyWEoyEyCTTBuKXWU13gPBDwHS5b2tFKFSTNK": {
+      "symbol": "NIGGATRON",
+      "created_at": "2026-09-29T22:49:07.823732666Z",
+      "first_seen": "2026-09-29T22:49:23.391411+00:00"
+    },
+    "DxeVLjmNUHsN5zbTHFc6vg2rsoXrSdF6oPf9NvbeW6Nq": {
+      "symbol": "FLOATR",
+      "created_at": "2026-09-29T22:49:07.646208128Z",
+      "first_seen": "2026-09-29T22:49:23.391411+00:00"
+    },
+    "6Y4Zfr1gccgFxGxmpSAvNA4g7SzkFikkzeFcvcZ9pump": {
+      "symbol": "ULTRA",
+      "created_at": "2026-09-29T22:49:07.370461953Z",
+      "first_seen": "2026-09-29T22:49:23.391411+00:00"
+    },
+    "HrqvfQmQMYkDxqqTENRgr11D9nWDdQao7AzheR6upump": {
+      "symbol": "GREENPIIL",
+      "created_at": "2026-09-29T22:49:07.27710986Z",
+      "first_seen": "2026-09-29T22:49:23.391411+00:00"
     }
   },
   "alerted": [
@@ -1225,10 +1260,10 @@
     "9ULokoso7UNPabtbV5WvTu384Vej24u7z5RJDXhmpump",
     "3kWATYWZcHiZ948oKKu6AMQXjicD2kz8ziGNH8Rupump",
     "C2YdnuDjX1GF79j6Wyaaz4gZ6DXDELwQwbpocrfApump",
-    "3P9fUkuooZGa1ygJtkq3jqQRFNknoULFgQYMpmnFsYND"
+    "3P9fUkuooZGa1ygJtkq3jqQRFNknoULFgQYMpmnFsYND",
+    "BYaxkgDfkUApMgsXu4SiJ5yc6DTSfLxp6an3PvVVpump"
   ],
   "rejected": [
-    "4vjisZ4JYMrT5kp8qB41ccd2SZrCKSebZf9JmsausJdX",
     "5eWBXgRExQDzYq8mL7ZKhS6SH3tYACTZekgt92a9Kxrw",
     "HJaFaJ3rNYpfxBG3miaDaFnZqXdBEmd6Axgb2BQQBoqY",
     "3G47Pcops2cY6bgmatcSnpSpC7DPZZbDGVPKV3V6tsuC",
@@ -3227,6 +3262,7 @@
     "5CWyT4rJZz5LrZjh3smNggeUzHZSpauDg8fu5BgJpump",
     "2XHcVvCajpLvfHsZVgEbiKFwHvAJyPdZB1gVJN1r2iEu",
     "DuaaowLtABsEAcRChbKAXKyeUx88G6vmS1Re8BEHEb6A",
-    "5ANw11H9BZSWgvs1k78hGudT4kD9zNojvA4EEjd7pump"
+    "5ANw11H9BZSWgvs1k78hGudT4kD9zNojvA4EEjd7pump",
+    "9EGMz6zNZTNrah3uAHb1nKzqKCmgYaZGZnB2DMSZrAi6"
   ]
 }
