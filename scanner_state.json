@@ -1745,11 +1745,6 @@
       "created_at": "2026-09-29T00:33:07.657678178Z",
       "first_seen": "2026-09-29T00:33:32.546903+00:00"
     },
-    "1fRVDg4E8vUPBpAW32rc8HYaq6NneY7XZZ6SREHpump": {
-      "symbol": "NTDA",
-      "created_at": "2026-09-29T00:33:07.577567092Z",
-      "first_seen": "2026-09-29T00:33:32.546903+00:00"
-    },
     "5nVoE9XDEsx8GZM3hX95wKeQNjbeAhxrcNGWKjXfpump": {
       "symbol": "FAF",
       "created_at": "2026-09-29T00:33:03.382094069Z",
@@ -1768,11 +1763,6 @@
     "6aJNa7uQy3ueH6wpBMyH1o6aicceLcxF5muizX1wpump": {
       "symbol": "isteamAI",
       "created_at": "2026-09-29T00:35:59.181727852Z",
-      "first_seen": "2026-09-29T00:36:07.367709+00:00"
-    },
-    "resiVGFrGhG2Q2o12uWVEGVGyycbHu3cYwEJ23JyaVc": {
-      "symbol": "RESIDE",
-      "created_at": "2026-09-29T00:35:56.941000443Z",
       "first_seen": "2026-09-29T00:36:07.367709+00:00"
     },
     "7asUvqQCXmxLqaJbMNSNZL6pqAh3ajiUwvXVc7HYpump": {
@@ -2209,6 +2199,56 @@
       "symbol": "MPN",
       "created_at": "2026-09-29T00:56:58.216341931Z",
       "first_seen": "2026-09-29T00:57:03.848360+00:00"
+    },
+    "3pde8FJDteUaekaCQ5vzgDrBLUiXCNDqCRzCg9TLpump": {
+      "symbol": "PUMP",
+      "created_at": "2026-09-29T00:59:31.942159272Z",
+      "first_seen": "2026-09-29T00:59:41.856557+00:00"
+    },
+    "3wCBRZmaEvKqm4Q1xX5teafNvkVq4sbBWaZ7cBb3BNV6": {
+      "symbol": "PEZSHIP",
+      "created_at": "2026-09-29T00:59:31.849086549Z",
+      "first_seen": "2026-09-29T00:59:41.856557+00:00"
+    },
+    "Ch2Fac5F3uxQauQzDmFbMGwfnzuvWB8kfmTSw5mRpump": {
+      "symbol": "$GE",
+      "created_at": "2026-09-29T00:59:31.078434742Z",
+      "first_seen": "2026-09-29T00:59:41.856557+00:00"
+    },
+    "D9SuUU1UoL7DsJfuWf65kMaMCVYCpmYED3Jb6rUXpump": {
+      "symbol": "RUSTYCRA",
+      "created_at": "2026-09-29T00:59:30.450063629Z",
+      "first_seen": "2026-09-29T00:59:41.856557+00:00"
+    },
+    "9GtKh6BaauZjJefsVbKFoGth7MjfSGCoAXHJEWPkeQBn": {
+      "symbol": "CIGARCAT",
+      "created_at": "2026-09-29T00:59:30.375959138Z",
+      "first_seen": "2026-09-29T00:59:41.856557+00:00"
+    },
+    "X4E8S97QuvkCs2GwVVzCBEmZiunstZcCjQw5N2fw29R": {
+      "symbol": "FATTY",
+      "created_at": "2026-09-29T00:59:30.114072222Z",
+      "first_seen": "2026-09-29T00:59:41.856557+00:00"
+    },
+    "GiZWp7bNwJ51xop11bZyHQ6puxVs9JEcR7jNvPYqrU2A": {
+      "symbol": "CAVO",
+      "created_at": "2026-09-29T00:59:30.090960067Z",
+      "first_seen": "2026-09-29T00:59:41.856557+00:00"
+    },
+    "8CmntqTwanvNii5WATqJ9QoLbxjPDRg8nxLeAWzngBMa": {
+      "symbol": "TEST",
+      "created_at": "2026-09-29T00:59:24.099437827Z",
+      "first_seen": "2026-09-29T00:59:41.856557+00:00"
+    },
+    "FgHaZQd5fU2HprYogt8AWvV4YhbT82nA6JrCvnoupJb8": {
+      "symbol": "CIP",
+      "created_at": "2026-09-29T00:59:23.790398345Z",
+      "first_seen": "2026-09-29T00:59:41.856557+00:00"
+    },
+    "GML12u2hx9GWXwem2BomRNMvQUvnZfeRFhJVFMhpmCia": {
+      "symbol": "HCAT",
+      "created_at": "2026-09-29T00:59:21.824606191Z",
+      "first_seen": "2026-09-29T00:59:41.856557+00:00"
     }
   },
   "alerted": [
@@ -2555,8 +2595,6 @@
     "7SpVU1kJEDtrQexRWgZy64ZXnHjhHyimRjB2zmHZpump"
   ],
   "rejected": [
-    "DQj3HL1jFdERKgmdiBybjCy35bzH2nqH4ntEzATXosqf",
-    "6p5ns7Lv333g2wB4Jdi8MKomn5QLBjuX44KmbkZFnuCg",
     "oon4KnQpxWsuRziCmSaJAgeDKCrmBjcVZLNM3xBpump",
     "5bvVkz1mEFQiBWdcDawFS565Fz2x3wMoW2s41jPdrwvG",
     "3xiSuQZbnYfshcxR2xyjyMJCxTgWyh66KW9Fhritzd3M",
@@ -4554,6 +4592,8 @@
     "5efCpgvRnGxhkQYG7vdt8sFgk9gPexnZPYYPSrpUbpeR",
     "7BZK1gM5sW4epGypAR3z7acdH2ARvSJpDMgrJSMBpump",
     "HxcCkrZy8ZSEsiYMXEvG5eEFjLCvGdPXRB657FRpEj46",
-    "9bvLmaDj6cU69bHvXTqHMKGucJ5gnD7nVEdSWFgEgKuh"
+    "9bvLmaDj6cU69bHvXTqHMKGucJ5gnD7nVEdSWFgEgKuh",
+    "1fRVDg4E8vUPBpAW32rc8HYaq6NneY7XZZ6SREHpump",
+    "resiVGFrGhG2Q2o12uWVEGVGyycbHu3cYwEJ23JyaVc"
   ]
 }
