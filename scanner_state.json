@@ -453,7 +453,12 @@
     "AoJUHgDTYAFVQbUDsk7SJWh9gajG28UJKjNN8DGfpump": {
       "symbol": "MYCOIN",
       "created_at": "2026-09-29T22:28:55.860632736Z",
-      "first_seen": "2026-09-29T22:29:04.721355+00:00"
+      "first_seen": "2026-09-29T22:29:04.721355+00:00",
+      "confirm": {
+        "liquidity": 18036.49,
+        "market_cap": 48346,
+        "at": "2026-09-29T22:54:07.267409+00:00"
+      }
     },
     "DXR1VnSMcvMR1cUyXaPkK6Hvs7zyo2K7T8PjbSL5S1WA": {
       "symbol": "",
@@ -718,7 +723,12 @@
     "7rRNjSyx4vAcAY3KcFkrrmZpmhnmpBRYodr1TwcUpump": {
       "symbol": "SC",
       "created_at": "2026-09-29T22:42:14.866339442Z",
-      "first_seen": "2026-09-29T22:42:24.013283+00:00"
+      "first_seen": "2026-09-29T22:42:24.013283+00:00",
+      "confirm": {
+        "liquidity": 32772.83,
+        "market_cap": 141669,
+        "at": "2026-09-29T22:54:07.267409+00:00"
+      }
     },
     "28ucrp6JZqGDnHRMX5fTEuwAewVWrptXjgucBeBDpump": {
       "symbol": "FreakTrade",
@@ -959,6 +969,56 @@
       "symbol": "SU.IN",
       "created_at": "2026-09-29T22:51:34.413292882Z",
       "first_seen": "2026-09-29T22:51:45.804846+00:00"
+    },
+    "7bgJ3uiNWgf1WuZktL5iiHLwnK5rCk1aGGPw9E5upump": {
+      "symbol": "PEPE",
+      "created_at": "2026-09-29T22:54:04.235890996Z",
+      "first_seen": "2026-09-29T22:54:07.267217+00:00"
+    },
+    "3cjdgG6qAvimoDdEpm4ZsceaxzT2pspDn2xR8cXzpump": {
+      "symbol": "BREZ",
+      "created_at": "2026-09-29T22:54:02.515672322Z",
+      "first_seen": "2026-09-29T22:54:07.267217+00:00"
+    },
+    "7AvM3iNE7896PnUYxpnTRjybh95555Wh6SDvwpnRpump": {
+      "symbol": "A",
+      "created_at": "2026-09-29T22:54:02.382294294Z",
+      "first_seen": "2026-09-29T22:54:07.267217+00:00"
+    },
+    "CujRa7gzjQqpQ6E73jjg6yF525n9TdBAGxY4ELq1pump": {
+      "symbol": "Tokenize",
+      "created_at": "2026-09-29T22:54:02.338094028Z",
+      "first_seen": "2026-09-29T22:54:07.267217+00:00"
+    },
+    "8xWm7t8UtnX6vHRPs3CoETk4TFAoVAARVGopZwYqpump": {
+      "symbol": "Hope",
+      "created_at": "2026-09-29T22:54:00.941405388Z",
+      "first_seen": "2026-09-29T22:54:07.267217+00:00"
+    },
+    "7y5zETDjzCeUBUh97T9pDj67FoRDzozNmhsrWrEpump": {
+      "symbol": "P",
+      "created_at": "2026-09-29T22:53:58.433365375Z",
+      "first_seen": "2026-09-29T22:54:07.267217+00:00"
+    },
+    "7UVVUPhDYaTPCA7hiM2Q1P1ZTtVnv6EqT5WWcNr9pump": {
+      "symbol": "SOON",
+      "created_at": "2026-09-29T22:53:58.410995743Z",
+      "first_seen": "2026-09-29T22:54:07.267217+00:00"
+    },
+    "Ey9gtHkWJZdeWryifbVBeV4pHKGsbFWoZPR6yzQgpump": {
+      "symbol": "Pompeii",
+      "created_at": "2026-09-29T22:53:56.917756852Z",
+      "first_seen": "2026-09-29T22:54:07.267217+00:00"
+    },
+    "9Pzwk8wmc5gGmGLyMiy6RqkQFb2ddg5xh34KTe8rpump": {
+      "symbol": "GayAssMfs",
+      "created_at": "2026-09-29T22:53:56.915389406Z",
+      "first_seen": "2026-09-29T22:54:07.267217+00:00"
+    },
+    "GV1BGjKim3sxZzfDw4XVN1NnZqCwpKeCz9XKqo1wpump": {
+      "symbol": "Dog Think",
+      "created_at": "2026-09-29T22:53:56.466369799Z",
+      "first_seen": "2026-09-29T22:54:07.267217+00:00"
     }
   },
   "alerted": [
