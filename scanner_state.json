@@ -128,7 +128,12 @@
     "3P9fUkuooZGa1ygJtkq3jqQRFNknoULFgQYMpmnFsYND": {
       "symbol": "GAME",
       "created_at": "2026-09-29T22:14:26.719455894Z",
-      "first_seen": "2026-09-29T22:14:35.750076+00:00"
+      "first_seen": "2026-09-29T22:14:35.750076+00:00",
+      "confirm": {
+        "liquidity": 4752.69,
+        "market_cap": 2382,
+        "at": "2026-09-29T22:24:49.252829+00:00"
+      }
     },
     "GvTVkSrzwwaE9hAa6naGtm1h3S1sNCrfjSRYbTWCWGkw": {
       "symbol": "GBD",
@@ -349,6 +354,56 @@
       "symbol": "SI",
       "created_at": "2026-09-29T22:22:25.307937255Z",
       "first_seen": "2026-09-29T22:22:44.819236+00:00"
+    },
+    "631zf22kgs1gip4xNPGNuaGwU7pBpnAjNPGtdb3Gpump": {
+      "symbol": "SIT",
+      "created_at": "2026-09-29T22:24:45.474114727Z",
+      "first_seen": "2026-09-29T22:24:49.252627+00:00"
+    },
+    "2QHzYmftKpvPW8SzbBVzPb3XrHujmtwMxhH3v8rVpump": {
+      "symbol": "UNL",
+      "created_at": "2026-09-29T22:24:38.535533591Z",
+      "first_seen": "2026-09-29T22:24:49.252627+00:00"
+    },
+    "pG7Csi5NVY8yzSojDcfJmNnaHrg9UvMrzEsmqj7pump": {
+      "symbol": "CERA",
+      "created_at": "2026-09-29T22:24:37.893534397Z",
+      "first_seen": "2026-09-29T22:24:49.252627+00:00"
+    },
+    "3m3Wa97F4D5MoR7zAJPMJLxLpfYhinBoCpuXzQDYZsCU": {
+      "symbol": "LUFFY",
+      "created_at": "2026-09-29T22:24:36.980774739Z",
+      "first_seen": "2026-09-29T22:24:49.252627+00:00"
+    },
+    "8pPzEQ3XZjLUY2D2TAkQdPTihBG2K6Khq5AQjEdsvgTc": {
+      "symbol": "",
+      "created_at": "2026-09-29T22:24:36.665829037Z",
+      "first_seen": "2026-09-29T22:24:49.252627+00:00"
+    },
+    "HwEjYTyb9o99chQeLxJuccR426KwRDbmXKMjZrAipump": {
+      "symbol": "PEPEBEER",
+      "created_at": "2026-09-29T22:24:36.529154995Z",
+      "first_seen": "2026-09-29T22:24:49.252627+00:00"
+    },
+    "DQ25EC9f6F19nEFpNvWFwgxmuJ32Tjfgd9wvWzNdpump": {
+      "symbol": "ZOLANA",
+      "created_at": "2026-09-29T22:24:35.620242399Z",
+      "first_seen": "2026-09-29T22:24:49.252627+00:00"
+    },
+    "CEfKT3Cd58UksrhMA5gDXjH6nLjpGwbeUxC9jJ8rpump": {
+      "symbol": "ARENA",
+      "created_at": "2026-09-29T22:24:34.114415585Z",
+      "first_seen": "2026-09-29T22:24:49.252627+00:00"
+    },
+    "9LkoKaFdm3B5SRR8NNXbrQYphcN4RpUnLJUajAX89fMS": {
+      "symbol": "avexum",
+      "created_at": "2026-09-29T22:24:33.763848422Z",
+      "first_seen": "2026-09-29T22:24:49.252627+00:00"
+    },
+    "85qzoQgk46GHQ5p2ZxXEzKLFSrE1b1Godv33i9UvHJog": {
+      "symbol": "inu",
+      "created_at": "2026-09-29T22:24:30.750732117Z",
+      "first_seen": "2026-09-29T22:24:49.252627+00:00"
     }
   },
   "alerted": [
