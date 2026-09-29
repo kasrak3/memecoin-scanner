@@ -1373,7 +1373,12 @@
     "BiFfzEETEN4wG1vCQLmKk7nBcAcDzVrTEgX3fDiLpump": {
       "symbol": "SAI",
       "created_at": "2026-09-29T23:14:12.057881387Z",
-      "first_seen": "2026-09-29T23:14:21.313829+00:00"
+      "first_seen": "2026-09-29T23:14:21.313829+00:00",
+      "confirm": {
+        "liquidity": 35240.67,
+        "market_cap": 163076,
+        "at": "2026-09-29T23:25:02.050162+00:00"
+      }
     },
     "Q4kP5ALDSYDxUmHUQhfUke9HQFR5swps2rJhU2dpump": {
       "symbol": "MUJECTIVE",
@@ -1549,6 +1554,56 @@
       "symbol": "Terminal",
       "created_at": "2026-09-29T23:22:01.438997653Z",
       "first_seen": "2026-09-29T23:22:18.559785+00:00"
+    },
+    "EKgniQ7Ct5R8xPXeeXtZEZ1rhLxpBCSfuKCBfptxpump": {
+      "symbol": "OTTER",
+      "created_at": "2026-09-29T23:24:52.985707215Z",
+      "first_seen": "2026-09-29T23:25:02.049970+00:00"
+    },
+    "E6YKsi7j3tgQaf55CbqcMtVCX1TSzajYbMg8j7TS4sV2": {
+      "symbol": "Yes Yes",
+      "created_at": "2026-09-29T23:24:52.08694257Z",
+      "first_seen": "2026-09-29T23:25:02.049970+00:00"
+    },
+    "7ezuf9FBH8xFjvTgvsa2ywimgvJoGnyjWqvqRdkrpump": {
+      "symbol": "Awoo",
+      "created_at": "2026-09-29T23:24:51.12362997Z",
+      "first_seen": "2026-09-29T23:25:02.049970+00:00"
+    },
+    "D9XR9Yj26mdZFYgPjv58ztqYyHYKjJK9C37xPtgVpump": {
+      "symbol": "SI",
+      "created_at": "2026-09-29T23:24:51.055358613Z",
+      "first_seen": "2026-09-29T23:25:02.049970+00:00"
+    },
+    "Cw2ocvbmbTTmeDLX4uQSKJXvDQJ1K99fsZeAPpYFpump": {
+      "symbol": "CANDOR",
+      "created_at": "2026-09-29T23:24:50.654511402Z",
+      "first_seen": "2026-09-29T23:25:02.049970+00:00"
+    },
+    "Q8CopCR2NkxAKs94iJFAbQ5VMrjdGhuJmq6qhu9pump": {
+      "symbol": "SI",
+      "created_at": "2026-09-29T23:24:49.219970868Z",
+      "first_seen": "2026-09-29T23:25:02.049970+00:00"
+    },
+    "BR2zYoLwdU2Dt4sXivWcufYi8kSUrXBxoDUujwnNpump": {
+      "symbol": "SI",
+      "created_at": "2026-09-29T23:24:49.187658937Z",
+      "first_seen": "2026-09-29T23:25:02.049970+00:00"
+    },
+    "4eBXvShLF3DysvVSQYtbCersjd3FNVLxRvbh7Vwxpump": {
+      "symbol": "SI",
+      "created_at": "2026-09-29T23:24:49.071696816Z",
+      "first_seen": "2026-09-29T23:25:02.049970+00:00"
+    },
+    "esCAyJoY7zhRwrvrXryE2BeSuEwhusxH6PqdiMq3aZR": {
+      "symbol": "NEPTUNE",
+      "created_at": "2026-09-29T23:24:48.000941007Z",
+      "first_seen": "2026-09-29T23:25:02.049970+00:00"
+    },
+    "8PG8L8fRPX7iL6G14ssJBTtNEAjPhHdEPEBTsyP3w5jG": {
+      "symbol": "DAWNDEAL-0",
+      "created_at": "2026-09-29T23:24:47.868001627Z",
+      "first_seen": "2026-09-29T23:25:02.049970+00:00"
     }
   },
   "alerted": [
