@@ -1370,16 +1370,6 @@
       "created_at": "2026-09-29T23:14:12.828833521Z",
       "first_seen": "2026-09-29T23:14:21.313829+00:00"
     },
-    "BiFfzEETEN4wG1vCQLmKk7nBcAcDzVrTEgX3fDiLpump": {
-      "symbol": "SAI",
-      "created_at": "2026-09-29T23:14:12.057881387Z",
-      "first_seen": "2026-09-29T23:14:21.313829+00:00",
-      "confirm": {
-        "liquidity": 35240.67,
-        "market_cap": 163076,
-        "at": "2026-09-29T23:25:02.050162+00:00"
-      }
-    },
     "Q4kP5ALDSYDxUmHUQhfUke9HQFR5swps2rJhU2dpump": {
       "symbol": "MUJECTIVE",
       "created_at": "2026-09-29T23:14:10.348462776Z",
@@ -1604,6 +1594,56 @@
       "symbol": "DAWNDEAL-0",
       "created_at": "2026-09-29T23:24:47.868001627Z",
       "first_seen": "2026-09-29T23:25:02.049970+00:00"
+    },
+    "HfxShVQYxnnRrn54Muss1vWDQVkAThbfnQrrvgScpump": {
+      "symbol": "REPO",
+      "created_at": "2026-09-29T23:27:46.261274216Z",
+      "first_seen": "2026-09-29T23:27:48.372565+00:00"
+    },
+    "5giwhAxZi5YfLGLgA2n8Brq6ePP7c6TrKg8DRfV1pump": {
+      "symbol": "GNB",
+      "created_at": "2026-09-29T23:27:45.757911835Z",
+      "first_seen": "2026-09-29T23:27:48.372565+00:00"
+    },
+    "CJHPxoPb6DEnCBSEuSYypbWD25isRrDHxcU8JKBtpump": {
+      "symbol": "cat",
+      "created_at": "2026-09-29T23:27:44.149688753Z",
+      "first_seen": "2026-09-29T23:27:48.372565+00:00"
+    },
+    "SewVS1KMG2GYQu8KWc2bFbjgnPNeYuwVbRZtbsMXA18": {
+      "symbol": "hypurr",
+      "created_at": "2026-09-29T23:27:40.731825499Z",
+      "first_seen": "2026-09-29T23:27:48.372565+00:00"
+    },
+    "Hm8U2Syd8iNi12RsBeZaFFmRgp6AgKXRu1THtKmC2WHR": {
+      "symbol": "",
+      "created_at": "2026-09-29T23:27:39.670643837Z",
+      "first_seen": "2026-09-29T23:27:48.372565+00:00"
+    },
+    "43Ts6vabz927sztUK4WyyVv6BbFkgp5gDS4PxJfUpump": {
+      "symbol": "DEATHPAD",
+      "created_at": "2026-09-29T23:27:38.371628762Z",
+      "first_seen": "2026-09-29T23:27:48.372565+00:00"
+    },
+    "2Hv6Lum5KXBKy5zpQ6bJ2fNJbiG3ku3EXM3h69dASTNK": {
+      "symbol": "SI",
+      "created_at": "2026-09-29T23:27:37.466120615Z",
+      "first_seen": "2026-09-29T23:27:48.372565+00:00"
+    },
+    "13NqtDeACaPtme18RM7vs2e4sV77NDji8FUqnnuJYfQT": {
+      "symbol": "NEPTUNE",
+      "created_at": "2026-09-29T23:27:36.894750264Z",
+      "first_seen": "2026-09-29T23:27:48.372565+00:00"
+    },
+    "C2hcJ6jYwRphFCp5GVwvEsRd3ktFbGKKjF8ug2B1pump": {
+      "symbol": "hypurr",
+      "created_at": "2026-09-29T23:27:36.05300269Z",
+      "first_seen": "2026-09-29T23:27:48.372565+00:00"
+    },
+    "5NLYzejV2rHzWrYvnVDeBodXv2aVAg2djDJo1BAkeKmR": {
+      "symbol": "dude",
+      "created_at": "2026-09-29T23:27:35.719552024Z",
+      "first_seen": "2026-09-29T23:27:48.372565+00:00"
     }
   },
   "alerted": [
@@ -1958,7 +1998,8 @@
     "3P9fUkuooZGa1ygJtkq3jqQRFNknoULFgQYMpmnFsYND",
     "BYaxkgDfkUApMgsXu4SiJ5yc6DTSfLxp6an3PvVVpump",
     "AoJUHgDTYAFVQbUDsk7SJWh9gajG28UJKjNN8DGfpump",
-    "7rRNjSyx4vAcAY3KcFkrrmZpmhnmpBRYodr1TwcUpump"
+    "7rRNjSyx4vAcAY3KcFkrrmZpmhnmpBRYodr1TwcUpump",
+    "BiFfzEETEN4wG1vCQLmKk7nBcAcDzVrTEgX3fDiLpump"
   ],
   "rejected": [
     "5eWBXgRExQDzYq8mL7ZKhS6SH3tYACTZekgt92a9Kxrw",
