@@ -1355,16 +1355,6 @@
       "created_at": "2026-09-29T06:42:37.322275281Z",
       "first_seen": "2026-09-29T06:43:07.609555+00:00"
     },
-    "36RKUDQu5sJggjnRcWnAomH8dSmv1gq5zgVQ73DrBear": {
-      "symbol": "GFB",
-      "created_at": "2026-09-29T06:45:22.827542574Z",
-      "first_seen": "2026-09-29T06:45:33.386352+00:00",
-      "confirm": {
-        "liquidity": 18274.59,
-        "market_cap": 48887,
-        "at": "2026-09-29T06:57:45.782417+00:00"
-      }
-    },
     "27FD7Ri6Zh6d7PHZmK2AcCvhAdH5PAnKQkFP1znKpump": {
       "symbol": "PUMPSWORD",
       "created_at": "2026-09-29T06:45:20.907080445Z",
@@ -1654,6 +1644,56 @@
       "symbol": "GFB",
       "created_at": "2026-09-29T06:57:22.705064077Z",
       "first_seen": "2026-09-29T06:57:45.782187+00:00"
+    },
+    "9MQV8N7qcrzB8MtEzv4mHzqsVzT9EfmFGeXLrW7bpump": {
+      "symbol": "1100",
+      "created_at": "2026-09-29T07:00:08.426543512Z",
+      "first_seen": "2026-09-29T07:00:13.893810+00:00"
+    },
+    "4eaCgpaHACw9LFCD3QiHrqbLRdpCcfghNVNjdWPppump": {
+      "symbol": "BLISS",
+      "created_at": "2026-09-29T07:00:06.892926981Z",
+      "first_seen": "2026-09-29T07:00:13.893810+00:00"
+    },
+    "Ghavxfr2jUsmM8u53EDsDZvp3BTahWYJ4km26RsWpump": {
+      "symbol": "SEND",
+      "created_at": "2026-09-29T07:00:05.133193287Z",
+      "first_seen": "2026-09-29T07:00:13.893810+00:00"
+    },
+    "45oBVmdJd5gAiRYbCveu9KFn1aRpYpo5M23cbuGWpump": {
+      "symbol": "KryptoPay",
+      "created_at": "2026-09-29T07:00:03.533720061Z",
+      "first_seen": "2026-09-29T07:00:13.893810+00:00"
+    },
+    "H9Fc4tSQdsaZhJwvq1GydkE1EE7PSLr53iXWVN2iBAGS": {
+      "symbol": "CHAD",
+      "created_at": "2026-09-29T07:00:01.887413Z",
+      "first_seen": "2026-09-29T07:00:13.893810+00:00"
+    },
+    "5x7HU74SFn5JjNQQki4UAjQjz6ZchQEboeyGX4HaBxv6": {
+      "symbol": "SPENDR",
+      "created_at": "2026-09-29T06:59:56.092347564Z",
+      "first_seen": "2026-09-29T07:00:13.893810+00:00"
+    },
+    "9xx9f4iozc52FvDNNA45JWWey5hpwE61kiiPUpcbpump": {
+      "symbol": "ST",
+      "created_at": "2026-09-29T06:59:55.872421912Z",
+      "first_seen": "2026-09-29T07:00:13.893810+00:00"
+    },
+    "2uT6FeJq8dXPwhX1hemUtToaoE3h4wfpcNY9Z7GBBAGS": {
+      "symbol": "PELICYCLE",
+      "created_at": "2026-09-29T06:59:51.964111145Z",
+      "first_seen": "2026-09-29T07:00:13.893810+00:00"
+    },
+    "7CfBWfRG2PJbx8Fbvwr1tznekQzRKCGtQ8a18edGpump": {
+      "symbol": "ULTRA",
+      "created_at": "2026-09-29T06:59:51.217311713Z",
+      "first_seen": "2026-09-29T07:00:13.893810+00:00"
+    },
+    "GbmtkgNTZAcV1BhPQX9tHKJLmfQiRapomMeVpDjFrAz5": {
+      "symbol": "",
+      "created_at": "2026-09-29T06:59:49.044667375Z",
+      "first_seen": "2026-09-29T07:00:13.893810+00:00"
     }
   },
   "alerted": [
@@ -2000,7 +2040,8 @@
     "7SpVU1kJEDtrQexRWgZy64ZXnHjhHyimRjB2zmHZpump",
     "ArV7g2VBDHTUvfJTwCPYzzPJRozHbdS94QigVPuFpump",
     "HfvC4L2diAbmejAuZ96QgyTUJUcC4LhaXBGv4piHpump",
-    "rfPQP2BimiUtC1m4M6JZG7CmeSDQqZqcG9t3X4spump"
+    "rfPQP2BimiUtC1m4M6JZG7CmeSDQqZqcG9t3X4spump",
+    "36RKUDQu5sJggjnRcWnAomH8dSmv1gq5zgVQ73DrBear"
   ],
   "rejected": [
     "RPDKY4FQacZ2cbmnGYpgTXC8hWDtjr5zGVeBDzcpump",
