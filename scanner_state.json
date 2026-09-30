@@ -1898,7 +1898,12 @@
     "FoM5oWHbduAkfJqCxgd9syTcd17TdzHwafb4dz15dare": {
       "symbol": "DOTD",
       "created_at": "2026-09-30T16:36:25.088311317Z",
-      "first_seen": "2026-09-30T16:36:26.162601+00:00"
+      "first_seen": "2026-09-30T16:36:26.162601+00:00",
+      "confirm": {
+        "liquidity": 41240.96,
+        "market_cap": 153991,
+        "at": "2026-09-30T16:47:22.511189+00:00"
+      }
     },
     "8BSQdTSWC1vW7YYKyW7dbF49C7sSVLwRBhPLiRUVqUPC": {
       "symbol": "SLPY",
@@ -2094,6 +2099,56 @@
       "symbol": "LONG",
       "created_at": "2026-09-30T16:44:25.44445494Z",
       "first_seen": "2026-09-30T16:44:38.040318+00:00"
+    },
+    "9u1arzGyK8u7GfRV6U94ypqWAFQRHCfnYEJSTVd38xRZ": {
+      "symbol": "",
+      "created_at": "2026-09-30T16:47:21.649149281Z",
+      "first_seen": "2026-09-30T16:47:22.510799+00:00"
+    },
+    "GsGjWqGVWD3z2bYrEM8hCkgovQCNnYk5QjJ53bwkpump": {
+      "symbol": "Prime",
+      "created_at": "2026-09-30T16:47:21.319726305Z",
+      "first_seen": "2026-09-30T16:47:22.510799+00:00"
+    },
+    "AxR1ahPdaUhFPnF1PVF1LbQQkLWWKpVrskC7qkYeSTNK": {
+      "symbol": "Comando",
+      "created_at": "2026-09-30T16:47:18.087882855Z",
+      "first_seen": "2026-09-30T16:47:22.510799+00:00"
+    },
+    "8G6Dnif7nBJNjLsHa3nV8t5n1fQ3WQd1dLRCGZBvpump": {
+      "symbol": "KRONK",
+      "created_at": "2026-09-30T16:47:17.664701992Z",
+      "first_seen": "2026-09-30T16:47:22.510799+00:00"
+    },
+    "99C2MaFR5hpNrKMT4crTBXVbVhzf8k8aRYadqix8pump": {
+      "symbol": "FUNERAL",
+      "created_at": "2026-09-30T16:47:17.465655839Z",
+      "first_seen": "2026-09-30T16:47:22.510799+00:00"
+    },
+    "HFektA9YmP6MUvRLa9qoWV1txDUcKqUyjWWUFPJfBAGS": {
+      "symbol": "CLAUDIA",
+      "created_at": "2026-09-30T16:47:12.82417966Z",
+      "first_seen": "2026-09-30T16:47:22.510799+00:00"
+    },
+    "2NFEd9AtGc2nguAfYjNjTrMhSaN9DddXK4tJ2iLmY6Bx": {
+      "symbol": "POTUS",
+      "created_at": "2026-09-30T16:47:12.813289032Z",
+      "first_seen": "2026-09-30T16:47:22.510799+00:00"
+    },
+    "GgarQ5FZY2JQQVLfr4qD5rjk1apYnLLWHXg8tuv2Lnzv": {
+      "symbol": "THESIS",
+      "created_at": "2026-09-30T16:47:12.24998564Z",
+      "first_seen": "2026-09-30T16:47:22.510799+00:00"
+    },
+    "FMZNyaLtDbKPg8wrzecb51W7f5UbWjLxreHLkwRdpump": {
+      "symbol": "SI",
+      "created_at": "2026-09-30T16:47:11.858157754Z",
+      "first_seen": "2026-09-30T16:47:22.510799+00:00"
+    },
+    "HMXGM71Ak16BnLtDVESbFgjDsYBcmfhdMcoiucvupump": {
+      "symbol": "UMSI",
+      "created_at": "2026-09-30T16:47:07.742584229Z",
+      "first_seen": "2026-09-30T16:47:22.510799+00:00"
     }
   },
   "alerted": [
