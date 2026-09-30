@@ -1,55 +1,5 @@
 {
   "pending": {
-    "F6MtPB1nfiANFJ2khHEfsFRP4teJRka4AVCzrA5RHpcG": {
-      "symbol": "INUWEEN",
-      "created_at": "2026-09-30T10:57:39.661721836Z",
-      "first_seen": "2026-09-30T10:57:42.162224+00:00"
-    },
-    "C6wmpf2YzgMyNAAByvAuBK8RtLnwo8SoJ9sGLGS22Yum": {
-      "symbol": "MPN",
-      "created_at": "2026-09-30T10:57:39.327014173Z",
-      "first_seen": "2026-09-30T10:57:42.162224+00:00"
-    },
-    "AbJe2oEhdH6UTp1Yaw4x9rRd8X4xFY9GZnkwgY3JcZgf": {
-      "symbol": "\u30c1\u30ae\u30e5",
-      "created_at": "2026-09-30T10:57:38.507880697Z",
-      "first_seen": "2026-09-30T10:57:42.162224+00:00"
-    },
-    "6T1MVuE8jTzqdwhDWEKD1VbbNHCAWwTEdun4Q5vJqYGx": {
-      "symbol": "OWP",
-      "created_at": "2026-09-30T10:57:37.239087676Z",
-      "first_seen": "2026-09-30T10:57:42.162224+00:00"
-    },
-    "4T4tVrxoLoCwkqYJhLNercfvZ2qpqDzgsYPQRRtppump": {
-      "symbol": "Zero",
-      "created_at": "2026-09-30T10:57:36.920115976Z",
-      "first_seen": "2026-09-30T10:57:42.162224+00:00"
-    },
-    "G4RrwFpCnEh5mSeKCTVqUNtHqgKB31T4PraWGvyCqQpb": {
-      "symbol": "jesus",
-      "created_at": "2026-09-30T10:57:34.075481831Z",
-      "first_seen": "2026-09-30T10:57:42.162224+00:00"
-    },
-    "DtM6cT3x25f57FEfP2LUtq6jVvB6YDZf5DsqdfS4Wprt": {
-      "symbol": "",
-      "created_at": "2026-09-30T10:57:31.684279512Z",
-      "first_seen": "2026-09-30T10:57:42.162224+00:00"
-    },
-    "81YkrzSCSuqMvzdDYHBUD5e5eLvnhmrR1xbamzNUX5bq": {
-      "symbol": "",
-      "created_at": "2026-09-30T10:57:27.863553845Z",
-      "first_seen": "2026-09-30T10:57:42.162224+00:00"
-    },
-    "H1i3PzUhhjoeRkLkjCJi1b1SBJ2CnJhcuJfGSAtZpump": {
-      "symbol": "QR Pengu",
-      "created_at": "2026-09-30T10:57:26.778107433Z",
-      "first_seen": "2026-09-30T10:57:42.162224+00:00"
-    },
-    "3dnnex5zPBgz9eA8FmZr5Jh51gtdw3qSRp7VCnfNpump": {
-      "symbol": "bukangi",
-      "created_at": "2026-09-30T10:57:26.714272864Z",
-      "first_seen": "2026-09-30T10:57:42.162224+00:00"
-    },
     "C8uUEKmbTDmfGYPq1NzitDZytteunD5XcQLKqUHCpump": {
       "symbol": "All",
       "created_at": "2026-09-30T10:59:54.127124199Z",
@@ -618,7 +568,12 @@
     "BorF4sub6GwbzTTuMDMjUn6qCMLx33Rz5oUKyzbnpump": {
       "symbol": "daopad",
       "created_at": "2026-09-30T12:43:05.553989467Z",
-      "first_seen": "2026-09-30T12:43:13.827326+00:00"
+      "first_seen": "2026-09-30T12:43:13.827326+00:00",
+      "confirm": {
+        "liquidity": 22215.07,
+        "market_cap": 68765,
+        "at": "2026-09-30T12:59:11.330855+00:00"
+      }
     },
     "BXVamiae65qnTRT6jS7xM4Ss6DXdfQ5PtWnf4RxRpump": {
       "symbol": "SPRHMN",
@@ -949,6 +904,56 @@
       "symbol": "",
       "created_at": "2026-09-30T12:56:39.20221835Z",
       "first_seen": "2026-09-30T12:56:51.176644+00:00"
+    },
+    "9M3Vchq7Kr7mXky64NHnWpdCKy1oLBhzKFn5TJqspump": {
+      "symbol": "Croco",
+      "created_at": "2026-09-30T12:59:09.532383179Z",
+      "first_seen": "2026-09-30T12:59:11.330503+00:00"
+    },
+    "6XDGdBRa5miiTQ8dATdKdcMH6bZAUBUHvuU3sx8pp67q": {
+      "symbol": "SI",
+      "created_at": "2026-09-30T12:59:09.400282094Z",
+      "first_seen": "2026-09-30T12:59:11.330503+00:00"
+    },
+    "3fC9QMgqJhnzbQwiH9PWDdVr1CGQmhTurUmSB5N1mypt": {
+      "symbol": "dap",
+      "created_at": "2026-09-30T12:59:09.018138267Z",
+      "first_seen": "2026-09-30T12:59:11.330503+00:00"
+    },
+    "3V4akSkApGAwPK6YZGBXVCWF65HSEucCqUMXezZsCenm": {
+      "symbol": "SI",
+      "created_at": "2026-09-30T12:59:07.629486063Z",
+      "first_seen": "2026-09-30T12:59:11.330503+00:00"
+    },
+    "6mE845b9hjrBWanUWtnsorjhJ9Ygh2JBbG63N9Zbpump": {
+      "symbol": "SINGULAR",
+      "created_at": "2026-09-30T12:59:07.625443795Z",
+      "first_seen": "2026-09-30T12:59:11.330503+00:00"
+    },
+    "ENcGrx1rjMZGHShghL1GeK2W8mBGEUuRCAfKxVr8pump": {
+      "symbol": "WW",
+      "created_at": "2026-09-30T12:59:07.537916705Z",
+      "first_seen": "2026-09-30T12:59:11.330503+00:00"
+    },
+    "Gctt6wU2jh6XyUo8KQV5eJTaCrRXSB3XDUmnYgxSP1oT": {
+      "symbol": "NAZI",
+      "created_at": "2026-09-30T12:59:06.087047615Z",
+      "first_seen": "2026-09-30T12:59:11.330503+00:00"
+    },
+    "AhD4KE8Vq4ZLwHn5nhivt8r7vyrBrvgXRFufcRhdUPz": {
+      "symbol": "smit",
+      "created_at": "2026-09-30T12:59:04.920378208Z",
+      "first_seen": "2026-09-30T12:59:11.330503+00:00"
+    },
+    "DTYvaBg1HjB69CYcQiUNywssC14R9UxtcMpdn92oGfK4": {
+      "symbol": "smit",
+      "created_at": "2026-09-30T12:59:04.667445253Z",
+      "first_seen": "2026-09-30T12:59:11.330503+00:00"
+    },
+    "4tnUXeu6WRyH6MEaukDwBueJEnW9kwkuzeMrRnCcpump": {
+      "symbol": "HALH",
+      "created_at": "2026-09-30T12:59:01.541817585Z",
+      "first_seen": "2026-09-30T12:59:11.330503+00:00"
     }
   },
   "alerted": [
