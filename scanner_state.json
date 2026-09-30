@@ -180,16 +180,6 @@
       "created_at": "2026-09-30T22:16:28.16828561Z",
       "first_seen": "2026-09-30T22:16:32.614376+00:00"
     },
-    "CmSxvYNLvy6t3cUWe33H9CBN7BYQa8TZJaP3FY4Apump": {
-      "symbol": "SC",
-      "created_at": "2026-09-30T22:16:27.130960559Z",
-      "first_seen": "2026-09-30T22:16:32.614376+00:00",
-      "confirm": {
-        "liquidity": 20037.69,
-        "market_cap": 58617,
-        "at": "2026-09-30T22:37:17.091428+00:00"
-      }
-    },
     "A3kHc6388stRdbhEu26E9NBVFjjqB9LkKVXEHLWtMr3R": {
       "symbol": "MONKEY",
       "created_at": "2026-09-30T22:16:25.475400627Z",
@@ -694,6 +684,56 @@
       "symbol": "",
       "created_at": "2026-09-30T22:36:56.079179628Z",
       "first_seen": "2026-09-30T22:37:17.091120+00:00"
+    },
+    "7VfWVo94tCAoBGbkMJbCF5eZLJL2uVnCwuK1KWhYpump": {
+      "symbol": "Ai",
+      "created_at": "2026-09-30T22:39:23.679170884Z",
+      "first_seen": "2026-09-30T22:39:27.208910+00:00"
+    },
+    "EZ3bZMZHyLBKduhTghc7F4o53V517bFsN7Wx2TaqKnoH": {
+      "symbol": "JIVES",
+      "created_at": "2026-09-30T22:39:23.011129304Z",
+      "first_seen": "2026-09-30T22:39:27.208910+00:00"
+    },
+    "C9pTiNWrytBmceH33HZe3MKZawjHi1YNeDH5238Ypump": {
+      "symbol": "PUGGY",
+      "created_at": "2026-09-30T22:39:21.502136663Z",
+      "first_seen": "2026-09-30T22:39:27.208910+00:00"
+    },
+    "AgdSw1e3Xiy39XvGuvv8QTmpRjehyGSaPxmmz9dgpump": {
+      "symbol": "SOLDIT",
+      "created_at": "2026-09-30T22:39:19.480069452Z",
+      "first_seen": "2026-09-30T22:39:27.208910+00:00"
+    },
+    "2bEZz3pznSDU3ET9rKW7Lr6PQM4TmvoXik84L4Swpump": {
+      "symbol": "PITTBULL",
+      "created_at": "2026-09-30T22:39:17.961266305Z",
+      "first_seen": "2026-09-30T22:39:27.208910+00:00"
+    },
+    "2pAAwMwAYbqmwu2RHrpwF9xh1A9VZXiUuiLHqG4ipump": {
+      "symbol": "SHILL",
+      "created_at": "2026-09-30T22:39:17.901797064Z",
+      "first_seen": "2026-09-30T22:39:27.208910+00:00"
+    },
+    "3u4zAmV3GmCqSVvz3jEE6ePjBpo28dGrisdr36Ca7urC": {
+      "symbol": "RVITALIK",
+      "created_at": "2026-09-30T22:39:17.900071146Z",
+      "first_seen": "2026-09-30T22:39:27.208910+00:00"
+    },
+    "8wWLGpYZRWwouSfUa3g7YLfSbeMeGh4D8dhMcH9GEUWp": {
+      "symbol": "Inus",
+      "created_at": "2026-09-30T22:39:17.150900572Z",
+      "first_seen": "2026-09-30T22:39:27.208910+00:00"
+    },
+    "HkM3zmymDyAK5xaDGHw5bei3jdhf4RPbGvQ69roD8SNn": {
+      "symbol": "ARTHUR",
+      "created_at": "2026-09-30T22:39:15.813085297Z",
+      "first_seen": "2026-09-30T22:39:27.208910+00:00"
+    },
+    "HSZB7PKiCcmBdMAPYmU4N42TfzDvk3BiUX5mV6ZvaXLV": {
+      "symbol": "TOKEN",
+      "created_at": "2026-09-30T22:39:15.696353732Z",
+      "first_seen": "2026-09-30T22:39:27.208910+00:00"
     }
   },
   "alerted": [
@@ -1060,7 +1100,8 @@
     "FoM5oWHbduAkfJqCxgd9syTcd17TdzHwafb4dz15dare",
     "DR4oq3D4ZniTfeMmoxnF61BnN8CAQge7rH2gfV3epump",
     "2QHXWq5TK64JbMptwMBP1BsfhrxZRRv9JsLa17X7pump",
-    "HwqzsNd4VMTiqMZTXaAMYuY8BymtDmwR8cK1dWy3pump"
+    "HwqzsNd4VMTiqMZTXaAMYuY8BymtDmwR8cK1dWy3pump",
+    "CmSxvYNLvy6t3cUWe33H9CBN7BYQa8TZJaP3FY4Apump"
   ],
   "rejected": [
     "BgK3kNrzc124nivkR3756Xgj3MLGeLxw1pazRnpD4XRq",
