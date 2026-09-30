@@ -1755,11 +1755,6 @@
       "created_at": "2026-09-30T13:49:20.103156169Z",
       "first_seen": "2026-09-30T13:49:28.982512+00:00"
     },
-    "PEYMPE7pk4KJmRn51KZsTgXPUh1zVMRxWbsWygapump": {
-      "symbol": "UDR",
-      "created_at": "2026-09-30T13:49:16.886527039Z",
-      "first_seen": "2026-09-30T13:49:28.982512+00:00"
-    },
     "4FCnA14eor1iJXkjyJbwZ2MgiteDHqRLL8Jmx9anThH7": {
       "symbol": "orgy",
       "created_at": "2026-09-30T13:51:57.660254721Z",
@@ -1909,6 +1904,56 @@
       "symbol": "S\u00cd",
       "created_at": "2026-09-30T13:57:03.804277521Z",
       "first_seen": "2026-09-30T13:57:21.110345+00:00"
+    },
+    "9R6cz4MYjeF3ZDUNGBbBaHhFGHYgiB82YBJxERhKigSV": {
+      "symbol": "OWP",
+      "created_at": "2026-09-30T13:59:50.639340805Z",
+      "first_seen": "2026-09-30T13:59:59.001398+00:00"
+    },
+    "A2V4P7LQjCAMbAo3ThhGYq9Vdhzm8FwWLcYMhhR5pump": {
+      "symbol": "10XPUMP",
+      "created_at": "2026-09-30T13:59:46.624269582Z",
+      "first_seen": "2026-09-30T13:59:59.001398+00:00"
+    },
+    "Hh6DigBvk4HxkV5G6M8zf4SygBGAXgPCsheMJSVC26L7": {
+      "symbol": "BitSuperGuy",
+      "created_at": "2026-09-30T13:59:46.13291532Z",
+      "first_seen": "2026-09-30T13:59:59.001398+00:00"
+    },
+    "CKqUPczss8UvzmCfTQiryLEJfN6k2BPcmjL4RQbqpump": {
+      "symbol": "Upsol",
+      "created_at": "2026-09-30T13:59:46.117859394Z",
+      "first_seen": "2026-09-30T13:59:59.001398+00:00"
+    },
+    "5q4nTac64rXP1HMY18WWPfyPBXXjUgLoFCiNEjvDwW1u": {
+      "symbol": "BOAT",
+      "created_at": "2026-09-30T13:59:45.135057698Z",
+      "first_seen": "2026-09-30T13:59:59.001398+00:00"
+    },
+    "GeNiwCKTUQsPY7yK1VCsmp5YCjWvTerjG76zFgApump": {
+      "symbol": "BACKROOM",
+      "created_at": "2026-09-30T13:59:45.030651806Z",
+      "first_seen": "2026-09-30T13:59:59.001398+00:00"
+    },
+    "9yPtEZ3SYAUtb4hFn8xK2N8BFsSVqcBrVrW8kzMtpump": {
+      "symbol": "crap",
+      "created_at": "2026-09-30T13:59:44.132712941Z",
+      "first_seen": "2026-09-30T13:59:59.001398+00:00"
+    },
+    "5dAMqaaw5bFNiDPDkbE7z7EctQPjcHe1uSELX16RE1g6": {
+      "symbol": "BitSuperGuy",
+      "created_at": "2026-09-30T13:59:42.396981481Z",
+      "first_seen": "2026-09-30T13:59:59.001398+00:00"
+    },
+    "2H6rUehdkQdNGeGF79qwPJgcsfM5JLpoPKYyFcFBfbvo": {
+      "symbol": "SI",
+      "created_at": "2026-09-30T13:59:42.286951556Z",
+      "first_seen": "2026-09-30T13:59:59.001398+00:00"
+    },
+    "2rBGBBZwT2Tymi61rnaTK119ibPT93MWhKNLHNusD1pA": {
+      "symbol": "BitcoinSIGuy",
+      "created_at": "2026-09-30T13:59:42.183774852Z",
+      "first_seen": "2026-09-30T13:59:59.001398+00:00"
     }
   },
   "alerted": [
@@ -2273,7 +2318,6 @@
     "3Cnyn7GchZafTrBBGUajMNb1LecHtKKoEC6tmVXzpump"
   ],
   "rejected": [
-    "4QnBpv9pY15eQ4QGXJCz61cvALE1JZkHUJXZQy6Qpump",
     "cGLvJDLpdYNKk11hSNBz1w6LW42CNViznGsmEFDpump",
     "6WKSyC3gt2AjcA3NnCpSPpiK2eEjJP3gPfDHs3TfnRGX",
     "B2kZTUG6fXAuGtMkkcPV7bgKZHDBJ6eszK3jaGdgEAdH",
@@ -4272,6 +4316,7 @@
     "LT8i2VRQJL75DrDNtKu3gzPzuU5mGfZCrrFAqK5NB3k",
     "7qSc5VykXFGXtBpUGPosz1efGieUoEn8gHShQP6ANXcc",
     "724eHDvqgZuQGnsLSM95LPrVuiXrhtoUHT4d2kbH3e6Q",
-    "AQ9cZFZ5L1x1fGKyxcfpHS8AxTAWbpMtCoSLUWzkFw6L"
+    "AQ9cZFZ5L1x1fGKyxcfpHS8AxTAWbpMtCoSLUWzkFw6L",
+    "PEYMPE7pk4KJmRn51KZsTgXPUh1zVMRxWbsWygapump"
   ]
 }
