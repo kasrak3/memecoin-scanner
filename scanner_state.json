@@ -170,11 +170,6 @@
       "created_at": "2026-09-30T22:16:30.467676655Z",
       "first_seen": "2026-09-30T22:16:32.614376+00:00"
     },
-    "GPuN3s5PZTPcQV7cykNaTyX9cVesPSyz7111nsNKu4cv": {
-      "symbol": "CSFUN",
-      "created_at": "2026-09-30T22:16:29.295201367Z",
-      "first_seen": "2026-09-30T22:16:32.614376+00:00"
-    },
     "2UuFkx7hYrmrrbTwRnu9wNRLgzgDRQYffysWn8kdonD3": {
       "symbol": "",
       "created_at": "2026-09-30T22:16:28.953389523Z",
@@ -193,7 +188,12 @@
     "HXm1NDNiag86JCSk3bQ2b4ctYtvUkY9JH3r3aNCzpump": {
       "symbol": "f/acc",
       "created_at": "2026-09-30T22:16:26.339589834Z",
-      "first_seen": "2026-09-30T22:16:32.614376+00:00"
+      "first_seen": "2026-09-30T22:16:32.614376+00:00",
+      "confirm": {
+        "liquidity": 26589.14,
+        "market_cap": 92491,
+        "at": "2026-09-30T22:26:44.523734+00:00"
+      }
     },
     "A3kHc6388stRdbhEu26E9NBVFjjqB9LkKVXEHLWtMr3R": {
       "symbol": "MONKEY",
@@ -399,6 +399,56 @@
       "symbol": "HIGHASF",
       "created_at": "2026-09-30T22:24:17.421451234Z",
       "first_seen": "2026-09-30T22:24:41.049432+00:00"
+    },
+    "4jjdCZfr9JjGjhLSJu2YDVtLmV662SnQwnHPJQTmiaRd": {
+      "symbol": "TWAIN",
+      "created_at": "2026-09-30T22:26:37.231401557Z",
+      "first_seen": "2026-09-30T22:26:44.523433+00:00"
+    },
+    "5tSRRyiXFmeMgAjHR8cGeZhx8ryn71AmEkgAa9Stpump": {
+      "symbol": "WANK",
+      "created_at": "2026-09-30T22:26:36.872473591Z",
+      "first_seen": "2026-09-30T22:26:44.523433+00:00"
+    },
+    "2FwfRApsKFwkYhu6DHakS29Mr5pvSN1qrtQCDZiCjcat": {
+      "symbol": "CRYINGCAT",
+      "created_at": "2026-09-30T22:26:35.867843289Z",
+      "first_seen": "2026-09-30T22:26:44.523433+00:00"
+    },
+    "F62nQ5ftV86DEJP8qaD9hK2v4nQuyTxuqw4DxkpLpump": {
+      "symbol": "SlopPad",
+      "created_at": "2026-09-30T22:26:33.710311648Z",
+      "first_seen": "2026-09-30T22:26:44.523433+00:00"
+    },
+    "AvcxYeMAPV3yZ2LT1depFy9R4913btDrGV8NYhripump": {
+      "symbol": "HIGHASF",
+      "created_at": "2026-09-30T22:26:33.429721068Z",
+      "first_seen": "2026-09-30T22:26:44.523433+00:00"
+    },
+    "6RwkkStPbrP7ad6Ybd9QETqXuHyt8YDA7qw6233Qpump": {
+      "symbol": "si",
+      "created_at": "2026-09-30T22:26:30.673349949Z",
+      "first_seen": "2026-09-30T22:26:44.523433+00:00"
+    },
+    "9tRK3kv1jvmCNEBFVRajF4jEoqVbj89XGruf9hr9pump": {
+      "symbol": "DERP",
+      "created_at": "2026-09-30T22:26:30.635880339Z",
+      "first_seen": "2026-09-30T22:26:44.523433+00:00"
+    },
+    "9HTLcj1mKN4xFCEqJH5yK3HBbkWLmSxdTQK5J5QFpump": {
+      "symbol": "SAUSAGE",
+      "created_at": "2026-09-30T22:26:28.693661387Z",
+      "first_seen": "2026-09-30T22:26:44.523433+00:00"
+    },
+    "Cgirv9FvB4cCCZCDRiQcwkaHHa6ZGtWgkjgi9Eb4igib": {
+      "symbol": "LOOKING",
+      "created_at": "2026-09-30T22:26:26.950166682Z",
+      "first_seen": "2026-09-30T22:26:44.523433+00:00"
+    },
+    "3eQTQXAAVuJEhTDvKH44UkzYpVuGXNdfbRfwYCxY2ZCE": {
+      "symbol": "Niggerinu",
+      "created_at": "2026-09-30T22:26:26.263602593Z",
+      "first_seen": "2026-09-30T22:26:44.523433+00:00"
     }
   },
   "alerted": [
@@ -768,7 +818,6 @@
     "HwqzsNd4VMTiqMZTXaAMYuY8BymtDmwR8cK1dWy3pump"
   ],
   "rejected": [
-    "LU7K3swvEHccz9zwrv6kdatSnsVPkGcTgrKD8LYpump",
     "LAPvT8fzcPt7WzcrEvdQVYWWJMvCZz2yLJ25b1SwTtC",
     "BgK3kNrzc124nivkR3756Xgj3MLGeLxw1pazRnpD4XRq",
     "95NAr7ytDmphuFzSU2UDCCs5tpePY6Mgrp8zwuBopENB",
@@ -2767,6 +2816,7 @@
     "B2HT9AR2TRr3NRtV8NNLJG4MMPf3RuyiS7E63exafFPZ",
     "95pJBTEbt4EY3zriYQXmXKkj5S3V9Ha7DPXcNwxKwhUF",
     "DsivjXSJPZmAgnqW8xYxN6Ma252ryryU9aAtkiT8pump",
-    "9ECMdHT19uRzX3Exys9WSoYU5sUfjDwwxBYW4bf9wBEC"
+    "9ECMdHT19uRzX3Exys9WSoYU5sUfjDwwxBYW4bf9wBEC",
+    "GPuN3s5PZTPcQV7cykNaTyX9cVesPSyz7111nsNKu4cv"
   ]
 }
