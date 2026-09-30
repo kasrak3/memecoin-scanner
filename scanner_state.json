@@ -620,11 +620,6 @@
       "created_at": "2026-09-30T05:50:30.249800846Z",
       "first_seen": "2026-09-30T05:50:45.390593+00:00"
     },
-    "5PaDq8CSzadE5h9AW9767AxyzyNgnR46e9B6bUJ7pump": {
-      "symbol": "NVIDIA",
-      "created_at": "2026-09-30T05:50:30.221068712Z",
-      "first_seen": "2026-09-30T05:50:45.390593+00:00"
-    },
     "2LgeUPXhY8bVoB9Fc7jo7qq5PHWgxnZaNjbFdRefpump": {
       "symbol": "TELL",
       "created_at": "2026-09-30T05:50:27.698657886Z",
@@ -829,6 +824,56 @@
       "symbol": "BMI",
       "created_at": "2026-09-30T05:58:58.667076792Z",
       "first_seen": "2026-09-30T05:59:18.568893+00:00"
+    },
+    "34FWirqQCa8ZM1neY6GuQuK56Xg7imNCA3KrB9CUuWaz": {
+      "symbol": "ene",
+      "created_at": "2026-09-30T06:01:19.649021672Z",
+      "first_seen": "2026-09-30T06:01:26.719860+00:00"
+    },
+    "2cKZYFR4s7xAfdjuE2ZfAz5GLvQUk6tSDEEN58bhgH2t": {
+      "symbol": "PEACE",
+      "created_at": "2026-09-30T06:01:19.192461137Z",
+      "first_seen": "2026-09-30T06:01:26.719860+00:00"
+    },
+    "4WnfX5ksTvupp6yLshKpoNF86vxXaZVTSSZ48Y7qpump": {
+      "symbol": "ULTRA",
+      "created_at": "2026-09-30T06:01:18.343413645Z",
+      "first_seen": "2026-09-30T06:01:26.719860+00:00"
+    },
+    "C5oLYQcHJQ6z1afxGxVzT5JfWYvbuBWq8o4h7YbRG4kC": {
+      "symbol": "OIL",
+      "created_at": "2026-09-30T06:01:16.136396769Z",
+      "first_seen": "2026-09-30T06:01:26.719860+00:00"
+    },
+    "9GYMZEzM1svkuda5KPZ35SD7zvUUCxRtHGmxu4Fwpump": {
+      "symbol": "INU",
+      "created_at": "2026-09-30T06:01:14.895514406Z",
+      "first_seen": "2026-09-30T06:01:26.719860+00:00"
+    },
+    "8p1jFZLEjTeA9Z4wXXKd2ypbR6sXN2tmnng5xkeoK6Ry": {
+      "symbol": "offchain",
+      "created_at": "2026-09-30T06:01:12.876088424Z",
+      "first_seen": "2026-09-30T06:01:26.719860+00:00"
+    },
+    "FTFwBC8pp8WjyC3oaF8D3edx8Bxt9afzAL3SaJTWmRnf": {
+      "symbol": "DEGFRO",
+      "created_at": "2026-09-30T06:01:11.884861491Z",
+      "first_seen": "2026-09-30T06:01:26.719860+00:00"
+    },
+    "DECJT3FrPVToDrRgQDv38z9idkdpZM8UJco2Mukjpump": {
+      "symbol": "JasonMomoa",
+      "created_at": "2026-09-30T06:01:09.808531344Z",
+      "first_seen": "2026-09-30T06:01:26.719860+00:00"
+    },
+    "21rTtGwhRRgJr6s4Z2k244aey7SwyPXjrw8R6zM3pump": {
+      "symbol": "aura",
+      "created_at": "2026-09-30T06:01:08.661611511Z",
+      "first_seen": "2026-09-30T06:01:26.719860+00:00"
+    },
+    "EmcP8azZYggiRVaKvEiUCtfs7wM1qkxNJ2iWuv95PijB": {
+      "symbol": "",
+      "created_at": "2026-09-30T06:01:04.495591145Z",
+      "first_seen": "2026-09-30T06:01:26.719860+00:00"
     }
   },
   "alerted": [
@@ -1189,7 +1234,6 @@
     "486U4LyqMsHUvCwNrxXDgZ94BZNuCJ5rPDEkssC2hJi9"
   ],
   "rejected": [
-    "6VnLMXWHFv6XPPi4psZLSXUqBSbggsRyNxMkQZS2NJay",
     "uuyqpQj8GUH1eDLFiZxTUNN5FRpdReZq51W98tVpump",
     "V34PdX7sf7gkJuXnV2ctgvW6Ck1VYTTJytjZrWjpump",
     "AB2XFaiL9ZCPtJhFC1xMGfYR19kJuwBpoWgi67EVQZic",
@@ -3188,6 +3232,7 @@
     "ftVen8BLzoZcXaLzunhg9Gxt8MhoTWezxAS3u59mLKt",
     "BRZZg5T7SMFKGftHFyibRsseaNdvuTXhYUSfneuuLhty",
     "9wa6LeAsGQMxHMVGmigSfDFuqkoFDBvJ6LKSm3pJRFo5",
-    "38s3TbDCWcii92vuqRgvJbjDsNoS1h7ewj1TA1pfNioC"
+    "38s3TbDCWcii92vuqRgvJbjDsNoS1h7ewj1TA1pfNioC",
+    "5PaDq8CSzadE5h9AW9767AxyzyNgnR46e9B6bUJ7pump"
   ]
 }
