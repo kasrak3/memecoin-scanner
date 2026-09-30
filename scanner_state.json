@@ -1,50 +1,5 @@
 {
   "pending": {
-    "Ez7SPMQQqFPZFCeXtqDGpGegXhBXZ4GzPNH7vfUpump": {
-      "symbol": "GOAT",
-      "created_at": "2026-09-30T15:46:26.513038604Z",
-      "first_seen": "2026-09-30T15:46:27.242984+00:00"
-    },
-    "CjRkpQojos1gEz1TR5KiXZ369mhRG5wWc1HMr38m1hSp": {
-      "symbol": "Palestinu",
-      "created_at": "2026-09-30T15:46:26.09153257Z",
-      "first_seen": "2026-09-30T15:46:27.242984+00:00"
-    },
-    "HMQro4kvuw5Qukntjmia3kahQj2j1axjF1heiCPrzZwk": {
-      "symbol": "",
-      "created_at": "2026-09-30T15:46:24.056823236Z",
-      "first_seen": "2026-09-30T15:46:27.242984+00:00"
-    },
-    "5T88edT6gqtxtxBNSQBfWA5BYf9mNzAspbixn6BFpump": {
-      "symbol": "LSI",
-      "created_at": "2026-09-30T15:46:22.539384184Z",
-      "first_seen": "2026-09-30T15:46:27.242984+00:00"
-    },
-    "EGmNYedaAZkCEMrqzgB1GDJamTDHrfPDFGQTu72wpump": {
-      "symbol": "SHELL",
-      "created_at": "2026-09-30T15:46:21.49809678Z",
-      "first_seen": "2026-09-30T15:46:27.242984+00:00"
-    },
-    "21ZfBwm983Q2Qh35Z6eECXWseZQxoWWbiRLUwiFjgUwR": {
-      "symbol": "POTUS",
-      "created_at": "2026-09-30T15:46:16.699323795Z",
-      "first_seen": "2026-09-30T15:46:27.242984+00:00"
-    },
-    "FL1MoadHtst4CKXAxGxEcJWMJH4ZoADFiiF3ZvQ7hwjD": {
-      "symbol": "SHOCK",
-      "created_at": "2026-09-30T15:46:16.248730966Z",
-      "first_seen": "2026-09-30T15:46:27.242984+00:00"
-    },
-    "3fHErE5rbPMYDrsCMrvA785tC8ui6wKya9sLY5jZpump": {
-      "symbol": "$BWIZ",
-      "created_at": "2026-09-30T15:46:15.940838524Z",
-      "first_seen": "2026-09-30T15:46:27.242984+00:00"
-    },
-    "GJh2jduW6GgGUF67s23ytdnvRd5LWu7p8Tjpefbkpump": {
-      "symbol": "Cicada17",
-      "created_at": "2026-09-30T15:46:15.81733674Z",
-      "first_seen": "2026-09-30T15:46:27.242984+00:00"
-    },
     "GnnBkKVBVJAQCP1VYUFun5ytjSTQEnPTzTo3Gpp36umo": {
       "symbol": "OPENDOTS",
       "created_at": "2026-09-30T15:49:07.674352094Z",
@@ -1948,7 +1903,12 @@
     "9ECMdHT19uRzX3Exys9WSoYU5sUfjDwwxBYW4bf9wBEC": {
       "symbol": "ELON",
       "created_at": "2026-09-30T17:37:20.853383602Z",
-      "first_seen": "2026-09-30T17:37:26.041759+00:00"
+      "first_seen": "2026-09-30T17:37:26.041759+00:00",
+      "confirm": {
+        "liquidity": 13592.52,
+        "market_cap": 29357,
+        "at": "2026-09-30T17:48:44.082281+00:00"
+      }
     },
     "2BaVDrnw3AF5vq8xQpBqtcpT5si762cDbsZQyJk9kf4y": {
       "symbol": "RI",
@@ -2139,6 +2099,56 @@
       "symbol": "OTC",
       "created_at": "2026-09-30T17:45:42.010407391Z",
       "first_seen": "2026-09-30T17:45:55.998028+00:00"
+    },
+    "FJ9JhWWjoxZAbauzkZbGpFqNoebr2ZPVCG6mX5Jhpump": {
+      "symbol": "OpenAI",
+      "created_at": "2026-09-30T17:48:39.537475579Z",
+      "first_seen": "2026-09-30T17:48:44.081902+00:00"
+    },
+    "CQo5YtZ6Y7YiwiigbcHqEXZp3H3TiUyBs3XFK6Mepump": {
+      "symbol": "CHILL",
+      "created_at": "2026-09-30T17:48:39.375732935Z",
+      "first_seen": "2026-09-30T17:48:44.081902+00:00"
+    },
+    "4tNKrAVFStKpaz1MhpfjYnzw1DH5DaM9BmB1xJKBrT4z": {
+      "symbol": "PACINU",
+      "created_at": "2026-09-30T17:48:37.184797551Z",
+      "first_seen": "2026-09-30T17:48:44.081902+00:00"
+    },
+    "9BdP48TrF8Q53RGFTGWJASsroHvNeNCg8F7mti1L2DWw": {
+      "symbol": "",
+      "created_at": "2026-09-30T17:48:35.909912206Z",
+      "first_seen": "2026-09-30T17:48:44.081902+00:00"
+    },
+    "5pLHyPqR6xnJpRusVb8ErXQnkE3v7qxLHLowEJHy3VLr": {
+      "symbol": "UHI",
+      "created_at": "2026-09-30T17:48:35.671950689Z",
+      "first_seen": "2026-09-30T17:48:44.081902+00:00"
+    },
+    "JA3oB9PEy43DbiPJpVMgWQvxRap4xnkdZtJ4XRvtskGQ": {
+      "symbol": "BI",
+      "created_at": "2026-09-30T17:48:35.455195483Z",
+      "first_seen": "2026-09-30T17:48:44.081902+00:00"
+    },
+    "H9XM9gYypqq3WGgUBn1syCCinJUzQymwamydoqyDkRXA": {
+      "symbol": "UHI",
+      "created_at": "2026-09-30T17:48:34.612170146Z",
+      "first_seen": "2026-09-30T17:48:44.081902+00:00"
+    },
+    "EmUNUZsNx8jwEadFDVHe3TDcZ3aq1B2JEBF3fzcATPr5": {
+      "symbol": "POKEPAD",
+      "created_at": "2026-09-30T17:48:33.868328977Z",
+      "first_seen": "2026-09-30T17:48:44.081902+00:00"
+    },
+    "6hKuH6BgjCTpL795ZCvc1BQZyydSQqGTEDqg9bespump": {
+      "symbol": "MONEY",
+      "created_at": "2026-09-30T17:48:32.718915104Z",
+      "first_seen": "2026-09-30T17:48:44.081902+00:00"
+    },
+    "2Xr3rWsQfGknGtYqc3iYWcvEKMJaLMgisfysTGyKpump": {
+      "symbol": "UHI",
+      "created_at": "2026-09-30T17:48:32.243642176Z",
+      "first_seen": "2026-09-30T17:48:44.081902+00:00"
     }
   },
   "alerted": [
