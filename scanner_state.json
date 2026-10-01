@@ -1023,7 +1023,12 @@
     "EhiPqEwxL4W1Gc9JMtnzvSPpZ9C8jXNkbaZzR4ZSvqap": {
       "symbol": "bluechip",
       "created_at": "2026-10-01T23:23:18.669461262Z",
-      "first_seen": "2026-10-01T23:23:29.592292+00:00"
+      "first_seen": "2026-10-01T23:23:29.592292+00:00",
+      "confirm": {
+        "liquidity": 18817.58,
+        "market_cap": 52373,
+        "at": "2026-10-01T23:46:42.842986+00:00"
+      }
     },
     "C6gfmhU9qSsURYznYNSdmjYGmJHetGpJWDVCJ43Ppump": {
       "symbol": "angel",
@@ -1459,6 +1464,56 @@
       "symbol": "LAPTOP",
       "created_at": "2026-10-01T23:43:36.86728538Z",
       "first_seen": "2026-10-01T23:44:01.666201+00:00"
+    },
+    "m1by7mxrApiU94W6UV11YmaVxoeTXiTTT2PeZpqpump": {
+      "symbol": "POW",
+      "created_at": "2026-10-01T23:46:31.880080495Z",
+      "first_seen": "2026-10-01T23:46:42.842802+00:00"
+    },
+    "HYFq9rMJhf48ebC4T4VZR2UprvqGXPWBrXCF3FxJJUfW": {
+      "symbol": "Rammed",
+      "created_at": "2026-10-01T23:46:26.394093532Z",
+      "first_seen": "2026-10-01T23:46:42.842802+00:00"
+    },
+    "FjBqKK8t6PrycxaGYxfsJuv4rKJ53q4TX3gV3ymTpump": {
+      "symbol": "DICE",
+      "created_at": "2026-10-01T23:46:25.166721235Z",
+      "first_seen": "2026-10-01T23:46:42.842802+00:00"
+    },
+    "8S3psJAbAuZPQXoEDmXJMCDwTzSGGH5Cwck7q3uDwyYU": {
+      "symbol": "UPMEME",
+      "created_at": "2026-10-01T23:46:23.587911132Z",
+      "first_seen": "2026-10-01T23:46:42.842802+00:00"
+    },
+    "3bMQg9WhcnkSJqaQtpq5N2ZcnXDAPoE3mLXKU6NwLvGV": {
+      "symbol": "FIX6900",
+      "created_at": "2026-10-01T23:46:23.490359055Z",
+      "first_seen": "2026-10-01T23:46:42.842802+00:00"
+    },
+    "9DywYj2vqkGZUzY8DC5dU2SrBtgggzadKLXt4wJwa7xo": {
+      "symbol": "BLINKLAB",
+      "created_at": "2026-10-01T23:46:21.424537598Z",
+      "first_seen": "2026-10-01T23:46:42.842802+00:00"
+    },
+    "GgPUw4bsS3i4jF7qmBbHvJDAToHKcshkki59jXd4pump": {
+      "symbol": "HOYA",
+      "created_at": "2026-10-01T23:46:17.024293867Z",
+      "first_seen": "2026-10-01T23:46:42.842802+00:00"
+    },
+    "He5NSwKYbB19YFqzwXSskGvrjYN2cxEvDyTxTmYBpump": {
+      "symbol": "$SLJK",
+      "created_at": "2026-10-01T23:46:16.753268484Z",
+      "first_seen": "2026-10-01T23:46:42.842802+00:00"
+    },
+    "8QpXXkhbnwetvbyLsiMFcoKNnH4jWpkne9cMk6ktpump": {
+      "symbol": "att",
+      "created_at": "2026-10-01T23:46:16.582309672Z",
+      "first_seen": "2026-10-01T23:46:42.842802+00:00"
+    },
+    "2bZMcZYrLyFmFPR2LCDvgMr2xfDyjJNgUcJLDRbk7bAr": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-10-01T23:46:15.822547418Z",
+      "first_seen": "2026-10-01T23:46:42.842802+00:00"
     }
   },
   "alerted": [
