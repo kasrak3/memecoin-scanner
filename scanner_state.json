@@ -953,7 +953,12 @@
     "GdEuybJ2iGPu9gZehZN8vHfSiwDJjhofpxyEozFrpump": {
       "symbol": "OUYS",
       "created_at": "2026-10-01T23:18:21.689886832Z",
-      "first_seen": "2026-10-01T23:18:37.613408+00:00"
+      "first_seen": "2026-10-01T23:18:37.613408+00:00",
+      "confirm": {
+        "liquidity": 16135.81,
+        "market_cap": 39749,
+        "at": "2026-10-01T23:28:25.135472+00:00"
+      }
     },
     "2iVdrEk6o8QMCQQNHYx2vw9k8tWek1JWRqMXPSfgpump": {
       "symbol": "GEMINI",
@@ -1119,6 +1124,56 @@
       "symbol": "Wired",
       "created_at": "2026-10-01T23:25:39.251559969Z",
       "first_seen": "2026-10-01T23:25:56.515223+00:00"
+    },
+    "EGJMMEXPyrQHFad4bVvnfg3MSpreREHbR57KqxAKtfiL": {
+      "symbol": "BULLS",
+      "created_at": "2026-10-01T23:28:16.446025868Z",
+      "first_seen": "2026-10-01T23:28:25.135283+00:00"
+    },
+    "CBADdvEdAxKgJkkN9YvNfrHKPYgW7zsYG5JbMacgnj62": {
+      "symbol": "",
+      "created_at": "2026-10-01T23:28:14.448024607Z",
+      "first_seen": "2026-10-01T23:28:25.135283+00:00"
+    },
+    "AAXk1XKwk3fjqwxQc52ktEmBvfUUJtsTgirDJCNepump": {
+      "symbol": "POW",
+      "created_at": "2026-10-01T23:28:12.935295288Z",
+      "first_seen": "2026-10-01T23:28:25.135283+00:00"
+    },
+    "GkxAE3E384s5o5iAZyycZ2kkNXzUsLxa1CaHryPpump": {
+      "symbol": "SGT",
+      "created_at": "2026-10-01T23:28:05.954856672Z",
+      "first_seen": "2026-10-01T23:28:25.135283+00:00"
+    },
+    "8g2mFh1GdirpJ1EgnvdiPU6CpMfY1kr3Rrz4KMNfwZrB": {
+      "symbol": "LEROY",
+      "created_at": "2026-10-01T23:28:05.759041715Z",
+      "first_seen": "2026-10-01T23:28:25.135283+00:00"
+    },
+    "6L38uwPeaPJghpeznAcwrKpajLUjbTjZFRZXkZQMwzA2": {
+      "symbol": "LEROY",
+      "created_at": "2026-10-01T23:28:05.574371701Z",
+      "first_seen": "2026-10-01T23:28:25.135283+00:00"
+    },
+    "BgBzTFcCBHZjKwBsjuvkbVkZqxq9h48BQptBhmcpSx1i": {
+      "symbol": "SPACEPE",
+      "created_at": "2026-10-01T23:28:04.111274553Z",
+      "first_seen": "2026-10-01T23:28:25.135283+00:00"
+    },
+    "4bxrBhdkJiCZZukXx3wARejUBc2Jv1D4gudCc7fdmqEZ": {
+      "symbol": "LEROY",
+      "created_at": "2026-10-01T23:28:03.347926093Z",
+      "first_seen": "2026-10-01T23:28:25.135283+00:00"
+    },
+    "DzXwz5AgM7g2fR6M7YRQGhxcYsE7VQ6V8WqD6j44nMA1": {
+      "symbol": "LEROY",
+      "created_at": "2026-10-01T23:28:03.115113624Z",
+      "first_seen": "2026-10-01T23:28:25.135283+00:00"
+    },
+    "HZe7Nc3GUtJCyiBGXn5iMVfv7oTa9jmxpgzTdrnTx8Hf": {
+      "symbol": "",
+      "created_at": "2026-10-01T23:28:02.873110112Z",
+      "first_seen": "2026-10-01T23:28:25.135283+00:00"
     }
   },
   "alerted": [
