@@ -195,16 +195,6 @@
       "created_at": "2026-10-01T22:43:08.928753198Z",
       "first_seen": "2026-10-01T22:43:26.682327+00:00"
     },
-    "Ake2xFaB6A1vtG5CekMapABwDKdEcHQAbsv5Xgtcpump": {
-      "symbol": "ATS",
-      "created_at": "2026-10-01T22:45:15.648950793Z",
-      "first_seen": "2026-10-01T22:45:28.518898+00:00",
-      "confirm": {
-        "liquidity": 16790.78,
-        "market_cap": 42804,
-        "at": "2026-10-01T22:58:02.311774+00:00"
-      }
-    },
     "2TSkT6esERM2KV1nDqc5FDesG5nBQoDzemT92m2Upump": {
       "symbol": "KHABY",
       "created_at": "2026-10-01T22:45:14.545268057Z",
@@ -544,6 +534,56 @@
       "symbol": "Shiboninu",
       "created_at": "2026-10-01T22:56:39.658302625Z",
       "first_seen": "2026-10-01T22:58:02.311577+00:00"
+    },
+    "GUPcdfXQA4W6DarWn5beUTQ3W7Hu8oQjVtArmZ28bdcu": {
+      "symbol": "torta",
+      "created_at": "2026-10-01T23:00:01.229997424Z",
+      "first_seen": "2026-10-01T23:00:13.617631+00:00"
+    },
+    "2eKYJqw45C5SLxEeR8JyeLa1xDtdiwv9gkhSe2e2pump": {
+      "symbol": "$GTA6",
+      "created_at": "2026-10-01T23:00:00.197104023Z",
+      "first_seen": "2026-10-01T23:00:13.617631+00:00"
+    },
+    "HaHNfhPZLz89ZHUGS5Scjjr4S2u3G7rUHTrdzvg6QQkP": {
+      "symbol": "TITMAS",
+      "created_at": "2026-10-01T22:59:59.731188456Z",
+      "first_seen": "2026-10-01T23:00:13.617631+00:00"
+    },
+    "4JjEgfBqVY5D6RTGrvq17aJyByxcbjrGtCwcpEZrpump": {
+      "symbol": "CROWD",
+      "created_at": "2026-10-01T22:59:58.145846832Z",
+      "first_seen": "2026-10-01T23:00:13.617631+00:00"
+    },
+    "5o7MUaBpfC2tpp3bVW9EFkcQrMLeubNQphj9ALQNpump": {
+      "symbol": "mcl",
+      "created_at": "2026-10-01T22:59:56.551507867Z",
+      "first_seen": "2026-10-01T23:00:13.617631+00:00"
+    },
+    "AWUX8Fhh4r3D9L69FjmXmZvHtpgpkgPQwHTUMEcWpump": {
+      "symbol": "GONG",
+      "created_at": "2026-10-01T22:59:56.148018402Z",
+      "first_seen": "2026-10-01T23:00:13.617631+00:00"
+    },
+    "AAZMoB1b8vMErM2hDtkFUfbXsvGbpoju3YdL7cjHpump": {
+      "symbol": "FVJ",
+      "created_at": "2026-10-01T22:59:55.778204185Z",
+      "first_seen": "2026-10-01T23:00:13.617631+00:00"
+    },
+    "35AWxLs1AQCfL5m6uxLkBsW55y3PBde4uJSz8Wfcpump": {
+      "symbol": "TITMAS",
+      "created_at": "2026-10-01T22:59:54.338301908Z",
+      "first_seen": "2026-10-01T23:00:13.617631+00:00"
+    },
+    "GAnxErHtKPna3H22ZGiKT9g7ibKz6X8c33bpHtTVpump": {
+      "symbol": "mascot",
+      "created_at": "2026-10-01T22:59:53.701856208Z",
+      "first_seen": "2026-10-01T23:00:13.617631+00:00"
+    },
+    "BCusKzPaNViVkKxtMyBgxnPn6Fddx2Bpi1EeiBvJpump": {
+      "symbol": "PLUG",
+      "created_at": "2026-10-01T22:59:51.844173157Z",
+      "first_seen": "2026-10-01T23:00:13.617631+00:00"
     }
   },
   "alerted": [
@@ -922,7 +962,6 @@
     "GjvveSvQt18VCApjzZ2kznvbgp2rPVWvAm82oXgvpump"
   ],
   "rejected": [
-    "7heLZQ1H755DNzrwnirTRnfaYViLmtbR9bBdYJ1FbBgS",
     "DN8jVkgJoTXoSPoNdgT4SA7gn4QiUrDo3me2ZeUNRgaH",
     "Aid9aYKNsFqtS6WaL229tiRpdKPDfPDNfwUGaJUUpk5x",
     "LYW2nBMu3AsEurWzsEtnJAzP5SRDKKUscZAx5DXpump",
@@ -2921,6 +2960,7 @@
     "6hryWdhPxLDRQGjNKrW3s617YTsdcb7BtwmwkrpNYTws",
     "odSsxTz3rdJ1ESjFW6wpyFUWt2t8QUVm7jb4wKGpump",
     "BhazYMBktzQ84ecXq4JVyAWQomZiibgmjak6Qzr4az2u",
-    "44nZYiF3XfbNhxAERgNj4rfaDR2dm6aeV6KXbKBMpakH"
+    "44nZYiF3XfbNhxAERgNj4rfaDR2dm6aeV6KXbKBMpakH",
+    "Ake2xFaB6A1vtG5CekMapABwDKdEcHQAbsv5Xgtcpump"
   ]
 }
