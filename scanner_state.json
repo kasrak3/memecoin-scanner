@@ -1625,11 +1625,6 @@
       "created_at": "2026-10-01T06:55:44.664028676Z",
       "first_seen": "2026-10-01T06:56:16.361646+00:00"
     },
-    "4Z8oM47wF7cDCoUBfXhM5eGf3gYzfBJ9JLmvwKmPsQ23": {
-      "symbol": "QCAT",
-      "created_at": "2026-10-01T06:58:32.269855704Z",
-      "first_seen": "2026-10-01T06:58:42.712049+00:00"
-    },
     "5wHpDvD8cstZT5t1k2K5PHhuLfgBdDoETaRmVBZ54c8d": {
       "symbol": "WITCH",
       "created_at": "2026-10-01T06:58:31.369296377Z",
@@ -2024,6 +2019,56 @@
       "symbol": "SBB",
       "created_at": "2026-10-01T07:15:55.168702375Z",
       "first_seen": "2026-10-01T07:16:09.303965+00:00"
+    },
+    "EJZRfULLoCr6BTttgYtNGdq58DiEMC64s3sbMWCsZE5R": {
+      "symbol": "QCAT",
+      "created_at": "2026-10-01T07:18:34.167663136Z",
+      "first_seen": "2026-10-01T07:18:41.029257+00:00"
+    },
+    "75uy9avhYsJ2Tnt83johkhwFMUpmhdQqbNtSTBGyowEk": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-10-01T07:18:30.35051797Z",
+      "first_seen": "2026-10-01T07:18:41.029257+00:00"
+    },
+    "7eLwoTPNojuBEfaDuY3FcbGym6MktVf9iC4q5qJuL35r": {
+      "symbol": "\u30ed\u30ad",
+      "created_at": "2026-10-01T07:18:28.593411564Z",
+      "first_seen": "2026-10-01T07:18:41.029257+00:00"
+    },
+    "ER7EPHGjhGk8Rod3sAfqbrpjr7XFeoAJ1ZtyoY7dpump": {
+      "symbol": "GNB",
+      "created_at": "2026-10-01T07:18:24.737373366Z",
+      "first_seen": "2026-10-01T07:18:41.029257+00:00"
+    },
+    "5UydnK5ehgxk1YX7df2RLd95KSaMeiKcqq2n1DDwYcLL": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-10-01T07:18:23.280541909Z",
+      "first_seen": "2026-10-01T07:18:41.029257+00:00"
+    },
+    "EnnX4GxMzALc3BWroXxj1JCoPryGUwoM9CJ2cfftpump": {
+      "symbol": "SXSN",
+      "created_at": "2026-10-01T07:18:23.014306631Z",
+      "first_seen": "2026-10-01T07:18:41.029257+00:00"
+    },
+    "CaJDGrmuzYYQzHsFGjhugTj21ZoGJ2GP9trjQooLTEyB": {
+      "symbol": "BTC15N",
+      "created_at": "2026-10-01T07:18:22.845245003Z",
+      "first_seen": "2026-10-01T07:18:41.029257+00:00"
+    },
+    "2qqpafSbHw4UAYPaoFMSKsd5zPESBnwNZUgfjCsZAzeo": {
+      "symbol": "BTC15Y",
+      "created_at": "2026-10-01T07:18:21.365967451Z",
+      "first_seen": "2026-10-01T07:18:41.029257+00:00"
+    },
+    "AhEgtqu1drLsLcJqpGtN5bnXENBXViuKQQnMRQL563TX": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-10-01T07:18:21.34671442Z",
+      "first_seen": "2026-10-01T07:18:41.029257+00:00"
+    },
+    "CiFVmdsGXYMJJeCUmqoJzpdZxa7gPPT7VmtWXa56n7RA": {
+      "symbol": "BTC5Y",
+      "created_at": "2026-10-01T07:18:21.337488069Z",
+      "first_seen": "2026-10-01T07:18:41.029257+00:00"
     }
   },
   "alerted": [
@@ -2396,7 +2441,6 @@
     "D5m3XvuXPj4znuJBNR1z84xbneFp2BXHsWEVoL9DdeTL"
   ],
   "rejected": [
-    "AuKRA4UGtmqkccsJgLsbYK4S82ctcqXhqi6wxDyB4JwU",
     "6QiQmYqjkKQ9tkxt6sBno2gW6YHey1e2GnpNLmQnYR8z",
     "Gh58myRvsdj2yvWGLwjE935pnMPVHnf9nXr3hVBjpump",
     "FGS5DYPzjctFsQerDyEMff77Euo8Dika6y2ezUTPZzPo",
@@ -4395,6 +4439,7 @@
     "9dzAnRTYxnE6qz1qNrnXA6snSPJRzNWEacoMkMqjmMsx",
     "5j29Pjf55crQMWXPGKCwf9MdEtWmLNLga14XqQ5BdSV3",
     "7x3K9f98W3MWBcRRycfb4njHg72gRqUKj8FSPDE55Sf8",
-    "be7fctsvhDHS8ZBnXj3Lkz6NckbRZm4JtTs6g7ppump"
+    "be7fctsvhDHS8ZBnXj3Lkz6NckbRZm4JtTs6g7ppump",
+    "4Z8oM47wF7cDCoUBfXhM5eGf3gYzfBJ9JLmvwKmPsQ23"
   ]
 }
