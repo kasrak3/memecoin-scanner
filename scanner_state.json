@@ -1730,11 +1730,6 @@
       "created_at": "2026-10-01T17:41:47.814269442Z",
       "first_seen": "2026-10-01T17:41:54.540649+00:00"
     },
-    "AFiHVPRvB5U7NXKa3c9hTd999XJqfYKtVdBweVYMYkGC": {
-      "symbol": "NYSE",
-      "created_at": "2026-10-01T17:41:47.129634274Z",
-      "first_seen": "2026-10-01T17:41:54.540649+00:00"
-    },
     "4WboAiGLL9oMFD31CEyLUaJrktuZ6aGgTC3k63CLpump": {
       "symbol": "HUKB",
       "created_at": "2026-10-01T17:41:43.764099668Z",
@@ -1954,6 +1949,56 @@
       "symbol": "si/acc",
       "created_at": "2026-10-01T17:53:37.628453511Z",
       "first_seen": "2026-10-01T17:53:52.752980+00:00"
+    },
+    "9pzaFQWcjeoyDuj6fbQhzpzBrG8pP6r7tbPQziM9pump": {
+      "symbol": "Inumas",
+      "created_at": "2026-10-01T17:56:37.050318153Z",
+      "first_seen": "2026-10-01T17:56:48.649458+00:00"
+    },
+    "B1B8oXv63zQ2CbiLqQaAsiwRi98cAcc7PFKHtSVbpump": {
+      "symbol": "MONY",
+      "created_at": "2026-10-01T17:56:32.946479166Z",
+      "first_seen": "2026-10-01T17:56:48.649458+00:00"
+    },
+    "63upzPSTZuQXLeJmTqXFaWYjoMFJdDrwFDQUaVhwZism": {
+      "symbol": "SP%))",
+      "created_at": "2026-10-01T17:56:31.756497219Z",
+      "first_seen": "2026-10-01T17:56:48.649458+00:00"
+    },
+    "24JXhjT46JfBPQCVNhdHxbwndWYr2WqEXPeEtgoTpump": {
+      "symbol": "Spidey",
+      "created_at": "2026-10-01T17:56:30.113964506Z",
+      "first_seen": "2026-10-01T17:56:48.649458+00:00"
+    },
+    "9a8aYe2y3rRR1Sd2CGvTgnosMQQGrDbpGQsFZkppump": {
+      "symbol": "forbes",
+      "created_at": "2026-10-01T17:56:29.107252202Z",
+      "first_seen": "2026-10-01T17:56:48.649458+00:00"
+    },
+    "FDXpssJ3w4CiYyZTACtDAHmBmxyGEYJJANeWXsxiWoqX": {
+      "symbol": "",
+      "created_at": "2026-10-01T17:56:29.049439721Z",
+      "first_seen": "2026-10-01T17:56:48.649458+00:00"
+    },
+    "DdSNTZwAPC6jpmGkL7unTcxLYK1vSErCvhBD5Ghfpump": {
+      "symbol": "$FROINK",
+      "created_at": "2026-10-01T17:56:28.189675806Z",
+      "first_seen": "2026-10-01T17:56:48.649458+00:00"
+    },
+    "Frzj7uRyB6J6uDu3QktKjhoHGbSi8rbB4kQQ9cpepump": {
+      "symbol": "BBCOIN",
+      "created_at": "2026-10-01T17:56:27.834931581Z",
+      "first_seen": "2026-10-01T17:56:48.649458+00:00"
+    },
+    "BS469VzzvyKE3GVkazRmMTFcpySrrWW4jnGeFBPPBqq6": {
+      "symbol": "WORK",
+      "created_at": "2026-10-01T17:56:26.70243737Z",
+      "first_seen": "2026-10-01T17:56:48.649458+00:00"
+    },
+    "GsdATLau4nQXpGdrhD42bDPHoMkgHGwF96LPBKUhpump": {
+      "symbol": "Nailoong",
+      "created_at": "2026-10-01T17:56:26.644099296Z",
+      "first_seen": "2026-10-01T17:56:48.649458+00:00"
     }
   },
   "alerted": [
@@ -2331,7 +2376,6 @@
     "9qxqswU9ks5kpqnNUu7KabEqzwEWxLq7nCNZErLopump"
   ],
   "rejected": [
-    "DPS8qWS61fYbijeYhXr3amZCRgUwVARZQu3mKtbdbFps",
     "auqsuXNh1aqRVonE2X5oMMnx99GHmzFZp2EVkNVpump",
     "FW22Xps8i4fTBZSzB7rD3EjXWAv1DhFfF12gAk21oKD1",
     "DpxsaqFhLYkRiBJ7TgiH8ZXVSZHm4p2ZgJJEXKRyfMz1",
@@ -4330,6 +4374,7 @@
     "EHmYx8yNFV3pTrArEWqppkWacAxF27oeiDuJwRqeJXh1",
     "7CP6pVMzLR29BUmDVXhzMBvSJheUdGewaasqHxQUpump",
     "FFivn1EnbiycRD3c4nAQvuD7zPyqjRqocWD8FtHcF2Sw",
-    "GX7CLZ3NkwCEZMZNPPFWMo9RL6Nff1wR5tLTLxUmHgj4"
+    "GX7CLZ3NkwCEZMZNPPFWMo9RL6Nff1wR5tLTLxUmHgj4",
+    "AFiHVPRvB5U7NXKa3c9hTd999XJqfYKtVdBweVYMYkGC"
   ]
 }
