@@ -1825,11 +1825,6 @@
       "created_at": "2026-10-02T23:31:12.381308068Z",
       "first_seen": "2026-10-02T23:31:23.235504+00:00"
     },
-    "2LaBS2kiWeRDH8K4CzpykEug9sZaDjSG7Yc97KqNCD7p": {
-      "symbol": "casinu",
-      "created_at": "2026-10-02T23:31:12.207618843Z",
-      "first_seen": "2026-10-02T23:31:23.235504+00:00"
-    },
     "6USMCxnx7pSsF2iruftiGQs2VUEtrErPLEsUBVBY5Vm": {
       "symbol": "BTC5Y",
       "created_at": "2026-10-02T23:31:12.095710247Z",
@@ -2009,6 +2004,56 @@
       "symbol": "m/acc",
       "created_at": "2026-10-02T23:39:05.785376623Z",
       "first_seen": "2026-10-02T23:39:12.699899+00:00"
+    },
+    "7fiKiuNUHR6r6mg2CF1PYTySaQTkg1Bitj1QjsiQpump": {
+      "symbol": "TOS",
+      "created_at": "2026-10-02T23:41:37.082172641Z",
+      "first_seen": "2026-10-02T23:41:49.815668+00:00"
+    },
+    "5LSAJuoZPMMCwSYg7MkJjU7ERzokhhywjee6epnRpump": {
+      "symbol": "BAE",
+      "created_at": "2026-10-02T23:41:36.288228929Z",
+      "first_seen": "2026-10-02T23:41:49.815668+00:00"
+    },
+    "7AdeEPFY6wW59jSmTrbL4RzqZHpDZvvt8RBJ9LcJpump": {
+      "symbol": "NIKA",
+      "created_at": "2026-10-02T23:41:35.344348956Z",
+      "first_seen": "2026-10-02T23:41:49.815668+00:00"
+    },
+    "93hPinsGQYgjNYhgHjBAvpdZF847KoBZgeVKM9Kopump": {
+      "symbol": "BetOnBlak",
+      "created_at": "2026-10-02T23:41:34.955134701Z",
+      "first_seen": "2026-10-02T23:41:49.815668+00:00"
+    },
+    "DnynJnbmiU9BaehMVYLdV4f475g4CvtmmY7CgYiFpump": {
+      "symbol": "SCRVAN",
+      "created_at": "2026-10-02T23:41:34.682557643Z",
+      "first_seen": "2026-10-02T23:41:49.815668+00:00"
+    },
+    "F6mYV5LZzYmPSYR8FgtjW2p5QoocJqPCrSJbkhT9pump": {
+      "symbol": "JohnC",
+      "created_at": "2026-10-02T23:41:33.634484195Z",
+      "first_seen": "2026-10-02T23:41:49.815668+00:00"
+    },
+    "623UAX2bUj871R2Q5cZ1SeCJubAvp3YCiGXyTE5dZDKP": {
+      "symbol": "ICO wrkn tek",
+      "created_at": "2026-10-02T23:41:30.231586995Z",
+      "first_seen": "2026-10-02T23:41:49.815668+00:00"
+    },
+    "HY71Mbkt9tKCAGi71TgvL3hQ3RzaVsvQpUuarc3gHk5c": {
+      "symbol": "ICO wrkn tek",
+      "created_at": "2026-10-02T23:41:29.303508157Z",
+      "first_seen": "2026-10-02T23:41:49.815668+00:00"
+    },
+    "RC4MDXdw5HqwT8q31Kfr4kRy69qf7zWFaFjmMrdSTNK": {
+      "symbol": "STAMP",
+      "created_at": "2026-10-02T23:41:25.789907889Z",
+      "first_seen": "2026-10-02T23:41:49.815668+00:00"
+    },
+    "HTWkkKFoY7dzAWzq2eZepN3kkd9VAwewfnym29Aspump": {
+      "symbol": "FC",
+      "created_at": "2026-10-02T23:41:25.648206437Z",
+      "first_seen": "2026-10-02T23:41:49.815668+00:00"
     }
   },
   "alerted": [
@@ -2396,7 +2441,6 @@
     "HWMgoYa2XSBsmnNJ5CbzDiEorQpuucTntDjyJsaP1Tyw"
   ],
   "rejected": [
-    "718s4gHmTeDDm3qsmVCWZQJxGYzritqsiqbUjJcPSTNK",
     "Ddd4Qy8N5nNtteaHfESfmjsynz5qEGFQZMLQuLj49EzL",
     "Mgdi8AZSafxPg5P79WKRXBarZT5fPE7sXDAUJfBpump",
     "58f7nZVsmbSbs3q1XknWXKAwCSBkttTEQgt5NKBvjuWV",
@@ -4395,6 +4439,7 @@
     "QypFawkshaTn6t1p2mLH9fgZVKFopu9ugp3dU9DcrCJ",
     "2sjM5gyEPBbkqcZJm3AWAXv9EpNAHctDerbuhLYPJWvP",
     "55QSFZDLPxP94ZrG7LAVkh4nzgH9PRkvwmrgmR6gpEmr",
-    "4dFpLyo4FDeXdSoCokFgYSk1XNuQoNwwWVGz2jnFpump"
+    "4dFpLyo4FDeXdSoCokFgYSk1XNuQoNwwWVGz2jnFpump",
+    "2LaBS2kiWeRDH8K4CzpykEug9sZaDjSG7Yc97KqNCD7p"
   ]
 }
