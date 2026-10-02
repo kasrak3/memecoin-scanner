@@ -1010,11 +1010,6 @@
       "created_at": "2026-10-02T13:09:39.979317251Z",
       "first_seen": "2026-10-02T13:09:55.199177+00:00"
     },
-    "B433NYgjNq3TdGdTGxfKCLcZYUMh8XcNHeUbhzdmzxZG": {
-      "symbol": "AI",
-      "created_at": "2026-10-02T13:09:39.963499647Z",
-      "first_seen": "2026-10-02T13:09:55.199177+00:00"
-    },
     "24xCLQJaAvNhsPJrydtVnatzS5nATUmCvwVE3MD7pump": {
       "symbol": "BRAINROT",
       "created_at": "2026-10-02T13:09:39.230887079Z",
@@ -1234,6 +1229,56 @@
       "symbol": "CPU",
       "created_at": "2026-10-02T13:18:41.317474657Z",
       "first_seen": "2026-10-02T13:19:12.406009+00:00"
+    },
+    "9ecyuNHjK2tyoUpAdxEqoaBuAfsnx9tHY83ZNjnBpump": {
+      "symbol": "SOCKET",
+      "created_at": "2026-10-02T13:21:23.121139135Z",
+      "first_seen": "2026-10-02T13:21:32.196516+00:00"
+    },
+    "8bbKJS7hbZSLXUYCsCStYESDTdZrDTvJ5GsNCNLQpump": {
+      "symbol": "DRAW",
+      "created_at": "2026-10-02T13:21:20.812964445Z",
+      "first_seen": "2026-10-02T13:21:32.196516+00:00"
+    },
+    "Ak1aTMPDMeKo2zy5rifvPaCzWsaKGuBeCMF8cL8tpump": {
+      "symbol": "AC7",
+      "created_at": "2026-10-02T13:21:20.732200819Z",
+      "first_seen": "2026-10-02T13:21:32.196516+00:00"
+    },
+    "9phxmZ73LVedV8motb2nTyXLLvassRMS3vER8PUJpump": {
+      "symbol": "LOVECR7",
+      "created_at": "2026-10-02T13:21:20.254926453Z",
+      "first_seen": "2026-10-02T13:21:32.196516+00:00"
+    },
+    "BFcYJLDQBUJdBa9PN9aKm5xxkqSvK7j8eGAAnN8iAB53": {
+      "symbol": "Bug",
+      "created_at": "2026-10-02T13:21:19.337510974Z",
+      "first_seen": "2026-10-02T13:21:32.196516+00:00"
+    },
+    "EdtfdD25yxxTsfLa7DtyiYCLCWE8Q7927D38vhoGpump": {
+      "symbol": "PLUG",
+      "created_at": "2026-10-02T13:21:18.999855947Z",
+      "first_seen": "2026-10-02T13:21:32.196516+00:00"
+    },
+    "Fx9nx9EKdp7WWJWtTUAUdEJ8ytm2qYyxqyKyL2vx7cS6": {
+      "symbol": "Life",
+      "created_at": "2026-10-02T13:21:18.169720102Z",
+      "first_seen": "2026-10-02T13:21:32.196516+00:00"
+    },
+    "Hr8SgkNRJ1inWPiyPev9EW2Bk6GsDQudcrUBirLpump": {
+      "symbol": "Hope",
+      "created_at": "2026-10-02T13:21:17.688444757Z",
+      "first_seen": "2026-10-02T13:21:32.196516+00:00"
+    },
+    "HhcQJ28CspwkXfMQBNbEVz2Xnet8bNXL9zEhmmKMpump": {
+      "symbol": "PopDraw",
+      "created_at": "2026-10-02T13:21:16.193804375Z",
+      "first_seen": "2026-10-02T13:21:32.196516+00:00"
+    },
+    "4s7PvfGiFzZugVaDepfE2xaqbidtuJPQcDqGjrvo5uRU": {
+      "symbol": "NVIDIA",
+      "created_at": "2026-10-02T13:21:15.612588319Z",
+      "first_seen": "2026-10-02T13:21:32.196516+00:00"
     }
   },
   "alerted": [
@@ -1618,7 +1663,6 @@
     "FtPgCJkZhb7RLVpU5ysH2UPTFwtRYb3EriABP1EHpump"
   ],
   "rejected": [
-    "7H7M8T15WvE2EJZESpYzMEaqDtGVok6QUJsXzpbpump",
     "64tmjpyF8EBYiUUrY6DNgcgRHu5Y5n36v9hXWtBK5j4M",
     "QMDN75G8QfPEvPgGxBnVj89bzSyjLnNnxp6ts3Tpump",
     "7shSoAaYjsH5agM1n2hXcN9Sy6ciB1Q1j5biroUGJcCA",
@@ -3617,6 +3661,7 @@
     "y97jcvhYL9ExrDQNHHzKx62tt9rX5Mb6gy1cfn8pump",
     "Dyqg2EGkTdk7H5we5CeueqDCFTgT11uVmpEWH8AsrnnD",
     "CMpFjLWqti5bnPUUAFeDRNjCixeygbWDcx7oZfXCpump",
-    "4sUYhtSzASGsNJ61KJAeCnQbA8eZnCpZFoCo2bDmkYSZ"
+    "4sUYhtSzASGsNJ61KJAeCnQbA8eZnCpZFoCo2bDmkYSZ",
+    "B433NYgjNq3TdGdTGxfKCLcZYUMh8XcNHeUbhzdmzxZG"
   ]
 }
