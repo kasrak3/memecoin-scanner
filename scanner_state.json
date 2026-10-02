@@ -305,16 +305,6 @@
       "created_at": "2026-10-02T05:41:38.876083372Z",
       "first_seen": "2026-10-02T05:41:52.513750+00:00"
     },
-    "A72fsJX64cS5KxeuCcj3w2xoSa2hSYLzGg3wSw1epump": {
-      "symbol": "MOMO",
-      "created_at": "2026-10-02T05:41:36.339198836Z",
-      "first_seen": "2026-10-02T05:41:52.513750+00:00",
-      "confirm": {
-        "liquidity": 15410.71,
-        "market_cap": 35993,
-        "at": "2026-10-02T07:15:40.653921+00:00"
-      }
-    },
     "4ALBGcphBHT7x9wXCzGBga7aVsf5Yk4ehvyQrQgrpump": {
       "symbol": "OCD",
       "created_at": "2026-10-02T05:41:34.323097353Z",
@@ -2134,6 +2124,56 @@
       "symbol": "NPC",
       "created_at": "2026-10-02T07:15:21.586051946Z",
       "first_seen": "2026-10-02T07:15:40.653506+00:00"
+    },
+    "49KvG8WvgbqVV8uRZbWvsTt1qkAjde41DiLpdurADBRK": {
+      "symbol": "ELON",
+      "created_at": "2026-10-02T07:18:21.548350619Z",
+      "first_seen": "2026-10-02T07:18:31.679647+00:00"
+    },
+    "HaXDEsa48DnHpN9Zqgc7BJRNNT8xJoU8coQRBHr4Uddz": {
+      "symbol": "ALTCOIN",
+      "created_at": "2026-10-02T07:18:17.556123861Z",
+      "first_seen": "2026-10-02T07:18:31.679647+00:00"
+    },
+    "83HGR4N9pUUFin6XUr8gBrvV9ksNdC9KTfiQ6aBc4fmK": {
+      "symbol": "OFFICE",
+      "created_at": "2026-10-02T07:18:15.940176064Z",
+      "first_seen": "2026-10-02T07:18:31.679647+00:00"
+    },
+    "AeCXnjWwW14wpeFbcC1V6Gea3ik9BrRbCSwoSDxMpump": {
+      "symbol": "NEEGY",
+      "created_at": "2026-10-02T07:18:14.690122592Z",
+      "first_seen": "2026-10-02T07:18:31.679647+00:00"
+    },
+    "GtrE8GYiWGEqUpE4UeGgxrdJYUg48tXfiPariDx2pump": {
+      "symbol": "GIRAFFE",
+      "created_at": "2026-10-02T07:18:09.888837113Z",
+      "first_seen": "2026-10-02T07:18:31.679647+00:00"
+    },
+    "4iGAkYfTyAo5EbrVbtAbuEkjNN1Pd1xta7WPsUYnpump": {
+      "symbol": "TRI",
+      "created_at": "2026-10-02T07:18:09.195365921Z",
+      "first_seen": "2026-10-02T07:18:31.679647+00:00"
+    },
+    "GMPuuLXia9GY4BXrRHs3NMuP8wm1rWDgFZ3w1t3pump": {
+      "symbol": "Zerebro",
+      "created_at": "2026-10-02T07:18:02.874358671Z",
+      "first_seen": "2026-10-02T07:18:31.679647+00:00"
+    },
+    "Cq8sNzdyCrw31gcTndrehELVvg1JgvvViX5FNCf1DRUj": {
+      "symbol": "",
+      "created_at": "2026-10-02T07:18:02.135274863Z",
+      "first_seen": "2026-10-02T07:18:31.679647+00:00"
+    },
+    "2vwSuXj5wjfKaQJNMkQ7UMp9jQZEu1U4aC731kaCpump": {
+      "symbol": "DLK",
+      "created_at": "2026-10-02T07:17:59.547213225Z",
+      "first_seen": "2026-10-02T07:18:31.679647+00:00"
+    },
+    "AzYAgSHMqKNKFrP5WkdrrsTGHJrW9QomqHYvSnMsuR8H": {
+      "symbol": "",
+      "created_at": "2026-10-02T07:17:57.340172951Z",
+      "first_seen": "2026-10-02T07:18:31.679647+00:00"
     }
   },
   "alerted": [
@@ -2513,7 +2553,8 @@
     "GdEuybJ2iGPu9gZehZN8vHfSiwDJjhofpxyEozFrpump",
     "EhiPqEwxL4W1Gc9JMtnzvSPpZ9C8jXNkbaZzR4ZSvqap",
     "6tpfCENhKozjtambBEecWoV1V6trzqNgi1AQHkTqpump",
-    "7kgXxu6ZUacf32CnmSK94ctWLsYNng4CQLdLtYYUyYNv"
+    "7kgXxu6ZUacf32CnmSK94ctWLsYNng4CQLdLtYYUyYNv",
+    "A72fsJX64cS5KxeuCcj3w2xoSa2hSYLzGg3wSw1epump"
   ],
   "rejected": [
     "DFQKPw1pV5yiHEnJZGoy8aH2im9Hw2UDr8aoYKMWNoAE",
