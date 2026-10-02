@@ -308,7 +308,12 @@
     "A72fsJX64cS5KxeuCcj3w2xoSa2hSYLzGg3wSw1epump": {
       "symbol": "MOMO",
       "created_at": "2026-10-02T05:41:36.339198836Z",
-      "first_seen": "2026-10-02T05:41:52.513750+00:00"
+      "first_seen": "2026-10-02T05:41:52.513750+00:00",
+      "confirm": {
+        "liquidity": 15410.71,
+        "market_cap": 35993,
+        "at": "2026-10-02T07:15:40.653921+00:00"
+      }
     },
     "4ALBGcphBHT7x9wXCzGBga7aVsf5Yk4ehvyQrQgrpump": {
       "symbol": "OCD",
@@ -2079,6 +2084,56 @@
       "symbol": "TOAD",
       "created_at": "2026-10-02T07:12:26.070336335Z",
       "first_seen": "2026-10-02T07:12:56.372919+00:00"
+    },
+    "6ujvLHW7niLZtwEnKaTruz7eA8mcoKLs1Jt7ZkgXbXsf": {
+      "symbol": "",
+      "created_at": "2026-10-02T07:15:30.544941Z",
+      "first_seen": "2026-10-02T07:15:40.653506+00:00"
+    },
+    "eGzeiYD7WSGqVBgS3Qhe6qKfQcBo7zAnrGyEruypump": {
+      "symbol": "VSOF",
+      "created_at": "2026-10-02T07:15:30.105032948Z",
+      "first_seen": "2026-10-02T07:15:40.653506+00:00"
+    },
+    "6t1p5aKTFSTWBa4kobjQ8z2A8ywKfangMvxBwTfg4sBg": {
+      "symbol": "ONDRA",
+      "created_at": "2026-10-02T07:15:29.978478001Z",
+      "first_seen": "2026-10-02T07:15:40.653506+00:00"
+    },
+    "5gNL8S5QWjejJX7PTB1pm82dtLysbBT5VawURAZpump": {
+      "symbol": "KURO",
+      "created_at": "2026-10-02T07:15:29.041439543Z",
+      "first_seen": "2026-10-02T07:15:40.653506+00:00"
+    },
+    "D6tsg4YoR7Dqm2jGGfVyfwBftR2cmXdZP39cy9k3rfsu": {
+      "symbol": "",
+      "created_at": "2026-10-02T07:15:28.890106947Z",
+      "first_seen": "2026-10-02T07:15:40.653506+00:00"
+    },
+    "4hxMC4jKxbrUfarT5ijNs2umAcThArTDQcz73oMFpump": {
+      "symbol": "cap",
+      "created_at": "2026-10-02T07:15:28.784059137Z",
+      "first_seen": "2026-10-02T07:15:40.653506+00:00"
+    },
+    "9WrbQVxrcR6HpNGiDe7uBEUyQF34ttQZinAsTVEDpump": {
+      "symbol": "home",
+      "created_at": "2026-10-02T07:15:25.485555276Z",
+      "first_seen": "2026-10-02T07:15:40.653506+00:00"
+    },
+    "HytT3MzYNE71fnGpLWQAjc62cFGJFNatEMNMfin1pump": {
+      "symbol": "DD",
+      "created_at": "2026-10-02T07:15:21.845099334Z",
+      "first_seen": "2026-10-02T07:15:40.653506+00:00"
+    },
+    "7yiDzJ7QksrA9EgpxBNXyotzM5pv7QxPnyGCtvAkPf9V": {
+      "symbol": "Buddy",
+      "created_at": "2026-10-02T07:15:21.613995048Z",
+      "first_seen": "2026-10-02T07:15:40.653506+00:00"
+    },
+    "BtZeqvurhDxhBWLmkkvHBSut9uVxnrUGuD6VeAhD7Q17": {
+      "symbol": "NPC",
+      "created_at": "2026-10-02T07:15:21.586051946Z",
+      "first_seen": "2026-10-02T07:15:40.653506+00:00"
     }
   },
   "alerted": [
