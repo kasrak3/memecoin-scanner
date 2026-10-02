@@ -173,7 +173,12 @@
     "7kgXxu6ZUacf32CnmSK94ctWLsYNng4CQLdLtYYUyYNv": {
       "symbol": "PANDORA",
       "created_at": "2026-10-02T05:34:29.568218754Z",
-      "first_seen": "2026-10-02T05:34:41.010573+00:00"
+      "first_seen": "2026-10-02T05:34:41.010573+00:00",
+      "confirm": {
+        "liquidity": 15147.68,
+        "market_cap": 34836,
+        "at": "2026-10-02T06:32:51.348115+00:00"
+      }
     },
     "CTzSmRjvrTAuqRo7jRaMsUe96gRTRWy7BPWDgk56pump": {
       "symbol": "ketnipz",
@@ -1170,16 +1175,6 @@
       "created_at": "2026-10-02T06:22:37.745988094Z",
       "first_seen": "2026-10-02T06:22:59.113149+00:00"
     },
-    "BaSh5hX8u4BYQ3DixccUY4iHuK1PFRaZRuK8GPuCFsB2": {
-      "symbol": "LLAMA",
-      "created_at": "2026-10-02T06:22:32.925323159Z",
-      "first_seen": "2026-10-02T06:22:59.113149+00:00"
-    },
-    "GwTjhxCeQoi5rFfHkG53NQd7uaVkgaBa4fajf65tThdy": {
-      "symbol": "LLAMA",
-      "created_at": "2026-10-02T06:22:28.794019535Z",
-      "first_seen": "2026-10-02T06:22:59.113149+00:00"
-    },
     "9UiWzXwkogsSHZVNqB4Mde8bM7JSQCzeugaTqGRUtWVp": {
       "symbol": "",
       "created_at": "2026-10-02T06:25:15.158482717Z",
@@ -1329,6 +1324,56 @@
       "symbol": "BP",
       "created_at": "2026-10-02T06:29:59.436019644Z",
       "first_seen": "2026-10-02T06:30:22.076958+00:00"
+    },
+    "SioCmj1TWvrYjZEnFMpCmLth5yyHTJtJGcbPU8opump": {
+      "symbol": "Xyron",
+      "created_at": "2026-10-02T06:32:42.9299727Z",
+      "first_seen": "2026-10-02T06:32:51.347724+00:00"
+    },
+    "G6VTWhrErdU59EaGFpiy3vugSG1UUjrDuaYZ33Kjpump": {
+      "symbol": "HER",
+      "created_at": "2026-10-02T06:32:42.408146927Z",
+      "first_seen": "2026-10-02T06:32:51.347724+00:00"
+    },
+    "5W2VcXaiJhrSQEPAVbdWVuQKz5APTv2cdeMBi6HGpump": {
+      "symbol": "MOGCOIN",
+      "created_at": "2026-10-02T06:32:41.850384103Z",
+      "first_seen": "2026-10-02T06:32:51.347724+00:00"
+    },
+    "Fjt7JpJ2w1WfZDCgQBb4A6Nffo6uM2XBva5d9Y5QbAyj": {
+      "symbol": "X",
+      "created_at": "2026-10-02T06:32:41.354584039Z",
+      "first_seen": "2026-10-02T06:32:51.347724+00:00"
+    },
+    "D74UuLrmv3mXxaiYYN3touRfdj1a5kvcr9RmfLHxhLSU": {
+      "symbol": "PUTER",
+      "created_at": "2026-10-02T06:32:39.263233743Z",
+      "first_seen": "2026-10-02T06:32:51.347724+00:00"
+    },
+    "HVnJVo5U4sw7Fg956jF1ViFNySJu4pPvdMjbNC2F7BzS": {
+      "symbol": "offline",
+      "created_at": "2026-10-02T06:32:37.565738271Z",
+      "first_seen": "2026-10-02T06:32:51.347724+00:00"
+    },
+    "9fkfrVmMz4atSH5usK6mVjScZTotaoCh1PJktMmzpump": {
+      "symbol": "STICK",
+      "created_at": "2026-10-02T06:32:36.228301733Z",
+      "first_seen": "2026-10-02T06:32:51.347724+00:00"
+    },
+    "HfbfS6EjQcuaRAtJanWCPchNdvHnwDaKLJkyv24bbP4Y": {
+      "symbol": "",
+      "created_at": "2026-10-02T06:32:32.740998257Z",
+      "first_seen": "2026-10-02T06:32:51.347724+00:00"
+    },
+    "B3AZgiam8Czs1cMbMvWCKRUW3T3gwYzMxXG4SeqEzNdV": {
+      "symbol": "TEST",
+      "created_at": "2026-10-02T06:32:31.608461813Z",
+      "first_seen": "2026-10-02T06:32:51.347724+00:00"
+    },
+    "3DKQguKFURJmzvMQKYJ4AvETKtUtkWEzhv5qz5EBpump": {
+      "symbol": "FOPO",
+      "created_at": "2026-10-02T06:32:30.77690455Z",
+      "first_seen": "2026-10-02T06:32:51.347724+00:00"
     }
   },
   "alerted": [
@@ -1710,8 +1755,6 @@
     "6tpfCENhKozjtambBEecWoV1V6trzqNgi1AQHkTqpump"
   ],
   "rejected": [
-    "App2pL9G6mcB3J72JhTtm9wM485RVtkyQjh1rtGcpump",
-    "FdLtvXhBV91G3A9XMRt9AK8hTez8fx2nSY9y5d8pz8z3",
     "FLdPReYymzsWWRHsd1Q9nxnn9L3nC7sZLwsFzJYtAZ4j",
     "BHwQwoaHQ8pzUp7L39y9xr8gCUY5ng3uvbCyr7fpump",
     "6kt5PyEk1KQ7TNkVCuhb4zJtWdHYstf8QFm2iPKwE9xE",
@@ -3709,6 +3752,8 @@
     "X1HK64XFDjNZLwAYvrvXKFgEoSUuxRgKWuujPMnpump",
     "HVS3JEDYy1GiC5UdEF8i9AR93UBUZn43dtEkokDwKH5j",
     "GveYRBFf11Tb19uoNHMsqUtNmVXTC3sjm5otFLDShoqL",
-    "2abCJDpWm8qa5wYLXYLtGtsdLedCgSWVztUKWyFGKWg4"
+    "2abCJDpWm8qa5wYLXYLtGtsdLedCgSWVztUKWyFGKWg4",
+    "BaSh5hX8u4BYQ3DixccUY4iHuK1PFRaZRuK8GPuCFsB2",
+    "GwTjhxCeQoi5rFfHkG53NQd7uaVkgaBa4fajf65tThdy"
   ]
 }
