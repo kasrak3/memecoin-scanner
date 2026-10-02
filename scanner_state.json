@@ -845,16 +845,6 @@
       "created_at": "2026-10-02T13:00:32.927856795Z",
       "first_seen": "2026-10-02T13:00:44.854184+00:00"
     },
-    "FtPgCJkZhb7RLVpU5ysH2UPTFwtRYb3EriABP1EHpump": {
-      "symbol": "Morrow",
-      "created_at": "2026-10-02T13:02:55.766022981Z",
-      "first_seen": "2026-10-02T13:03:03.437620+00:00",
-      "confirm": {
-        "liquidity": 23342.05,
-        "market_cap": 74463,
-        "at": "2026-10-02T13:14:31.479599+00:00"
-      }
-    },
     "216TNDMefeNf8Wc4uHuviGTXFRjGtopQsGYwgMj1pump": {
       "symbol": "SNOOB",
       "created_at": "2026-10-02T13:02:53.740614967Z",
@@ -1144,6 +1134,56 @@
       "symbol": "Belle",
       "created_at": "2026-10-02T13:14:12.038368871Z",
       "first_seen": "2026-10-02T13:14:31.479340+00:00"
+    },
+    "DNSnAA99jrVUCg4GvL6LEVfFHBnGpnWA2k3CkRvZpump": {
+      "symbol": "WISP",
+      "created_at": "2026-10-02T13:16:40.845843721Z",
+      "first_seen": "2026-10-02T13:16:51.373548+00:00"
+    },
+    "BdWtrwBocy5Rv2SAsRUKwi2bWGBZf9g2kwDuPaJspump": {
+      "symbol": "COLLAB",
+      "created_at": "2026-10-02T13:16:40.693862082Z",
+      "first_seen": "2026-10-02T13:16:51.373548+00:00"
+    },
+    "7VuTcvB9BTFgXmPm2TSag4WaQVHYe6YEeBHGJ1fZpump": {
+      "symbol": "RICK",
+      "created_at": "2026-10-02T13:16:40.410870549Z",
+      "first_seen": "2026-10-02T13:16:51.373548+00:00"
+    },
+    "DLzF3WxHRCzLQEDgxmFu3Wrc1oSXJhqo2Jje8pHYXi9W": {
+      "symbol": "DED",
+      "created_at": "2026-10-02T13:16:40.137641219Z",
+      "first_seen": "2026-10-02T13:16:51.373548+00:00"
+    },
+    "AbWDnfbLo139Pxs2WZbBUcBxVQ3mERoEPbW365cZsT1r": {
+      "symbol": "AI",
+      "created_at": "2026-10-02T13:16:39.338642306Z",
+      "first_seen": "2026-10-02T13:16:51.373548+00:00"
+    },
+    "DJqyXdVsnCf5VuGomKgaKZV7f2XiguywodhWEHxHpump": {
+      "symbol": "SOCKETCAT",
+      "created_at": "2026-10-02T13:16:38.310654084Z",
+      "first_seen": "2026-10-02T13:16:51.373548+00:00"
+    },
+    "CE1cZ154uqu2B67Vx18REWkAd1xEkK2Cdv4hdpFcED7N": {
+      "symbol": "Morrow",
+      "created_at": "2026-10-02T13:16:32.887452646Z",
+      "first_seen": "2026-10-02T13:16:51.373548+00:00"
+    },
+    "BnwSQhKS34BwudUxpnw6X3JkYUNNfmNzXAMEWcXDpump": {
+      "symbol": "ODDSYPRO",
+      "created_at": "2026-10-02T13:16:32.612433913Z",
+      "first_seen": "2026-10-02T13:16:51.373548+00:00"
+    },
+    "G6EUdoQWdefvUsHwmLETSe5QaaMJEjTHZ819XENApump": {
+      "symbol": "POCKET",
+      "created_at": "2026-10-02T13:16:32.087247909Z",
+      "first_seen": "2026-10-02T13:16:51.373548+00:00"
+    },
+    "7B8MCKBih7jkDkhhBVxqcTDTRJH1BvRGqy9Jn4Skpump": {
+      "symbol": "ECLIPSE",
+      "created_at": "2026-10-02T13:16:32.018166812Z",
+      "first_seen": "2026-10-02T13:16:51.373548+00:00"
     }
   },
   "alerted": [
@@ -1524,7 +1564,8 @@
     "EhiPqEwxL4W1Gc9JMtnzvSPpZ9C8jXNkbaZzR4ZSvqap",
     "6tpfCENhKozjtambBEecWoV1V6trzqNgi1AQHkTqpump",
     "7kgXxu6ZUacf32CnmSK94ctWLsYNng4CQLdLtYYUyYNv",
-    "A72fsJX64cS5KxeuCcj3w2xoSa2hSYLzGg3wSw1epump"
+    "A72fsJX64cS5KxeuCcj3w2xoSa2hSYLzGg3wSw1epump",
+    "FtPgCJkZhb7RLVpU5ysH2UPTFwtRYb3EriABP1EHpump"
   ],
   "rejected": [
     "7H7M8T15WvE2EJZESpYzMEaqDtGVok6QUJsXzpbpump",
