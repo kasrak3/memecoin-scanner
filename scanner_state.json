@@ -1363,7 +1363,12 @@
     "HWMgoYa2XSBsmnNJ5CbzDiEorQpuucTntDjyJsaP1Tyw": {
       "symbol": "casinu",
       "created_at": "2026-10-02T23:06:24.593687532Z",
-      "first_seen": "2026-10-02T23:06:34.809479+00:00"
+      "first_seen": "2026-10-02T23:06:34.809479+00:00",
+      "confirm": {
+        "liquidity": 17164.93,
+        "market_cap": 33682,
+        "at": "2026-10-02T23:26:16.238393+00:00"
+      }
     },
     "3vkghd7uTzLLavuEKikavLro9r86LPfVZ3eMgSnvpump": {
       "symbol": "Chud",
@@ -1724,6 +1729,56 @@
       "symbol": "",
       "created_at": "2026-10-02T23:23:34.001500215Z",
       "first_seen": "2026-10-02T23:23:44.536309+00:00"
+    },
+    "ASSkZiUrmFGMkKZvv5ER92TyRChokoGLd8Rv1rKcQ7e9": {
+      "symbol": "casinu",
+      "created_at": "2026-10-02T23:26:14.652109833Z",
+      "first_seen": "2026-10-02T23:26:16.238189+00:00"
+    },
+    "A5SKbdPkJ4yztTYS9zZHnCkgpEV2TkQa91xoRZ9DEZns": {
+      "symbol": "XYZ",
+      "created_at": "2026-10-02T23:26:13.58907693Z",
+      "first_seen": "2026-10-02T23:26:16.238189+00:00"
+    },
+    "HiKKAQXH9N46FrKFd5xsToUbSDBCfWbRk5r9CipV3kM9": {
+      "symbol": "BAG",
+      "created_at": "2026-10-02T23:26:11.329716467Z",
+      "first_seen": "2026-10-02T23:26:16.238189+00:00"
+    },
+    "F44qKvCxFpGsuKggX3osiKgSrUTYe6xZepNnQ7qtpump": {
+      "symbol": "ShieldPad",
+      "created_at": "2026-10-02T23:26:10.210133497Z",
+      "first_seen": "2026-10-02T23:26:16.238189+00:00"
+    },
+    "5zfPoFXsGDu2bYW3v4gT9DgtMqz2nBP74NZrCArBpump": {
+      "symbol": "OXAR",
+      "created_at": "2026-10-02T23:26:08.400844835Z",
+      "first_seen": "2026-10-02T23:26:16.238189+00:00"
+    },
+    "Lopxm9KbdnagqYM8EpLJJftREiNjFuVvnsEDaT3A3hN": {
+      "symbol": "SI6900",
+      "created_at": "2026-10-02T23:26:07.94655982Z",
+      "first_seen": "2026-10-02T23:26:16.238189+00:00"
+    },
+    "5bjf6AbBgw4BqmdtURtC7HmDpshBg9xNirGYrbu5EVwS": {
+      "symbol": "UNS",
+      "created_at": "2026-10-02T23:26:04.928493964Z",
+      "first_seen": "2026-10-02T23:26:16.238189+00:00"
+    },
+    "Hg96YB4U7NAqLsgVSP4trhZRsefk4S2eLcFZdoeopump": {
+      "symbol": "boon",
+      "created_at": "2026-10-02T23:26:04.003496178Z",
+      "first_seen": "2026-10-02T23:26:16.238189+00:00"
+    },
+    "63u3ZJ72fEWU7xRuCwZEiuppsEGgSkWteoSk2DSgpump": {
+      "symbol": "STUMPER",
+      "created_at": "2026-10-02T23:26:03.673902166Z",
+      "first_seen": "2026-10-02T23:26:16.238189+00:00"
+    },
+    "3FiwB2cxT423qWUkp4enam35fRavJYhzM8FiZaXMpump": {
+      "symbol": "42142141",
+      "created_at": "2026-10-02T23:25:59.342889649Z",
+      "first_seen": "2026-10-02T23:26:16.238189+00:00"
     }
   },
   "alerted": [
