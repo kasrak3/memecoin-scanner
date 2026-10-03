@@ -1753,7 +1753,12 @@
     "4FEouBgLRfLFmp7DBB9DFhRjhTKgaZ25CPpoSHcLLwNA": {
       "symbol": "KINDRED",
       "created_at": "2026-10-03T22:29:37.487766586Z",
-      "first_seen": "2026-10-03T22:29:45.784958+00:00"
+      "first_seen": "2026-10-03T22:29:45.784958+00:00",
+      "confirm": {
+        "liquidity": 7629.99,
+        "market_cap": 11210,
+        "at": "2026-10-03T23:04:37.169267+00:00"
+      }
     },
     "UAq52RpasydB7Wggk4dRXH4SB8wLb5HxwVHkyAapump": {
       "symbol": "PUMP",
@@ -2379,6 +2384,56 @@
       "symbol": "QUILLETTE",
       "created_at": "2026-10-03T23:01:39.185996573Z",
       "first_seen": "2026-10-03T23:01:52.553503+00:00"
+    },
+    "5KgHUTmozu15zb9qp9cyP3s1nLM9dgT31o28BEBFhy9N": {
+      "symbol": "BitCoinBot",
+      "created_at": "2026-10-03T23:04:31.66976255Z",
+      "first_seen": "2026-10-03T23:04:37.168898+00:00"
+    },
+    "unXAwNqiVEenWjGnU5RSqesJ543W28jJkYCQmTKJHNd": {
+      "symbol": "FABLE",
+      "created_at": "2026-10-03T23:04:28.313930896Z",
+      "first_seen": "2026-10-03T23:04:37.168898+00:00"
+    },
+    "96VkUYtEqCtCF5fdq4k2THZLwCmfNtG6HUehQwrFpump": {
+      "symbol": "PUMP",
+      "created_at": "2026-10-03T23:04:27.793235303Z",
+      "first_seen": "2026-10-03T23:04:37.168898+00:00"
+    },
+    "BTSWGCURgtuFBtUw2XhqW6somN6uKFwk8gegGxBV9dBn": {
+      "symbol": "Loosy",
+      "created_at": "2026-10-03T23:04:27.188348658Z",
+      "first_seen": "2026-10-03T23:04:37.168898+00:00"
+    },
+    "6qwcZSsmo9Z3b9Xdvctwdt6UGEXdZaQyg7RkA2nApump": {
+      "symbol": "Harambe",
+      "created_at": "2026-10-03T23:04:26.887218995Z",
+      "first_seen": "2026-10-03T23:04:37.168898+00:00"
+    },
+    "Pa5YKzsjYqwnev4dYNipoLS7EJk27HAbVNvn7Fjye83": {
+      "symbol": "MPN",
+      "created_at": "2026-10-03T23:04:26.546944291Z",
+      "first_seen": "2026-10-03T23:04:37.168898+00:00"
+    },
+    "FCk6ipDLoyuREbwvRibyQKBpmwaQun8vbEUzA6UZBiys": {
+      "symbol": "LOOSEY",
+      "created_at": "2026-10-03T23:04:22.162165664Z",
+      "first_seen": "2026-10-03T23:04:37.168898+00:00"
+    },
+    "DcsUgDbegoguSa6V15o43nYarKgnzzee17rFAdSxAXHb": {
+      "symbol": "Loosy",
+      "created_at": "2026-10-03T23:04:21.936772574Z",
+      "first_seen": "2026-10-03T23:04:37.168898+00:00"
+    },
+    "79emTFZxxYuK6mUd33aTBwCGMjynhPkzFQrhhsFThtkn": {
+      "symbol": "Loosy",
+      "created_at": "2026-10-03T23:04:21.284901462Z",
+      "first_seen": "2026-10-03T23:04:37.168898+00:00"
+    },
+    "Dx3yroLr9VhhL5d1p7mb7MwJXcUdVQNXQqDj6WUjpump": {
+      "symbol": "LEMONNEM",
+      "created_at": "2026-10-03T23:04:21.058031724Z",
+      "first_seen": "2026-10-03T23:04:37.168898+00:00"
     }
   },
   "alerted": [
