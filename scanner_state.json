@@ -2115,16 +2115,6 @@
       "created_at": "2026-10-02T23:47:03.715099Z",
       "first_seen": "2026-10-02T23:47:05.891293+00:00"
     },
-    "gjaDS6RBeS2577qvTRP7BuavKkAKFEV82tkr8JCpump": {
-      "symbol": "PAPI",
-      "created_at": "2026-10-02T23:46:57.645564509Z",
-      "first_seen": "2026-10-02T23:47:05.891293+00:00",
-      "confirm": {
-        "liquidity": 39401.43,
-        "market_cap": 205426,
-        "at": "2026-10-02T23:57:52.579264+00:00"
-      }
-    },
     "7gdDJRoRsZVtbMcHupQ1t6orZushGg9e7VgQZfwvpump": {
       "symbol": "dogedollar",
       "created_at": "2026-10-02T23:46:55.960664336Z",
@@ -2359,6 +2349,56 @@
       "symbol": "ARENA",
       "created_at": "2026-10-02T23:57:42.711178655Z",
       "first_seen": "2026-10-02T23:57:52.579099+00:00"
+    },
+    "CoZSemWT1qSqAtaqyVQAL1m7raQuPRDJUZvs8yqfMPuN": {
+      "symbol": "POISE",
+      "created_at": "2026-10-03T00:00:32.726718331Z",
+      "first_seen": "2026-10-03T00:00:38.219383+00:00"
+    },
+    "FJGfuBCns9gLv193nQV63kpW9iv83NoFTZgtDp1Wpump": {
+      "symbol": "Hope",
+      "created_at": "2026-10-03T00:00:32.236365733Z",
+      "first_seen": "2026-10-03T00:00:38.219383+00:00"
+    },
+    "DZh1db81A85n7qog1c5PXK3ULa3VVg2UHkgz73shpump": {
+      "symbol": "CIA",
+      "created_at": "2026-10-03T00:00:31.764189884Z",
+      "first_seen": "2026-10-03T00:00:38.219383+00:00"
+    },
+    "8BzBGygEKQUywgNXTWUxVZ77uRKYiUKsrE1KYfETSTNK": {
+      "symbol": "GME",
+      "created_at": "2026-10-03T00:00:31.25546749Z",
+      "first_seen": "2026-10-03T00:00:38.219383+00:00"
+    },
+    "GNSRDYgFZ3tuuPUS2hCqEY1CvdPH1QGoS2K6xVdqpump": {
+      "symbol": "TRI",
+      "created_at": "2026-10-03T00:00:30.915462327Z",
+      "first_seen": "2026-10-03T00:00:38.219383+00:00"
+    },
+    "AZjqzusX6e5Z57Qe5rsdNBfK1MNmKTpz4gRK87uyJ1xW": {
+      "symbol": "OTTER",
+      "created_at": "2026-10-03T00:00:29.665327961Z",
+      "first_seen": "2026-10-03T00:00:38.219383+00:00"
+    },
+    "8kB9ndJc2TMKnc6py6XbPJp8DdubdZwE44Z7V8vD2GWe": {
+      "symbol": "ALPACA",
+      "created_at": "2026-10-03T00:00:29.115348946Z",
+      "first_seen": "2026-10-03T00:00:38.219383+00:00"
+    },
+    "Bq83geUtisw5A4z1caQ6bHrRDd3Jm13repsrd5hipump": {
+      "symbol": "MINECRAFT",
+      "created_at": "2026-10-03T00:00:28.922430024Z",
+      "first_seen": "2026-10-03T00:00:38.219383+00:00"
+    },
+    "FN9NnmWDtvQL2rjLzKiV22oANveLkoaZXCqpzKwupump": {
+      "symbol": "ALPACKA",
+      "created_at": "2026-10-03T00:00:25.917833888Z",
+      "first_seen": "2026-10-03T00:00:38.219383+00:00"
+    },
+    "3S5VJK7cx1V75gzvbY27LSicK8k6M1xujJPLp9N5aQzs": {
+      "symbol": "",
+      "created_at": "2026-10-03T00:00:20.739974478Z",
+      "first_seen": "2026-10-03T00:00:38.219383+00:00"
     }
   },
   "alerted": [
@@ -2746,7 +2786,6 @@
     "HWMgoYa2XSBsmnNJ5CbzDiEorQpuucTntDjyJsaP1Tyw"
   ],
   "rejected": [
-    "Ddd4Qy8N5nNtteaHfESfmjsynz5qEGFQZMLQuLj49EzL",
     "Mgdi8AZSafxPg5P79WKRXBarZT5fPE7sXDAUJfBpump",
     "58f7nZVsmbSbs3q1XknWXKAwCSBkttTEQgt5NKBvjuWV",
     "Ayhh5rPLAmYPtX3rVjxuqZSGjVUFGE1T5rQrMyt9pump",
@@ -4745,6 +4784,7 @@
     "2sjM5gyEPBbkqcZJm3AWAXv9EpNAHctDerbuhLYPJWvP",
     "55QSFZDLPxP94ZrG7LAVkh4nzgH9PRkvwmrgmR6gpEmr",
     "4dFpLyo4FDeXdSoCokFgYSk1XNuQoNwwWVGz2jnFpump",
-    "2LaBS2kiWeRDH8K4CzpykEug9sZaDjSG7Yc97KqNCD7p"
+    "2LaBS2kiWeRDH8K4CzpykEug9sZaDjSG7Yc97KqNCD7p",
+    "gjaDS6RBeS2577qvTRP7BuavKkAKFEV82tkr8JCpump"
   ]
 }
