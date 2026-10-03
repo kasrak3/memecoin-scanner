@@ -1,45 +1,5 @@
 {
   "pending": {
-    "BixYKxgE4MtLN1sJPLjaRvJ37qiCgETPncCFbKuDpump": {
-      "symbol": "Hold",
-      "created_at": "2026-10-02T22:54:48.41986782Z",
-      "first_seen": "2026-10-02T22:54:51.520321+00:00"
-    },
-    "7pspEt4uxBVEJWZATKbpYZ6SZieSWDdsfzcW2vFwpump": {
-      "symbol": "FOMOCAT",
-      "created_at": "2026-10-02T22:54:47.723474969Z",
-      "first_seen": "2026-10-02T22:54:51.520321+00:00"
-    },
-    "BcyfqPMAMxkZLUYQdHxutLXSaCzQyJ2oTWzGpj8spump": {
-      "symbol": "PICKLE",
-      "created_at": "2026-10-02T22:54:47.17097772Z",
-      "first_seen": "2026-10-02T22:54:51.520321+00:00"
-    },
-    "BxkHZzoRngLfcRobhmFC4nKi1pabyJajyLXnCbbnbWMQ": {
-      "symbol": "BRETT",
-      "created_at": "2026-10-02T22:54:40.066651469Z",
-      "first_seen": "2026-10-02T22:54:51.520321+00:00"
-    },
-    "9rd4w2BJjggua8wdZoUCHUcJbmWXpFDJ7MDkB3PgFpMH": {
-      "symbol": "POPPY",
-      "created_at": "2026-10-02T22:54:39.365738825Z",
-      "first_seen": "2026-10-02T22:54:51.520321+00:00"
-    },
-    "nNWYAH9z2aw6r5mDhxfjUUdrP6MHWhvhcKaD1bxnsty": {
-      "symbol": "Calicoin",
-      "created_at": "2026-10-02T22:54:38.935534157Z",
-      "first_seen": "2026-10-02T22:54:51.520321+00:00"
-    },
-    "8gRkjGohp7HQq8E1eSadsf2XNh9gb9FJWPgjLJUFpump": {
-      "symbol": "PICKLECAT",
-      "created_at": "2026-10-02T22:54:38.930954978Z",
-      "first_seen": "2026-10-02T22:54:51.520321+00:00"
-    },
-    "AwTFpSGMeMYp5SVCtoBi8LmtHgJLjswTurcDrAJipump": {
-      "symbol": "STONKISH",
-      "created_at": "2026-10-02T22:54:38.680137219Z",
-      "first_seen": "2026-10-02T22:54:51.520321+00:00"
-    },
     "HzQpBMvoKj4Gau7V9cBAm8FrfQstPyD39fB1Qmajpump": {
       "symbol": "SXSN",
       "created_at": "2026-10-02T22:57:07.568964448Z",
@@ -1768,7 +1728,12 @@
     "kfzRw7SNqowbcQhzJwiKThT8HUYPY6idBpSE3TSvdw2": {
       "symbol": "SCAT",
       "created_at": "2026-10-03T00:28:31.884109425Z",
-      "first_seen": "2026-10-03T00:28:41.479828+00:00"
+      "first_seen": "2026-10-03T00:28:41.479828+00:00",
+      "confirm": {
+        "liquidity": 15369.64,
+        "market_cap": 31660,
+        "at": "2026-10-03T00:55:56.040361+00:00"
+      }
     },
     "23onimbpZvbBihygcfHQebRnRPMpmcmSnHh2WGkppump": {
       "symbol": "DOGE PAID",
@@ -2234,6 +2199,56 @@
       "symbol": "FILLED",
       "created_at": "2026-10-03T00:52:55.910220012Z",
       "first_seen": "2026-10-03T00:53:13.523166+00:00"
+    },
+    "74oWYLQpH53LK8rkqihZJhekn1mU7wLD5zABCEyymLtp": {
+      "symbol": "OWP",
+      "created_at": "2026-10-03T00:55:53.30251835Z",
+      "first_seen": "2026-10-03T00:55:56.040197+00:00"
+    },
+    "7me2t4FSu2AXsadiZxXUNSNU3Ro1PGPAcyFecGompump": {
+      "symbol": "lolcat",
+      "created_at": "2026-10-03T00:55:48.989076295Z",
+      "first_seen": "2026-10-03T00:55:56.040197+00:00"
+    },
+    "2J6vaDzNZGq428YYvqbErGEpdaj8TcKn9g3ifhV1TtHF": {
+      "symbol": "",
+      "created_at": "2026-10-03T00:55:48.498916587Z",
+      "first_seen": "2026-10-03T00:55:56.040197+00:00"
+    },
+    "6GM9s9Az664cCmpvMJAdjHJErj3u1X7RGTHyEfV2HzxH": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-10-03T00:55:48.233054771Z",
+      "first_seen": "2026-10-03T00:55:56.040197+00:00"
+    },
+    "v5omnU1ManSmoU46cGQWsAC1r8qcyzTmrT7kgnPpump": {
+      "symbol": "Lone",
+      "created_at": "2026-10-03T00:55:47.497441807Z",
+      "first_seen": "2026-10-03T00:55:56.040197+00:00"
+    },
+    "XYNGHkr5mfmCZV7DWmS9sifHYmDcL3ys4McuQxgpump": {
+      "symbol": "SEC",
+      "created_at": "2026-10-03T00:55:45.258883502Z",
+      "first_seen": "2026-10-03T00:55:56.040197+00:00"
+    },
+    "6waKcfeVAEF16YGpsm6QZFtpi1kT9ocWfZYqz6xDpump": {
+      "symbol": "INUX",
+      "created_at": "2026-10-03T00:55:44.227229055Z",
+      "first_seen": "2026-10-03T00:55:56.040197+00:00"
+    },
+    "Ac28Mgz8Go9DwdzmDAfyL4teWx1vPHfuj1kv5MwEerDL": {
+      "symbol": "",
+      "created_at": "2026-10-03T00:55:42.604185725Z",
+      "first_seen": "2026-10-03T00:55:56.040197+00:00"
+    },
+    "CAZx8DjxABssZfDqMaRjp9KkzXJjr9PkRy5fVg2bpump": {
+      "symbol": "BPCATE",
+      "created_at": "2026-10-03T00:55:40.230726781Z",
+      "first_seen": "2026-10-03T00:55:56.040197+00:00"
+    },
+    "453nA2RTu9d986qgEz9erNpsXUY7RSF2Y64nDHZV8i2g": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-10-03T00:55:39.671228861Z",
+      "first_seen": "2026-10-03T00:55:56.040197+00:00"
     }
   },
   "alerted": [
