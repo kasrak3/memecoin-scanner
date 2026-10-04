@@ -1503,7 +1503,12 @@
     "GQZp6AquEspKpvHL5jyKCrxjm79KJNkeFWwrDLeapump": {
       "symbol": "FomoSI",
       "created_at": "2026-10-04T13:27:41.169653781Z",
-      "first_seen": "2026-10-04T13:27:53.643453+00:00"
+      "first_seen": "2026-10-04T13:27:53.643453+00:00",
+      "confirm": {
+        "liquidity": 18719.43,
+        "market_cap": 50797,
+        "at": "2026-10-04T13:37:45.252170+00:00"
+      }
     },
     "5RAwsXzdE76v3kfTyfxPFEkWLqBnVUU2mCArUDAU3kra": {
       "symbol": "mCAT",
@@ -1679,6 +1684,56 @@
       "symbol": "stopslop",
       "created_at": "2026-10-04T13:34:56.388934103Z",
       "first_seen": "2026-10-04T13:35:16.360858+00:00"
+    },
+    "Bsw7rGPXjrX686yd6QVzECvCLf34Z8nmoZrDXEABpump": {
+      "symbol": "ALI",
+      "created_at": "2026-10-04T13:37:37.808671214Z",
+      "first_seen": "2026-10-04T13:37:45.251780+00:00"
+    },
+    "JBVhvadqJ3rnSrcJ1x3dBWqZPXJoCpguSaaWV4cwGLZU": {
+      "symbol": "Quants",
+      "created_at": "2026-10-04T13:37:36.436001724Z",
+      "first_seen": "2026-10-04T13:37:45.251780+00:00"
+    },
+    "CK1ri7r2aqbdGGrm3wXPEAhYBwAvkyUY4GTLabARiWuG": {
+      "symbol": "SIF",
+      "created_at": "2026-10-04T13:37:36.090503921Z",
+      "first_seen": "2026-10-04T13:37:45.251780+00:00"
+    },
+    "Zv9j7qb4jM8RgzS8dNaYpqcmZ22zGnAkCzj2m6Bpump": {
+      "symbol": "OWL",
+      "created_at": "2026-10-04T13:37:34.496055259Z",
+      "first_seen": "2026-10-04T13:37:45.251780+00:00"
+    },
+    "14caKkRDdNuwecojSXAV3WGjaYpX3hK5kNJEshjb3Agt": {
+      "symbol": "",
+      "created_at": "2026-10-04T13:37:31.848475985Z",
+      "first_seen": "2026-10-04T13:37:45.251780+00:00"
+    },
+    "HdYG2EzYp6ih3tydsGdsWZpGdP2p2ZesHnD1FK3Jpump": {
+      "symbol": "agi16z",
+      "created_at": "2026-10-04T13:37:31.048093219Z",
+      "first_seen": "2026-10-04T13:37:45.251780+00:00"
+    },
+    "D3vovHYt5Fg6CoqQnuA1DeYhvYquzmABDKtuUpZApump": {
+      "symbol": "lulala",
+      "created_at": "2026-10-04T13:37:28.073983365Z",
+      "first_seen": "2026-10-04T13:37:45.251780+00:00"
+    },
+    "7wHZXDMiZ54y9582XHFYfU98hNjqi6tzGi3qTDbnpump": {
+      "symbol": "Reassa",
+      "created_at": "2026-10-04T13:37:26.909729227Z",
+      "first_seen": "2026-10-04T13:37:45.251780+00:00"
+    },
+    "2mhjtsd8LZmYNagqM1dHTXWgsxJyom9SBT3CUeWKCwQb": {
+      "symbol": "",
+      "created_at": "2026-10-04T13:37:26.640327529Z",
+      "first_seen": "2026-10-04T13:37:45.251780+00:00"
+    },
+    "JDCaGxKakUBZQNHd7SK7AWvcs1dzLrpoAxnK8nRGYKnG": {
+      "symbol": "MNR",
+      "created_at": "2026-10-04T13:37:23.863706523Z",
+      "first_seen": "2026-10-04T13:37:45.251780+00:00"
     }
   },
   "alerted": [
