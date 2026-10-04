@@ -1,55 +1,5 @@
 {
   "pending": {
-    "AJ1dWg2JB2M51q1h43r9TNBtkakUz3fw6rdTNsRKQW6b": {
-      "symbol": "GIKO",
-      "created_at": "2026-10-04T06:01:44.416642551Z",
-      "first_seen": "2026-10-04T06:01:56.018497+00:00"
-    },
-    "FKaG2WNY3usNPMNDmc7dhDh5RNBkoR56oYFwRg59dNkx": {
-      "symbol": "REWARD",
-      "created_at": "2026-10-04T06:01:42.164792192Z",
-      "first_seen": "2026-10-04T06:01:56.018497+00:00"
-    },
-    "A9UwLaBf2MyafcDrbGkbY2miPDoEYQyxc9Pt9EgtEEdZ": {
-      "symbol": "",
-      "created_at": "2026-10-04T06:01:41.121443448Z",
-      "first_seen": "2026-10-04T06:01:56.018497+00:00"
-    },
-    "Em9F786hAJauHHRCEwoxUmpq26y7BjgA39RWDtN1BAGS": {
-      "symbol": "SHCUFF",
-      "created_at": "2026-10-04T06:01:39.465960865Z",
-      "first_seen": "2026-10-04T06:01:56.018497+00:00"
-    },
-    "6DuBD4VBULnczvzjuk3Vbw7QV8PaVqee29CsVghhSp2a": {
-      "symbol": "Pepe",
-      "created_at": "2026-10-04T06:01:39.105248068Z",
-      "first_seen": "2026-10-04T06:01:56.018497+00:00"
-    },
-    "FKs2NsGv49CBBKeShNECtmBfkqFuTUtirqsJ18K8gMyQ": {
-      "symbol": "CAL",
-      "created_at": "2026-10-04T06:01:38.040276339Z",
-      "first_seen": "2026-10-04T06:01:56.018497+00:00"
-    },
-    "7FfExoQfprSrTfEFSKkBDpQQjHhhnU9ZME26UtNSpump": {
-      "symbol": "CAL",
-      "created_at": "2026-10-04T06:01:35.092395035Z",
-      "first_seen": "2026-10-04T06:01:56.018497+00:00"
-    },
-    "7YLnwYMXWFDTFzeALexmmUQRLFgrqAUswSPpuJEdpump": {
-      "symbol": "BYTE",
-      "created_at": "2026-10-04T06:01:34.850182425Z",
-      "first_seen": "2026-10-04T06:01:56.018497+00:00"
-    },
-    "7GTeZoY1Hx2rxKgqqcNp6U11HEyZnkbnfSfw2kK4pump": {
-      "symbol": "AMCP",
-      "created_at": "2026-10-04T06:01:33.181742693Z",
-      "first_seen": "2026-10-04T06:01:56.018497+00:00"
-    },
-    "8sK8osdJ8qJxBnJaMtyDUx5SeSjEBw2jJx48LR6i1RdN": {
-      "symbol": "SI",
-      "created_at": "2026-10-04T06:01:27.922051369Z",
-      "first_seen": "2026-10-04T06:01:56.018497+00:00"
-    },
     "HZZK2ns1Q2xqLaUPYfF8oRnr3NT25x4ZWhhoU55Tpump": {
       "symbol": "NiggaChad",
       "created_at": "2026-10-04T06:03:55.308834657Z",
@@ -2273,7 +2223,12 @@
     "2bsuCo7L6ZvQ89NHKZx72Y5J2Quq42kVD2vSykfQvJNH": {
       "symbol": "TikTok",
       "created_at": "2026-10-04T07:53:08.468037411Z",
-      "first_seen": "2026-10-04T07:53:15.524864+00:00"
+      "first_seen": "2026-10-04T07:53:15.524864+00:00",
+      "confirm": {
+        "liquidity": 24546.41,
+        "market_cap": 83074,
+        "at": "2026-10-04T08:03:58.858924+00:00"
+      }
     },
     "FSKmp7e6e78qSyurkbWDgzcEz2F9pD8SuFSdpcjFYmLM": {
       "symbol": "GIELINOR",
@@ -2464,6 +2419,56 @@
       "symbol": "AiFi",
       "created_at": "2026-10-04T08:00:49.755167519Z",
       "first_seen": "2026-10-04T08:01:18.496885+00:00"
+    },
+    "bub17s2yfCnKufmZzFKj3jmHRp5oBPPp5sekRwvMwNY": {
+      "symbol": "ATELIER",
+      "created_at": "2026-10-04T08:03:42.267247816Z",
+      "first_seen": "2026-10-04T08:03:58.858745+00:00"
+    },
+    "FDQ4AEG8nPYCJkzcFTTyMt5yKnd6hn7YnDfgqyQpump": {
+      "symbol": "Tech Bull",
+      "created_at": "2026-10-04T08:03:39.712278886Z",
+      "first_seen": "2026-10-04T08:03:58.858745+00:00"
+    },
+    "2pg9stD9pwuksXt4MfLwTonuWWx6GwWrrv3p7mWdqUTR": {
+      "symbol": "build",
+      "created_at": "2026-10-04T08:03:39.151332656Z",
+      "first_seen": "2026-10-04T08:03:58.858745+00:00"
+    },
+    "FuVwQcbpsGznDJDhJPaktFhMoy841uPxcsiG3L4vpump": {
+      "symbol": "mmrich",
+      "created_at": "2026-10-04T08:03:37.51282929Z",
+      "first_seen": "2026-10-04T08:03:58.858745+00:00"
+    },
+    "6nRwpzgFk3PepG98VC3jBoSfTBG1NKT6hdaCEYr1Sqyc": {
+      "symbol": "",
+      "created_at": "2026-10-04T08:03:36.711361206Z",
+      "first_seen": "2026-10-04T08:03:58.858745+00:00"
+    },
+    "8M8SPryzGFydnYfGp1LFszt6K2EYoYS7XgXfPULRivia": {
+      "symbol": "",
+      "created_at": "2026-10-04T08:03:35.957424239Z",
+      "first_seen": "2026-10-04T08:03:58.858745+00:00"
+    },
+    "NxFGPjYbJaQE19pSH7hRTxedAUK4VJFMZhHnbVUxe9U": {
+      "symbol": "ATELIER",
+      "created_at": "2026-10-04T08:03:35.836853261Z",
+      "first_seen": "2026-10-04T08:03:58.858745+00:00"
+    },
+    "8qvYy4gwSUZYCeuo1uNPH3tAq8A83FFMK8Co4AYKpump": {
+      "symbol": "OUROBOROS",
+      "created_at": "2026-10-04T08:03:35.45640927Z",
+      "first_seen": "2026-10-04T08:03:58.858745+00:00"
+    },
+    "B1vikCqT37suehCqJhD3StUgyEdR47AErPxEqXtCpump": {
+      "symbol": "||||",
+      "created_at": "2026-10-04T08:03:34.900464519Z",
+      "first_seen": "2026-10-04T08:03:58.858745+00:00"
+    },
+    "7Rkp3y7iLLmqbWELYPPuExb7y1z7BNNMpyUaoDuuF57z": {
+      "symbol": "",
+      "created_at": "2026-10-04T08:03:33.596373557Z",
+      "first_seen": "2026-10-04T08:03:58.858745+00:00"
     }
   },
   "alerted": [
