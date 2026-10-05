@@ -873,7 +873,12 @@
     "9ZPgTo6bbNsZjyhrtHnmUhtQg8ogRrzmJHpbqzJLpump": {
       "symbol": "Dots",
       "created_at": "2026-10-05T06:03:14.650855133Z",
-      "first_seen": "2026-10-05T06:03:27.560563+00:00"
+      "first_seen": "2026-10-05T06:03:27.560563+00:00",
+      "confirm": {
+        "liquidity": 16067.88,
+        "market_cap": 38881,
+        "at": "2026-10-05T06:21:31.229542+00:00"
+      }
     },
     "G9bQ7jHLMZDiJx9Md4SXdVzrd5Rj1Hgzv2nSzbsYMJFj": {
       "symbol": "BTC-UP",
@@ -1224,6 +1229,56 @@
       "symbol": "",
       "created_at": "2026-10-05T06:18:47.637912262Z",
       "first_seen": "2026-10-05T06:19:12.158089+00:00"
+    },
+    "3mi8kZWTpa89SNetHVPk2FYtP8JJyfzGumH3Esxkpump": {
+      "symbol": "ZANGIEF",
+      "created_at": "2026-10-05T06:21:24.685123865Z",
+      "first_seen": "2026-10-05T06:21:31.229118+00:00"
+    },
+    "3XK7uHGJLejAiZtvrfY1tzF6ddz4Di5qYC3skciLrxnw": {
+      "symbol": "SM",
+      "created_at": "2026-10-05T06:21:22.815219876Z",
+      "first_seen": "2026-10-05T06:21:31.229118+00:00"
+    },
+    "9Q1yzsNEPRNQ7ENWS9MjrpeN92hnWiqrwtQjYgNckBcn": {
+      "symbol": "Snowball",
+      "created_at": "2026-10-05T06:21:22.391176365Z",
+      "first_seen": "2026-10-05T06:21:31.229118+00:00"
+    },
+    "8DPMVs8T8JGiHUs73TnUCtXnid1aWbrpoSotQ3Fepump": {
+      "symbol": "NUKE",
+      "created_at": "2026-10-05T06:21:18.817852033Z",
+      "first_seen": "2026-10-05T06:21:31.229118+00:00"
+    },
+    "FQ1Mb1i5h38ebrcNgnbkkDUacSLAAGz3onUxdm6Tpump": {
+      "symbol": "$PENGO",
+      "created_at": "2026-10-05T06:21:17.888546731Z",
+      "first_seen": "2026-10-05T06:21:31.229118+00:00"
+    },
+    "GiNA55NoMbAKhn4aJNjZgNSJU9CcN4BTKFqGVkzS9dyN": {
+      "symbol": "BLADOG",
+      "created_at": "2026-10-05T06:21:15.215964079Z",
+      "first_seen": "2026-10-05T06:21:31.229118+00:00"
+    },
+    "CNH5KPpQ6hoFDWDxfukYmn5Pz8h3twBx9Vu1suLkpump": {
+      "symbol": "MAXIM",
+      "created_at": "2026-10-05T06:21:10.318152191Z",
+      "first_seen": "2026-10-05T06:21:31.229118+00:00"
+    },
+    "55Ut3kmiwQLhAimKNAwoooBuNvFDfNqvx2Reetripump": {
+      "symbol": "MINERS",
+      "created_at": "2026-10-05T06:21:08.862658627Z",
+      "first_seen": "2026-10-05T06:21:31.229118+00:00"
+    },
+    "A1SQvNZn9SBbHh6aLD8c7AFMVb86TKC3DZyz7Wko7HH7": {
+      "symbol": "",
+      "created_at": "2026-10-05T06:21:05.973289599Z",
+      "first_seen": "2026-10-05T06:21:31.229118+00:00"
+    },
+    "BUnmqwgyGFFzm2Sd6S4rVbn8jgTbAav5BkQkKyzMpump": {
+      "symbol": "34%",
+      "created_at": "2026-10-05T06:21:03.158943296Z",
+      "first_seen": "2026-10-05T06:21:31.229118+00:00"
     }
   },
   "alerted": [
