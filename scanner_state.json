@@ -793,7 +793,12 @@
     "Eo8YiJUq8243TpYzbPX4WTVPHi5tykbwSpNUzPPCpump": {
       "symbol": "GPT",
       "created_at": "2026-10-06T13:51:19.86621683Z",
-      "first_seen": "2026-10-06T13:51:25.203941+00:00"
+      "first_seen": "2026-10-06T13:51:25.203941+00:00",
+      "confirm": {
+        "liquidity": 15107.46,
+        "market_cap": 34968,
+        "at": "2026-10-06T14:12:17.922499+00:00"
+      }
     },
     "DWsFuG2aUyMGPpf9yEZ1NbRntxQnBJPQqJy61WA6oDvZ": {
       "symbol": "Posted",
@@ -1234,6 +1239,56 @@
       "symbol": "",
       "created_at": "2026-10-06T14:09:43.155042074Z",
       "first_seen": "2026-10-06T14:09:54.601692+00:00"
+    },
+    "7k5ocDQqJFt6sgZPp2rVkHqznayuXC98QipKY41Spump": {
+      "symbol": "TRFFLN",
+      "created_at": "2026-10-06T14:12:14.384080936Z",
+      "first_seen": "2026-10-06T14:12:17.922042+00:00"
+    },
+    "5ZJujdjn95qUscSP8o2uv6NqnCuA7V8qgGV9gJoKpump": {
+      "symbol": "KING",
+      "created_at": "2026-10-06T14:12:14.376600404Z",
+      "first_seen": "2026-10-06T14:12:17.922042+00:00"
+    },
+    "5qsRRiM68wxNNfkABAE8rrUekmiH9k4LCQvifWManikp": {
+      "symbol": "WOFI",
+      "created_at": "2026-10-06T14:12:13.470864519Z",
+      "first_seen": "2026-10-06T14:12:17.922042+00:00"
+    },
+    "BgC97wBTsMZeWWGHxHBhk1CTG9HVJsRAeaQK2H5WKQoV": {
+      "symbol": "",
+      "created_at": "2026-10-06T14:12:13.046452296Z",
+      "first_seen": "2026-10-06T14:12:17.922042+00:00"
+    },
+    "3zKPsFvSdrZpMMd78fynu5HE3Phzpc9aL8Aiht7ypump": {
+      "symbol": "mAyHeM",
+      "created_at": "2026-10-06T14:12:11.135398733Z",
+      "first_seen": "2026-10-06T14:12:17.922042+00:00"
+    },
+    "DCuhUhYzwSAhepr1C44hCEreYA5mhSqQKrvnJnJypump": {
+      "symbol": "test",
+      "created_at": "2026-10-06T14:12:10.366547252Z",
+      "first_seen": "2026-10-06T14:12:17.922042+00:00"
+    },
+    "26bTT9q8zmBNEoXXQEKGkXxedXN9c4Hqrn1bqTaupump": {
+      "symbol": "Chou",
+      "created_at": "2026-10-06T14:12:07.887451104Z",
+      "first_seen": "2026-10-06T14:12:17.922042+00:00"
+    },
+    "BvBf2bRuxDqwt9VrQbpUhRjnTAHfquPrRhBRzVqpump": {
+      "symbol": "WCS",
+      "created_at": "2026-10-06T14:12:07.868765401Z",
+      "first_seen": "2026-10-06T14:12:17.922042+00:00"
+    },
+    "GxSBGDd6rHQmyE4uqwYCS6qxindbXAQkFA3gdPxsh1FR": {
+      "symbol": "AGENTRA",
+      "created_at": "2026-10-06T14:12:06.246694616Z",
+      "first_seen": "2026-10-06T14:12:17.922042+00:00"
+    },
+    "5hRxqetT2z6KiCKZWNWm5Au4gHtQskoDzweJc97TcJrb": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-10-06T14:12:04.679870619Z",
+      "first_seen": "2026-10-06T14:12:17.922042+00:00"
     }
   },
   "alerted": [
