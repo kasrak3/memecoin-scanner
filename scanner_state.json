@@ -1535,11 +1535,6 @@
       "created_at": "2026-10-06T14:26:53.013385339Z",
       "first_seen": "2026-10-06T14:26:56.417121+00:00"
     },
-    "7J7X1KcEwh6ZxRSfhW2MHZqqieD4pcFj5Yr3TAApa8GU": {
-      "symbol": "MESSI",
-      "created_at": "2026-10-06T14:26:51.441122688Z",
-      "first_seen": "2026-10-06T14:26:56.417121+00:00"
-    },
     "qtRCDyjGv6nPtb4gT6seUR63j9Pcn87YD32hwpd64oZ": {
       "symbol": "10",
       "created_at": "2026-10-06T14:26:51.21673332Z",
@@ -1779,6 +1774,56 @@
       "symbol": "AGENT",
       "created_at": "2026-10-06T14:36:51.992349349Z",
       "first_seen": "2026-10-06T14:37:06.743209+00:00"
+    },
+    "CTERz9u5CB7RRRq7SRVowR2bTSxiM9hoHYrtSjcZpump": {
+      "symbol": "DOLPHIN",
+      "created_at": "2026-10-06T14:39:31.398869739Z",
+      "first_seen": "2026-10-06T14:39:40.108694+00:00"
+    },
+    "7t4rkydPyvYjAmb9ZkJDKG6mjNjU8bkUxfoNjHKPBAGS": {
+      "symbol": "NVDAx",
+      "created_at": "2026-10-06T14:39:30.742058764Z",
+      "first_seen": "2026-10-06T14:39:40.108694+00:00"
+    },
+    "BTUxLhDMHCHhzCCmJDyVGX7PfwhH6Qg3jcWxMUTtpump": {
+      "symbol": "POKE",
+      "created_at": "2026-10-06T14:39:28.915200473Z",
+      "first_seen": "2026-10-06T14:39:40.108694+00:00"
+    },
+    "D6F7nkhuQweuGomjh7dkC7sDnE8BSpbdXYe1Foh1pump": {
+      "symbol": "BUMP",
+      "created_at": "2026-10-06T14:39:28.895726238Z",
+      "first_seen": "2026-10-06T14:39:40.108694+00:00"
+    },
+    "5JSq9vv671P56ncL4DU6YVGpuAHfoEWWau5ohqDUpump": {
+      "symbol": "Grumpy",
+      "created_at": "2026-10-06T14:39:27.660349872Z",
+      "first_seen": "2026-10-06T14:39:40.108694+00:00"
+    },
+    "A13F3voe1Kf6TyAXHZim6VwnmA6xHHHMksFUSS7Xpump": {
+      "symbol": "BUMP",
+      "created_at": "2026-10-06T14:39:27.215989082Z",
+      "first_seen": "2026-10-06T14:39:40.108694+00:00"
+    },
+    "FQsmCg9VQZ1U4DCA2bDmVA87d1Xq9Bt8swcz8XmW5QRP": {
+      "symbol": "INFERA",
+      "created_at": "2026-10-06T14:39:26.783752597Z",
+      "first_seen": "2026-10-06T14:39:40.108694+00:00"
+    },
+    "AvKhuZcrmpmru28sR3X7J4ikoGBGqnmEQEH9DEB4pump": {
+      "symbol": "HANS",
+      "created_at": "2026-10-06T14:39:26.778037596Z",
+      "first_seen": "2026-10-06T14:39:40.108694+00:00"
+    },
+    "En9bsfdFuQ96NZijNF1VcThBhFxZBLVBfL9WrMJ12eYU": {
+      "symbol": "RCL",
+      "created_at": "2026-10-06T14:39:21.659456009Z",
+      "first_seen": "2026-10-06T14:39:40.108694+00:00"
+    },
+    "DQcp8GBM9xL1E6iYNDW8epi42En24xF8RgLkquF9pump": {
+      "symbol": "BZZ",
+      "created_at": "2026-10-06T14:39:20.265041394Z",
+      "first_seen": "2026-10-06T14:39:40.108694+00:00"
     }
   },
   "alerted": [
@@ -2186,7 +2231,6 @@
     "Eo8YiJUq8243TpYzbPX4WTVPHi5tykbwSpNUzPPCpump"
   ],
   "rejected": [
-    "6mGg7k7FKuvVCsJzNq1Rwmq8PSfRdeY1wtmEmpSsQdn6",
     "HErZv6JS63Nuri6NdwuQAFYVnP5tiib63Cd9Jdfhpump",
     "7d7NH1sHErAChssygsbJGQPhU3ciNyRx293pSoD6YtRU",
     "DT7cAYcLzXo4Tjiur87JR68Kp1y8TmELrPHVGv6Vpump",
@@ -4185,6 +4229,7 @@
     "12odiAqArJwJAi5zUfkFdWDJcXa5aXMJ9pzV2p5mQK7w",
     "8cP4rWLgN35TvoJ2BuPohjk1V3KqPk9CFAJpW9v4wo9E",
     "7zJvotPbQGwgKJQ3xB7QiVhiin5gHQ8vFUARdxE5pump",
-    "BxeBwwmZBBcCq8pv9q2GFJYhcVeSu88LULJSJtqMMkTC"
+    "BxeBwwmZBBcCq8pv9q2GFJYhcVeSu88LULJSJtqMMkTC",
+    "7J7X1KcEwh6ZxRSfhW2MHZqqieD4pcFj5Yr3TAApa8GU"
   ]
 }
