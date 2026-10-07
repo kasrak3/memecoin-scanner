@@ -1,50 +1,5 @@
 {
   "pending": {
-    "4eFMYU2hRbc6xwiy5qqvg62eRpHRNuasx4fGg8zzpump": {
-      "symbol": "Mintly",
-      "created_at": "2026-10-07T13:42:23.003566475Z",
-      "first_seen": "2026-10-07T13:42:33.114515+00:00"
-    },
-    "87zHL12BQ2DhoUbaEv48H3YwGaC99wfofku2UoQhFMj9": {
-      "symbol": "MNE",
-      "created_at": "2026-10-07T13:42:21.706495033Z",
-      "first_seen": "2026-10-07T13:42:33.114515+00:00"
-    },
-    "2ThY7rJzLseYJQsaZcV8GzL4q4SbLuwpevkWkZNEpump": {
-      "symbol": "HWK",
-      "created_at": "2026-10-07T13:42:18.748191793Z",
-      "first_seen": "2026-10-07T13:42:33.114515+00:00"
-    },
-    "57PFoHGhfmjMfP9MyoibEFboE551kRTRZzRrVFe6am5o": {
-      "symbol": "MNE",
-      "created_at": "2026-10-07T13:42:16.874945745Z",
-      "first_seen": "2026-10-07T13:42:33.114515+00:00"
-    },
-    "Ezzb4rKp7pb3HK61YAA2QWftWmB4UMHQHYqNsW4jpump": {
-      "symbol": "MONY",
-      "created_at": "2026-10-07T13:42:16.772481992Z",
-      "first_seen": "2026-10-07T13:42:33.114515+00:00"
-    },
-    "38BQNWrCgMW19cZ4YCMMEPWdLqAYkDFkNdqYtGq3pump": {
-      "symbol": "happy",
-      "created_at": "2026-10-07T13:42:15.578614303Z",
-      "first_seen": "2026-10-07T13:42:33.114515+00:00"
-    },
-    "2TqpEuSW4fMBocuwU3RPqDUCZ5F7yhmZVHVoN5X21e7e": {
-      "symbol": "SUS",
-      "created_at": "2026-10-07T13:42:15.414689624Z",
-      "first_seen": "2026-10-07T13:42:33.114515+00:00"
-    },
-    "AwYKm19eQgHcjSyM4eGuR5ZwFCEC5sLAong1Uz4DZMZ6": {
-      "symbol": "MOMMY",
-      "created_at": "2026-10-07T13:42:14.24735437Z",
-      "first_seen": "2026-10-07T13:42:33.114515+00:00"
-    },
-    "3YSmZfoy6G4SRH2NhTKWF4YLThqwDdxikdDLix5Dpump": {
-      "symbol": "exta",
-      "created_at": "2026-10-07T13:42:10.410979212Z",
-      "first_seen": "2026-10-07T13:42:33.114515+00:00"
-    },
     "DRvDr1EFptQjf7rM32iHXvpnF6oj2CTcVb5rvgDEpump": {
       "symbol": "Pumpystein",
       "created_at": "2026-10-07T13:44:40.981558058Z",
@@ -1628,7 +1583,12 @@
     "8WnqhViGhJ8t4i22Kip8QUEuw7nGyqRqUdVhn11pump": {
       "symbol": "SPCXTSLA",
       "created_at": "2026-10-07T15:01:29.837364677Z",
-      "first_seen": "2026-10-07T15:01:35.105142+00:00"
+      "first_seen": "2026-10-07T15:01:35.105142+00:00",
+      "confirm": {
+        "liquidity": 23927.55,
+        "market_cap": 81155,
+        "at": "2026-10-07T15:43:37.958536+00:00"
+      }
     },
     "CwYWfnHBv5WrzWVRzWssBK8vzhvpzLky6o6Vxhppump": {
       "symbol": "COINBASE",
@@ -2404,6 +2364,56 @@
       "symbol": "$AIGONEWIL",
       "created_at": "2026-10-07T15:40:37.869192723Z",
       "first_seen": "2026-10-07T15:41:04.618177+00:00"
+    },
+    "7icKTBTn5FjMqJurSWSW2fsAqrL32WSdza2MwRVoiTfs": {
+      "symbol": "",
+      "created_at": "2026-10-07T15:43:24.966608923Z",
+      "first_seen": "2026-10-07T15:43:37.958237+00:00"
+    },
+    "33GtRkkhQFs8ZEhesBnSYPz4VKGvmo2Ge4XVFKTXZDzY": {
+      "symbol": "Bull",
+      "created_at": "2026-10-07T15:43:24.931675485Z",
+      "first_seen": "2026-10-07T15:43:37.958237+00:00"
+    },
+    "EG77Qfvdawx1Nt3YYfL8dsDmx6WQCBTkAwMAKpktpump": {
+      "symbol": "FMC",
+      "created_at": "2026-10-07T15:43:24.094148921Z",
+      "first_seen": "2026-10-07T15:43:37.958237+00:00"
+    },
+    "9oGxGc3Y28yBZaJJFMWrjmQ5tB7aEHqgQUaKsux7pump": {
+      "symbol": "PRIVACY",
+      "created_at": "2026-10-07T15:43:23.585691848Z",
+      "first_seen": "2026-10-07T15:43:37.958237+00:00"
+    },
+    "5Pq61x3QNtWbrdpavzMPnzBHU3MareQ1UD8arEN3pump": {
+      "symbol": "TEKLESS",
+      "created_at": "2026-10-07T15:43:21.204989595Z",
+      "first_seen": "2026-10-07T15:43:37.958237+00:00"
+    },
+    "4Bu7Ju8HQCnfKAvV4V7CDyUtno11TUd3DEMeKyNApump": {
+      "symbol": "RICK",
+      "created_at": "2026-10-07T15:43:21.164010348Z",
+      "first_seen": "2026-10-07T15:43:37.958237+00:00"
+    },
+    "Fc2Lfep4q61EHD3ATkrmcnLfWeNdETmbDzpvjYespump": {
+      "symbol": "GITPAID",
+      "created_at": "2026-10-07T15:43:21.016141863Z",
+      "first_seen": "2026-10-07T15:43:37.958237+00:00"
+    },
+    "51Qxy7an3Mu9Rifsqdaccuptsrof2XT7iFtPydWApump": {
+      "symbol": "BTC",
+      "created_at": "2026-10-07T15:43:20.729244848Z",
+      "first_seen": "2026-10-07T15:43:37.958237+00:00"
+    },
+    "7v6F7vfrPWreZx4zZ4xq12xC4Bb65B5NWEpwHZA3pump": {
+      "symbol": "BTCVault",
+      "created_at": "2026-10-07T15:43:20.715872709Z",
+      "first_seen": "2026-10-07T15:43:37.958237+00:00"
+    },
+    "3awEcbpQ8fpXfgeUdtmmjrnbZ224TudnULSkz17NKpyb": {
+      "symbol": "UPRISING",
+      "created_at": "2026-10-07T15:43:20.359868793Z",
+      "first_seen": "2026-10-07T15:43:37.958237+00:00"
     }
   },
   "alerted": [
