@@ -1,55 +1,5 @@
 {
   "pending": {
-    "9e6AsyCAmSWmUGACMa7P2mQToKscTLA5wKwzmKxogoVX": {
-      "symbol": "",
-      "created_at": "2026-10-07T04:01:01.308119183Z",
-      "first_seen": "2026-10-07T04:01:05.233393+00:00"
-    },
-    "34cig9hkJT4ERjNPc2DUR1U3zwBa2cTTseNKj38qG57T": {
-      "symbol": "",
-      "created_at": "2026-10-07T04:01:00.925758778Z",
-      "first_seen": "2026-10-07T04:01:05.233393+00:00"
-    },
-    "6mMsH5u3Zx9WBEQGjXmvF3pvkN6ho4QybFUHiWvzpump": {
-      "symbol": "meme",
-      "created_at": "2026-10-07T04:01:00.890921761Z",
-      "first_seen": "2026-10-07T04:01:05.233393+00:00"
-    },
-    "JAfZdkERCLHhGWG57WsyFZrFuZTguhXBcNVt5qfwpump": {
-      "symbol": "GOAT",
-      "created_at": "2026-10-07T04:00:59.025667955Z",
-      "first_seen": "2026-10-07T04:01:05.233393+00:00"
-    },
-    "yoQ64KwkjnxwLSRqzHp14T99KBZki2MmiEyMz7Bpump": {
-      "symbol": "GOAT",
-      "created_at": "2026-10-07T04:00:59.018587336Z",
-      "first_seen": "2026-10-07T04:01:05.233393+00:00"
-    },
-    "SHzqLGWJUUSfCTap1JvTJ5KLhgdZgCpXKyQ5vFppump": {
-      "symbol": "GOAT",
-      "created_at": "2026-10-07T04:00:58.973806102Z",
-      "first_seen": "2026-10-07T04:01:05.233393+00:00"
-    },
-    "32FDztxiReTr4k7kxQ1kHVpH3tgTqxtHGbHdsRFgj4XL": {
-      "symbol": "",
-      "created_at": "2026-10-07T04:00:58.758188394Z",
-      "first_seen": "2026-10-07T04:01:05.233393+00:00"
-    },
-    "DukpTd3CYNcXZpoVPbmGHG1QV3ktnR6Fbja8AEH6pump": {
-      "symbol": "PUMPHREY",
-      "created_at": "2026-10-07T04:00:56.828121143Z",
-      "first_seen": "2026-10-07T04:01:05.233393+00:00"
-    },
-    "9CLE9hvhZmPBUAN4DwJ64n6A9gHSNbCCZ5bsZaVxpump": {
-      "symbol": "Ningen",
-      "created_at": "2026-10-07T04:00:56.603529692Z",
-      "first_seen": "2026-10-07T04:01:05.233393+00:00"
-    },
-    "Cw5qMW2mhAEPEvzZ5vm8EJWR2TgPjcr266A4qZFZs4Sv": {
-      "symbol": "ATH",
-      "created_at": "2026-10-07T04:00:56.592546039Z",
-      "first_seen": "2026-10-07T04:01:05.233393+00:00"
-    },
     "Hnv6ovsygAv8yxUiSivQmxhLqz9zkx2aiZJeqQT2niQu": {
       "symbol": "AUTON",
       "created_at": "2026-10-07T04:03:30.831157358Z",
@@ -488,7 +438,12 @@
     "9b2FEM4mn6xqiBr4voJX89qhxh3McxQLRNSFKyZtpump": {
       "symbol": ".ape",
       "created_at": "2026-10-07T05:50:38.149773633Z",
-      "first_seen": "2026-10-07T05:50:56.711885+00:00"
+      "first_seen": "2026-10-07T05:50:56.711885+00:00",
+      "confirm": {
+        "liquidity": 20378.76,
+        "market_cap": 60322,
+        "at": "2026-10-07T06:02:00.514075+00:00"
+      }
     },
     "FxXFzKtAa2fT2W98bXfoZkfMTZnJo6bbGSboY93qpump": {
       "symbol": ".meow",
@@ -699,6 +654,56 @@
       "symbol": "A1",
       "created_at": "2026-10-07T05:59:20.61223644Z",
       "first_seen": "2026-10-07T05:59:48.709529+00:00"
+    },
+    "2LFHhjnBZSqVCZywKASULZRb7SrRpQNPGZ9LfBbqpump": {
+      "symbol": ".pumpfun",
+      "created_at": "2026-10-07T06:01:51.247131904Z",
+      "first_seen": "2026-10-07T06:02:00.513720+00:00"
+    },
+    "7tvYd8T2bcceAe8FcoU2kf4Y7z63j4exQbstxJwspump": {
+      "symbol": "GOpad",
+      "created_at": "2026-10-07T06:01:51.046442804Z",
+      "first_seen": "2026-10-07T06:02:00.513720+00:00"
+    },
+    "7qms3wacdbfj5fDai3j5dqQxx2EKaUM6vKJVgyepump": {
+      "symbol": "STENKS",
+      "created_at": "2026-10-07T06:01:49.727809048Z",
+      "first_seen": "2026-10-07T06:02:00.513720+00:00"
+    },
+    "72NtV6d6MADedmM1ZatS2rwPkUSZRQ5SaKaDY81Fpump": {
+      "symbol": "BALENCIAGAS",
+      "created_at": "2026-10-07T06:01:48.584345848Z",
+      "first_seen": "2026-10-07T06:02:00.513720+00:00"
+    },
+    "8ewnfoUcp9eKTU5up6WGEVfV2LV7ZdDfSiXX8SoxSUb1": {
+      "symbol": "Mandem",
+      "created_at": "2026-10-07T06:01:46.958755591Z",
+      "first_seen": "2026-10-07T06:02:00.513720+00:00"
+    },
+    "FboheJ3fif4j5EoQKCUiiu4dq2p79ockfKQ8aq4F567V": {
+      "symbol": "FIRST",
+      "created_at": "2026-10-07T06:01:44.972125915Z",
+      "first_seen": "2026-10-07T06:02:00.513720+00:00"
+    },
+    "2GX6AFYNK6Y3B7GMR7edf6mgXYxxdjpyEfsz2cBNpump": {
+      "symbol": "BAG",
+      "created_at": "2026-10-07T06:01:44.709107694Z",
+      "first_seen": "2026-10-07T06:02:00.513720+00:00"
+    },
+    "CWNait9MbNwDz66tyMPv497gFg9gc6YMUg44AcZT3kJ8": {
+      "symbol": "OWP",
+      "created_at": "2026-10-07T06:01:43.968024098Z",
+      "first_seen": "2026-10-07T06:02:00.513720+00:00"
+    },
+    "6GJCUpUE39EMaQY2te1tmMHu4aQpA8GgudYTysyBDwQ2": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-10-07T06:01:43.891188362Z",
+      "first_seen": "2026-10-07T06:02:00.513720+00:00"
+    },
+    "E1i2nwCo3gsJMP2yj8iJaZoVwLf7j3RbDvDNHm1icP8z": {
+      "symbol": ".Com",
+      "created_at": "2026-10-07T06:01:43.630713963Z",
+      "first_seen": "2026-10-07T06:02:00.513720+00:00"
     }
   },
   "alerted": [
