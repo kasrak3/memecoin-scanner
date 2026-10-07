@@ -423,7 +423,12 @@
     "6ancaiRWW4dfbQ99ehjzhguD3sDjsavRFCaDzmtjpump": {
       "symbol": "$HNITE",
       "created_at": "2026-10-07T13:29:40.164737583Z",
-      "first_seen": "2026-10-07T13:29:51.433160+00:00"
+      "first_seen": "2026-10-07T13:29:51.433160+00:00",
+      "confirm": {
+        "liquidity": 31552.13,
+        "market_cap": 134813,
+        "at": "2026-10-07T13:40:24.720361+00:00"
+      }
     },
     "4P9iZLYXEqDXdfipjGRf97WbEJEkbv4zWhic9PQZqwbE": {
       "symbol": "",
@@ -629,6 +634,56 @@
       "symbol": "SATINU",
       "created_at": "2026-10-07T13:38:01.851231963Z",
       "first_seen": "2026-10-07T13:38:17.135919+00:00"
+    },
+    "146syfq4gnc1jA819fotZdpgqWmRDiZBm5D4ds3SsTJZ": {
+      "symbol": "SUS",
+      "created_at": "2026-10-07T13:40:16.353754254Z",
+      "first_seen": "2026-10-07T13:40:24.720065+00:00"
+    },
+    "D434nV3o76afuT3UpjLQAFpWkNH79wUpr6dnzq8npump": {
+      "symbol": "SOOTS",
+      "created_at": "2026-10-07T13:40:15.608736717Z",
+      "first_seen": "2026-10-07T13:40:24.720065+00:00"
+    },
+    "CvcxtSYykJMRyTyt6exHAD6jjUSkjxgt3aanwLjQpump": {
+      "symbol": "KATKAR",
+      "created_at": "2026-10-07T13:40:15.248214951Z",
+      "first_seen": "2026-10-07T13:40:24.720065+00:00"
+    },
+    "3bciR4AUNZ1Wy5htHZtHzRxdT3fmcD5EJP2nTHUAzARo": {
+      "symbol": "LGTA",
+      "created_at": "2026-10-07T13:40:15.091841533Z",
+      "first_seen": "2026-10-07T13:40:24.720065+00:00"
+    },
+    "FkEGzMmWKwcv3RLFPy9ZX15rAGW3LdRJWQc4gvcnpump": {
+      "symbol": "Reflectco",
+      "created_at": "2026-10-07T13:40:14.995546255Z",
+      "first_seen": "2026-10-07T13:40:24.720065+00:00"
+    },
+    "G8Vz8mPgCoZTpsGy5pigZhamZbJGeCGsaAp99oeXpump": {
+      "symbol": "SI",
+      "created_at": "2026-10-07T13:40:13.746515364Z",
+      "first_seen": "2026-10-07T13:40:24.720065+00:00"
+    },
+    "4yiwEgH94c1kSEEUaRhfMErefYPrtCuUByFnmYDMpump": {
+      "symbol": "fg",
+      "created_at": "2026-10-07T13:40:12.659186036Z",
+      "first_seen": "2026-10-07T13:40:24.720065+00:00"
+    },
+    "7CTYqNxwFHj6WSwTwg4LLjPFHsoGF5JSM8KXGjwqpump": {
+      "symbol": "Inuit",
+      "created_at": "2026-10-07T13:40:12.558535709Z",
+      "first_seen": "2026-10-07T13:40:24.720065+00:00"
+    },
+    "3DzWKSdtMq8ba9bWVuhFKxADr85rRVeRRDUFd4iXpump": {
+      "symbol": "TripleP",
+      "created_at": "2026-10-07T13:40:10.749122955Z",
+      "first_seen": "2026-10-07T13:40:24.720065+00:00"
+    },
+    "JBoAbHpXAcmMckvKMr7c2Cnwa9orPgWXq1sBXsoavXN2": {
+      "symbol": "World",
+      "created_at": "2026-10-07T13:40:09.897863468Z",
+      "first_seen": "2026-10-07T13:40:24.720065+00:00"
     }
   },
   "alerted": [
