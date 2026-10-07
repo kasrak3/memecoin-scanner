@@ -1,55 +1,5 @@
 {
   "pending": {
-    "6ELeR7hPExRiBhpAmhKWze75JtNxsa3uMBDwiCPUpump": {
-      "symbol": "ARUXBOTFOM",
-      "created_at": "2026-10-07T11:23:54.936588151Z",
-      "first_seen": "2026-10-07T11:23:58.407837+00:00"
-    },
-    "DBB25vymcDuiiKqjazo8rV8FVPZ5HpxqzMxSzKv6wVoN": {
-      "symbol": "",
-      "created_at": "2026-10-07T11:23:50.027611703Z",
-      "first_seen": "2026-10-07T11:23:58.407837+00:00"
-    },
-    "qsU9rtBS8BDLdPPuoHriwwJvK4drULBoLL7RmcZpump": {
-      "symbol": "BUNZ",
-      "created_at": "2026-10-07T11:23:49.373900843Z",
-      "first_seen": "2026-10-07T11:23:58.407837+00:00"
-    },
-    "ntgBfqASGdSc5Nh9Vf39jRhhjYbB53mWzoBxDQ7pump": {
-      "symbol": "$SLJK",
-      "created_at": "2026-10-07T11:23:48.158972798Z",
-      "first_seen": "2026-10-07T11:23:58.407837+00:00"
-    },
-    "Ez2rz5E8JeJC7vd6vpreaBLX6DAMBhLTygU2LcR1BZov": {
-      "symbol": "",
-      "created_at": "2026-10-07T11:23:47.720511856Z",
-      "first_seen": "2026-10-07T11:23:58.407837+00:00"
-    },
-    "9SfW7EazCKf6pEzf6Kuc2S944ibum6fSjDPF8wcxW3o5": {
-      "symbol": "FROGRATED",
-      "created_at": "2026-10-07T11:23:46.190581003Z",
-      "first_seen": "2026-10-07T11:23:58.407837+00:00"
-    },
-    "AuQUKNpmsgXMc3Tf2KwkvD7qaCgudznpdwed43v9po3c": {
-      "symbol": "INFECT",
-      "created_at": "2026-10-07T11:23:44.088801351Z",
-      "first_seen": "2026-10-07T11:23:58.407837+00:00"
-    },
-    "9AfQ2TLycLWyPRPaeTUTHyo6uT9vTcBKuxFyJr3Kpump": {
-      "symbol": "beer",
-      "created_at": "2026-10-07T11:23:42.866473319Z",
-      "first_seen": "2026-10-07T11:23:58.407837+00:00"
-    },
-    "GPzvpUTLNyXk9bUJD9rqJpJ4Xe6tpxWeBVbArMb9pump": {
-      "symbol": "ANSEMCO",
-      "created_at": "2026-10-07T11:23:41.721832938Z",
-      "first_seen": "2026-10-07T11:23:58.407837+00:00"
-    },
-    "4GCxfdVkh1MCciRQJWyaTQr2iCQWM3CxwWHVmFGYRgbt": {
-      "symbol": "",
-      "created_at": "2026-10-07T11:23:37.992098872Z",
-      "first_seen": "2026-10-07T11:23:58.407837+00:00"
-    },
     "GDdZcwctBPB8r55YcLgGkoeeUaA9J4jVV3BtWQ3tWnvg": {
       "symbol": "GOMO",
       "created_at": "2026-10-07T11:26:32.579753427Z",
@@ -283,7 +233,12 @@
     "497zA6Yw58xXpSGRZQrKUic2aKrqu2bwacdUFhU7bhbT": {
       "symbol": "Humanitas",
       "created_at": "2026-10-07T13:14:47.994155128Z",
-      "first_seen": "2026-10-07T13:15:04.954578+00:00"
+      "first_seen": "2026-10-07T13:15:04.954578+00:00",
+      "confirm": {
+        "liquidity": 24524.55,
+        "market_cap": 83395,
+        "at": "2026-10-07T13:25:39.267590+00:00"
+      }
     },
     "E4pfRka3uqxcMavvDtx14KAkuiNcpv36qvyvQAj4pump": {
       "symbol": "SOOTS",
@@ -499,6 +454,56 @@
       "symbol": "Humanitas",
       "created_at": "2026-10-07T13:23:15.559107537Z",
       "first_seen": "2026-10-07T13:23:33.745584+00:00"
+    },
+    "3gLJ3SnHMa3heX9fy9Fv4L5FkrCpEdupVMR2n1urpump": {
+      "symbol": "trump",
+      "created_at": "2026-10-07T13:25:36.249263442Z",
+      "first_seen": "2026-10-07T13:25:39.267293+00:00"
+    },
+    "CPsvKMAbmzTR8MjQwimmHaFTMhTrFVvnhmLRQWY7pump": {
+      "symbol": "spx",
+      "created_at": "2026-10-07T13:25:35.84040119Z",
+      "first_seen": "2026-10-07T13:25:39.267293+00:00"
+    },
+    "DJUaP6BCgmQi6x5Y9bQVrff8Gsam1LRqLBVXefcfpump": {
+      "symbol": "RARI",
+      "created_at": "2026-10-07T13:25:35.010489807Z",
+      "first_seen": "2026-10-07T13:25:39.267293+00:00"
+    },
+    "DaQ5DiivG44acUoTBQwp5CqGSdPrLpCwaL91UhJEpump": {
+      "symbol": "GOLDPIGGER",
+      "created_at": "2026-10-07T13:25:34.520235684Z",
+      "first_seen": "2026-10-07T13:25:39.267293+00:00"
+    },
+    "5aBTazMxNLKBfMcaTMSd9TSiHEHNNDPZce3rcjN5pump": {
+      "symbol": "$AURA",
+      "created_at": "2026-10-07T13:25:32.709112771Z",
+      "first_seen": "2026-10-07T13:25:39.267293+00:00"
+    },
+    "DDmc1LkT6DWes3nhyzD1sXckSyarxjpDoypyjP3npump": {
+      "symbol": "Perpcard",
+      "created_at": "2026-10-07T13:25:31.138525202Z",
+      "first_seen": "2026-10-07T13:25:39.267293+00:00"
+    },
+    "A5v4zz1i9L1kzn1dw4BAmq1jwfGqADsX2NpifvXjegjD": {
+      "symbol": "Perpcard",
+      "created_at": "2026-10-07T13:25:29.279661964Z",
+      "first_seen": "2026-10-07T13:25:39.267293+00:00"
+    },
+    "3epmBDEAD7dH8z74SWuVre6xKJZkxrXqbY9p9ySSJNfK": {
+      "symbol": "CALI",
+      "created_at": "2026-10-07T13:25:27.249569127Z",
+      "first_seen": "2026-10-07T13:25:39.267293+00:00"
+    },
+    "5w8KJfJgGtpvTdh34mYgAmZkY9r3bDUS9ZbC1NHtbzkm": {
+      "symbol": "Fex",
+      "created_at": "2026-10-07T13:25:25.34749887Z",
+      "first_seen": "2026-10-07T13:25:39.267293+00:00"
+    },
+    "EzjSsLb7BgzemeVkvZmw7qrtrxMnQf52qB4m3j8Ca4H1": {
+      "symbol": "",
+      "created_at": "2026-10-07T13:25:25.302835793Z",
+      "first_seen": "2026-10-07T13:25:39.267293+00:00"
     }
   },
   "alerted": [
