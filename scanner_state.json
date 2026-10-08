@@ -425,16 +425,6 @@
       "created_at": "2026-10-08T13:36:33.637732204Z",
       "first_seen": "2026-10-08T13:36:43.363096+00:00"
     },
-    "HkGUZ5PtLoEgoFvuJ9WmLt5GP9MEaNabGdedWHVJmMs8": {
-      "symbol": "uBTC",
-      "created_at": "2026-10-08T13:36:33.585218754Z",
-      "first_seen": "2026-10-08T13:36:43.363096+00:00",
-      "confirm": {
-        "liquidity": 19128.22,
-        "market_cap": 56421,
-        "at": "2026-10-08T13:47:23.780507+00:00"
-      }
-    },
     "2t9pNVfxzkDQVxyRAUL3zs4ttMFC1pLv7joLpmJK4q9P": {
       "symbol": "Biohack",
       "created_at": "2026-10-08T13:36:33.513460438Z",
@@ -694,6 +684,56 @@
       "symbol": "PS5X360",
       "created_at": "2026-10-08T13:47:05.579298262Z",
       "first_seen": "2026-10-08T13:47:23.780284+00:00"
+    },
+    "G2o51Fv9S1fU1iAnDVTcvf5kiQ1opTAngk3Qt1empump": {
+      "symbol": "noplane",
+      "created_at": "2026-10-08T13:49:30.608341885Z",
+      "first_seen": "2026-10-08T13:49:34.916048+00:00"
+    },
+    "kG5iFqij313saaxm9XWDereU2ZukdfkJv1H8vSqP2co": {
+      "symbol": "AICoin",
+      "created_at": "2026-10-08T13:49:28.378186288Z",
+      "first_seen": "2026-10-08T13:49:34.916048+00:00"
+    },
+    "6fwYQDvQXWrsqR8pyiU1cqN7eMX7RZAWpKUhGv2mwZuF": {
+      "symbol": "GBP",
+      "created_at": "2026-10-08T13:49:28.041687683Z",
+      "first_seen": "2026-10-08T13:49:34.916048+00:00"
+    },
+    "5wQD8hfzrj8mBrVErDj3Lo3hg6w82aVQP7SGzmi8SFbF": {
+      "symbol": "",
+      "created_at": "2026-10-08T13:49:27.192379752Z",
+      "first_seen": "2026-10-08T13:49:34.916048+00:00"
+    },
+    "2phEHSpsjbKoQoEvFScvPzuH2veH4DKRCRdqMXGppump": {
+      "symbol": "$SLJK",
+      "created_at": "2026-10-08T13:49:26.824017378Z",
+      "first_seen": "2026-10-08T13:49:34.916048+00:00"
+    },
+    "GoRo7FKEvSzru92gTtPda89gsACzfXHb3QgU8YCpump": {
+      "symbol": "DELEVRA",
+      "created_at": "2026-10-08T13:49:26.641107321Z",
+      "first_seen": "2026-10-08T13:49:34.916048+00:00"
+    },
+    "BSxFDAn1vYYtuRgfhkvsav5YfLPLvtCWagtKRwnnUQXi": {
+      "symbol": "NEMA",
+      "created_at": "2026-10-08T13:49:25.228418052Z",
+      "first_seen": "2026-10-08T13:49:34.916048+00:00"
+    },
+    "4NXapCiYb1WDckjaF9c5ZWEBKbTFgWdDBDrbh1n1973m": {
+      "symbol": "HIMPAD",
+      "created_at": "2026-10-08T13:49:24.945991726Z",
+      "first_seen": "2026-10-08T13:49:34.916048+00:00"
+    },
+    "64qjg5uMWRSVKm4nQMTT3gVQwQfwCsYGvsds33oNpump": {
+      "symbol": "DOGRARI",
+      "created_at": "2026-10-08T13:49:23.276407428Z",
+      "first_seen": "2026-10-08T13:49:34.916048+00:00"
+    },
+    "ADBmVwb7yLULdBnzLQzPRbFFfyL9U3yYpUkUwqnBeyJP": {
+      "symbol": "AICoin",
+      "created_at": "2026-10-08T13:49:23.256851204Z",
+      "first_seen": "2026-10-08T13:49:34.916048+00:00"
     }
   },
   "alerted": [
@@ -1115,7 +1155,6 @@
     "2WNiZqRefcndEA9c1T6A1bdie31pbBGdFQpyR52h9TWr"
   ],
   "rejected": [
-    "A6me37bMbbmHYvxsN7tGRQwnsHDJhiKR4DqkXsBmx2UX",
     "C1oACHEY4LpU8UrZ3g6HfimyGhvFHEL7kSNHgGLa2k1K",
     "BjqGvwnZA8B8xiJbWJSTyNNtegYdJnKSC5p2bh8UiRMD",
     "Dz7TfQ6KSxUMvhGKLoU6qaQkmEKUFvwYkT9cYzxNhKfh",
@@ -3114,6 +3153,7 @@
     "F3Xr27etgJK76dgeEQPpjyWUN5C8EB6NauEHwsFjpump",
     "8Ww8Yo2LmEdU8C5dycMpVpYUiD6zmoSEuEYKgv99HMxX",
     "BcvX2NN9vrXbWPpKcziHYDEjEYPzz5NxG1G4Di9JmLDE",
-    "9r2xnY8ArbHogFoZ2VLz6HUEnDAN9B2wJ1kUQcNwpump"
+    "9r2xnY8ArbHogFoZ2VLz6HUEnDAN9B2wJ1kUQcNwpump",
+    "HkGUZ5PtLoEgoFvuJ9WmLt5GP9MEaNabGdedWHVJmMs8"
   ]
 }
