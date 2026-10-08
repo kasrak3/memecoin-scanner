@@ -1110,11 +1110,6 @@
       "created_at": "2026-10-08T14:07:28.277344229Z",
       "first_seen": "2026-10-08T14:07:47.759288+00:00"
     },
-    "5vT8SnihNYw8JEafaUEi546nJXBhiGfibURTyQNnGVQR": {
-      "symbol": "4206066",
-      "created_at": "2026-10-08T14:09:57.197818744Z",
-      "first_seen": "2026-10-08T14:10:07.580727+00:00"
-    },
     "7bqRjSiZpMNNhcqsMaB6x5LLvfhTkgw5dkyDW8kCpump": {
       "symbol": "LORIAN",
       "created_at": "2026-10-08T14:09:56.161828057Z",
@@ -1153,11 +1148,6 @@
     "CorHvHbum6KRDAbG4vtek6zGrmCVGXvQXrdyuEdfUU5T": {
       "symbol": "GREMLIN",
       "created_at": "2026-10-08T14:09:50.637120018Z",
-      "first_seen": "2026-10-08T14:10:07.580727+00:00"
-    },
-    "8P5APBx1arNgmtbFPsuWQAJ8BFyRfryVmKtxcJ6rDba": {
-      "symbol": "4206066",
-      "created_at": "2026-10-08T14:09:48.755284821Z",
       "first_seen": "2026-10-08T14:10:07.580727+00:00"
     },
     "ALAtd231aowMKKNrb7vX3Yg3muwcK9sKxhpJWL6NRekt": {
@@ -1359,6 +1349,56 @@
       "symbol": "Datacenter",
       "created_at": "2026-10-08T14:19:29.889899889Z",
       "first_seen": "2026-10-08T14:19:44.122536+00:00"
+    },
+    "84qmiJgFN1eGfkbjcxYP4i2Xc1JvBphC5ZLNbBQCpump": {
+      "symbol": "XSTR",
+      "created_at": "2026-10-08T14:21:58.782085828Z",
+      "first_seen": "2026-10-08T14:22:08.157645+00:00"
+    },
+    "FrUEiknnUHeymdKNkhYXj9GWRusowNfLThYdk4dpoQxt": {
+      "symbol": "OWL",
+      "created_at": "2026-10-08T14:21:56.384626369Z",
+      "first_seen": "2026-10-08T14:22:08.157645+00:00"
+    },
+    "8BgWGjb8nBYVssnzoHvV4XAUvT12xNE7aHSS9FBE6x8": {
+      "symbol": "OWL",
+      "created_at": "2026-10-08T14:21:55.850926822Z",
+      "first_seen": "2026-10-08T14:22:08.157645+00:00"
+    },
+    "Eh6suzntWx4uk3cmJaTDYpFpvtLa6ZjZRHyfFN9BYUjA": {
+      "symbol": "YO",
+      "created_at": "2026-10-08T14:21:54.622745132Z",
+      "first_seen": "2026-10-08T14:22:08.157645+00:00"
+    },
+    "4LJeEGTSd19w3hoYARkyw9Y7mq3y7WrttXm95eQZRGZx": {
+      "symbol": "EMPLOY",
+      "created_at": "2026-10-08T14:21:54.599560579Z",
+      "first_seen": "2026-10-08T14:22:08.157645+00:00"
+    },
+    "8Sy7p1HeXbn6Q48pLyrPmh7jh43hrfpCkpG5H8ttpump": {
+      "symbol": "$DEMOCV",
+      "created_at": "2026-10-08T14:21:53.604818525Z",
+      "first_seen": "2026-10-08T14:22:08.157645+00:00"
+    },
+    "6denEp9QUyZZPBuQHBEvjSJMNvSSn3RZsXeevFHP5Rpo": {
+      "symbol": "MPN",
+      "created_at": "2026-10-08T14:21:53.310664213Z",
+      "first_seen": "2026-10-08T14:22:08.157645+00:00"
+    },
+    "2HLzDu9N7b9G5dYaxPDKXfz9o3T583Yvq8pKa2vnZenn": {
+      "symbol": "YO",
+      "created_at": "2026-10-08T14:21:52.997661424Z",
+      "first_seen": "2026-10-08T14:22:08.157645+00:00"
+    },
+    "BNvML1JUVspUys64X4tG76weynKoUZJAdqLEKY6kfKbZ": {
+      "symbol": "YO",
+      "created_at": "2026-10-08T14:21:52.27293522Z",
+      "first_seen": "2026-10-08T14:22:08.157645+00:00"
+    },
+    "Fc7jiGeJuWkB5BJyN63fxeqsa3icNaJhYPGWRv42cysL": {
+      "symbol": "YO",
+      "created_at": "2026-10-08T14:21:49.277352785Z",
+      "first_seen": "2026-10-08T14:22:08.157645+00:00"
     }
   },
   "alerted": [
@@ -1780,8 +1820,6 @@
     "2WNiZqRefcndEA9c1T6A1bdie31pbBGdFQpyR52h9TWr"
   ],
   "rejected": [
-    "2zkcPQFNnVTVJoWoS7tEaEv4pND5PQ9WgDhc8kSvNUwy",
-    "B3r6aJd95tr9VMHprGzAT4g8YXehsZ4de9WkghQpump",
     "EFzdcfmy3TZLiEDjSSEx99UvuYdotfiuVfKrD7nuYUug",
     "B96wAriyfPeGBrTPH43suAfFh87RsbLNVVTmXxfXpump",
     "FN13pXMH57bu1UqYc3VAzARK2ZNiPTGKy7HEuSHd5h8G",
@@ -3779,6 +3817,8 @@
     "EpgMGGvU27coquyUQN7DuZ2b4erABwWekTbwn2vgznmQ",
     "oS5EUD41MvXjAWxhCWMEpZiZG6oVjhsLnFNndK5iUSn",
     "AAdFM1JR9oTPWqXq4BJrukY7QU67p1KBrTEvagkZ9ygj",
-    "8kSbVSgG3YKjLffNpG7Naf7UK44Rc5BhCBEVExqpGCmc"
+    "8kSbVSgG3YKjLffNpG7Naf7UK44Rc5BhCBEVExqpGCmc",
+    "5vT8SnihNYw8JEafaUEi546nJXBhiGfibURTyQNnGVQR",
+    "8P5APBx1arNgmtbFPsuWQAJ8BFyRfryVmKtxcJ6rDba"
   ]
 }
