@@ -1,55 +1,5 @@
 {
   "pending": {
-    "AWcZ4a5n7zJEGUYbsAVAVqygFcReBoXLpTjeu3tqFB4F": {
-      "symbol": "SMURF",
-      "created_at": "2026-10-08T13:56:04.998808965Z",
-      "first_seen": "2026-10-08T13:56:14.482460+00:00"
-    },
-    "Hf7u2vvxkVFJUA3bpKZRWPcPMRuY3VBiKJbYQ7YfdSyE": {
-      "symbol": "OWP",
-      "created_at": "2026-10-08T13:56:04.984186083Z",
-      "first_seen": "2026-10-08T13:56:14.482460+00:00"
-    },
-    "8dwCuPRuApnQPauEGnTtJ7XupaVdsfFLBh4jFB5ajb2q": {
-      "symbol": "AICoin",
-      "created_at": "2026-10-08T13:56:04.893162176Z",
-      "first_seen": "2026-10-08T13:56:14.482460+00:00"
-    },
-    "FkhQ6kMRJ2S4oAxw7GLptHk4TWRqppJ1VBFmWKLkR8wU": {
-      "symbol": "SMURF",
-      "created_at": "2026-10-08T13:56:04.066062835Z",
-      "first_seen": "2026-10-08T13:56:14.482460+00:00"
-    },
-    "2DmhLxvJY15uyt8YhmhS1fh3N9Zt64DSCkf3cWBFpump": {
-      "symbol": "uBitcoin",
-      "created_at": "2026-10-08T13:56:01.397102103Z",
-      "first_seen": "2026-10-08T13:56:14.482460+00:00"
-    },
-    "4sLRChhjhF5mQUC7zoCDwkP7xyyewDYtSZJZjByfpump": {
-      "symbol": "BLOCKWARE",
-      "created_at": "2026-10-08T13:55:54.656711578Z",
-      "first_seen": "2026-10-08T13:56:14.482460+00:00"
-    },
-    "C4gpucUWAUYk2AWDH2Qdox6HDRsAqZUfj9FJSxnskiZY": {
-      "symbol": "sam",
-      "created_at": "2026-10-08T13:55:53.997462994Z",
-      "first_seen": "2026-10-08T13:56:14.482460+00:00"
-    },
-    "CCFD2zEVCDCdmFiqvAyBGPW4QNgjDQf5qnhZmo6LgaAg": {
-      "symbol": "PRIMERPAD",
-      "created_at": "2026-10-08T13:55:53.938899218Z",
-      "first_seen": "2026-10-08T13:56:14.482460+00:00"
-    },
-    "DpaADC9Q8s3AXjZEzdKpD9dqRPr92y5gUwPKvpEvhBxb": {
-      "symbol": "401si(k)",
-      "created_at": "2026-10-08T13:55:53.760201457Z",
-      "first_seen": "2026-10-08T13:56:14.482460+00:00"
-    },
-    "CqAMNzDMXEkqm1NqVKB4oBN2ZiwDR7gKaBhAjeqvpump": {
-      "symbol": "ADHD",
-      "created_at": "2026-10-08T13:55:51.323672283Z",
-      "first_seen": "2026-10-08T13:56:14.482460+00:00"
-    },
     "Su6TY1AaRsj6NwFxbr7fYBpvfhuNG9cE3LsxKSJpump": {
       "symbol": "Vent",
       "created_at": "2026-10-08T13:58:23.784995716Z",
@@ -2053,7 +2003,12 @@
     "73oGKD4RXFHLCGPy1m3SyhbdijwrUAthv6CTi14Upump": {
       "symbol": "LATCH",
       "created_at": "2026-10-08T15:46:00.554492524Z",
-      "first_seen": "2026-10-08T15:46:10.117167+00:00"
+      "first_seen": "2026-10-08T15:46:10.117167+00:00",
+      "confirm": {
+        "liquidity": 17715.88,
+        "market_cap": 49784,
+        "at": "2026-10-08T15:57:23.924734+00:00"
+      }
     },
     "FNtXczpVuUWiyd188pZGAXkZzPk4Eq5SYbbxnDVdpump": {
       "symbol": "MARIO",
@@ -2239,6 +2194,56 @@
       "symbol": "PUMP",
       "created_at": "2026-10-08T15:54:13.988950722Z",
       "first_seen": "2026-10-08T15:54:33.325513+00:00"
+    },
+    "92UHBsKcotpquutB1ijKK3sNBwpTkrnY7bpuTA2Jpump": {
+      "symbol": "Offchain",
+      "created_at": "2026-10-08T15:57:19.55148528Z",
+      "first_seen": "2026-10-08T15:57:23.924531+00:00"
+    },
+    "62Pk9qut3uAZcpdM1fhHYXLNzZkBuEgDUeBEcDtTpump": {
+      "symbol": "FOMO",
+      "created_at": "2026-10-08T15:57:17.481885428Z",
+      "first_seen": "2026-10-08T15:57:23.924531+00:00"
+    },
+    "DYn9joGMbKMeBKXBw4wT78nN2QpF6NZ7rnTCa1Tgwpsv": {
+      "symbol": "BIP",
+      "created_at": "2026-10-08T15:57:16.467244682Z",
+      "first_seen": "2026-10-08T15:57:23.924531+00:00"
+    },
+    "46RhQGZm8kDqgoGU33eyBfn1YFoKK3Cwf6XUgSQkpump": {
+      "symbol": "tinder",
+      "created_at": "2026-10-08T15:57:15.851982779Z",
+      "first_seen": "2026-10-08T15:57:23.924531+00:00"
+    },
+    "78bfLgodNMULzD7fWSswFwcmgNxtE3G2U8zZgNVrpump": {
+      "symbol": "DELL",
+      "created_at": "2026-10-08T15:57:15.152083256Z",
+      "first_seen": "2026-10-08T15:57:23.924531+00:00"
+    },
+    "6vDQyZBd52ar8vFPaXy8i7PXy2LcQbSS9WVUWkLtPkTA": {
+      "symbol": "TCB",
+      "created_at": "2026-10-08T15:57:12.077682539Z",
+      "first_seen": "2026-10-08T15:57:23.924531+00:00"
+    },
+    "9pPZSPSnRcwP8H3GUeYRnhwdb7ToMPYJMavicccz1C1m": {
+      "symbol": "Offchain",
+      "created_at": "2026-10-08T15:57:11.529870577Z",
+      "first_seen": "2026-10-08T15:57:23.924531+00:00"
+    },
+    "4hMGBeqaDRy1LrLQW1PBqmqiaDRyv4j98zrkAR1dpump": {
+      "symbol": "HOPIUM",
+      "created_at": "2026-10-08T15:57:11.407865693Z",
+      "first_seen": "2026-10-08T15:57:23.924531+00:00"
+    },
+    "8zDXgFhJQChErtvdbHxd1McTYkJgobAczwhnvcg7pump": {
+      "symbol": "BEACON",
+      "created_at": "2026-10-08T15:57:10.955101369Z",
+      "first_seen": "2026-10-08T15:57:23.924531+00:00"
+    },
+    "Dnrixk2TYEDGQqbSg39ywRspsRe7YDFWhZANewuDpump": {
+      "symbol": "Offchain",
+      "created_at": "2026-10-08T15:57:10.25744591Z",
+      "first_seen": "2026-10-08T15:57:23.924531+00:00"
     }
   },
   "alerted": [
