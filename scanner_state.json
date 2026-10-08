@@ -428,7 +428,12 @@
     "HkGUZ5PtLoEgoFvuJ9WmLt5GP9MEaNabGdedWHVJmMs8": {
       "symbol": "uBTC",
       "created_at": "2026-10-08T13:36:33.585218754Z",
-      "first_seen": "2026-10-08T13:36:43.363096+00:00"
+      "first_seen": "2026-10-08T13:36:43.363096+00:00",
+      "confirm": {
+        "liquidity": 19128.22,
+        "market_cap": 56421,
+        "at": "2026-10-08T13:47:23.780507+00:00"
+      }
     },
     "2t9pNVfxzkDQVxyRAUL3zs4ttMFC1pLv7joLpmJK4q9P": {
       "symbol": "Biohack",
@@ -639,6 +644,56 @@
       "symbol": "REDISCO",
       "created_at": "2026-10-08T13:44:54.950521234Z",
       "first_seen": "2026-10-08T13:45:12.795958+00:00"
+    },
+    "93FK23Zk7oT7scRKWJJVDwfve6xZ5UJV6NR9A6vVVJgT": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-10-08T13:47:18.140730896Z",
+      "first_seen": "2026-10-08T13:47:23.780284+00:00"
+    },
+    "FbE6vs8SkjV7HbKnJFax6uAZhVbvY5JCfNQMcocnpump": {
+      "symbol": "CROSSY",
+      "created_at": "2026-10-08T13:47:18.114335755Z",
+      "first_seen": "2026-10-08T13:47:23.780284+00:00"
+    },
+    "8gqrQo9mQN5CMT6yqNkmLE6V6fkBbqu9v7oau46epump": {
+      "symbol": "bit",
+      "created_at": "2026-10-08T13:47:17.92843536Z",
+      "first_seen": "2026-10-08T13:47:23.780284+00:00"
+    },
+    "EEaYrRckwQkQ71mNkRoQ4zdhCiAXuYj7yeCL2Jgppump": {
+      "symbol": "SWORDMEME",
+      "created_at": "2026-10-08T13:47:12.473505571Z",
+      "first_seen": "2026-10-08T13:47:23.780284+00:00"
+    },
+    "4NdHZS7heMPzy5zCQ1DM8SmqV9MV7r45dXHGLP3Bpump": {
+      "symbol": "OROL",
+      "created_at": "2026-10-08T13:47:09.975722559Z",
+      "first_seen": "2026-10-08T13:47:23.780284+00:00"
+    },
+    "A3jq8Hpe1APMpxoZXkp8uMTLwLnYrmy8VonXvEFbXENW": {
+      "symbol": "TRIANGULAR",
+      "created_at": "2026-10-08T13:47:07.262245692Z",
+      "first_seen": "2026-10-08T13:47:23.780284+00:00"
+    },
+    "7rhhLxdGQWX8HQhBgTeCjWFtFvqfkBexsdiLFjV2pump": {
+      "symbol": "$SLJK",
+      "created_at": "2026-10-08T13:47:06.743282151Z",
+      "first_seen": "2026-10-08T13:47:23.780284+00:00"
+    },
+    "5Mpr93rMPzjWSkxEeJ6kv5JK3DKgyf8mBdSAFrUucpQQ": {
+      "symbol": "HOOD",
+      "created_at": "2026-10-08T13:47:06.390483999Z",
+      "first_seen": "2026-10-08T13:47:23.780284+00:00"
+    },
+    "3db7kyKbiBcbfyQAmMW7Pxuob4HLL6L3JGKguYNfmst8": {
+      "symbol": "TRIANGULAR",
+      "created_at": "2026-10-08T13:47:05.700975403Z",
+      "first_seen": "2026-10-08T13:47:23.780284+00:00"
+    },
+    "Dp5qz7Hhwh7BBVw7mpWBE3XnKe2wRy6PRdF6vmbhpump": {
+      "symbol": "PS5X360",
+      "created_at": "2026-10-08T13:47:05.579298262Z",
+      "first_seen": "2026-10-08T13:47:23.780284+00:00"
     }
   },
   "alerted": [
