@@ -878,7 +878,12 @@
     "HPhmywHe2RpieE5Jta88CyobWCBmDTCVeFWgdGTopump": {
       "symbol": "Tavrien",
       "created_at": "2026-10-09T13:47:23.296528221Z",
-      "first_seen": "2026-10-09T13:47:37.347877+00:00"
+      "first_seen": "2026-10-09T13:47:37.347877+00:00",
+      "confirm": {
+        "liquidity": 21047.73,
+        "market_cap": 68017,
+        "at": "2026-10-09T13:59:43.739540+00:00"
+      }
     },
     "82cEi8rZrKCcBj76GAyuwsuyRVWTvpz5qk9VdSNS54Rf": {
       "symbol": "BTC-DN",
@@ -1089,6 +1094,56 @@
       "symbol": "CATSBLACK",
       "created_at": "2026-10-09T13:56:56.888233017Z",
       "first_seen": "2026-10-09T13:57:16.251834+00:00"
+    },
+    "4UfeEJf3HVz9hR4Zf4q6Brmbt3ojvLMhw3xyBZnBkAYU": {
+      "symbol": "",
+      "created_at": "2026-10-09T13:59:36.714206398Z",
+      "first_seen": "2026-10-09T13:59:43.739277+00:00"
+    },
+    "Ea6gch5ix4bCa1Hzgx56KspDVYqAzHf9BQNdghZ1pump": {
+      "symbol": "CHERRY",
+      "created_at": "2026-10-09T13:59:34.58213904Z",
+      "first_seen": "2026-10-09T13:59:43.739277+00:00"
+    },
+    "D5Ej25m9n6zKY5tt67yjKYumSGVFJCRARE5pTuc2pump": {
+      "symbol": "wind",
+      "created_at": "2026-10-09T13:59:34.097627115Z",
+      "first_seen": "2026-10-09T13:59:43.739277+00:00"
+    },
+    "895a5rhkNwLCfXHJnjerEkBXh1HAxnHeLMLwzepjjupx": {
+      "symbol": "JERRY",
+      "created_at": "2026-10-09T13:59:32.589673336Z",
+      "first_seen": "2026-10-09T13:59:43.739277+00:00"
+    },
+    "59PG5cAUfu1VK54kvhRbAaTNrZ7GaRbBPjY3DKRypump": {
+      "symbol": "$PANDAI",
+      "created_at": "2026-10-09T13:59:31.649252461Z",
+      "first_seen": "2026-10-09T13:59:43.739277+00:00"
+    },
+    "H9T4PgYi4g5unzmUMNV6jfhC4SQys1MqQ14qnwdTbZaA": {
+      "symbol": "Test",
+      "created_at": "2026-10-09T13:59:30.486443638Z",
+      "first_seen": "2026-10-09T13:59:43.739277+00:00"
+    },
+    "6TUJabF7YqXsiUwYMdaEz4QsC8QwQn6hWYtpGxMi4twG": {
+      "symbol": "Scat",
+      "created_at": "2026-10-09T13:59:30.342631882Z",
+      "first_seen": "2026-10-09T13:59:43.739277+00:00"
+    },
+    "BstCZAeu5xu2if8KTWns9miwJEMM6vSEWV6AUo8xw2YH": {
+      "symbol": "KOLLAB",
+      "created_at": "2026-10-09T13:59:30.338244895Z",
+      "first_seen": "2026-10-09T13:59:43.739277+00:00"
+    },
+    "3Xs1hoNG19D3bTxLTQYTVCEdpVzHn2zD4pyrpNSYpump": {
+      "symbol": "PQC",
+      "created_at": "2026-10-09T13:59:30.052122156Z",
+      "first_seen": "2026-10-09T13:59:43.739277+00:00"
+    },
+    "BG8zh7rmJwoMLNoGNrZB7C5NLGJMzyv2fKBsNpc2pump": {
+      "symbol": "Cherry",
+      "created_at": "2026-10-09T13:59:29.715757833Z",
+      "first_seen": "2026-10-09T13:59:43.739277+00:00"
     }
   },
   "alerted": [
