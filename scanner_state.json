@@ -1590,11 +1590,6 @@
       "created_at": "2026-10-09T07:18:26.088487383Z",
       "first_seen": "2026-10-09T07:18:34.699384+00:00"
     },
-    "3fK8hQYJix6L1ZwD1L6cu7fdHaPuAdXsy7WdKgAjm6VM": {
-      "symbol": "AWZF",
-      "created_at": "2026-10-09T07:18:18.277952185Z",
-      "first_seen": "2026-10-09T07:18:34.699384+00:00"
-    },
     "psjSYd7Li7amRz3T58PfQp48qm7NXUyUAyUqy2Cpump": {
       "symbol": "HUMAN",
       "created_at": "2026-10-09T07:18:18.275195701Z",
@@ -1784,6 +1779,56 @@
       "symbol": "BTC5Y",
       "created_at": "2026-10-09T07:25:50.30184211Z",
       "first_seen": "2026-10-09T07:26:14.483320+00:00"
+    },
+    "BCN1YUEJKbrox724jEe2iThLRqBm9WTU2w7tPoZxFExF": {
+      "symbol": "OCT",
+      "created_at": "2026-10-09T07:28:42.453896145Z",
+      "first_seen": "2026-10-09T07:28:48.679807+00:00"
+    },
+    "7mzKGT7ULA1HzXpVNu8kQ9HVjoAh1aLVH8XbmE8Xc6ge": {
+      "symbol": "FortniteOG",
+      "created_at": "2026-10-09T07:28:38.338000634Z",
+      "first_seen": "2026-10-09T07:28:48.679807+00:00"
+    },
+    "CVEicQnQ1GJXQc8Zb7d5x9gEHpoPBAn1QprXAqTMpump": {
+      "symbol": "QSOL",
+      "created_at": "2026-10-09T07:28:34.389581169Z",
+      "first_seen": "2026-10-09T07:28:48.679807+00:00"
+    },
+    "G43YcRjuTp1e3dy5qeq4Fw7DwvbGCVrC8qKTBep5wYBi": {
+      "symbol": "",
+      "created_at": "2026-10-09T07:28:33.754986826Z",
+      "first_seen": "2026-10-09T07:28:48.679807+00:00"
+    },
+    "8hsgriLyigMHqXhdoGNSMQmCxBFwtFX9Fkb2BAFeWF2Z": {
+      "symbol": "",
+      "created_at": "2026-10-09T07:28:31.383538781Z",
+      "first_seen": "2026-10-09T07:28:48.679807+00:00"
+    },
+    "J3stfDYRA5KRoB7CoPDgTqzT9ykYhtx43TsZAEYwpump": {
+      "symbol": "",
+      "created_at": "2026-10-09T07:28:30.767254459Z",
+      "first_seen": "2026-10-09T07:28:48.679807+00:00"
+    },
+    "9tHKYxFgC32hw7D2ro1tYTVUrJgC2nBspygsUxQHpump": {
+      "symbol": "YOSHI",
+      "created_at": "2026-10-09T07:28:30.433428689Z",
+      "first_seen": "2026-10-09T07:28:48.679807+00:00"
+    },
+    "5YFYZhbuaoXRoMPRQupSV6C9F3KuA4HVUaeZo5mMpump": {
+      "symbol": "Quant Coin",
+      "created_at": "2026-10-09T07:28:27.947255712Z",
+      "first_seen": "2026-10-09T07:28:48.679807+00:00"
+    },
+    "8h4v3MhwQHrVGCDDHW7fRhPEDdvZi1cssVQ6o4XZMT31": {
+      "symbol": "FortniteOG",
+      "created_at": "2026-10-09T07:28:26.160158931Z",
+      "first_seen": "2026-10-09T07:28:48.679807+00:00"
+    },
+    "AVgnpvmst6RtYrttpjUMam1Hj2imdaZh18Qujp7epump": {
+      "symbol": "bandog",
+      "created_at": "2026-10-09T07:28:25.03095291Z",
+      "first_seen": "2026-10-09T07:28:48.679807+00:00"
     }
   },
   "alerted": [
@@ -2209,7 +2254,6 @@
     "8uZieiVy2AanCpYkfxR1quKSbzPKuMUaNYwQ61mrT3iu"
   ],
   "rejected": [
-    "F7KfS6QvzP7bms9y6xA6zHQbUPLsiuPsEfmXQQUx144n",
     "4rzDDTTchiidDzbsaKbc9XDX8Ez9kryjPF4E6agBuDCA",
     "RhhgjwCetvk7BN2vsudNu4UmJfE7fCstededZBUpump",
     "22sewk6X6CU6Zk6ACoTDj9EBfixzSbLLNKfqpjfyVNjr",
@@ -4208,6 +4252,7 @@
     "9kZLMW19BtN3ZZpzeuLpJ3Dz8yzcUB19j3pGRAbh42eh",
     "EQ4USbaWSS2F3qB7Y4zrADmPHM5BaoSdu37uP1db4ZWK",
     "DsvjNM2YAmfPoccgkEKQBManpHqf6h6ZrN387anvWSU2",
-    "4eGGCH3aE5y4DgKP3F6DgqpFtPRR1JywRupNDEetkwkK"
+    "4eGGCH3aE5y4DgKP3F6DgqpFtPRR1JywRupNDEetkwkK",
+    "3fK8hQYJix6L1ZwD1L6cu7fdHaPuAdXsy7WdKgAjm6VM"
   ]
 }
