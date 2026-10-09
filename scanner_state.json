@@ -875,16 +875,6 @@
       "created_at": "2026-10-09T13:47:23.829200118Z",
       "first_seen": "2026-10-09T13:47:37.347877+00:00"
     },
-    "HPhmywHe2RpieE5Jta88CyobWCBmDTCVeFWgdGTopump": {
-      "symbol": "Tavrien",
-      "created_at": "2026-10-09T13:47:23.296528221Z",
-      "first_seen": "2026-10-09T13:47:37.347877+00:00",
-      "confirm": {
-        "liquidity": 21047.73,
-        "market_cap": 68017,
-        "at": "2026-10-09T13:59:43.739540+00:00"
-      }
-    },
     "82cEi8rZrKCcBj76GAyuwsuyRVWTvpz5qk9VdSNS54Rf": {
       "symbol": "BTC-DN",
       "created_at": "2026-10-09T13:47:22.733340818Z",
@@ -1144,6 +1134,56 @@
       "symbol": "Cherry",
       "created_at": "2026-10-09T13:59:29.715757833Z",
       "first_seen": "2026-10-09T13:59:43.739277+00:00"
+    },
+    "Et6ottJbPSARLgmPnSqaVFHveWzEo6BS2f9hwwcGpump": {
+      "symbol": "LEDGER",
+      "created_at": "2026-10-09T14:02:10.963265116Z",
+      "first_seen": "2026-10-09T14:02:15.836972+00:00"
+    },
+    "DLbbTNvSVEudvcTe48tHbbV1hkGQSC9BwAt1z49BKmXx": {
+      "symbol": "OWP",
+      "created_at": "2026-10-09T14:02:08.289010738Z",
+      "first_seen": "2026-10-09T14:02:15.836972+00:00"
+    },
+    "GHauZU2eYWrsGuBLv2tk5vVjNScPSRirSJZiD1YS3ERy": {
+      "symbol": "LMAO",
+      "created_at": "2026-10-09T14:02:07.117005885Z",
+      "first_seen": "2026-10-09T14:02:15.836972+00:00"
+    },
+    "5z841HAcWNmkm1fyzLdfECNuzeawEVFiadbjehLhyMoC": {
+      "symbol": "OWP",
+      "created_at": "2026-10-09T14:02:04.681618739Z",
+      "first_seen": "2026-10-09T14:02:15.836972+00:00"
+    },
+    "63pMTgERbmEApb4CLSTdFdpmqRSh8eAVQzyd1VWQakxs": {
+      "symbol": "MEMECHAN",
+      "created_at": "2026-10-09T14:02:04.631942368Z",
+      "first_seen": "2026-10-09T14:02:15.836972+00:00"
+    },
+    "rAKL9vZ5ajP1Qgbfz4UdkfpeqQ4Tanp4ms2PAXCpump": {
+      "symbol": "LUMIN",
+      "created_at": "2026-10-09T14:02:01.090235043Z",
+      "first_seen": "2026-10-09T14:02:15.836972+00:00"
+    },
+    "FrqPoLgduwfxzTNJH6b9eBXECCQJrz7MHkf52XT7rKtM": {
+      "symbol": "MEMECHAN",
+      "created_at": "2026-10-09T14:02:01.038606511Z",
+      "first_seen": "2026-10-09T14:02:15.836972+00:00"
+    },
+    "DM6ytNEyjiq6EBDY4or3Z39WSiYkWT5r3DD9D81wpump": {
+      "symbol": "pumpy",
+      "created_at": "2026-10-09T14:01:59.153335623Z",
+      "first_seen": "2026-10-09T14:02:15.836972+00:00"
+    },
+    "GgKWFbH1FiGdsY3YtPgdUeVaW7LBRz6yPHXgnf3Lpump": {
+      "symbol": "BGNR",
+      "created_at": "2026-10-09T14:01:56.785918822Z",
+      "first_seen": "2026-10-09T14:02:15.836972+00:00"
+    },
+    "4kabR9dhtHjFSmgYmzDhYcXc6oMqgbFey9pdGFZ7pump": {
+      "symbol": "FLYDER",
+      "created_at": "2026-10-09T14:01:56.655931353Z",
+      "first_seen": "2026-10-09T14:02:15.836972+00:00"
     }
   },
   "alerted": [
@@ -1567,7 +1607,8 @@
     "73oGKD4RXFHLCGPy1m3SyhbdijwrUAthv6CTi14Upump",
     "G2jemrBPRMZZEG8XHLv6ejyUhAU1AzXy9pgehbekpump",
     "8uZieiVy2AanCpYkfxR1quKSbzPKuMUaNYwQ61mrT3iu",
-    "BfFyJjCQikVMeG335GEHPrkYXvyv25EQhM7kUVnVWEzb"
+    "BfFyJjCQikVMeG335GEHPrkYXvyv25EQhM7kUVnVWEzb",
+    "HPhmywHe2RpieE5Jta88CyobWCBmDTCVeFWgdGTopump"
   ],
   "rejected": [
     "EpYh4ERWepUeJo5P3jU8PBauMuncyM86KkNLyZM8pump",
