@@ -940,16 +940,6 @@
       "created_at": "2026-10-08T23:58:50.908596567Z",
       "first_seen": "2026-10-08T23:58:57.766160+00:00"
     },
-    "G2jemrBPRMZZEG8XHLv6ejyUhAU1AzXy9pgehbekpump": {
-      "symbol": "CLAV",
-      "created_at": "2026-10-08T23:58:50.071950994Z",
-      "first_seen": "2026-10-08T23:58:57.766160+00:00",
-      "confirm": {
-        "liquidity": 22781.11,
-        "market_cap": 66169,
-        "at": "2026-10-09T00:26:17.195164+00:00"
-      }
-    },
     "BpXsKUAHayLGA3bmEhAmkATycQBBz23vE8VWu4D4HGMV": {
       "symbol": "",
       "created_at": "2026-10-08T23:58:48.349782332Z",
@@ -1469,6 +1459,56 @@
       "symbol": "PETS",
       "created_at": "2026-10-09T00:26:01.654757641Z",
       "first_seen": "2026-10-09T00:26:17.194860+00:00"
+    },
+    "9S6wJrUiD8JjYE5ZQDuhyjrWpjSRyrh3tFdkoW1Npump": {
+      "symbol": "CEV",
+      "created_at": "2026-10-09T00:29:08.090636322Z",
+      "first_seen": "2026-10-09T00:29:11.859674+00:00"
+    },
+    "B9uu2TLUafmzPbpHBLNXSzrHhYu3qp8TPoRnPUqipump": {
+      "symbol": "SATINU",
+      "created_at": "2026-10-09T00:29:06.275022942Z",
+      "first_seen": "2026-10-09T00:29:11.859674+00:00"
+    },
+    "7inZ1beJRE3AJJvs4QRtyQ5XaY7EpCeLmwmAatRHpump": {
+      "symbol": "Garlic",
+      "created_at": "2026-10-09T00:29:04.82547996Z",
+      "first_seen": "2026-10-09T00:29:11.859674+00:00"
+    },
+    "66NXKyb4bhum9VH1g1XHSbyN3iEJsqQ39agPcaFwpump": {
+      "symbol": "KirkDay",
+      "created_at": "2026-10-09T00:29:04.485165776Z",
+      "first_seen": "2026-10-09T00:29:11.859674+00:00"
+    },
+    "23Nfd5JZumm6BmXhzQTxtfY5a8uB1WK6vLjnA2Eqpump": {
+      "symbol": "DOOROC",
+      "created_at": "2026-10-09T00:29:04.099249711Z",
+      "first_seen": "2026-10-09T00:29:11.859674+00:00"
+    },
+    "4BqwWuG76QmLWWs16WmzkYydqka5dXaXzDKS1ZAHpump": {
+      "symbol": "IMVAMP",
+      "created_at": "2026-10-09T00:29:01.797322573Z",
+      "first_seen": "2026-10-09T00:29:11.859674+00:00"
+    },
+    "8qJa6ysUHgodjitwa1bWTchU12tSnYRB88kBZbfspump": {
+      "symbol": "COUNTDRAC",
+      "created_at": "2026-10-09T00:29:01.399762535Z",
+      "first_seen": "2026-10-09T00:29:11.859674+00:00"
+    },
+    "GzuNhWsPg1aLJsur9wTBdzoMYXW851UhczNjHV58pump": {
+      "symbol": "WHALE",
+      "created_at": "2026-10-09T00:28:59.400157898Z",
+      "first_seen": "2026-10-09T00:29:11.859674+00:00"
+    },
+    "5QFGT4CCQddjoJ2YaZyaLu8yARReSNqFxUj1hzLXpump": {
+      "symbol": "PUMPV2",
+      "created_at": "2026-10-09T00:28:55.617471241Z",
+      "first_seen": "2026-10-09T00:29:11.859674+00:00"
+    },
+    "2XTJv5g4cR9o6y4ND9EfQToUq2p1z4pG5h8GJBnymeme": {
+      "symbol": "DMS",
+      "created_at": "2026-10-09T00:28:53.872863858Z",
+      "first_seen": "2026-10-09T00:29:11.859674+00:00"
     }
   },
   "alerted": [
@@ -1889,7 +1929,8 @@
     "3pfA3BHroh5Vk8jsvruJvua3zGuYnuwCiHjaPXacpump",
     "2WNiZqRefcndEA9c1T6A1bdie31pbBGdFQpyR52h9TWr",
     "46SxsqpxEAmwpeoAUGkjgqBfCQG3wrTFHcbHHX6spump",
-    "73oGKD4RXFHLCGPy1m3SyhbdijwrUAthv6CTi14Upump"
+    "73oGKD4RXFHLCGPy1m3SyhbdijwrUAthv6CTi14Upump",
+    "G2jemrBPRMZZEG8XHLv6ejyUhAU1AzXy9pgehbekpump"
   ],
   "rejected": [
     "7nmuW2kkhfVyGwqyLJ4piXd4f9BJKymJ2EJrgesUpump",
