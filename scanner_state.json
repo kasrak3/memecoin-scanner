@@ -1330,11 +1330,6 @@
       "created_at": "2026-10-09T07:03:28.935249183Z",
       "first_seen": "2026-10-09T07:03:46.094589+00:00"
     },
-    "4eGGCH3aE5y4DgKP3F6DgqpFtPRR1JywRupNDEetkwkK": {
-      "symbol": "MIKITA",
-      "created_at": "2026-10-09T07:03:27.294139099Z",
-      "first_seen": "2026-10-09T07:03:46.094589+00:00"
-    },
     "9JkMcac3Zj9xZxsBW4ZLTDz6eEbDeZPPPZsuHuuUpump": {
       "symbol": "S&P 500",
       "created_at": "2026-10-09T07:03:27.165131724Z",
@@ -1639,6 +1634,56 @@
       "symbol": "QRCOIN",
       "created_at": "2026-10-09T07:17:45.659154978Z",
       "first_seen": "2026-10-09T07:18:34.699384+00:00"
+    },
+    "BGMB7QGTJ54bWeGeBxh6um8JZKdNp7hkfckJanj9XmwM": {
+      "symbol": "DORIME",
+      "created_at": "2026-10-09T07:20:55.624612872Z",
+      "first_seen": "2026-10-09T07:21:06.196080+00:00"
+    },
+    "3PWViov39QRWW7b1nFi56oMBHTR1FJeaAt7vsea11TXU": {
+      "symbol": "CYLUS",
+      "created_at": "2026-10-09T07:20:55.042466364Z",
+      "first_seen": "2026-10-09T07:21:06.196080+00:00"
+    },
+    "65DtNBBYVEP5UMmrMxf7Vqg2syHKR27sU3HH4kyCpXhE": {
+      "symbol": "Payday",
+      "created_at": "2026-10-09T07:20:54.631118772Z",
+      "first_seen": "2026-10-09T07:21:06.196080+00:00"
+    },
+    "GYJDd5P8Frj6u7qXLKpggCdMG18VYhHmG2KQaXgGvWoR": {
+      "symbol": "",
+      "created_at": "2026-10-09T07:20:47.107518355Z",
+      "first_seen": "2026-10-09T07:21:06.196080+00:00"
+    },
+    "AkpEk5a46zbY3RFjvoiugFkCPx4mtrRJFiov6YpSFPv9": {
+      "symbol": "HAMMY",
+      "created_at": "2026-10-09T07:20:46.628731806Z",
+      "first_seen": "2026-10-09T07:21:06.196080+00:00"
+    },
+    "FYBMSGj5gZA5EKBzmhRDPzam5JeNiCS2USCfyF7opump": {
+      "symbol": "Zion",
+      "created_at": "2026-10-09T07:20:44.069034199Z",
+      "first_seen": "2026-10-09T07:21:06.196080+00:00"
+    },
+    "hmDStDxhGbUqD88NEcTk11rjnRaVhebpbnGDtq5pump": {
+      "symbol": "HeeHaw",
+      "created_at": "2026-10-09T07:20:42.147091334Z",
+      "first_seen": "2026-10-09T07:21:06.196080+00:00"
+    },
+    "PF3jBq6UE54qyCE68JG1uaqs64xTR3YVgnNgtJtpump": {
+      "symbol": "Payday",
+      "created_at": "2026-10-09T07:20:41.667481889Z",
+      "first_seen": "2026-10-09T07:21:06.196080+00:00"
+    },
+    "6XqJnUK2RxSjnVu9PwGuXtAgGYuByJHYVDMbV4sJpump": {
+      "symbol": "HAMMY",
+      "created_at": "2026-10-09T07:20:37.243639911Z",
+      "first_seen": "2026-10-09T07:21:06.196080+00:00"
+    },
+    "DXSfwr3sumRsinP8NwpDqp9usafUV429FCPSHhkjpump": {
+      "symbol": "CAPYBLUH",
+      "created_at": "2026-10-09T07:20:35.841575842Z",
+      "first_seen": "2026-10-09T07:21:06.196080+00:00"
     }
   },
   "alerted": [
@@ -2064,7 +2109,6 @@
     "8uZieiVy2AanCpYkfxR1quKSbzPKuMUaNYwQ61mrT3iu"
   ],
   "rejected": [
-    "5aSmh1jiS24NXPRkqJ7a1afb9Sson3zY26stuAmvpump",
     "F7KfS6QvzP7bms9y6xA6zHQbUPLsiuPsEfmXQQUx144n",
     "4rzDDTTchiidDzbsaKbc9XDX8Ez9kryjPF4E6agBuDCA",
     "RhhgjwCetvk7BN2vsudNu4UmJfE7fCstededZBUpump",
@@ -4063,6 +4107,7 @@
     "FKtQFD9TeUEhBFbT5g3Fg19njh5usza5YKJYif7D6E6n",
     "9kZLMW19BtN3ZZpzeuLpJ3Dz8yzcUB19j3pGRAbh42eh",
     "EQ4USbaWSS2F3qB7Y4zrADmPHM5BaoSdu37uP1db4ZWK",
-    "DsvjNM2YAmfPoccgkEKQBManpHqf6h6ZrN387anvWSU2"
+    "DsvjNM2YAmfPoccgkEKQBManpHqf6h6ZrN387anvWSU2",
+    "4eGGCH3aE5y4DgKP3F6DgqpFtPRR1JywRupNDEetkwkK"
   ]
 }
