@@ -168,7 +168,12 @@
     "BSCg5PxSyLjhLwkKzwog2yJWpAptxaTiLJHaRYTHpump": {
       "symbol": "Altaiwif",
       "created_at": "2026-10-10T21:40:44.888180813Z",
-      "first_seen": "2026-10-10T21:40:58.849193+00:00"
+      "first_seen": "2026-10-10T21:40:58.849193+00:00",
+      "confirm": {
+        "liquidity": 27119.06,
+        "market_cap": 107309,
+        "at": "2026-10-10T21:51:15.471016+00:00"
+      }
     },
     "DXWbCDF1eA8fYM9foUEyRs7aeKPvjoXFMcQLWRgHpump": {
       "symbol": "PLTR",
@@ -399,6 +404,56 @@
       "symbol": "up",
       "created_at": "2026-10-10T21:48:59.920499899Z",
       "first_seen": "2026-10-10T21:49:09.565446+00:00"
+    },
+    "6mEdL7dpLts7fBEJNa8BTJNS1GHeG1JsMXUYf9RNpump": {
+      "symbol": "Chud",
+      "created_at": "2026-10-10T21:51:05.971873275Z",
+      "first_seen": "2026-10-10T21:51:15.470783+00:00"
+    },
+    "5UH5NJoDyGaficDGUMccXNeP4PPPepKjTd7nJPgBgX4i": {
+      "symbol": "",
+      "created_at": "2026-10-10T21:51:04.905335199Z",
+      "first_seen": "2026-10-10T21:51:15.470783+00:00"
+    },
+    "98iXY7oqYyJW4jYAqZZvTCSxEYA2UNzqya479Pt8Rd79": {
+      "symbol": "goat",
+      "created_at": "2026-10-10T21:51:02.434498573Z",
+      "first_seen": "2026-10-10T21:51:15.470783+00:00"
+    },
+    "z8EmaxzBSDStJQAjgKAx1JodmaN7mNo3DgNtRNDMcat": {
+      "symbol": "ntrndmcat",
+      "created_at": "2026-10-10T21:51:02.421158665Z",
+      "first_seen": "2026-10-10T21:51:15.470783+00:00"
+    },
+    "6GWP7AsW8jXjkLyq67FsbZp8suwxdxSqD6h62W1D2FTr": {
+      "symbol": "",
+      "created_at": "2026-10-10T21:51:01.052299026Z",
+      "first_seen": "2026-10-10T21:51:15.470783+00:00"
+    },
+    "DwA3dCjSvHk2JUjDFgKFhBVdx4DsEqwTti4tzXYXpump": {
+      "symbol": "Gateway",
+      "created_at": "2026-10-10T21:50:59.702096592Z",
+      "first_seen": "2026-10-10T21:51:15.470783+00:00"
+    },
+    "wQNkKfULZT7xniX4YAK2Zgvyu4up7Susvm2pUYtpump": {
+      "symbol": "STARMIND",
+      "created_at": "2026-10-10T21:50:59.195226926Z",
+      "first_seen": "2026-10-10T21:51:15.470783+00:00"
+    },
+    "AUqWtKfaNf5rs6fqerwix9z3qX5RvuAFRsLsikKnjupx": {
+      "symbol": "SXSI",
+      "created_at": "2026-10-10T21:50:57.544518095Z",
+      "first_seen": "2026-10-10T21:51:15.470783+00:00"
+    },
+    "EqqB21F5UykaQM4QH6akBe79X3iW3scZxrcdivcrpump": {
+      "symbol": "SwordCat",
+      "created_at": "2026-10-10T21:50:57.350520688Z",
+      "first_seen": "2026-10-10T21:51:15.470783+00:00"
+    },
+    "8nTUQjAoYRHNkZ5atff3Tdh7wWNLxfbEvz8jJoAvpump": {
+      "symbol": "lil cat",
+      "created_at": "2026-10-10T21:50:53.806485488Z",
+      "first_seen": "2026-10-10T21:51:15.470783+00:00"
     }
   },
   "alerted": [
