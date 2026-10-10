@@ -1,55 +1,5 @@
 {
   "pending": {
-    "AqkNCmHkEWDjViShK5Ajhgk8VUMYmMnCeWAE99Rxpump": {
-      "symbol": "Riyadh",
-      "created_at": "2026-10-10T21:49:07.44716757Z",
-      "first_seen": "2026-10-10T21:49:09.565446+00:00"
-    },
-    "8Gb6E4v629LuKuZA2YaVc9YZMfe5tvxpQ9VY4nNBSsZH": {
-      "symbol": "MPN",
-      "created_at": "2026-10-10T21:49:07.019449157Z",
-      "first_seen": "2026-10-10T21:49:09.565446+00:00"
-    },
-    "CJUXArD2paiqCFMTJgtX6kweegYXfuXL32KoTTDpJfoz": {
-      "symbol": "RCL",
-      "created_at": "2026-10-10T21:49:06.606167304Z",
-      "first_seen": "2026-10-10T21:49:09.565446+00:00"
-    },
-    "Fe7RH1mhNXsiXa1g49cGa9BRVMSKUjEULEw217RRg8Tq": {
-      "symbol": "OWP",
-      "created_at": "2026-10-10T21:49:06.464256225Z",
-      "first_seen": "2026-10-10T21:49:09.565446+00:00"
-    },
-    "1BrtdbLFm8QRdt63Uzgwr6zJknNbpfj73ei9LEPwk2o": {
-      "symbol": "RCL",
-      "created_at": "2026-10-10T21:49:05.712635461Z",
-      "first_seen": "2026-10-10T21:49:09.565446+00:00"
-    },
-    "7S9Cwxv6CHsMdfuq3ENZMWTGbW1jbpBWHr2L7hDXjSUi": {
-      "symbol": "BARC-Y",
-      "created_at": "2026-10-10T21:49:05.453257667Z",
-      "first_seen": "2026-10-10T21:49:09.565446+00:00"
-    },
-    "CHTsnJG4oDBcVF6c48WK5S8bo978Gs9b43kR5KRrzqRR": {
-      "symbol": "Altai",
-      "created_at": "2026-10-10T21:49:03.318270157Z",
-      "first_seen": "2026-10-10T21:49:09.565446+00:00"
-    },
-    "u2qTWgbYp5BbW9K55QZgVipQ9FuJkq9dRGZnHj9h2tk": {
-      "symbol": "OWP",
-      "created_at": "2026-10-10T21:49:02.021805814Z",
-      "first_seen": "2026-10-10T21:49:09.565446+00:00"
-    },
-    "8CB9kwFfrnebLe3D22XM5NnRzSmjsyLyQzPM8Gk6pump": {
-      "symbol": "TIME",
-      "created_at": "2026-10-10T21:49:01.944075189Z",
-      "first_seen": "2026-10-10T21:49:09.565446+00:00"
-    },
-    "5GR6xjwN6Nuf5PKnT6tUDZv5PqP9KXGh9Hn1M5Ympump": {
-      "symbol": "up",
-      "created_at": "2026-10-10T21:48:59.920499899Z",
-      "first_seen": "2026-10-10T21:49:09.565446+00:00"
-    },
     "6mEdL7dpLts7fBEJNa8BTJNS1GHeG1JsMXUYf9RNpump": {
       "symbol": "Chud",
       "created_at": "2026-10-10T21:51:05.971873275Z",
@@ -1683,7 +1633,12 @@
     "A9msvWFdumfAXqjehqmzGEHxz3Be1DsDjCPfReeQpump": {
       "symbol": "SQI",
       "created_at": "2026-10-10T23:14:34.302486399Z",
-      "first_seen": "2026-10-10T23:14:46.042306+00:00"
+      "first_seen": "2026-10-10T23:14:46.042306+00:00",
+      "confirm": {
+        "liquidity": 29535.69,
+        "market_cap": 120763,
+        "at": "2026-10-10T23:50:54.048761+00:00"
+      }
     },
     "G6mE8oLqX6ckTzYAvrS6RWWzNbpQW6eoX98FZLP7cFL5": {
       "symbol": "HODL",
@@ -2264,6 +2219,56 @@
       "symbol": "XRP-DN",
       "created_at": "2026-10-10T23:47:43.085890859Z",
       "first_seen": "2026-10-10T23:47:55.050180+00:00"
+    },
+    "5QMc4cpTuhj2f4CuoFVDVvk8gGFAJDTeBt3A44vKpump": {
+      "symbol": "GNB",
+      "created_at": "2026-10-10T23:50:48.873175283Z",
+      "first_seen": "2026-10-10T23:50:54.048553+00:00"
+    },
+    "3gdtMj9q1bGFXTJbPDTFYSybE1Vrfn1hCms9ugCtpump": {
+      "symbol": "MCH",
+      "created_at": "2026-10-10T23:50:46.505224846Z",
+      "first_seen": "2026-10-10T23:50:54.048553+00:00"
+    },
+    "4p4JhYAEchiTSFL9y5sCuoYBttZkGpzHnWrv1voDHpre": {
+      "symbol": "OCTOBER",
+      "created_at": "2026-10-10T23:50:43.940353189Z",
+      "first_seen": "2026-10-10T23:50:54.048553+00:00"
+    },
+    "E1UGyF8hFQNucmFaGZE57YSF5z215Fd1onLGZ23upump": {
+      "symbol": "SXSN",
+      "created_at": "2026-10-10T23:50:42.041356506Z",
+      "first_seen": "2026-10-10T23:50:54.048553+00:00"
+    },
+    "4F7jQ9QyEhCPqsiPEZ9UordoBDwmf7iC3QCetuFdpump": {
+      "symbol": "$CAT",
+      "created_at": "2026-10-10T23:50:41.964297285Z",
+      "first_seen": "2026-10-10T23:50:54.048553+00:00"
+    },
+    "8tHFgBxUAjmyYufs5C4iNQ4pvUD99x5MvVGfhBdqJp3s": {
+      "symbol": "OWP",
+      "created_at": "2026-10-10T23:50:40.397117652Z",
+      "first_seen": "2026-10-10T23:50:54.048553+00:00"
+    },
+    "49aahxSpsENBYkvSsJGq7GKoFYRtYX3hghGbpjqgpump": {
+      "symbol": "EPOCH",
+      "created_at": "2026-10-10T23:50:39.651560857Z",
+      "first_seen": "2026-10-10T23:50:54.048553+00:00"
+    },
+    "4F19Jet5kZTihECc6UK8jTf5SVTLEouFRzKAXAMLpump": {
+      "symbol": "TITCOIN",
+      "created_at": "2026-10-10T23:50:39.446508629Z",
+      "first_seen": "2026-10-10T23:50:54.048553+00:00"
+    },
+    "9ms7Bd7NEbX3S4ZAe8goPTcVs2pEYA12Jw6famri4BDy": {
+      "symbol": "ZECV",
+      "created_at": "2026-10-10T23:50:37.540436568Z",
+      "first_seen": "2026-10-10T23:50:54.048553+00:00"
+    },
+    "5M6LY3KZbbv92JMTGS9Rp6hXD8Nb3UXjYvqGL2isxkNQ": {
+      "symbol": "SP",
+      "created_at": "2026-10-10T23:50:34.22455054Z",
+      "first_seen": "2026-10-10T23:50:54.048553+00:00"
     }
   },
   "alerted": [
