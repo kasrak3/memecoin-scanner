@@ -725,11 +725,6 @@
       "created_at": "2026-10-10T22:04:10.642207951Z",
       "first_seen": "2026-10-10T22:04:21.933250+00:00"
     },
-    "48vcicPGmTpLVkJPHFeSprEEtuQNvCHJwRfAT997pump": {
-      "symbol": "ELON",
-      "created_at": "2026-10-10T22:04:10.445844674Z",
-      "first_seen": "2026-10-10T22:04:21.933250+00:00"
-    },
     "BUqWHoDFp6vjC5TvxG3XMEM2eAwo3yvLG47ZwP1fosTu": {
       "symbol": "GME",
       "created_at": "2026-10-10T22:04:09.203237201Z",
@@ -939,6 +934,56 @@
       "symbol": "Pixel",
       "created_at": "2026-10-10T22:13:21.139605233Z",
       "first_seen": "2026-10-10T22:13:35.931724+00:00"
+    },
+    "Fjx24CsusMTYTchGGRq14Gjs2fYW66wDaSvNwP1ohQWk": {
+      "symbol": "OWP",
+      "created_at": "2026-10-10T22:15:55.38715739Z",
+      "first_seen": "2026-10-10T22:15:56.667702+00:00"
+    },
+    "3LLxQrAjUoJxrCAVJMcbGwHjjsL3mUihWkvk2bddpbJd": {
+      "symbol": "RCL",
+      "created_at": "2026-10-10T22:15:55.376949785Z",
+      "first_seen": "2026-10-10T22:15:56.667702+00:00"
+    },
+    "8CY83kt2t4ZPvVDFPP8hwEkgcooTcafeyk3xBedAJota": {
+      "symbol": "OWP",
+      "created_at": "2026-10-10T22:15:55.366632852Z",
+      "first_seen": "2026-10-10T22:15:56.667702+00:00"
+    },
+    "2PQXgNtpdrkbNBv9ufDAYg5WpXFwss5ZyyR6nrZACtEw": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-10-10T22:15:55.302918489Z",
+      "first_seen": "2026-10-10T22:15:56.667702+00:00"
+    },
+    "BwzmCBPUvMUjQnUXWgQDLBi98EYsBJpbayH55J3PoQ8Z": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-10-10T22:15:55.122672225Z",
+      "first_seen": "2026-10-10T22:15:56.667702+00:00"
+    },
+    "9M4oELVg6dMLGpr7oc98jxgmenQ4sjif4s4jUELanZKw": {
+      "symbol": "MPN",
+      "created_at": "2026-10-10T22:15:55.121542057Z",
+      "first_seen": "2026-10-10T22:15:56.667702+00:00"
+    },
+    "4xs3dwRUkHHCQgX64FsFqorXg6vWqPnPmJ8dSkJ6dm12": {
+      "symbol": "RCL",
+      "created_at": "2026-10-10T22:15:55.087790887Z",
+      "first_seen": "2026-10-10T22:15:56.667702+00:00"
+    },
+    "6qEzrD6MRbUaXUswQow8Whmyt8FV7fSxPyyoaGbFYb13": {
+      "symbol": "BTC5N",
+      "created_at": "2026-10-10T22:15:55.080289523Z",
+      "first_seen": "2026-10-10T22:15:56.667702+00:00"
+    },
+    "59VRRiYJc4iYesD4918ee1jQn6PSw5JzaR5JTo6m3SWM": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-10-10T22:15:54.921472389Z",
+      "first_seen": "2026-10-10T22:15:56.667702+00:00"
+    },
+    "4pQgVhstnkLisWm19AWWZDzYkDkUmX6ok3BCKJW45izV": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-10-10T22:15:54.885407654Z",
+      "first_seen": "2026-10-10T22:15:56.667702+00:00"
     }
   },
   "alerted": [
@@ -1377,7 +1422,6 @@
     "BSCg5PxSyLjhLwkKzwog2yJWpAptxaTiLJHaRYTHpump"
   ],
   "rejected": [
-    "2hYJ2qEjXUy6V2zw2G3mwRMMoXvjkXz5Y5dBb3X4qaWs",
     "fNcbc4QczXesABp1Gii27NiAxNYSxt18rKtBQJEZR7C",
     "mnTmzsLWDLYLarZDKH73omsfP7ihZWxkUf2xgSwpump",
     "CRhk3jDE9QKpDgQvKgqq1zUJtZ3WAt2gFxUBvTfA4h1v",
@@ -3376,6 +3420,7 @@
     "dUf9HpVJ6rqVwLRCkvLpqCoto49fGoqYb1dXB2Xpump",
     "6xkEPKWkiJmRk8QhunzEpSbq4jEi8fjDp3UDFff1pump",
     "BcMfdUvRTUFTCQdqqZ3Hbmme7gME7ZmFNfHFgut8pump",
-    "BguxFpfzw7ZvCWo3ATb6pAW1doBoBbqRvWNXA17bPnUb"
+    "BguxFpfzw7ZvCWo3ATb6pAW1doBoBbqRvWNXA17bPnUb",
+    "48vcicPGmTpLVkJPHFeSprEEtuQNvCHJwRfAT997pump"
   ]
 }
