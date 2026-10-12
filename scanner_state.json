@@ -843,7 +843,12 @@
     "CijLYyHMCa5jVc7SgPEDJBiR8UEZDw2UKhTXS8bjpump": {
       "symbol": "TRILLIONS",
       "created_at": "2026-10-12T15:48:41.075473136Z",
-      "first_seen": "2026-10-12T15:48:48.168554+00:00"
+      "first_seen": "2026-10-12T15:48:48.168554+00:00",
+      "confirm": {
+        "liquidity": 23433.15,
+        "market_cap": 83233,
+        "at": "2026-10-12T16:00:09.534726+00:00"
+      }
     },
     "AVb4KXm3PWxXDTQmJUXLeXAtXPw9fEjrJdAsx2vSsu4w": {
       "symbol": "OWP",
@@ -1069,6 +1074,56 @@
       "symbol": "HIRE",
       "created_at": "2026-10-12T15:57:33.706043489Z",
       "first_seen": "2026-10-12T15:57:51.467027+00:00"
+    },
+    "HnAfKkdVPsBNKd2WLuLFB5ogoGsYhWQjbC9eHGUXpump": {
+      "symbol": "GEM",
+      "created_at": "2026-10-12T16:00:07.137826608Z",
+      "first_seen": "2026-10-12T16:00:09.534506+00:00"
+    },
+    "EzFs1XxVgksCb5PEDMzCTQPu7a6eh2paLSim7MGwpump": {
+      "symbol": "GrandV",
+      "created_at": "2026-10-12T16:00:07.074457885Z",
+      "first_seen": "2026-10-12T16:00:09.534506+00:00"
+    },
+    "CJeRusSt2BHddP7hZQ17Zn5NqXEKn5jtYyhMjXgLpump": {
+      "symbol": "X",
+      "created_at": "2026-10-12T16:00:04.315071461Z",
+      "first_seen": "2026-10-12T16:00:09.534506+00:00"
+    },
+    "8oZ8HrNuoFYL8egyh5Etx23f3wtmqQZFpDYd6yFkpump": {
+      "symbol": "X",
+      "created_at": "2026-10-12T16:00:00.641854274Z",
+      "first_seen": "2026-10-12T16:00:09.534506+00:00"
+    },
+    "soMbuMGJQSQjuKfmGRBSMTkftBoL53qUgpDfgj3TZv9": {
+      "symbol": "Mousey",
+      "created_at": "2026-10-12T16:00:00.641255271Z",
+      "first_seen": "2026-10-12T16:00:09.534506+00:00"
+    },
+    "7oHaDt8t36W9tvD2KtkWKHdmjWbrgRRKJKt5Q22wpump": {
+      "symbol": "X",
+      "created_at": "2026-10-12T15:59:59.401925513Z",
+      "first_seen": "2026-10-12T16:00:09.534506+00:00"
+    },
+    "2eZZsKURab3spmiDT2N19L8HoztxgKe4eJ6czPR3pump": {
+      "symbol": "GEM",
+      "created_at": "2026-10-12T15:59:58.816235857Z",
+      "first_seen": "2026-10-12T16:00:09.534506+00:00"
+    },
+    "GrKgz4QUApUej7vb8mhhbDAKjagRtD8uaMrD5ZVzx9Ki": {
+      "symbol": "5KPOCKET",
+      "created_at": "2026-10-12T15:59:58.52121037Z",
+      "first_seen": "2026-10-12T16:00:09.534506+00:00"
+    },
+    "9SRR8gHcGCAHLhA1UjGihDa6NU5TdwkR8ppyR9rDpump": {
+      "symbol": "X",
+      "created_at": "2026-10-12T15:59:58.426964586Z",
+      "first_seen": "2026-10-12T16:00:09.534506+00:00"
+    },
+    "4z9Lj2trd6s3i6Kh4HLHm4WnNpeg5xA7Pi5NF4PnqsCu": {
+      "symbol": "GROKBIT",
+      "created_at": "2026-10-12T15:59:58.265766249Z",
+      "first_seen": "2026-10-12T16:00:09.534506+00:00"
     }
   },
   "alerted": [
