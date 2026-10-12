@@ -1,55 +1,5 @@
 {
   "pending": {
-    "5VthkXnU5XsJvQyFsoi2Ypt9pnrA3NL7h5jqcTk9ArQb": {
-      "symbol": "",
-      "created_at": "2026-10-12T00:25:34.529286033Z",
-      "first_seen": "2026-10-12T00:25:38.768352+00:00"
-    },
-    "4v6FKScbdJZo2M5ojwrcGhPc1T46Z7HXBNd4G3WaCmF5": {
-      "symbol": "",
-      "created_at": "2026-10-12T00:25:34.504917658Z",
-      "first_seen": "2026-10-12T00:25:38.768352+00:00"
-    },
-    "78yL3YsJ6Wg8qLtm9VWufG6EFYiz6qFXRGVMaexCMqUH": {
-      "symbol": "Cat Collector",
-      "created_at": "2026-10-12T00:25:34.293141725Z",
-      "first_seen": "2026-10-12T00:25:38.768352+00:00"
-    },
-    "41BW7k1gnUyHn3KZqTNzZJ8Z1cyuV2eGUvc1ZHnouEHk": {
-      "symbol": "",
-      "created_at": "2026-10-12T00:25:34.229581752Z",
-      "first_seen": "2026-10-12T00:25:38.768352+00:00"
-    },
-    "AL8D28v2PMLHAR259p7Q8T7dcbG44KGY3vntgbZwHAhX": {
-      "symbol": "WW",
-      "created_at": "2026-10-12T00:25:32.153298457Z",
-      "first_seen": "2026-10-12T00:25:38.768352+00:00"
-    },
-    "EKWbcmuAnJZ7K7j7QWpgVt4KrcCzp8RK2JRxjypDpump": {
-      "symbol": "Idiot",
-      "created_at": "2026-10-12T00:25:30.19714276Z",
-      "first_seen": "2026-10-12T00:25:38.768352+00:00"
-    },
-    "wsEjSsFMDEBRbc8aU2zEPEYjhjt5S4zbJwPqAg3pump": {
-      "symbol": "rawr",
-      "created_at": "2026-10-12T00:25:30.191767059Z",
-      "first_seen": "2026-10-12T00:25:38.768352+00:00"
-    },
-    "GBzB3kL27EPATV2VHBzv13BELt71cS3nCWhn8jX7wTTu": {
-      "symbol": "Idiot",
-      "created_at": "2026-10-12T00:25:29.157162191Z",
-      "first_seen": "2026-10-12T00:25:38.768352+00:00"
-    },
-    "2KfMLnBo2UwQCYQa2qK4tDk8UazxfkURkt322zhdpump": {
-      "symbol": "APPLYO",
-      "created_at": "2026-10-12T00:25:29.156747923Z",
-      "first_seen": "2026-10-12T00:25:38.768352+00:00"
-    },
-    "6BpTrcNkASVbUy3AchwpBnNVeaALGALYqf5DSer1Sj2u": {
-      "symbol": "WW",
-      "created_at": "2026-10-12T00:25:29.15418752Z",
-      "first_seen": "2026-10-12T00:25:38.768352+00:00"
-    },
     "78YMEoW1jKUAo5z5ckfuNY1PsrBpvHqMoC7PqVx6fXiM": {
       "symbol": "moon",
       "created_at": "2026-10-12T00:28:07.381170881Z",
@@ -1655,11 +1605,6 @@
       "created_at": "2026-10-12T01:53:15.953641129Z",
       "first_seen": "2026-10-12T01:53:16.293009+00:00"
     },
-    "A4bym99KJqnKLeZtxPjHManvBPM5xuqByn4zENVYY7eD": {
-      "symbol": "Gemini",
-      "created_at": "2026-10-12T01:53:13.233436269Z",
-      "first_seen": "2026-10-12T01:53:16.293009+00:00"
-    },
     "CCpMyVH3vYZ8t9RA5tHie6VsvxEZbS47zC2wH6ZSpump": {
       "symbol": "priced",
       "created_at": "2026-10-12T01:53:13.205222656Z",
@@ -1813,7 +1758,12 @@
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump": {
       "symbol": "DOGELON",
       "created_at": "2026-10-12T02:00:58.562044587Z",
-      "first_seen": "2026-10-12T02:01:07.567700+00:00"
+      "first_seen": "2026-10-12T02:01:07.567700+00:00",
+      "confirm": {
+        "liquidity": 40733.14,
+        "market_cap": 222189,
+        "at": "2026-10-12T02:27:36.470391+00:00"
+      }
     },
     "24GfivCvd92a1gULpGs7q5VcJUcKYVZb9f4cDwyCeQz2": {
       "symbol": "",
@@ -2294,6 +2244,56 @@
       "symbol": "HOODWAR",
       "created_at": "2026-10-12T02:24:41.411650454Z",
       "first_seen": "2026-10-12T02:24:56.246692+00:00"
+    },
+    "7AfQLJ4VcG25vJ8kaDpMKSBvvtb72V746oESaRQjpump": {
+      "symbol": "SWORDSHIB",
+      "created_at": "2026-10-12T02:27:33.297482709Z",
+      "first_seen": "2026-10-12T02:27:36.470186+00:00"
+    },
+    "xocfUgtkwzKiz2hKSoie8A3PSJR7bswrTxit5bopump": {
+      "symbol": "fg",
+      "created_at": "2026-10-12T02:27:32.815505329Z",
+      "first_seen": "2026-10-12T02:27:36.470186+00:00"
+    },
+    "5TK7qimw6DFQJvnUonY9BFHg9V4GDDaonqJRk8dtuUfv": {
+      "symbol": "Solamians",
+      "created_at": "2026-10-12T02:27:31.921426899Z",
+      "first_seen": "2026-10-12T02:27:36.470186+00:00"
+    },
+    "BAA5ur6NoWesWtuxDMLNHxMRvbZSeCeTFwjRBW4BugyS": {
+      "symbol": "MPN",
+      "created_at": "2026-10-12T02:27:31.631586913Z",
+      "first_seen": "2026-10-12T02:27:36.470186+00:00"
+    },
+    "9rynWyqbLtxNaUig9vtFZubMiqXf4fL7Upm6zwpPpump": {
+      "symbol": "BAP",
+      "created_at": "2026-10-12T02:27:31.122196593Z",
+      "first_seen": "2026-10-12T02:27:36.470186+00:00"
+    },
+    "6V4upGmZn4VP9Q4Rj9uA3FcLkKDRHhJCmgE1GrRqpump": {
+      "symbol": "TTH",
+      "created_at": "2026-10-12T02:27:31.018776252Z",
+      "first_seen": "2026-10-12T02:27:36.470186+00:00"
+    },
+    "HW2XF3SXd8PXW8B2xFRJXriC5VTab9K4zZ3ZdiK9sWhC": {
+      "symbol": "DOGCOIN",
+      "created_at": "2026-10-12T02:27:29.318555527Z",
+      "first_seen": "2026-10-12T02:27:36.470186+00:00"
+    },
+    "4WgKwV4yPmnXsM2H5dsgYdhatmz9vhm71q871dq2pump": {
+      "symbol": "desloppify",
+      "created_at": "2026-10-12T02:27:29.170689274Z",
+      "first_seen": "2026-10-12T02:27:36.470186+00:00"
+    },
+    "89bgQQv5Rig6VJhRMQhnBEVbFN1LwjxguHpBedTjpump": {
+      "symbol": "Solamians",
+      "created_at": "2026-10-12T02:27:28.52199596Z",
+      "first_seen": "2026-10-12T02:27:36.470186+00:00"
+    },
+    "2rUwF5bwn17kmQguCNS7XREk4meTJez9xDrYPVRkGNqN": {
+      "symbol": "Solamians",
+      "created_at": "2026-10-12T02:27:28.286769986Z",
+      "first_seen": "2026-10-12T02:27:36.470186+00:00"
     }
   },
   "alerted": [
@@ -2735,7 +2735,6 @@
     "F667wWjyngHSzjJyYDCu888JAa1q1jkMmaUxsb2npump"
   ],
   "rejected": [
-    "YEjn8ES6MNeqzZu7uf7iwrF2mp4n4bYekCsrMLdpump",
     "HXPgBEncXd5mz5DQGkD3K2xwoBUPsfMouLujkt8Dv5bz",
     "2Z8oge7qvEPDUEcr7xTJb6CcmAeuGg82nMs3ewWSMvAQ",
     "95odi9SPkrBns8FEEYrn1TtQA9fPmPujcUrPqwqGQSkw",
@@ -4734,6 +4733,7 @@
     "69nE3Yb2MD2s6Pnx7Qe8U1khnxWrgtvxszZX6tQd7i28",
     "Fmt1yenosRjhcA4ugiTwavgeqngrqFoSFFuHQXvcxH6V",
     "BZtmvvfyuBpa2cmsZ2cUvUtwsihDu3LX7qkYuYtspump",
-    "GuhDhEZNwzn3UVdYSaLmXeia9K7nC14pXqFTMuxF6xnK"
+    "GuhDhEZNwzn3UVdYSaLmXeia9K7nC14pXqFTMuxF6xnK",
+    "A4bym99KJqnKLeZtxPjHManvBPM5xuqByn4zENVYY7eD"
   ]
 }
