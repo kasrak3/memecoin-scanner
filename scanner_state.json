@@ -840,16 +840,6 @@
       "created_at": "2026-10-12T15:48:43.192296658Z",
       "first_seen": "2026-10-12T15:48:48.168554+00:00"
     },
-    "CijLYyHMCa5jVc7SgPEDJBiR8UEZDw2UKhTXS8bjpump": {
-      "symbol": "TRILLIONS",
-      "created_at": "2026-10-12T15:48:41.075473136Z",
-      "first_seen": "2026-10-12T15:48:48.168554+00:00",
-      "confirm": {
-        "liquidity": 23433.15,
-        "market_cap": 83233,
-        "at": "2026-10-12T16:00:09.534726+00:00"
-      }
-    },
     "AVb4KXm3PWxXDTQmJUXLeXAtXPw9fEjrJdAsx2vSsu4w": {
       "symbol": "OWP",
       "created_at": "2026-10-12T15:48:39.582538561Z",
@@ -1124,6 +1114,56 @@
       "symbol": "GROKBIT",
       "created_at": "2026-10-12T15:59:58.265766249Z",
       "first_seen": "2026-10-12T16:00:09.534506+00:00"
+    },
+    "AJXUE5hM4RMoqmUHUyshKJb6v9StrZp9KY5jPCJqpump": {
+      "symbol": "X",
+      "created_at": "2026-10-12T16:02:21.409899943Z",
+      "first_seen": "2026-10-12T16:02:30.199969+00:00"
+    },
+    "58NzAJTFQ2Qhv5x7dDJpUmkmojUt3dRTJ1KHA81XyDmM": {
+      "symbol": "SQZE",
+      "created_at": "2026-10-12T16:02:20.907685518Z",
+      "first_seen": "2026-10-12T16:02:30.199969+00:00"
+    },
+    "AoZc3xEj22DxgfUgf8sfjn3VKJLy9BthjDqw4Shq7Qa4": {
+      "symbol": "HIRE",
+      "created_at": "2026-10-12T16:02:19.952865746Z",
+      "first_seen": "2026-10-12T16:02:30.199969+00:00"
+    },
+    "4RfJskH3szfCKetQhVEa5hG6dxDWxKxeggR4xTjQwPjm": {
+      "symbol": "CAGEAI",
+      "created_at": "2026-10-12T16:02:19.532507125Z",
+      "first_seen": "2026-10-12T16:02:30.199969+00:00"
+    },
+    "8Mg2iGHHv14gg8mVHKmUQcbxdzJod8NKtbvREmVtpump": {
+      "symbol": "DREG",
+      "created_at": "2026-10-12T16:02:19.050677043Z",
+      "first_seen": "2026-10-12T16:02:30.199969+00:00"
+    },
+    "7Q2tGKH3SQhgtDPwSBzoXeSHnr4tDXF7tVj4Qvmzpump": {
+      "symbol": "X",
+      "created_at": "2026-10-12T16:02:18.661981955Z",
+      "first_seen": "2026-10-12T16:02:30.199969+00:00"
+    },
+    "4HZCQU1m3Sjb7udMFns6jT5A7ZY3aJaoQSBA8Jc7UsWj": {
+      "symbol": "CATTAX",
+      "created_at": "2026-10-12T16:02:17.575222444Z",
+      "first_seen": "2026-10-12T16:02:30.199969+00:00"
+    },
+    "DBZL5jtGYbNkw8jsaN5vTpmNpsBWUjP84XHDKJwwpump": {
+      "symbol": "GEM",
+      "created_at": "2026-10-12T16:02:17.185115142Z",
+      "first_seen": "2026-10-12T16:02:30.199969+00:00"
+    },
+    "6bydiBPnZXEiyQMkZgPTTySAzCeWkdXshUecRj6G9iGo": {
+      "symbol": "Axiomvengers",
+      "created_at": "2026-10-12T16:02:16.193374305Z",
+      "first_seen": "2026-10-12T16:02:30.199969+00:00"
+    },
+    "84k5JGtz8ueDeAWQVBL2fr5EuossAhEYtGQewBBppump": {
+      "symbol": "X",
+      "created_at": "2026-10-12T16:02:15.611229911Z",
+      "first_seen": "2026-10-12T16:02:30.199969+00:00"
     }
   },
   "alerted": [
@@ -1565,7 +1605,8 @@
     "F667wWjyngHSzjJyYDCu888JAa1q1jkMmaUxsb2npump",
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump",
     "5ovpHQeKPofWMGEsxFgbhADvX7BmV9pnMkdwjNeE4hZ5",
-    "4VScHuqZ13uma3S34iNkiSAQvZDEeGebjbM5bPcapump"
+    "4VScHuqZ13uma3S34iNkiSAQvZDEeGebjbM5bPcapump",
+    "CijLYyHMCa5jVc7SgPEDJBiR8UEZDw2UKhTXS8bjpump"
   ],
   "rejected": [
     "BEm5nFjFXhhuByCiSsyUebUZ4MouvRP7qvoJpv2Fk1qf",
