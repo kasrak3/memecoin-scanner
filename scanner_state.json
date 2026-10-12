@@ -1,55 +1,5 @@
 {
   "pending": {
-    "HoqGgxNzKEB9Dfs8RfuKxWAK6KSWS6w7zAqo9g5uEsnm": {
-      "symbol": "MPN",
-      "created_at": "2026-10-11T23:19:16.770018456Z",
-      "first_seen": "2026-10-11T23:19:22.764083+00:00"
-    },
-    "3DXzZwaZpRHVBsp4WSk8VJvdtUqh6U4AC9DTDMaxvGL7": {
-      "symbol": "OWP",
-      "created_at": "2026-10-11T23:19:16.66475914Z",
-      "first_seen": "2026-10-11T23:19:22.764083+00:00"
-    },
-    "C8Cnxq2T7J9rh8a2fV3dhWuQD7JL1W2HknkDcLqatz2N": {
-      "symbol": "BTC-DN",
-      "created_at": "2026-10-11T23:19:15.697749924Z",
-      "first_seen": "2026-10-11T23:19:22.764083+00:00"
-    },
-    "3pNRZWrYnQkvftZjrv3VxxHxQdKtZzSZqYXZCEjudb2E": {
-      "symbol": "Cases",
-      "created_at": "2026-10-11T23:19:15.180965847Z",
-      "first_seen": "2026-10-11T23:19:22.764083+00:00"
-    },
-    "vS5cNbN9os7CcP5gQEDxSpbLRz3m2LogpmtWVPDpump": {
-      "symbol": "Luxor",
-      "created_at": "2026-10-11T23:19:14.862871606Z",
-      "first_seen": "2026-10-11T23:19:22.764083+00:00"
-    },
-    "8hmKuX8bsJa1TMBvw9fassbFSzcuvKjXwgsNPdk3Hdqz": {
-      "symbol": "BTC-UP",
-      "created_at": "2026-10-11T23:19:13.828944199Z",
-      "first_seen": "2026-10-11T23:19:22.764083+00:00"
-    },
-    "ERyd7VZZfKfEiFuZEmvrvyNh4peAi3fsxiBT7rD6K3jF": {
-      "symbol": "SOL-DN",
-      "created_at": "2026-10-11T23:19:12.231509866Z",
-      "first_seen": "2026-10-11T23:19:22.764083+00:00"
-    },
-    "DmptkZFa4mmH5sx5TnpUdGVNMuYx8Tubpr5WHtbCbmQ7": {
-      "symbol": "RCL",
-      "created_at": "2026-10-11T23:19:11.976358899Z",
-      "first_seen": "2026-10-11T23:19:22.764083+00:00"
-    },
-    "H5zLR7wtg1BXR8D3rsXwYcDuwt4HjfT8RBy7ByqgwnSx": {
-      "symbol": "SOL-UP",
-      "created_at": "2026-10-11T23:19:11.852769341Z",
-      "first_seen": "2026-10-11T23:19:22.764083+00:00"
-    },
-    "DbRky5bs1UcskVMnBPuVy9zTyU8mPe4561czvjKox8T8": {
-      "symbol": "XRP-DN",
-      "created_at": "2026-10-11T23:19:11.641612455Z",
-      "first_seen": "2026-10-11T23:19:22.764083+00:00"
-    },
     "7Q8kB5HkRpX5kw7chZjEZg7Le2K9bwLKjeYWLDzdpump": {
       "symbol": "$WOLF",
       "created_at": "2026-10-11T23:21:49.778542067Z",
@@ -2289,6 +2239,56 @@
       "symbol": "XRP-DN",
       "created_at": "2026-10-12T01:18:47.889992228Z",
       "first_seen": "2026-10-12T01:18:55.392142+00:00"
+    },
+    "B7asYMadfKqCzc167NfoYSKsfJd4DwReVpkJyLHuG1Pv": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-10-12T01:21:22.817044553Z",
+      "first_seen": "2026-10-12T01:21:33.641729+00:00"
+    },
+    "CUrV3HLQFxxevn7roRYYZvr4iGAesjnq9ki4i5iWWTDN": {
+      "symbol": "HYPE-DN",
+      "created_at": "2026-10-12T01:21:22.732864037Z",
+      "first_seen": "2026-10-12T01:21:33.641729+00:00"
+    },
+    "G3ALzUpvpYRxLjL17xb4QJ7qX6xqTrUZd57KT3KfErpq": {
+      "symbol": "HYPE-DN",
+      "created_at": "2026-10-12T01:21:22.675952565Z",
+      "first_seen": "2026-10-12T01:21:33.641729+00:00"
+    },
+    "91xv9YzoCvTbyWK7oiJzwcLcLQXSZ8ZbRhvpkvZT4Q2t": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-10-12T01:21:21.800595836Z",
+      "first_seen": "2026-10-12T01:21:33.641729+00:00"
+    },
+    "3h11sSAqbYVJTjpLMWNxvk6fpysfhvUdoRWkeTZ8WNid": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-10-12T01:21:21.418084238Z",
+      "first_seen": "2026-10-12T01:21:33.641729+00:00"
+    },
+    "5pFEbUjzBV7ERspZyNdA8QX79T6AvURvapgG1zox69Hs": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-10-12T01:21:21.104383678Z",
+      "first_seen": "2026-10-12T01:21:33.641729+00:00"
+    },
+    "DQ9S5nSK5V1RasE5aLqwPM4a2sipQkspiECfaJuLLaa6": {
+      "symbol": "",
+      "created_at": "2026-10-12T01:21:20.02919216Z",
+      "first_seen": "2026-10-12T01:21:33.641729+00:00"
+    },
+    "5WxrabraGLg3aT61MQrWZ1fSzSDCSx5cUqExXKi6TZDQ": {
+      "symbol": "oracle",
+      "created_at": "2026-10-12T01:21:19.993398376Z",
+      "first_seen": "2026-10-12T01:21:33.641729+00:00"
+    },
+    "BJ9yJCJeXwtXPaWd49hE8FAzD5hzeN6acvjS9SovGm1y": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-10-12T01:21:19.951886357Z",
+      "first_seen": "2026-10-12T01:21:33.641729+00:00"
+    },
+    "DLmoUMGSoDL8D7EGNgsmLCkTPvoQKHKuvtgvpnJALn7": {
+      "symbol": "TATALOO",
+      "created_at": "2026-10-12T01:21:19.903610856Z",
+      "first_seen": "2026-10-12T01:21:33.641729+00:00"
     }
   },
   "alerted": [
