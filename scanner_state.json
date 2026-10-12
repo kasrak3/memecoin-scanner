@@ -648,7 +648,12 @@
     "5ovpHQeKPofWMGEsxFgbhADvX7BmV9pnMkdwjNeE4hZ5": {
       "symbol": "PepePrime",
       "created_at": "2026-10-12T06:14:30.830431722Z",
-      "first_seen": "2026-10-12T06:14:49.932122+00:00"
+      "first_seen": "2026-10-12T06:14:49.932122+00:00",
+      "confirm": {
+        "liquidity": 13745.98,
+        "market_cap": 374944,
+        "at": "2026-10-12T06:39:28.314678+00:00"
+      }
     },
     "4ta3hNhaUodqrGajMhRqqDugYVg15u7d9wfrNPT4pump": {
       "symbol": "SD",
@@ -1169,6 +1174,56 @@
       "symbol": "CAESAR",
       "created_at": "2026-10-12T06:36:44.973451972Z",
       "first_seen": "2026-10-12T06:37:10.436463+00:00"
+    },
+    "7CmBtbYoBobPVPuxs8er7xNDtDuQpezeXHWmTqvkc27Y": {
+      "symbol": "TAO",
+      "created_at": "2026-10-12T06:39:23.01457195Z",
+      "first_seen": "2026-10-12T06:39:28.314482+00:00"
+    },
+    "57GzMtovNe4tWxWjpmeHBwYktpCQsZXK2ANoD2Gapump": {
+      "symbol": "dih",
+      "created_at": "2026-10-12T06:39:22.811366692Z",
+      "first_seen": "2026-10-12T06:39:28.314482+00:00"
+    },
+    "61YrRMWDiHvniVQU8NExqodqT9JhjvwGeMCSzQPGpump": {
+      "symbol": "dc",
+      "created_at": "2026-10-12T06:39:21.568742645Z",
+      "first_seen": "2026-10-12T06:39:28.314482+00:00"
+    },
+    "B3mbwavGdcaNymxU6ZQHnvqavdDcEmfvwWZBiCsoWNeC": {
+      "symbol": "MPN",
+      "created_at": "2026-10-12T06:39:20.356105185Z",
+      "first_seen": "2026-10-12T06:39:28.314482+00:00"
+    },
+    "8c7JEVewGDdeQn1QoFxUgH7iRRvmNB8AKow4FuYQpump": {
+      "symbol": "Blep",
+      "created_at": "2026-10-12T06:39:17.276551621Z",
+      "first_seen": "2026-10-12T06:39:28.314482+00:00"
+    },
+    "HY5nTHiWq4sP6Zjn5kRub3u3f2FLnqHMhbjFLVoipump": {
+      "symbol": "MRBEAST",
+      "created_at": "2026-10-12T06:39:15.876841651Z",
+      "first_seen": "2026-10-12T06:39:28.314482+00:00"
+    },
+    "Dfbov7uk733KhW1XjPu3wA4nm3DaV4AbTMGXGa7M9NjP": {
+      "symbol": "LRAM-Y",
+      "created_at": "2026-10-12T06:39:15.40941116Z",
+      "first_seen": "2026-10-12T06:39:28.314482+00:00"
+    },
+    "3hvh7dkVHD4ZdftmQg4etgGWvcbAergCbZr5tgtd1pou": {
+      "symbol": "Pou",
+      "created_at": "2026-10-12T06:39:15.408748097Z",
+      "first_seen": "2026-10-12T06:39:28.314482+00:00"
+    },
+    "7eJ3NHTv7NfFwqv2sT6UJGPHqRw6gyd4NXS8FvfBpUyd": {
+      "symbol": "CAESAR",
+      "created_at": "2026-10-12T06:39:15.406161455Z",
+      "first_seen": "2026-10-12T06:39:28.314482+00:00"
+    },
+    "FEf6CGzERdj2jERYbNhaTkSJHMxKG9YrcKowTSDocWv7": {
+      "symbol": "Squeeze",
+      "created_at": "2026-10-12T06:39:12.610034762Z",
+      "first_seen": "2026-10-12T06:39:28.314482+00:00"
     }
   },
   "alerted": [
