@@ -165,16 +165,6 @@
       "created_at": "2026-10-12T15:18:55.351283339Z",
       "first_seen": "2026-10-12T15:19:09.764486+00:00"
     },
-    "4VScHuqZ13uma3S34iNkiSAQvZDEeGebjbM5bPcapump": {
-      "symbol": "VSWAP",
-      "created_at": "2026-10-12T15:18:54.472186955Z",
-      "first_seen": "2026-10-12T15:19:09.764486+00:00",
-      "confirm": {
-        "liquidity": 20263.28,
-        "market_cap": 63365,
-        "at": "2026-10-12T15:29:24.071322+00:00"
-      }
-    },
     "AGgswvusPzmhtCWUyxb3di4mXW4KWGqxSJE8dLuHdC8h": {
       "symbol": "MDM",
       "created_at": "2026-10-12T15:18:53.933417103Z",
@@ -444,6 +434,56 @@
       "symbol": "BLUEFACECL",
       "created_at": "2026-10-12T15:29:04.901497947Z",
       "first_seen": "2026-10-12T15:29:24.071131+00:00"
+    },
+    "6ESwn2T3s1Y3qEWAJDR5BnWosM6PcbfUdT8h1duqpump": {
+      "symbol": "COLUMBUS",
+      "created_at": "2026-10-12T15:31:25.83779374Z",
+      "first_seen": "2026-10-12T15:31:30.878942+00:00"
+    },
+    "6brqGejWohtjDLTJzKRHbx4RUJaLpKrAuMZK9ojWpump": {
+      "symbol": "MUNK",
+      "created_at": "2026-10-12T15:31:18.299840577Z",
+      "first_seen": "2026-10-12T15:31:30.878942+00:00"
+    },
+    "Q2V8YgSVrATr5X94Bf45kmCghCgtPfyGBjZfCmAmytJ": {
+      "symbol": "\u9cb2\u9e4f",
+      "created_at": "2026-10-12T15:31:17.945168982Z",
+      "first_seen": "2026-10-12T15:31:30.878942+00:00"
+    },
+    "2KkAUFwpkBEBBFdGeGGHSvBuGMENftNt3QRyPjRcpump": {
+      "symbol": "VELQUE",
+      "created_at": "2026-10-12T15:31:17.839409861Z",
+      "first_seen": "2026-10-12T15:31:30.878942+00:00"
+    },
+    "4ysGEDLuQ4tRfbARuwJCnNrHjXNWJngEpCJV2hLCC4fZ": {
+      "symbol": "Ahmad",
+      "created_at": "2026-10-12T15:31:15.71199992Z",
+      "first_seen": "2026-10-12T15:31:30.878942+00:00"
+    },
+    "FCriZQAT1ZV3tXebFmuygEntX4yN6xWRiF3JzWempump": {
+      "symbol": "HIREINU",
+      "created_at": "2026-10-12T15:31:15.225671424Z",
+      "first_seen": "2026-10-12T15:31:30.878942+00:00"
+    },
+    "8EvVyGzPgo8Wm4MvM65UL8Zg3TYYYji2w9Jjvnhepump": {
+      "symbol": "KNIGHTDOG",
+      "created_at": "2026-10-12T15:31:13.966127899Z",
+      "first_seen": "2026-10-12T15:31:30.878942+00:00"
+    },
+    "yR7NPdWd4ow7KVnHvArGNferPuRAb7LyY871KHKpump": {
+      "symbol": "Airwave",
+      "created_at": "2026-10-12T15:31:13.412927502Z",
+      "first_seen": "2026-10-12T15:31:30.878942+00:00"
+    },
+    "6anDPAt2Ni7BYH7QENd6tbyd9zrRhyokUiwU1JH7KU4T": {
+      "symbol": "WORTHLESS",
+      "created_at": "2026-10-12T15:31:05.132969602Z",
+      "first_seen": "2026-10-12T15:31:30.878942+00:00"
+    },
+    "2PUzt5JzEe7VRzonYUTehGWdfHbdf72KzxoQ1ZZHpump": {
+      "symbol": "animals",
+      "created_at": "2026-10-12T15:31:04.770479543Z",
+      "first_seen": "2026-10-12T15:31:30.878942+00:00"
     }
   },
   "alerted": [
@@ -884,7 +924,8 @@
     "FM4iTCPFRgEudf1vi2DZZJivG2mS4SdRrtVTt6Yxpump",
     "F667wWjyngHSzjJyYDCu888JAa1q1jkMmaUxsb2npump",
     "7KKUmUG4p8kta1sBbMHnRUNoBfXX4zYbUFHspdHwpump",
-    "5ovpHQeKPofWMGEsxFgbhADvX7BmV9pnMkdwjNeE4hZ5"
+    "5ovpHQeKPofWMGEsxFgbhADvX7BmV9pnMkdwjNeE4hZ5",
+    "4VScHuqZ13uma3S34iNkiSAQvZDEeGebjbM5bPcapump"
   ],
   "rejected": [
     "A1hw9G6HdAjw4yYqu7BdsTKXUodzfMGbyC67nd35KNaJ",
