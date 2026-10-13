@@ -68,7 +68,12 @@
     "14idZcAyw55qoUKbVSwSFCwgBkBt2vZajbrZM24spump": {
       "symbol": "FOMO",
       "created_at": "2026-10-13T22:40:10.919890816Z",
-      "first_seen": "2026-10-13T22:40:16.255680+00:00"
+      "first_seen": "2026-10-13T22:40:16.255680+00:00",
+      "confirm": {
+        "liquidity": 26182.69,
+        "market_cap": 104204,
+        "at": "2026-10-13T22:50:24.643264+00:00"
+      }
     },
     "2g5rVvoADVbKzGWR86sRGjXS7m9jHT7i3FtWTRKZ7ow6": {
       "symbol": "MAILCAT",
@@ -299,6 +304,56 @@
       "symbol": "RCL",
       "created_at": "2026-10-13T22:48:11.471019994Z",
       "first_seen": "2026-10-13T22:48:22.077841+00:00"
+    },
+    "4YpUUmr8ZRxhpE2m3vbZsLmDTbsbZV35TdB8BCAipump": {
+      "symbol": "Rari",
+      "created_at": "2026-10-13T22:50:21.301381067Z",
+      "first_seen": "2026-10-13T22:50:24.643053+00:00"
+    },
+    "8ZwMYzQEUNHe5nn47FPHZHrscSVRd4AxVps35FGTpump": {
+      "symbol": "ENTROPY",
+      "created_at": "2026-10-13T22:50:21.232207568Z",
+      "first_seen": "2026-10-13T22:50:24.643053+00:00"
+    },
+    "H9TeUkPZmeLcZsJ5MUcCyLCyiobYuvMdT6sdhosrpump": {
+      "symbol": "Wion",
+      "created_at": "2026-10-13T22:50:18.766544179Z",
+      "first_seen": "2026-10-13T22:50:24.643053+00:00"
+    },
+    "87yzNopKPbbfTUpGPFA7d6q6C8uxkdL4P4WjwQsXQzAP": {
+      "symbol": "DEX",
+      "created_at": "2026-10-13T22:50:16.039939403Z",
+      "first_seen": "2026-10-13T22:50:24.643053+00:00"
+    },
+    "HUauCpejRLMfPi9zhgWw1EJprhG63zDgWUDQJDcgpump": {
+      "symbol": "KREW",
+      "created_at": "2026-10-13T22:50:13.318039113Z",
+      "first_seen": "2026-10-13T22:50:24.643053+00:00"
+    },
+    "7aVmcepTTzVk4joxrDkBc7U1JghunKbEQm4FAcg3v5Uw": {
+      "symbol": "",
+      "created_at": "2026-10-13T22:50:12.343823257Z",
+      "first_seen": "2026-10-13T22:50:24.643053+00:00"
+    },
+    "5hywW4fRRuT7k2BrDeRwR7zGLvSXJnzjfKdouaPcpump": {
+      "symbol": "SCAM",
+      "created_at": "2026-10-13T22:50:12.316952979Z",
+      "first_seen": "2026-10-13T22:50:24.643053+00:00"
+    },
+    "nVbM5ZJrzgemTf3yjCqTEPtrfJYD6fJ94ffzE7Qpump": {
+      "symbol": "FLOYD",
+      "created_at": "2026-10-13T22:50:12.233259434Z",
+      "first_seen": "2026-10-13T22:50:24.643053+00:00"
+    },
+    "AneU3GKzFLMEuwoyogQbsAPEokfgWg5r2v9Wb16pump": {
+      "symbol": "LEGOMUSK",
+      "created_at": "2026-10-13T22:50:08.98873628Z",
+      "first_seen": "2026-10-13T22:50:24.643053+00:00"
+    },
+    "FfCFYChDEV5MpVNSpLHF54JZM5nmA56U47ivUYgxYjhK": {
+      "symbol": "FOMO",
+      "created_at": "2026-10-13T22:50:06.373294868Z",
+      "first_seen": "2026-10-13T22:50:24.643053+00:00"
     }
   },
   "alerted": [
