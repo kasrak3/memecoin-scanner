@@ -1,55 +1,5 @@
 {
   "pending": {
-    "3mMpBS8RiAjrqMSLszjCsXtWiQQnw3T5Ptg4KfVd6JYS": {
-      "symbol": "",
-      "created_at": "2026-10-13T02:35:07.241909171Z",
-      "first_seen": "2026-10-13T02:35:09.097212+00:00"
-    },
-    "4Xb8TeCs52psXXuZNQrNDZPqorzE4mQmTPydy9gbpump": {
-      "symbol": "CZ",
-      "created_at": "2026-10-13T02:35:00.808287475Z",
-      "first_seen": "2026-10-13T02:35:09.097212+00:00"
-    },
-    "Ki39joUbtci7TqzJ9mty3uYHDP2CRZgPZ4fU6FQpump": {
-      "symbol": "PUMP",
-      "created_at": "2026-10-13T02:34:58.653369488Z",
-      "first_seen": "2026-10-13T02:35:09.097212+00:00"
-    },
-    "FpUMx4NAtnHztxSzGMhNKcmXhnwFFSVG6cEC6LzEpump": {
-      "symbol": "Dodo",
-      "created_at": "2026-10-13T02:34:58.214737465Z",
-      "first_seen": "2026-10-13T02:35:09.097212+00:00"
-    },
-    "ECcxTN47uwiKkGFBVAzQchnHjUhmoPUbfHdcz487FRwq": {
-      "symbol": "WBEAR",
-      "created_at": "2026-10-13T02:34:54.472291065Z",
-      "first_seen": "2026-10-13T02:35:09.097212+00:00"
-    },
-    "4YFxo1otiEjcgTz45iNZpGjc4cuPEpjdE9CtAZuBpump": {
-      "symbol": "SPMN SPMN",
-      "created_at": "2026-10-13T02:34:53.84132086Z",
-      "first_seen": "2026-10-13T02:35:09.097212+00:00"
-    },
-    "DCaDozcYMmPiWKH7q9Ra5TUEA1pon7KXWY4S3iFcpump": {
-      "symbol": "SHEEP",
-      "created_at": "2026-10-13T02:34:53.482648974Z",
-      "first_seen": "2026-10-13T02:35:09.097212+00:00"
-    },
-    "J42FzfDJtEZ3HMm6E5jJ3rNGWn2finsGGAXTk9LYpump": {
-      "symbol": "$CCOW",
-      "created_at": "2026-10-13T02:34:52.30236789Z",
-      "first_seen": "2026-10-13T02:35:09.097212+00:00"
-    },
-    "6AvgECUp6fW7CihSZ6Kh1zf83xrid4oqauFa8QpdLCq8": {
-      "symbol": "SNIOP{ORRA",
-      "created_at": "2026-10-13T02:34:49.5323735Z",
-      "first_seen": "2026-10-13T02:35:09.097212+00:00"
-    },
-    "CZ5xzQ4msafU4BmedcTspLCQXzQ38Dk4QQW5r4acpump": {
-      "symbol": "COVER",
-      "created_at": "2026-10-13T02:34:35.86699056Z",
-      "first_seen": "2026-10-13T02:35:09.097212+00:00"
-    },
     "2gfwwyXZpWkVCtgoT5qKUYxsnZuCaHhiB1bnkyy4DVGq": {
       "symbol": "DUVE",
       "created_at": "2026-10-13T02:37:46.157916025Z",
@@ -1558,7 +1508,12 @@
     "hnMDBVtBoFuoE4fq3FU3d1d4MTgXdLayE3wQhRUpump": {
       "symbol": "DADDY",
       "created_at": "2026-10-13T04:25:56.55538726Z",
-      "first_seen": "2026-10-13T04:26:06.242023+00:00"
+      "first_seen": "2026-10-13T04:26:06.242023+00:00",
+      "confirm": {
+        "liquidity": 20491.03,
+        "market_cap": 65589,
+        "at": "2026-10-13T04:36:54.630970+00:00"
+      }
     },
     "9CU5ZdsR1qJZVZgaa5X8kgHQzhRPPzWTNZJ6y7Txpump": {
       "symbol": "LEGO",
@@ -1749,6 +1704,56 @@
       "symbol": "STARKNIFE",
       "created_at": "2026-10-13T04:33:39.054208722Z",
       "first_seen": "2026-10-13T04:34:07.329385+00:00"
+    },
+    "BxLCGPGswX7GidjDsuTcqZTFbbAAFi4ad6pvKPEbpump": {
+      "symbol": "WOYAKKU",
+      "created_at": "2026-10-13T04:36:50.433686044Z",
+      "first_seen": "2026-10-13T04:36:54.630648+00:00"
+    },
+    "5Yc7Qikzsh8kxHRh9YmDG6bpqiCikrHhxviPMfZ5pump": {
+      "symbol": "Carrot",
+      "created_at": "2026-10-13T04:36:49.703261579Z",
+      "first_seen": "2026-10-13T04:36:54.630648+00:00"
+    },
+    "5aELqgurtgbSgnmpf9C5JCDFpEGPZs8WdhkWWGQaNgSD": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-10-13T04:36:45.679396433Z",
+      "first_seen": "2026-10-13T04:36:54.630648+00:00"
+    },
+    "5N5rHv9qygfhta8w7XtNtNq1NkqB8zhjbD6yyWYtooma": {
+      "symbol": "",
+      "created_at": "2026-10-13T04:36:43.462757979Z",
+      "first_seen": "2026-10-13T04:36:54.630648+00:00"
+    },
+    "HHp1tpLSv8ChC4UGMh2iwrNCkzFTiExU1NCPJcQXpump": {
+      "symbol": "SUPER",
+      "created_at": "2026-10-13T04:36:43.460355601Z",
+      "first_seen": "2026-10-13T04:36:54.630648+00:00"
+    },
+    "AktQ2CK6pYJNjfzA12VDPjSMve3vqeCcxgUpiq3jpaid": {
+      "symbol": "LABMONKEYS",
+      "created_at": "2026-10-13T04:36:42.369227649Z",
+      "first_seen": "2026-10-13T04:36:54.630648+00:00"
+    },
+    "H6ZDReoPGoXmSLBh9Qd2GvwTzV63k9xiQqA8MHmspump": {
+      "symbol": "BTC",
+      "created_at": "2026-10-13T04:36:41.945762814Z",
+      "first_seen": "2026-10-13T04:36:54.630648+00:00"
+    },
+    "DGgB5h5aTfKhCjKfChYdmHv8yGL1rbJCRjszeZ1ybonk": {
+      "symbol": "Shot",
+      "created_at": "2026-10-13T04:36:41.106922157Z",
+      "first_seen": "2026-10-13T04:36:54.630648+00:00"
+    },
+    "4mszoNALazyUU1PNYD1kHSjC36hKmKY2VkACRp3UDNE8": {
+      "symbol": "Runepunk",
+      "created_at": "2026-10-13T04:36:39.757297407Z",
+      "first_seen": "2026-10-13T04:36:54.630648+00:00"
+    },
+    "EQFUB1HgQyWhYZ1B6GPizRyoYdCR1NFpU9Cz22UFpump": {
+      "symbol": "GBear",
+      "created_at": "2026-10-13T04:36:37.377748306Z",
+      "first_seen": "2026-10-13T04:36:54.630648+00:00"
     }
   },
   "alerted": [
