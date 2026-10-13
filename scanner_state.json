@@ -1,50 +1,5 @@
 {
   "pending": {
-    "7Yx3b5xDHYiU4ZqGDwPSuWhMvaC7MhEwJDzxe31Dpump": {
-      "symbol": "Pump",
-      "created_at": "2026-10-13T00:58:14.977704347Z",
-      "first_seen": "2026-10-13T00:58:19.080543+00:00"
-    },
-    "6TiCPLo9T51Fj7LQ3M7ANepEVJEUkE5dFT3G6MR51JxL": {
-      "symbol": "BUREAU",
-      "created_at": "2026-10-13T00:58:13.905578995Z",
-      "first_seen": "2026-10-13T00:58:19.080543+00:00"
-    },
-    "C7Ng41o9t4drwC9iWQ6R2w7cxPACVJXdh4J6S6vmpump": {
-      "symbol": "ED",
-      "created_at": "2026-10-13T00:58:12.341580111Z",
-      "first_seen": "2026-10-13T00:58:19.080543+00:00"
-    },
-    "8wZhzNQVncRLriUHTFGYGpStazjYTzMsuQrJ6yiGpump": {
-      "symbol": "GBR",
-      "created_at": "2026-10-13T00:58:11.287447584Z",
-      "first_seen": "2026-10-13T00:58:19.080543+00:00"
-    },
-    "ZJ16XSdA8ykTA8Avdmc7smCqW8ZFFbDmVBQJt5u93BY": {
-      "symbol": "RCL",
-      "created_at": "2026-10-13T00:58:10.46089842Z",
-      "first_seen": "2026-10-13T00:58:19.080543+00:00"
-    },
-    "4op6nhU5ZKsGaopCjKKHKoL88Db4sM4GRvjiGYSmPWfi": {
-      "symbol": "Flaccid",
-      "created_at": "2026-10-13T00:58:10.196924545Z",
-      "first_seen": "2026-10-13T00:58:19.080543+00:00"
-    },
-    "C8DkqxB5BH4omJGQiqtx62oCNEqjXDakSxRGtivNQR2R": {
-      "symbol": "Flaccid",
-      "created_at": "2026-10-13T00:58:09.997982722Z",
-      "first_seen": "2026-10-13T00:58:19.080543+00:00"
-    },
-    "5kyFCqtSqHRfq5cU8QWFsLVvk4HGkG1adQmNSWfEFk59": {
-      "symbol": "OWP",
-      "created_at": "2026-10-13T00:58:08.138037262Z",
-      "first_seen": "2026-10-13T00:58:19.080543+00:00"
-    },
-    "9mf2gjoiprH4dn8oC8GjaWAZuNwGW1XUS5PHQFfepump": {
-      "symbol": "SOFT",
-      "created_at": "2026-10-13T00:58:07.270437858Z",
-      "first_seen": "2026-10-13T00:58:19.080543+00:00"
-    },
     "CukXyRb4xJBAZj4krkwU9suGVmDNW9wGvRq7EQ67jpWH": {
       "symbol": "GAY",
       "created_at": "2026-10-13T01:00:17.90803073Z",
@@ -2369,6 +2324,56 @@
       "symbol": "MOSFAL",
       "created_at": "2026-10-13T02:56:45.945185401Z",
       "first_seen": "2026-10-13T02:57:00.375991+00:00"
+    },
+    "7cF5qQWB2Uz4noQ8Wn2TmBQ4vDmChrmg2FVci4xAmpwa": {
+      "symbol": "MPN",
+      "created_at": "2026-10-13T02:59:38.710671813Z",
+      "first_seen": "2026-10-13T02:59:41.473142+00:00"
+    },
+    "BQiHh2gXNq4Fzc9wfnLA8z6x13jHZQtDLjyp7Xb62uio": {
+      "symbol": "farmed",
+      "created_at": "2026-10-13T02:59:37.899479809Z",
+      "first_seen": "2026-10-13T02:59:41.473142+00:00"
+    },
+    "9nzhs8BTYZWp6etdnHHQxExD4WJpThEeELVTaout3UNU": {
+      "symbol": "farmed",
+      "created_at": "2026-10-13T02:59:37.097754295Z",
+      "first_seen": "2026-10-13T02:59:41.473142+00:00"
+    },
+    "FdcVmse6s8xY2zdUQnM8puB177k8RXKoTmRgivgpkbqD": {
+      "symbol": "RCL",
+      "created_at": "2026-10-13T02:59:36.932629888Z",
+      "first_seen": "2026-10-13T02:59:41.473142+00:00"
+    },
+    "3N6jCntf8wNg2kVAx2CLiyzv4eREjKNRbgRoWTMRpump": {
+      "symbol": "MOUSEBULL",
+      "created_at": "2026-10-13T02:59:36.624309945Z",
+      "first_seen": "2026-10-13T02:59:41.473142+00:00"
+    },
+    "CkyYHtHG3TadR2uaF71eDH3N4qY7H72E8oC8NrP3pump": {
+      "symbol": "Bear",
+      "created_at": "2026-10-13T02:59:36.570976229Z",
+      "first_seen": "2026-10-13T02:59:41.473142+00:00"
+    },
+    "AUCKjx3Tw78upSvC2EMp8oTScgMnQL5os3i6uVN5pump": {
+      "symbol": "GOSHI",
+      "created_at": "2026-10-13T02:59:35.706196587Z",
+      "first_seen": "2026-10-13T02:59:41.473142+00:00"
+    },
+    "3aU3kXqDQvGyKUi1aK5hgR69t9sZHWKQgdp2ey6Gnfn5": {
+      "symbol": "Inu",
+      "created_at": "2026-10-13T02:59:33.489591288Z",
+      "first_seen": "2026-10-13T02:59:41.473142+00:00"
+    },
+    "Et4SUyKf9eBCHccAn1dpKmtJTP6R9dcWy1TwciSCpump": {
+      "symbol": "$AURA",
+      "created_at": "2026-10-13T02:59:33.190523811Z",
+      "first_seen": "2026-10-13T02:59:41.473142+00:00"
+    },
+    "4y2CwDcxDsqYXh48mfKkYebqrvTNkQLwjNzfgjhhpump": {
+      "symbol": "DW",
+      "created_at": "2026-10-13T02:59:31.676726441Z",
+      "first_seen": "2026-10-13T02:59:41.473142+00:00"
     }
   },
   "alerted": [
