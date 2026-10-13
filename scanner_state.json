@@ -1460,16 +1460,6 @@
       "created_at": "2026-10-13T15:10:15.761299574Z",
       "first_seen": "2026-10-13T15:10:22.552368+00:00"
     },
-    "27RsTaXHb1fzUNEunYhrvZ2E1pBGvJESjzp3Co2Hpump": {
-      "symbol": "MRKV",
-      "created_at": "2026-10-13T15:10:15.629371084Z",
-      "first_seen": "2026-10-13T15:10:22.552368+00:00",
-      "confirm": {
-        "liquidity": 14510.56,
-        "market_cap": 33646,
-        "at": "2026-10-13T15:20:25.915894+00:00"
-      }
-    },
     "3JDKyu8bdLnzpQUM9LYQpNp9MeKiitoCnHYTQFhHpump": {
       "symbol": "$One",
       "created_at": "2026-10-13T15:10:15.421447364Z",
@@ -1699,6 +1689,56 @@
       "symbol": "SEALS",
       "created_at": "2026-10-13T15:19:59.774662016Z",
       "first_seen": "2026-10-13T15:20:25.915659+00:00"
+    },
+    "DiUfdVM5k7Q1wM91HaTs6ATihE7Jkh4Wvsi3REy5NJbk": {
+      "symbol": "FBD",
+      "created_at": "2026-10-13T15:22:58.806551675Z",
+      "first_seen": "2026-10-13T15:23:00.717130+00:00"
+    },
+    "8SuBo5gxEKQQPKRjbbxfP4DMrmPdYdQ5k7VijJD2aMXN": {
+      "symbol": "FBD",
+      "created_at": "2026-10-13T15:22:58.804246921Z",
+      "first_seen": "2026-10-13T15:23:00.717130+00:00"
+    },
+    "H2YX9jCjn32mY9CdSu8mgmedvNyN5E2tR4vFEMfpump": {
+      "symbol": "MotoCrose",
+      "created_at": "2026-10-13T15:22:58.279259821Z",
+      "first_seen": "2026-10-13T15:23:00.717130+00:00"
+    },
+    "G4eHCVAkUEWToEXNdHxzQ5iFjwAxpZcwUvmnmrGTpump": {
+      "symbol": "GREVE",
+      "created_at": "2026-10-13T15:22:57.792652654Z",
+      "first_seen": "2026-10-13T15:23:00.717130+00:00"
+    },
+    "BhuoMFdDnFQgtrZu6NfUYRUSnvEB9k9MSLm1TJ4opump": {
+      "symbol": "FUNKY",
+      "created_at": "2026-10-13T15:22:55.510388892Z",
+      "first_seen": "2026-10-13T15:23:00.717130+00:00"
+    },
+    "EyzFKqsAdvSabPd6RCENc6jvRk7EUvZDRhhqDQoUpump": {
+      "symbol": "SHADOW",
+      "created_at": "2026-10-13T15:22:55.100124945Z",
+      "first_seen": "2026-10-13T15:23:00.717130+00:00"
+    },
+    "9FEyNy5zB46dxpRzVnEMDCCquSxaZZ6aGfofZrB64mxe": {
+      "symbol": "MPN",
+      "created_at": "2026-10-13T15:22:52.590057365Z",
+      "first_seen": "2026-10-13T15:23:00.717130+00:00"
+    },
+    "GhyFzF2Vb4TmZuDvSbAGdV2wHTFwDxnw1jHowqcLe1rg": {
+      "symbol": "BUTTR",
+      "created_at": "2026-10-13T15:22:51.372366355Z",
+      "first_seen": "2026-10-13T15:23:00.717130+00:00"
+    },
+    "E7DgLKcpDaWXPE1DJ2kDrfzAxUD282Uspccyabgpst9G": {
+      "symbol": "",
+      "created_at": "2026-10-13T15:22:46.132863916Z",
+      "first_seen": "2026-10-13T15:23:00.717130+00:00"
+    },
+    "DBchehz4FjfAHktXFP3mMt2v6YQK2i9wHKdnGa8Kpump": {
+      "symbol": "RAIN",
+      "created_at": "2026-10-13T15:22:45.279738442Z",
+      "first_seen": "2026-10-13T15:23:00.717130+00:00"
     }
   },
   "alerted": [
@@ -2145,7 +2185,8 @@
     "24EXZvZvQYyxW2NbnHyTnPyiKdwCJv4sZAJ2YzdYpump",
     "Fi1xrk2YC7x1yrnKcbS1czkHQbikhUT9MyXkcbjBpump",
     "F9QL6w3RyEoY4LKtKPCUZ62wmTjPaD7wdb1VR3Nppump",
-    "hnMDBVtBoFuoE4fq3FU3d1d4MTgXdLayE3wQhRUpump"
+    "hnMDBVtBoFuoE4fq3FU3d1d4MTgXdLayE3wQhRUpump",
+    "27RsTaXHb1fzUNEunYhrvZ2E1pBGvJESjzp3Co2Hpump"
   ],
   "rejected": [
     "6YRaTYDzYVrDmttbpwyWFq3priLo3yQxwA9HKqMjAtGk",
