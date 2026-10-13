@@ -300,11 +300,6 @@
       "created_at": "2026-10-13T14:16:21.466724962Z",
       "first_seen": "2026-10-13T14:16:32.896745+00:00"
     },
-    "6vStDZgJcxjehk1ZVW7VL78cC2wHKwLYWUBKUErpGfR3": {
-      "symbol": "VENT",
-      "created_at": "2026-10-13T14:16:20.269461457Z",
-      "first_seen": "2026-10-13T14:16:32.896745+00:00"
-    },
     "4gRVoQY8AEsW9boRN8GovYWK12xpEwxUpCEg8xdopump": {
       "symbol": "Fhasion",
       "created_at": "2026-10-13T14:16:18.467797291Z",
@@ -323,11 +318,6 @@
     "5Y779T9KJYoWFCwzGxVYNSgnXpk5JLNkNvuCtF1Npump": {
       "symbol": "QORVIA",
       "created_at": "2026-10-13T14:16:15.533811493Z",
-      "first_seen": "2026-10-13T14:16:32.896745+00:00"
-    },
-    "6U4LEX9XvXokLxT929uLhJ5VicmkYHpdZcSC3cJfpump": {
-      "symbol": "PLACEBO",
-      "created_at": "2026-10-13T14:16:13.425324339Z",
       "first_seen": "2026-10-13T14:16:32.896745+00:00"
     },
     "JCZiHtfjnrcmQ7fXYziV35BQ6jzw8ccAeS9nQFbU3xFT": {
@@ -539,6 +529,56 @@
       "symbol": "ROUTECAT",
       "created_at": "2026-10-13T14:24:28.631532294Z",
       "first_seen": "2026-10-13T14:24:51.135363+00:00"
+    },
+    "z8p3VnzcCMYqdhvFPbZjGH7r7HCRb2z4Xzm7YBDWgan": {
+      "symbol": "\u89c2\u4e91\u9619",
+      "created_at": "2026-10-13T14:26:46.161106031Z",
+      "first_seen": "2026-10-13T14:26:57.554653+00:00"
+    },
+    "E5xCsGPAfba4pdpymEohZAnNjCKe7X6ZEarD66c7pump": {
+      "symbol": "$Happy",
+      "created_at": "2026-10-13T14:26:40.34999709Z",
+      "first_seen": "2026-10-13T14:26:57.554653+00:00"
+    },
+    "EA3zsYPy2zDc4vbf9pbNzJGvnZDpjShvZwcCMgLNpump": {
+      "symbol": "LAMBO",
+      "created_at": "2026-10-13T14:26:37.241052308Z",
+      "first_seen": "2026-10-13T14:26:57.554653+00:00"
+    },
+    "EUBZ1pvQgQ3ZQnQKRsdNZUwsYUv79nxmVSLnHwiMpump": {
+      "symbol": "OTTER",
+      "created_at": "2026-10-13T14:26:33.993009034Z",
+      "first_seen": "2026-10-13T14:26:57.554653+00:00"
+    },
+    "51Mey4yW8ajWrjoKXEzWMgsmP7NBX2gWnuJ9RaJKpump": {
+      "symbol": "RCAT",
+      "created_at": "2026-10-13T14:26:31.440532873Z",
+      "first_seen": "2026-10-13T14:26:57.554653+00:00"
+    },
+    "AkuqeH1AbuzFQrqaGRB3LqoiME2r9W4kqmXfw7y7hgTN": {
+      "symbol": "XIAOMI",
+      "created_at": "2026-10-13T14:26:31.082007302Z",
+      "first_seen": "2026-10-13T14:26:57.554653+00:00"
+    },
+    "A8P5X2M4yUEsXmfQpSD2a9YXc6ocWKbsC7HyWZjhpump": {
+      "symbol": "PLACEBOO",
+      "created_at": "2026-10-13T14:26:31.075059222Z",
+      "first_seen": "2026-10-13T14:26:57.554653+00:00"
+    },
+    "7bgc3Y4h3Y9kYVLMezYh6s2aQsA4xqGWcwHyBEhSpump": {
+      "symbol": "SERE",
+      "created_at": "2026-10-13T14:26:28.806973985Z",
+      "first_seen": "2026-10-13T14:26:57.554653+00:00"
+    },
+    "22KAAJ1MgtGBvL9LbHxcNykpmuXCVt6Scwp8gtv2pump": {
+      "symbol": "paper",
+      "created_at": "2026-10-13T14:26:27.513615796Z",
+      "first_seen": "2026-10-13T14:26:57.554653+00:00"
+    },
+    "HqoapfC7hULKqLb8pePsYhfbC26VnJXUMNrJN2TDvuUJ": {
+      "symbol": "",
+      "created_at": "2026-10-13T14:26:25.933683749Z",
+      "first_seen": "2026-10-13T14:26:57.554653+00:00"
     }
   },
   "alerted": [
@@ -988,8 +1028,6 @@
     "hnMDBVtBoFuoE4fq3FU3d1d4MTgXdLayE3wQhRUpump"
   ],
   "rejected": [
-    "6XhQ7BtviXbcPiL1UBzeBCjH1fGgk4TeoGe8evUzYiKS",
-    "9vjWGsCzQeG96FoRxNXN7BDmM8oGGDkaWSayLF5aBVJK",
     "qk7WahC4EUEvGJ9iE8zqeVLroj36Ub4aWY4Qx9tpump",
     "GsZcqPMZUd83Ab2kAwbeJaXAqeuwaCC4VYYX3u4Z17AP",
     "jG6KVa9oMvYwbsao4m4RLr2QiptMwESc6emaynwgBK4",
@@ -2987,6 +3025,8 @@
     "94knKbC3Y15wN5mXnMzN7efEmktGKa79tLxNTAF4Kt8Y",
     "2kehZSbQ9pj8i6hzmtuJG6dCrSucGBtgNDobXw1T9Xct",
     "Bv6aWKePLhCta1wWRRGsTWKnN8YhTdvzqu6ELvE94qcp",
-    "BXzssmn5bnudET7YbsvDyqMPE3N5gA5UisEuMX9EofjS"
+    "BXzssmn5bnudET7YbsvDyqMPE3N5gA5UisEuMX9EofjS",
+    "6vStDZgJcxjehk1ZVW7VL78cC2wHKwLYWUBKUErpGfR3",
+    "6U4LEX9XvXokLxT929uLhJ5VicmkYHpdZcSC3cJfpump"
   ]
 }
