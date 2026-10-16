@@ -560,11 +560,6 @@
       "created_at": "2026-10-16T21:22:21.747095102Z",
       "first_seen": "2026-10-16T21:22:33.241539+00:00"
     },
-    "BrgZaLVrcSoJJTkEJcHYtjwccdypJmLmWLShZAPcqiFv": {
-      "symbol": "Onboarder",
-      "created_at": "2026-10-16T21:22:21.622820046Z",
-      "first_seen": "2026-10-16T21:22:33.241539+00:00"
-    },
     "CgQk8SfTVWi4KcHFTwWWUDgtnpQfZHpgvS11KUFZpump": {
       "symbol": "PEACH",
       "created_at": "2026-10-16T21:22:19.896359774Z",
@@ -794,6 +789,56 @@
       "symbol": "RCL",
       "created_at": "2026-10-16T21:31:20.229129554Z",
       "first_seen": "2026-10-16T21:31:38.675477+00:00"
+    },
+    "6ZiUyoSjLYGxJ8EDcG4W2McxX7nyAPXVCuEo2Yw2pump": {
+      "symbol": "IRYRT",
+      "created_at": "2026-10-16T21:33:51.260462591Z",
+      "first_seen": "2026-10-16T21:33:58.526976+00:00"
+    },
+    "8h8kew1N2HmnkKswVZUTmRK7wZHe249ZLJf43erg44gc": {
+      "symbol": "RCL",
+      "created_at": "2026-10-16T21:33:50.980303755Z",
+      "first_seen": "2026-10-16T21:33:58.526976+00:00"
+    },
+    "BULLcpvLimYuWGLgyj4u7jjCvknjNSUBiHsbiTCMBeAR": {
+      "symbol": "Bull vs Bear",
+      "created_at": "2026-10-16T21:33:49.835346558Z",
+      "first_seen": "2026-10-16T21:33:58.526976+00:00"
+    },
+    "BBx57cCDHv3sdgtCf94iiDKCrvZJKJHwkbWCmffMpump": {
+      "symbol": "RICK",
+      "created_at": "2026-10-16T21:33:46.308820367Z",
+      "first_seen": "2026-10-16T21:33:58.526976+00:00"
+    },
+    "JZpfCnvrSdEz8mUcFn1sszBe2wn51SqbjkXJ48mpump": {
+      "symbol": "UNCS",
+      "created_at": "2026-10-16T21:33:41.029272396Z",
+      "first_seen": "2026-10-16T21:33:58.526976+00:00"
+    },
+    "8KLPV4aY5BGouxJTowsjnAeq4TDYc5i5vYRA7mzxpump": {
+      "symbol": "$DATE",
+      "created_at": "2026-10-16T21:33:37.894709217Z",
+      "first_seen": "2026-10-16T21:33:58.526976+00:00"
+    },
+    "3LRHoKGqetsaBT94pFnsMuhm1GGQhHJjooRJwGh2pump": {
+      "symbol": "Bob'n'Doug",
+      "created_at": "2026-10-16T21:33:37.481106129Z",
+      "first_seen": "2026-10-16T21:33:58.526976+00:00"
+    },
+    "2V7pQU9FWJ7GS5vsScn73j1ttSYxuK47546XB4BLpump": {
+      "symbol": "TURTLES",
+      "created_at": "2026-10-16T21:33:37.279366789Z",
+      "first_seen": "2026-10-16T21:33:58.526976+00:00"
+    },
+    "7JxVcasX5PaRoc6gDGH9CuMmHmXNq7DHou1vHboUpump": {
+      "symbol": "Bob'n'Doug",
+      "created_at": "2026-10-16T21:33:36.117139684Z",
+      "first_seen": "2026-10-16T21:33:58.526976+00:00"
+    },
+    "FPJip7EWwz7Yr3SNgstK8SLQJLrzaPpLG5geqYH9pump": {
+      "symbol": "DOGE PAID",
+      "created_at": "2026-10-16T21:33:34.024686141Z",
+      "first_seen": "2026-10-16T21:33:58.526976+00:00"
     }
   },
   "alerted": [
@@ -1257,7 +1302,6 @@
     "HswdVhkrQewudESiiQBZaPkPQDpnLoBjyoJnPXbipump"
   ],
   "rejected": [
-    "3T1h8HUain7m5TywjQUZapcd4iJBMsEA2Tx2zrNypump",
     "2GayDiQ8dfa8frnaAyrqQAiZKJ7oafqh8TZnRg4ppump",
     "Fkuzg1LptzH17UydfSN8wNDXgjGA4XUKR9Q6FxsoXvss",
     "3Ln558Ab2EzJiLiwHKQSL4ksfEC7mDQzM58bVvhN9sRt",
@@ -3256,6 +3300,7 @@
     "G6cB3y6RmwY2r5fYLrcnh1wchfrQBX1PJcA4RgV5mcQf",
     "9MWHdLLiFEPsk4iwVc8LWvDrPN3pdgijyjhervLgpump",
     "3RnaA8KSn9iQDhS48aupkPSYiKT5U3bbmY3KwwKcQqZT",
-    "6qCsZVdDCXcrUmsmyXGerdDWv9i8bhcw543hWZ2NbLBL"
+    "6qCsZVdDCXcrUmsmyXGerdDWv9i8bhcw543hWZ2NbLBL",
+    "BrgZaLVrcSoJJTkEJcHYtjwccdypJmLmWLShZAPcqiFv"
   ]
 }
