@@ -1,55 +1,5 @@
 {
   "pending": {
-    "3C1BYR7f4jQiEfvcEFsiL81UqzFC5jxYiYccZsVppump": {
-      "symbol": "Andy",
-      "created_at": "2026-10-16T13:35:34.644336123Z",
-      "first_seen": "2026-10-16T13:35:38.434614+00:00"
-    },
-    "F59rpq46rnVdH134eppFuRjm4AGEj4XsAFyi2Tudpump": {
-      "symbol": "$h1t",
-      "created_at": "2026-10-16T13:35:32.992356146Z",
-      "first_seen": "2026-10-16T13:35:38.434614+00:00"
-    },
-    "26vgN76mRf1NF3tR6Nn5WzJTi8fJN9jHM7ATPaatpump": {
-      "symbol": "BANANA",
-      "created_at": "2026-10-16T13:35:32.263441162Z",
-      "first_seen": "2026-10-16T13:35:38.434614+00:00"
-    },
-    "E88a83nqGV3kBbLaSi6YnPv4ZdSjmCrUvev2AhD2pump": {
-      "symbol": "Twin",
-      "created_at": "2026-10-16T13:35:29.214266179Z",
-      "first_seen": "2026-10-16T13:35:38.434614+00:00"
-    },
-    "HQrjVRubXGEJTHSvVPLjn6AvMwWCUZhC4NvaqdLKpump": {
-      "symbol": "Twin",
-      "created_at": "2026-10-16T13:35:28.883437896Z",
-      "first_seen": "2026-10-16T13:35:38.434614+00:00"
-    },
-    "CFMrG3JA8Mxkd5qqBbntPJfqTG2fpTYQesio7XT6pump": {
-      "symbol": "YANG COIN",
-      "created_at": "2026-10-16T13:35:28.508866173Z",
-      "first_seen": "2026-10-16T13:35:38.434614+00:00"
-    },
-    "27t5CJADypi6bVMXzEGoqGSZSDd7vUyyYoNcvx3wpump": {
-      "symbol": "$GOAT",
-      "created_at": "2026-10-16T13:35:25.944876231Z",
-      "first_seen": "2026-10-16T13:35:38.434614+00:00"
-    },
-    "gPqxf39rGvAPjaabpkRtfxbUnsNS9226jJjyqJrHoZs": {
-      "symbol": "BTC-UP",
-      "created_at": "2026-10-16T13:35:25.724057649Z",
-      "first_seen": "2026-10-16T13:35:38.434614+00:00"
-    },
-    "4sWyxD68Ut7tfw3e45hexDB6k7JGKGwGtnoJbyEig8PA": {
-      "symbol": "OWP",
-      "created_at": "2026-10-16T13:35:25.048298369Z",
-      "first_seen": "2026-10-16T13:35:38.434614+00:00"
-    },
-    "9CPACtdGJNzm4pbF5TJvYcy9XJR343uoXyuAY4YApump": {
-      "symbol": "Maya",
-      "created_at": "2026-10-16T13:35:24.43990129Z",
-      "first_seen": "2026-10-16T13:35:38.434614+00:00"
-    },
     "7b44tmN72LJRnk4x3W29qMWvSrsQaK84SDLUnJxfpump": {
       "symbol": "DOGMAN",
       "created_at": "2026-10-16T13:38:25.38873004Z",
@@ -1453,7 +1403,12 @@
     "HswdVhkrQewudESiiQBZaPkPQDpnLoBjyoJnPXbipump": {
       "symbol": "GPU",
       "created_at": "2026-10-16T14:55:44.857285912Z",
-      "first_seen": "2026-10-16T14:55:55.662248+00:00"
+      "first_seen": "2026-10-16T14:55:55.662248+00:00",
+      "confirm": {
+        "liquidity": 17622.77,
+        "market_cap": 49529,
+        "at": "2026-10-16T15:37:18.604817+00:00"
+      }
     },
     "7vPmccXSTEe8caME9hxijy4zbr5dkXzueiLnMEL9pump": {
       "symbol": "LONG",
@@ -2164,6 +2119,56 @@
       "symbol": "Pochacco",
       "created_at": "2026-10-16T15:34:06.278339296Z",
       "first_seen": "2026-10-16T15:34:31.866692+00:00"
+    },
+    "8QfS3MiYen7n4ixjci15Ktwconpms2u3MFeRpsUSpump": {
+      "symbol": "WRIT",
+      "created_at": "2026-10-16T15:37:13.63785693Z",
+      "first_seen": "2026-10-16T15:37:18.604606+00:00"
+    },
+    "4eP5fBHuxLHUuxYvhYdG3aLjCaJuGbzjLZ7ic3xd6jsp": {
+      "symbol": "Thonk",
+      "created_at": "2026-10-16T15:37:13.008467405Z",
+      "first_seen": "2026-10-16T15:37:18.604606+00:00"
+    },
+    "UP1gFJMQgq2n6e7FTtoE7zvbPecX9FmEPFaTqv8WR1T": {
+      "symbol": "WRIT",
+      "created_at": "2026-10-16T15:37:12.287611173Z",
+      "first_seen": "2026-10-16T15:37:18.604606+00:00"
+    },
+    "4hdQxsTkVp4QbFMqz9EEnkyjmiWumGjTxeyZTuvzKasK": {
+      "symbol": "IDEA",
+      "created_at": "2026-10-16T15:37:12.232162426Z",
+      "first_seen": "2026-10-16T15:37:18.604606+00:00"
+    },
+    "7jMUCJztAvSvF6DUuYjw3xxVEYn1VosfJdkwoBhxpump": {
+      "symbol": "DEEPS",
+      "created_at": "2026-10-16T15:37:09.241922946Z",
+      "first_seen": "2026-10-16T15:37:18.604606+00:00"
+    },
+    "FkcPMfhaZGHFS5rrYGDawz9hCo3UFwz3dnQndQ15pump": {
+      "symbol": "SKY",
+      "created_at": "2026-10-16T15:37:07.078845533Z",
+      "first_seen": "2026-10-16T15:37:18.604606+00:00"
+    },
+    "3gJZTq5J2rfGpxmLhvgS8SwUXkn74rgmZ2D6BXpcpump": {
+      "symbol": "DogeCoin",
+      "created_at": "2026-10-16T15:37:06.565094847Z",
+      "first_seen": "2026-10-16T15:37:18.604606+00:00"
+    },
+    "98XfvUsPpqqYLDa8S33pUupstQHJ1fP1L7P2YuB71LBz": {
+      "symbol": "XSTOK",
+      "created_at": "2026-10-16T15:37:05.195380696Z",
+      "first_seen": "2026-10-16T15:37:18.604606+00:00"
+    },
+    "G6cB3y6RmwY2r5fYLrcnh1wchfrQBX1PJcA4RgV5mcQf": {
+      "symbol": "XSTOK",
+      "created_at": "2026-10-16T15:37:04.27741167Z",
+      "first_seen": "2026-10-16T15:37:18.604606+00:00"
+    },
+    "qVFA6AiosPGtFmHHRyZ4mA7cxTxQgdRBxgxCAqtpump": {
+      "symbol": "CHAROC",
+      "created_at": "2026-10-16T15:37:02.5101876Z",
+      "first_seen": "2026-10-16T15:37:18.604606+00:00"
     }
   },
   "alerted": [
