@@ -418,7 +418,12 @@
     "3rSfVix6BUoPS8n3fdG1pKdcziRNtxkjpgjJzoUZpump": {
       "symbol": "VP",
       "created_at": "2026-10-16T11:32:51.900828498Z",
-      "first_seen": "2026-10-16T11:33:20.161085+00:00"
+      "first_seen": "2026-10-16T11:33:20.161085+00:00",
+      "confirm": {
+        "liquidity": 20102.07,
+        "market_cap": 62860,
+        "at": "2026-10-16T12:27:41.093397+00:00"
+      }
     },
     "8p1yTWExd1HP1zYZHXrMTX3vs9nLZazW2uWkY33Kpump": {
       "symbol": "MGOAT",
@@ -1280,11 +1285,6 @@
       "created_at": "2026-10-16T12:15:11.740563627Z",
       "first_seen": "2026-10-16T12:15:20.680000+00:00"
     },
-    "7AUJZkKg4fNWcX7AHcz1EqoA3TEtjSCajejb6mJdDUQi": {
-      "symbol": "TRUMPSTER",
-      "created_at": "2026-10-16T12:15:11.333061898Z",
-      "first_seen": "2026-10-16T12:15:20.680000+00:00"
-    },
     "DA4eEcmnXSAiLroBo4A2VPJ41sryDMs7F1h9d1ujpump": {
       "symbol": "SUPERCYCLE",
       "created_at": "2026-10-16T12:15:10.421036045Z",
@@ -1519,6 +1519,56 @@
       "symbol": "\u946b\u946b",
       "created_at": "2026-10-16T12:24:40.705436297Z",
       "first_seen": "2026-10-16T12:25:10.205098+00:00"
+    },
+    "4mcd8tFbar4wmt4aDUcERJGSp35DTU29vJUp42wrpump": {
+      "symbol": "CAT",
+      "created_at": "2026-10-16T12:27:26.844656439Z",
+      "first_seen": "2026-10-16T12:27:41.093191+00:00"
+    },
+    "2DpPVCE46RBk4FzrBXV9Dc6b67kk5wWpo3pRRDWgpump": {
+      "symbol": "KCKSTAR",
+      "created_at": "2026-10-16T12:27:25.910232993Z",
+      "first_seen": "2026-10-16T12:27:41.093191+00:00"
+    },
+    "FBZCofgf1KFqTibrptfJYHkC12UD7BrDostGswYpJPjf": {
+      "symbol": "MPN",
+      "created_at": "2026-10-16T12:27:24.057567097Z",
+      "first_seen": "2026-10-16T12:27:41.093191+00:00"
+    },
+    "6MzpBdDAVoLgvVpuhyXLcCVUHwfEH1APqeV4132pump": {
+      "symbol": "WOLF",
+      "created_at": "2026-10-16T12:27:22.546111361Z",
+      "first_seen": "2026-10-16T12:27:41.093191+00:00"
+    },
+    "7EeYcKgeesfPBmQya48yJBuGCCE2egEDekV7eCBApump": {
+      "symbol": "FREE",
+      "created_at": "2026-10-16T12:27:22.517727527Z",
+      "first_seen": "2026-10-16T12:27:41.093191+00:00"
+    },
+    "iRo7SfKRbXfoP7kbba1QZYY3UpbKxcmxST473WBpump": {
+      "symbol": "UkrMeme",
+      "created_at": "2026-10-16T12:27:21.159484383Z",
+      "first_seen": "2026-10-16T12:27:41.093191+00:00"
+    },
+    "63o2F2oGnC85ePawo1GUsxSpsS3s8JgsR4ubyXeDwAm": {
+      "symbol": "UkrMeme",
+      "created_at": "2026-10-16T12:27:21.154194696Z",
+      "first_seen": "2026-10-16T12:27:41.093191+00:00"
+    },
+    "7GomLaEPmDRLaBMLToAmcNtBfKPVLAKBnY1YVPhtWtv6": {
+      "symbol": "DOT",
+      "created_at": "2026-10-16T12:27:19.95610166Z",
+      "first_seen": "2026-10-16T12:27:41.093191+00:00"
+    },
+    "6MxqRXjDZiEFxqgxLNwNQDDPkHLV6ALfAqJGN31pckgU": {
+      "symbol": "MPN",
+      "created_at": "2026-10-16T12:27:19.387884497Z",
+      "first_seen": "2026-10-16T12:27:41.093191+00:00"
+    },
+    "4zj4tvsZtrTPS1QC8YyM3ozYGBoKWMeHwxMTEYCMpump": {
+      "symbol": "UkrMeme",
+      "created_at": "2026-10-16T12:27:17.244166983Z",
+      "first_seen": "2026-10-16T12:27:41.093191+00:00"
     }
   },
   "alerted": [
@@ -1979,7 +2029,6 @@
     "5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump"
   ],
   "rejected": [
-    "Wxz6APZVqpngeJ2RZApxrDUe4VR2Jy2YnD5foHkesWi",
     "BDM2GehogDD5c2j4EQPTr5jifkgz5heqVtyRdEeoaDJs",
     "HKgn7FFni6W5YmSXJ45Anr5rqZdFvy2rMfLnV3TyA2aN",
     "2nunUL625drmh3W1eS4r9mxiHCzxhWpG9PURq4FmbfHH",
@@ -3978,6 +4027,7 @@
     "HtqVqejZuh9BqGPTWdggf9mUtyRzydtVcxHRCq3Vpump",
     "2RQFRS8QvMzvqtHfuTQpbcowKZs3xksqZaQhRZRXhSdX",
     "ESPQJAx92b5XL7QW7SJiCpFsE4daEqGYTdZy9GdiwnnD",
-    "AQns32tcfGLt7dnd38PvuqrJ8GhUVPhcFGurtzeN9hHN"
+    "AQns32tcfGLt7dnd38PvuqrJ8GhUVPhcFGurtzeN9hHN",
+    "7AUJZkKg4fNWcX7AHcz1EqoA3TEtjSCajejb6mJdDUQi"
   ]
 }
