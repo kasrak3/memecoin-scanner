@@ -415,16 +415,6 @@
       "created_at": "2026-10-16T11:32:55.259638052Z",
       "first_seen": "2026-10-16T11:33:20.161085+00:00"
     },
-    "3rSfVix6BUoPS8n3fdG1pKdcziRNtxkjpgjJzoUZpump": {
-      "symbol": "VP",
-      "created_at": "2026-10-16T11:32:51.900828498Z",
-      "first_seen": "2026-10-16T11:33:20.161085+00:00",
-      "confirm": {
-        "liquidity": 20102.07,
-        "market_cap": 62860,
-        "at": "2026-10-16T12:27:41.093397+00:00"
-      }
-    },
     "8p1yTWExd1HP1zYZHXrMTX3vs9nLZazW2uWkY33Kpump": {
       "symbol": "MGOAT",
       "created_at": "2026-10-16T11:32:51.539953809Z",
@@ -1569,6 +1559,56 @@
       "symbol": "UkrMeme",
       "created_at": "2026-10-16T12:27:17.244166983Z",
       "first_seen": "2026-10-16T12:27:41.093191+00:00"
+    },
+    "Ep15ZDKhrs9xxRik2Js75ajT6KhDsY7tGL421vSewfLm": {
+      "symbol": "BOUNCER",
+      "created_at": "2026-10-16T12:30:13.200842257Z",
+      "first_seen": "2026-10-16T12:30:15.635228+00:00"
+    },
+    "8kEjuV7tRFXBiHBgnEpFGXiecS2kcyjpke1JTun3fBNV": {
+      "symbol": "STREAM",
+      "created_at": "2026-10-16T12:30:13.006699487Z",
+      "first_seen": "2026-10-16T12:30:15.635228+00:00"
+    },
+    "DLc7uJXy6Dh9j5LRCvHWvE7HVGTbLbHGVZAhSRYbpump": {
+      "symbol": "DOX",
+      "created_at": "2026-10-16T12:30:08.341456044Z",
+      "first_seen": "2026-10-16T12:30:15.635228+00:00"
+    },
+    "4K7rQEKFnVSdwE54kM75b1qbmmADCu7MrbQg3Hy4pump": {
+      "symbol": "uinhim",
+      "created_at": "2026-10-16T12:30:03.939202386Z",
+      "first_seen": "2026-10-16T12:30:15.635228+00:00"
+    },
+    "2LXYJpZx9JkSStYwKCsWWzh99RLFbuoM6E8Na3nr1re8": {
+      "symbol": "",
+      "created_at": "2026-10-16T12:30:00.903764669Z",
+      "first_seen": "2026-10-16T12:30:15.635228+00:00"
+    },
+    "5cJcPzmzYo9rg11dSsUJXo5mri6ZUMRS47ZnZCttpump": {
+      "symbol": "IRONMAN",
+      "created_at": "2026-10-16T12:29:58.920597518Z",
+      "first_seen": "2026-10-16T12:30:15.635228+00:00"
+    },
+    "76EukPXmPSBxzR2yVLPKdfs3FroVd2q4ZZxbGNs5igVz": {
+      "symbol": "VP",
+      "created_at": "2026-10-16T12:29:54.906108619Z",
+      "first_seen": "2026-10-16T12:30:15.635228+00:00"
+    },
+    "E3xi9boj86wQTHUNaEkLsvyuuwacooJJbZtrWFtbBAGS": {
+      "symbol": "Cityghst",
+      "created_at": "2026-10-16T12:29:51.70609738Z",
+      "first_seen": "2026-10-16T12:30:15.635228+00:00"
+    },
+    "3XGvkxr8tmnms9ZmEbXs3pWdQvsvf1eiY9zhBQmzhwv8": {
+      "symbol": "",
+      "created_at": "2026-10-16T12:29:50.020550124Z",
+      "first_seen": "2026-10-16T12:30:15.635228+00:00"
+    },
+    "Eo9fhENoPoH2QSQgRjWCtUEghdtgSdqTXCJDmte7pump": {
+      "symbol": "FCAT",
+      "created_at": "2026-10-16T12:29:46.871163544Z",
+      "first_seen": "2026-10-16T12:30:15.635228+00:00"
     }
   },
   "alerted": [
@@ -2026,7 +2066,8 @@
     "7HpRmZbA5TpUw4R8b3uaz1yKA6gq365a5D4cNo1qpump",
     "8pe4i3qKgta9pFgDrnQJtakv6ArqUUGswtax12aEpump",
     "9cSBKAvJQcPMBAPC1GpB7vEEumhqN3vXFeCfVgkRjAH1",
-    "5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump"
+    "5jofqTNTbRrT1qpjXJKQYLSSGijJbTwFCLrxLTaapump",
+    "3rSfVix6BUoPS8n3fdG1pKdcziRNtxkjpgjJzoUZpump"
   ],
   "rejected": [
     "BDM2GehogDD5c2j4EQPTr5jifkgz5heqVtyRdEeoaDJs",
