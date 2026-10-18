@@ -1100,11 +1100,6 @@
       "created_at": "2026-10-18T05:11:05.986967673Z",
       "first_seen": "2026-10-18T05:11:09.493273+00:00"
     },
-    "DrcQarvxtkiKrdaQ3Qf2TVDw98bfHoBp9eWj2uPGeRbr": {
-      "symbol": "USDT-TRC20",
-      "created_at": "2026-10-18T05:11:05.005252011Z",
-      "first_seen": "2026-10-18T05:11:09.493273+00:00"
-    },
     "BXE1Tc3iWUFNzvTF8P9TzaB3aayxdyqxgHXoyArxpump": {
       "symbol": "LEMON",
       "created_at": "2026-10-18T05:11:02.290147332Z",
@@ -1118,7 +1113,12 @@
     "9sM32xvgP4tspT8T7KWFWySXfSNWMMhd1puDS9nzpump": {
       "symbol": "GONGXI",
       "created_at": "2026-10-18T05:11:01.503173152Z",
-      "first_seen": "2026-10-18T05:11:09.493273+00:00"
+      "first_seen": "2026-10-18T05:11:09.493273+00:00",
+      "confirm": {
+        "liquidity": 16884.52,
+        "market_cap": 42410,
+        "at": "2026-10-18T05:23:26.230403+00:00"
+      }
     },
     "AgyGswjGwXMMADFecBtAjsFKP5deCFtP3HNVLeo2pump": {
       "symbol": "Haggle",
@@ -1173,11 +1173,6 @@
     "F8X5wMwdexDdjN8bR1Fu8w3uzqKsu2UPzxjGZctcpump": {
       "symbol": "Verify",
       "created_at": "2026-10-18T05:13:15.008263613Z",
-      "first_seen": "2026-10-18T05:13:33.886644+00:00"
-    },
-    "jbAYNaELo1Utb1JD3mk3fGpA6ea8zfC66PrordRpump": {
-      "symbol": "HERMES",
-      "created_at": "2026-10-18T05:13:14.369758274Z",
       "first_seen": "2026-10-18T05:13:33.886644+00:00"
     },
     "82FeTWkdHf6RAeMFaunPKDmzLC1BsFL2dieVLp6qiPvb": {
@@ -1339,6 +1334,56 @@
       "symbol": "FERSPE",
       "created_at": "2026-10-18T05:20:37.672280443Z",
       "first_seen": "2026-10-18T05:20:57.107493+00:00"
+    },
+    "3FHGuDvDhkk6QBHuxTCkHGfuKhc2dvdbC2D2816Ppump": {
+      "symbol": "$BTC",
+      "created_at": "2026-10-18T05:23:15.463548884Z",
+      "first_seen": "2026-10-18T05:23:26.229967+00:00"
+    },
+    "4N2Pq4MxXDmkfpAVB7xgUn3AQXiLLu2AReadqavPpump": {
+      "symbol": "OFF",
+      "created_at": "2026-10-18T05:23:13.103804679Z",
+      "first_seen": "2026-10-18T05:23:26.229967+00:00"
+    },
+    "D6VZiHTAFuG1KpehDePH7LJkuanKKFbsMuKBAnvvgrxy": {
+      "symbol": "MPN",
+      "created_at": "2026-10-18T05:23:08.700198495Z",
+      "first_seen": "2026-10-18T05:23:26.229967+00:00"
+    },
+    "ECy7WoAf5FZE48DwvRJ4wnQbkXQz7fmJhX3BowVcfKZT": {
+      "symbol": "GCAT",
+      "created_at": "2026-10-18T05:23:05.394042237Z",
+      "first_seen": "2026-10-18T05:23:26.229967+00:00"
+    },
+    "9AMfE7LnznDWYYZK4sAGJ3xpsShoZvkyFaXi5WyKpXD5": {
+      "symbol": "MPN",
+      "created_at": "2026-10-18T05:23:04.813567298Z",
+      "first_seen": "2026-10-18T05:23:26.229967+00:00"
+    },
+    "z2JwdCpfaTb68vcSqLBaz8ax9UZRks97PuYmo8ipump": {
+      "symbol": "$SLJK",
+      "created_at": "2026-10-18T05:23:04.585275603Z",
+      "first_seen": "2026-10-18T05:23:26.229967+00:00"
+    },
+    "3WESFY1vdJGuBA2tFArNB7a8PAddE3hJcSHURk5spump": {
+      "symbol": "$CMEOW",
+      "created_at": "2026-10-18T05:23:02.700236387Z",
+      "first_seen": "2026-10-18T05:23:26.229967+00:00"
+    },
+    "6wzJL8iah6YENLqycfTENsY29gpVK8SkyYY1jzdzpump": {
+      "symbol": "corndog",
+      "created_at": "2026-10-18T05:23:02.273009423Z",
+      "first_seen": "2026-10-18T05:23:26.229967+00:00"
+    },
+    "GDCM4e9dHC5avDWoDjJAe5MH5PTJbQDE5c2Mft3kpump": {
+      "symbol": "UPVOTE",
+      "created_at": "2026-10-18T05:23:01.948134007Z",
+      "first_seen": "2026-10-18T05:23:26.229967+00:00"
+    },
+    "Bbzo2rd3WZUt4NpbDKYME6UpgYQiYLkBjRfQFVdmpump": {
+      "symbol": "FIH",
+      "created_at": "2026-10-18T05:23:01.415645074Z",
+      "first_seen": "2026-10-18T05:23:26.229967+00:00"
     }
   },
   "alerted": [
@@ -1807,8 +1852,6 @@
     "3w3aaBowDXXNmMftTozTbJD3APgKgFTyBQorpV9Gpump"
   ],
   "rejected": [
-    "CjcAYPbSFpEjk59FSEMNo7JwM9PzajpDF8c8XtKVg2zG",
-    "AJJxsha4PvWd7G4caM1dTtA9wio9AivoHA4CVHwYLqps",
     "B3qfpMFJMj2aN62vLCwXt3F9XGdwk84aAXAdzBWktDkt",
     "6HcHZQTL99VqNJ5THkMJCqx2oH2FowthW268jfKxpump",
     "QRwDiWMARAfkv61tuKGoFPcDgV19tykrSsrJZGo1APZ",
@@ -3806,6 +3849,8 @@
     "5CJkBzZafGxJ8LvL2sbrBzj2xS4zMcbXoTG1uuJo9i6V",
     "GKCz3aX5vaLoehnV6QwCYMV6TtTPTUhhF34boBz4XTsa",
     "FCnEYqbbJPwk5h8SmBChxRGMchutRxpg3GsRx97yejch",
-    "JCxcaSd8YS7MQFrz9t7B221xWS5PrQjABHxNoD1uyb1V"
+    "JCxcaSd8YS7MQFrz9t7B221xWS5PrQjABHxNoD1uyb1V",
+    "DrcQarvxtkiKrdaQ3Qf2TVDw98bfHoBp9eWj2uPGeRbr",
+    "jbAYNaELo1Utb1JD3mk3fGpA6ea8zfC66PrordRpump"
   ]
 }
