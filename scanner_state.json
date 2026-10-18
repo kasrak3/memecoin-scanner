@@ -983,7 +983,12 @@
     "3w3aaBowDXXNmMftTozTbJD3APgKgFTyBQorpV9Gpump": {
       "symbol": "REDBIRD",
       "created_at": "2026-10-18T05:03:41.827038013Z",
-      "first_seen": "2026-10-18T05:04:03.473099+00:00"
+      "first_seen": "2026-10-18T05:04:03.473099+00:00",
+      "confirm": {
+        "liquidity": 29165.48,
+        "market_cap": 124701,
+        "at": "2026-10-18T05:15:59.983823+00:00"
+      }
     },
     "Hy9y5ZLX4nP52Wb8oxd6XqLPDTbqvrr6HQSQseUFSoHi": {
       "symbol": "",
@@ -1194,6 +1199,56 @@
       "symbol": "SAVPIR",
       "created_at": "2026-10-18T05:13:12.073436612Z",
       "first_seen": "2026-10-18T05:13:33.886644+00:00"
+    },
+    "Avf4oTSRPaNg4MjVAXCq6d1RKTRYyTVqnp3aeHLqpump": {
+      "symbol": "FIH",
+      "created_at": "2026-10-18T05:15:51.601511626Z",
+      "first_seen": "2026-10-18T05:15:59.983397+00:00"
+    },
+    "3JL9wEWY5grpwqyhFoPuS39bA2Fvm2ZximHnRrewL3sA": {
+      "symbol": "AFC",
+      "created_at": "2026-10-18T05:15:51.26972313Z",
+      "first_seen": "2026-10-18T05:15:59.983397+00:00"
+    },
+    "7xZdh6HGc8E8nEcaPUBhN5w4wq3SaCeSw9fYc2qMpump": {
+      "symbol": "MAGA",
+      "created_at": "2026-10-18T05:15:50.261962965Z",
+      "first_seen": "2026-10-18T05:15:59.983397+00:00"
+    },
+    "5Z1kXirS5q2PBc7fs4UBGgzrCJJeukXG1UydYyaQpump": {
+      "symbol": "Lcat",
+      "created_at": "2026-10-18T05:15:46.797889923Z",
+      "first_seen": "2026-10-18T05:15:59.983397+00:00"
+    },
+    "Eo3NAdB8K9MuxWnVZ8wAFXzcNndcWhJPSDANMzGtcBFk": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-10-18T05:15:45.059862121Z",
+      "first_seen": "2026-10-18T05:15:59.983397+00:00"
+    },
+    "7DwZ3FBu8vpSRWvuSsZMUmbvtR1A18152uephrkNpump": {
+      "symbol": "Anomaly",
+      "created_at": "2026-10-18T05:15:38.488331583Z",
+      "first_seen": "2026-10-18T05:15:59.983397+00:00"
+    },
+    "99UXvUB5A29SSvXM9eTNR7BmA2A7ykwhbaJQTFe3pump": {
+      "symbol": "LUNA",
+      "created_at": "2026-10-18T05:15:37.893646736Z",
+      "first_seen": "2026-10-18T05:15:59.983397+00:00"
+    },
+    "8YXBPKSLqUig6gkEJ34RmiYHnLzWBJpfGRm3Ueg8pump": {
+      "symbol": "BetOnBlak",
+      "created_at": "2026-10-18T05:15:37.853366285Z",
+      "first_seen": "2026-10-18T05:15:59.983397+00:00"
+    },
+    "55J3qg53W3wnWZ6xENGKreDfZLCqcG3UY4QXyo4epump": {
+      "symbol": "LUNA",
+      "created_at": "2026-10-18T05:15:37.850886874Z",
+      "first_seen": "2026-10-18T05:15:59.983397+00:00"
+    },
+    "BHabG2GpZV7sqz9i6ytvGtY53uPmv1WKWXMQXgztpump": {
+      "symbol": "FCT",
+      "created_at": "2026-10-18T05:15:37.305440146Z",
+      "first_seen": "2026-10-18T05:15:59.983397+00:00"
     }
   },
   "alerted": [
