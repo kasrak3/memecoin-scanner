@@ -1423,7 +1423,12 @@
     "HhBDs3Fieq6CGrd3qgUSu4AVUzocFBm8gJe99iDTpump": {
       "symbol": "SKYFALL",
       "created_at": "2026-10-18T12:11:00.720909461Z",
-      "first_seen": "2026-10-18T12:11:02.544506+00:00"
+      "first_seen": "2026-10-18T12:11:02.544506+00:00",
+      "confirm": {
+        "liquidity": 21428.78,
+        "market_cap": 70946,
+        "at": "2026-10-18T12:21:42.512500+00:00"
+      }
     },
     "hPYnQ9veD2UYmP6P4NX96jckrvU3H8QaaSVjQWhyNyC": {
       "symbol": "Europe",
@@ -1614,6 +1619,56 @@
       "symbol": "INUX",
       "created_at": "2026-10-18T12:18:43.116173097Z",
       "first_seen": "2026-10-18T12:19:00.574090+00:00"
+    },
+    "4NRYizGEZXFmVUXVHPbwRc5kCNdWN6K8Sz9Yxdbgpump": {
+      "symbol": "($MWL)",
+      "created_at": "2026-10-18T12:21:39.769966696Z",
+      "first_seen": "2026-10-18T12:21:42.512260+00:00"
+    },
+    "69JHJ3LEs9poyPXBH4SgdQoS1FFzYsd21e7KZUMQ1paV": {
+      "symbol": "MPN",
+      "created_at": "2026-10-18T12:21:39.073769151Z",
+      "first_seen": "2026-10-18T12:21:42.512260+00:00"
+    },
+    "48xbDtvuxXePtVFjtWHmk3DhKays2LtsgYS4H3UXpump": {
+      "symbol": "DEADPARIS",
+      "created_at": "2026-10-18T12:21:38.847151441Z",
+      "first_seen": "2026-10-18T12:21:42.512260+00:00"
+    },
+    "ByxTpdApkavTawHfQiXKchjiEYNDHPBsC9D4tv1fpump": {
+      "symbol": "LMAO",
+      "created_at": "2026-10-18T12:21:37.947516773Z",
+      "first_seen": "2026-10-18T12:21:42.512260+00:00"
+    },
+    "49zLqxf4UcQqVKxzV6TcShh1eCTJ7EFR13UF4eKdHV52": {
+      "symbol": "mucron",
+      "created_at": "2026-10-18T12:21:37.59720735Z",
+      "first_seen": "2026-10-18T12:21:42.512260+00:00"
+    },
+    "9h98kFaKPPEMJvHE549vNk6TmL5cZ6RiavpzDQKDpump": {
+      "symbol": "REVOPADX",
+      "created_at": "2026-10-18T12:21:34.709163167Z",
+      "first_seen": "2026-10-18T12:21:42.512260+00:00"
+    },
+    "ApK1T9bvEFn3SsZt5shcmB3ALHTwYeRZZn16LeGgpump": {
+      "symbol": "Fini",
+      "created_at": "2026-10-18T12:21:33.481620457Z",
+      "first_seen": "2026-10-18T12:21:42.512260+00:00"
+    },
+    "RMNusJpU3sFB9cF7iA4SeS47AvzJ2PnXRSN54dcpump": {
+      "symbol": "WHAL",
+      "created_at": "2026-10-18T12:21:32.631986926Z",
+      "first_seen": "2026-10-18T12:21:42.512260+00:00"
+    },
+    "5wyVHQcToNiSZsDVzDViZWQ8gRQng6TGTJ2U3NKSpump": {
+      "symbol": "Conway-Sol",
+      "created_at": "2026-10-18T12:21:31.605251854Z",
+      "first_seen": "2026-10-18T12:21:42.512260+00:00"
+    },
+    "ENNMYdMwEumtGtFBdi2c7Y63ja1MbmJbjkkq4p6fpump": {
+      "symbol": "SADBUN",
+      "created_at": "2026-10-18T12:21:29.409496091Z",
+      "first_seen": "2026-10-18T12:21:42.512260+00:00"
     }
   },
   "alerted": [
