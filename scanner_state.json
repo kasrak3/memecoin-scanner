@@ -455,16 +455,6 @@
       "created_at": "2026-10-19T13:17:34.811716204Z",
       "first_seen": "2026-10-19T13:17:41.763480+00:00"
     },
-    "795ef3yUizjqDnNM4WMg9ZNHfG4sSkbtq54sye4Upump": {
-      "symbol": "Cole",
-      "created_at": "2026-10-19T13:17:34.171758854Z",
-      "first_seen": "2026-10-19T13:17:41.763480+00:00",
-      "confirm": {
-        "liquidity": 16937.76,
-        "market_cap": 47254,
-        "at": "2026-10-19T13:28:28.842375+00:00"
-      }
-    },
     "2xbBounQPaqX882dsnoJ4xpoWrdHFJgEdCV5GjMfDNB6": {
       "symbol": "",
       "created_at": "2026-10-19T13:17:33.882235095Z",
@@ -744,6 +734,56 @@
       "symbol": "SLINGOOR",
       "created_at": "2026-10-19T13:28:17.533049789Z",
       "first_seen": "2026-10-19T13:28:28.841988+00:00"
+    },
+    "eatjZU9vdH5deg4vgDjs4jHPBmcGT9UCzNdhQxho36d": {
+      "symbol": "RCL",
+      "created_at": "2026-10-19T13:30:37.466680562Z",
+      "first_seen": "2026-10-19T13:30:41.582250+00:00"
+    },
+    "77zWhCMUCg6duXpib42v2s15J8nLyYD7gfuahXUDbCNy": {
+      "symbol": "",
+      "created_at": "2026-10-19T13:30:36.356957989Z",
+      "first_seen": "2026-10-19T13:30:41.582250+00:00"
+    },
+    "3G7qiAiKWESesbt3xuZrUrrMb2o7YGckvBE6Nyhxpump": {
+      "symbol": "AI",
+      "created_at": "2026-10-19T13:30:35.737267111Z",
+      "first_seen": "2026-10-19T13:30:41.582250+00:00"
+    },
+    "77tpJrz12bbeRCtu5BwZD23ndHP2TKQb45tuEfKZpump": {
+      "symbol": "CHUD",
+      "created_at": "2026-10-19T13:30:34.730549841Z",
+      "first_seen": "2026-10-19T13:30:41.582250+00:00"
+    },
+    "CbmHFwYzTyXdPauMAAhYF3AXBXvLMCgK1sfWvaXVf6X": {
+      "symbol": "",
+      "created_at": "2026-10-19T13:30:34.612063793Z",
+      "first_seen": "2026-10-19T13:30:41.582250+00:00"
+    },
+    "F56kW6pyDxjTCTqVKiwGjLv3y7WyZdFRmX47CpJgaLWM": {
+      "symbol": "TEST",
+      "created_at": "2026-10-19T13:30:33.865003693Z",
+      "first_seen": "2026-10-19T13:30:41.582250+00:00"
+    },
+    "FbcxCoaEGYnoCQLNdgDTFnTB4V4hiuSPaVGWVMeXpump": {
+      "symbol": "DOGE PAID",
+      "created_at": "2026-10-19T13:30:31.23758971Z",
+      "first_seen": "2026-10-19T13:30:41.582250+00:00"
+    },
+    "7NumqVLv7btaqF493Fx3Fug8rwKkikRzhvuckdJKBGPg": {
+      "symbol": "",
+      "created_at": "2026-10-19T13:30:31.021291148Z",
+      "first_seen": "2026-10-19T13:30:41.582250+00:00"
+    },
+    "G1QzNMvppEr9eVNe7Rgzdp78t9YEKz8YxDrcGBA3Sfem": {
+      "symbol": "",
+      "created_at": "2026-10-19T13:30:30.775745134Z",
+      "first_seen": "2026-10-19T13:30:41.582250+00:00"
+    },
+    "EhKr5xno1FgykiStW41ag22cbMmNnVNU7jZuYo8C1yNH": {
+      "symbol": "BATONOFFICE",
+      "created_at": "2026-10-19T13:30:29.781236172Z",
+      "first_seen": "2026-10-19T13:30:41.582250+00:00"
     }
   },
   "alerted": [
@@ -1216,7 +1256,8 @@
     "HhBDs3Fieq6CGrd3qgUSu4AVUzocFBm8gJe99iDTpump",
     "8k25dewpdwYPB1QVTdMPRRFDVFS1QiYmAQrMLcNopump",
     "DNuWuGsq8i7tXdUv1FurA7VRAYoYYrLwBvQwcHLGh8GC",
-    "32nVEFBt3oTfoM9K3qU7FWfLoH9gibNPasibJvoGpump"
+    "32nVEFBt3oTfoM9K3qU7FWfLoH9gibNPasibJvoGpump",
+    "795ef3yUizjqDnNM4WMg9ZNHfG4sSkbtq54sye4Upump"
   ],
   "rejected": [
     "7548Fk7wt3RuhAdExVJCFrcbXkqBpvixZM9CU1vjgDSn",
