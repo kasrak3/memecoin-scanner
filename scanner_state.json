@@ -1140,16 +1140,6 @@
       "created_at": "2026-10-19T13:48:59.423438285Z",
       "first_seen": "2026-10-19T13:49:08.272751+00:00"
     },
-    "54uFPfTcybkLC3bc2i8KVwc3AiQkr42exJsq1rGepump": {
-      "symbol": "W2E",
-      "created_at": "2026-10-19T13:48:58.068370996Z",
-      "first_seen": "2026-10-19T13:49:08.272751+00:00",
-      "confirm": {
-        "liquidity": 15103.9,
-        "market_cap": 39267,
-        "at": "2026-10-19T14:06:12.786424+00:00"
-      }
-    },
     "4LRmTLsqzLRQBgT3K3ZZiHUm2nqY42RbiuQcNYu33cJj": {
       "symbol": "FINE",
       "created_at": "2026-10-19T13:48:57.160237809Z",
@@ -1519,6 +1509,56 @@
       "symbol": "BTC",
       "created_at": "2026-10-19T14:05:59.354818165Z",
       "first_seen": "2026-10-19T14:06:12.785964+00:00"
+    },
+    "8q9qYDpQ94eCou5unNbLZygW3YA6re5aNV4mkW8hjUN7": {
+      "symbol": "",
+      "created_at": "2026-10-19T14:08:33.628910197Z",
+      "first_seen": "2026-10-19T14:08:45.333674+00:00"
+    },
+    "JE3xDReYVFFZTdLsYMjVVazqm13bNLqxEZP22hWDm2So": {
+      "symbol": "blackrock",
+      "created_at": "2026-10-19T14:08:33.369103752Z",
+      "first_seen": "2026-10-19T14:08:45.333674+00:00"
+    },
+    "C5sf6UtxSug8G6vugqwiyghMUyez2nxTknJJ8GUJpump": {
+      "symbol": "Star",
+      "created_at": "2026-10-19T14:08:33.246933116Z",
+      "first_seen": "2026-10-19T14:08:45.333674+00:00"
+    },
+    "5dZMeXZYfssxuLpqniosmRUvqG9iQy6tRE1mMnD5pump": {
+      "symbol": "Star",
+      "created_at": "2026-10-19T14:08:32.288869097Z",
+      "first_seen": "2026-10-19T14:08:45.333674+00:00"
+    },
+    "2op4HL82YaGgFjZHMCPzdBsYnifcS2ia45iHXqpithEh": {
+      "symbol": "PCAT",
+      "created_at": "2026-10-19T14:08:32.066127141Z",
+      "first_seen": "2026-10-19T14:08:45.333674+00:00"
+    },
+    "GZDRqYkgYxnzggP4uWZq47FaANz5TyyzVUTyp4Lrpump": {
+      "symbol": "Star",
+      "created_at": "2026-10-19T14:08:32.024000806Z",
+      "first_seen": "2026-10-19T14:08:45.333674+00:00"
+    },
+    "2ZCHzoXSsLiVLugrhVhwNiVgopefiUnd9a8tPKa1pump": {
+      "symbol": "beer",
+      "created_at": "2026-10-19T14:08:30.778198478Z",
+      "first_seen": "2026-10-19T14:08:45.333674+00:00"
+    },
+    "258CazpighmsBosykbR48f1oGtU1UFXEec2nod9Bpump": {
+      "symbol": "1SPCX",
+      "created_at": "2026-10-19T14:08:29.649017613Z",
+      "first_seen": "2026-10-19T14:08:45.333674+00:00"
+    },
+    "4DUpqVYiEyaqt9fAWexeqBmgijwkVyrsa71UgPqNjH5m": {
+      "symbol": "",
+      "created_at": "2026-10-19T14:08:25.07195126Z",
+      "first_seen": "2026-10-19T14:08:45.333674+00:00"
+    },
+    "2gbXRnqrLtDsjib2DUKovno6QCpwxgUnYFT1Tsmk6BQM": {
+      "symbol": "THATHA",
+      "created_at": "2026-10-19T14:08:22.743161721Z",
+      "first_seen": "2026-10-19T14:08:45.333674+00:00"
     }
   },
   "alerted": [
@@ -1992,7 +2032,8 @@
     "8k25dewpdwYPB1QVTdMPRRFDVFS1QiYmAQrMLcNopump",
     "DNuWuGsq8i7tXdUv1FurA7VRAYoYYrLwBvQwcHLGh8GC",
     "32nVEFBt3oTfoM9K3qU7FWfLoH9gibNPasibJvoGpump",
-    "795ef3yUizjqDnNM4WMg9ZNHfG4sSkbtq54sye4Upump"
+    "795ef3yUizjqDnNM4WMg9ZNHfG4sSkbtq54sye4Upump",
+    "54uFPfTcybkLC3bc2i8KVwc3AiQkr42exJsq1rGepump"
   ],
   "rejected": [
     "6RR7WuKX6u7UXqCfMjBjedHd5V3mvrBKDYdXFzebER2A",
