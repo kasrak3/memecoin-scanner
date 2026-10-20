@@ -1583,7 +1583,12 @@
     "SaKFs8B52TZ6c4qbH9MM12qz1mFWjJVZJSgMyLFpump": {
       "symbol": "kokaka",
       "created_at": "2026-10-20T06:13:13.984572711Z",
-      "first_seen": "2026-10-20T06:13:22.990186+00:00"
+      "first_seen": "2026-10-20T06:13:22.990186+00:00",
+      "confirm": {
+        "liquidity": 17543.82,
+        "market_cap": 50637,
+        "at": "2026-10-20T06:25:22.002613+00:00"
+      }
     },
     "QGfpBfMHrHWwacLmuPQbzBZ24tnK4kea5JRjC3xEMFH": {
       "symbol": "OWP",
@@ -1754,6 +1759,56 @@
       "symbol": "SEPOLIA",
       "created_at": "2026-10-20T06:22:03.753761868Z",
       "first_seen": "2026-10-20T06:22:19.471198+00:00"
+    },
+    "GGGvRwzVFnMk97DgsumKmkAcm6TESrZJeLvqKqn6pump": {
+      "symbol": "DERP",
+      "created_at": "2026-10-20T06:25:17.46267559Z",
+      "first_seen": "2026-10-20T06:25:22.002248+00:00"
+    },
+    "CCb2FUPPum4HmN8nxsHLQS9b2jjisFmNaegfj4u5pump": {
+      "symbol": "OaDE",
+      "created_at": "2026-10-20T06:25:16.543273102Z",
+      "first_seen": "2026-10-20T06:25:22.002248+00:00"
+    },
+    "HirVTW94tCeWsKu8thGdjA6sMZEyjidA5CM4heajpump": {
+      "symbol": "Miriam",
+      "created_at": "2026-10-20T06:25:15.620229138Z",
+      "first_seen": "2026-10-20T06:25:22.002248+00:00"
+    },
+    "2rvxM4FNjhSsD2JBRmK6A5HaQCRX2jUSeC2TVHcc3ikR": {
+      "symbol": "COLLECTIBLE",
+      "created_at": "2026-10-20T06:25:13.952476606Z",
+      "first_seen": "2026-10-20T06:25:22.002248+00:00"
+    },
+    "Dq7Q5Czf78aZkFe7cdiT6UGP1u5s7o88mTA31Q39a1on": {
+      "symbol": "COLLECTIBLE",
+      "created_at": "2026-10-20T06:25:13.316431648Z",
+      "first_seen": "2026-10-20T06:25:22.002248+00:00"
+    },
+    "CWTYVqSeouRCNuYXx9JJQxCLS7nd2Pz41javy5tjkdMn": {
+      "symbol": "BINDER",
+      "created_at": "2026-10-20T06:25:13.269376866Z",
+      "first_seen": "2026-10-20T06:25:22.002248+00:00"
+    },
+    "BRznSicR7hCbTB4gQSsk4jdwuh4Gg4mL2SPQftBNpump": {
+      "symbol": "BINDER",
+      "created_at": "2026-10-20T06:25:12.877684618Z",
+      "first_seen": "2026-10-20T06:25:22.002248+00:00"
+    },
+    "58MLfD4X9xSoAEVaLYmM6YSqREkUumBBtT4HP6Smpump": {
+      "symbol": "FERSPE",
+      "created_at": "2026-10-20T06:25:05.846293622Z",
+      "first_seen": "2026-10-20T06:25:22.002248+00:00"
+    },
+    "2f6qQVBrwWegjMK9v3g1s2HwTDXkEwopYYLDCmuCgs6U": {
+      "symbol": "MPN",
+      "created_at": "2026-10-20T06:25:04.653918646Z",
+      "first_seen": "2026-10-20T06:25:22.002248+00:00"
+    },
+    "HNNRbS5e2oZkNRUjkVy7wajA82J3CncYZY53PXFGSj9u": {
+      "symbol": "\u533f\u540d\u7684",
+      "created_at": "2026-10-20T06:25:02.456481798Z",
+      "first_seen": "2026-10-20T06:25:22.002248+00:00"
     }
   },
   "alerted": [
