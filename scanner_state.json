@@ -1225,16 +1225,6 @@
       "created_at": "2026-10-20T12:26:42.907784257Z",
       "first_seen": "2026-10-20T12:29:02.008712+00:00"
     },
-    "GmuWpfmvkgihzPyegNe93wzVoR3cmAihmJXZncjMpump": {
-      "symbol": "THESI",
-      "created_at": "2026-10-20T12:26:41.031322726Z",
-      "first_seen": "2026-10-20T12:29:02.008712+00:00",
-      "confirm": {
-        "liquidity": 16352.35,
-        "market_cap": 44070,
-        "at": "2026-10-20T13:10:17.328465+00:00"
-      }
-    },
     "HxCAnDyagjvHs2Kk6hyB1VSuPpuE1LYWZooYrL9sYhq4": {
       "symbol": "BTC-UP",
       "created_at": "2026-10-20T12:26:38.276069366Z",
@@ -1934,6 +1924,56 @@
       "symbol": "DAY336",
       "created_at": "2026-10-20T13:09:54.236088522Z",
       "first_seen": "2026-10-20T13:10:17.328159+00:00"
+    },
+    "EMkiHNUnTxKeqdrHVZ7xg2wBpVzfHwpE48m9Af6T6GP6": {
+      "symbol": "",
+      "created_at": "2026-10-20T13:13:29.962143921Z",
+      "first_seen": "2026-10-20T13:13:31.957943+00:00"
+    },
+    "7XBdVqzZFYwpBz7VshzWZWd7ms1sG9f9UQ8YiHqapump": {
+      "symbol": "pika",
+      "created_at": "2026-10-20T13:13:28.925166387Z",
+      "first_seen": "2026-10-20T13:13:31.957943+00:00"
+    },
+    "HR59TMAxiFWasAv2cmMNVji4m6jeNJ3h6zNYKqRxpump": {
+      "symbol": "\u77ed\u5c3e\u732b",
+      "created_at": "2026-10-20T13:13:28.790665832Z",
+      "first_seen": "2026-10-20T13:13:31.957943+00:00"
+    },
+    "7ELD8MQmmikDjAWghUtAE5gwV3W6FGm1viriJ1Zzpump": {
+      "symbol": "RAGE",
+      "created_at": "2026-10-20T13:13:27.678393551Z",
+      "first_seen": "2026-10-20T13:13:31.957943+00:00"
+    },
+    "GYDVqroMCheP5F9TTGPohe7mDVKm4aH7qZkdFGaApump": {
+      "symbol": "Chudfrog",
+      "created_at": "2026-10-20T13:13:20.164342791Z",
+      "first_seen": "2026-10-20T13:13:31.957943+00:00"
+    },
+    "9y39UCWaDPFd9QFq97rPRTtvBCYiHqhP3c2EGiM4k4bt": {
+      "symbol": "\u77ed\u5c3e\u732b",
+      "created_at": "2026-10-20T13:13:17.862905653Z",
+      "first_seen": "2026-10-20T13:13:31.957943+00:00"
+    },
+    "8BzQvGA1BiZm5QLh2Zgv38Yoki8y6aDKqQETum1Kpump": {
+      "symbol": "ANTROPIG",
+      "created_at": "2026-10-20T13:13:15.482436479Z",
+      "first_seen": "2026-10-20T13:13:31.957943+00:00"
+    },
+    "F1xPvZANQKHWtU4NLrPAyvmQReDbPNJaouX39PT3pump": {
+      "symbol": "ANTROPIG",
+      "created_at": "2026-10-20T13:13:15.195311962Z",
+      "first_seen": "2026-10-20T13:13:31.957943+00:00"
+    },
+    "14CBLhG2gDDw51EVcnVZxxewXoryhQ9tuyzF5wwx5foV": {
+      "symbol": "MrBeast",
+      "created_at": "2026-10-20T13:13:13.77753988Z",
+      "first_seen": "2026-10-20T13:13:31.957943+00:00"
+    },
+    "3Td3kXZR4WvUSzxkypcjCVXnJe7AwGHwC73KRjvUDUET": {
+      "symbol": "DUET",
+      "created_at": "2026-10-20T13:13:12.124377179Z",
+      "first_seen": "2026-10-20T13:13:31.957943+00:00"
     }
   },
   "alerted": [
@@ -2412,7 +2452,6 @@
     "SaKFs8B52TZ6c4qbH9MM12qz1mFWjJVZJSgMyLFpump"
   ],
   "rejected": [
-    "D9aqFYQEJzBqDnDscgBi6NRGKS2mSZdDN79spaitpump",
     "3R8495PwDHZ4mUUTF1qjWe3SN1gMLppLZkwJDigpFKiT",
     "3x9rY5JDaz75EQr1qzn2NRdg6rYEzUUZ8LxyZPfEe39E",
     "MXzujqZPmJ3HqdM6SdNsAb5TXeaw9nwQBsvKdqz8YKv",
@@ -4411,6 +4450,7 @@
     "3ccDzdK4fkQsytf8EL8htqL83pAck94xRfNNTQQPBoZe",
     "58ucq4qG11i9gPDGbjfuhHRGhwnhKJQto3ViinBGFSWk",
     "72meCZxGEDEmMGdo3FMfknEnok8mtCgBFjJ8HziHpump",
-    "HwNkX1qMq2JFvohzBrdziLa1frBZCkCY5pjseTFvpump"
+    "HwNkX1qMq2JFvohzBrdziLa1frBZCkCY5pjseTFvpump",
+    "GmuWpfmvkgihzPyegNe93wzVoR3cmAihmJXZncjMpump"
   ]
 }
