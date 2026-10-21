@@ -48,7 +48,12 @@
     "6VVQE38thkLzR65EPjqU2FuMtvqfN5sMCXTUCMnapump": {
       "symbol": "NUTCOIN",
       "created_at": "2026-10-21T21:35:13.513817848Z",
-      "first_seen": "2026-10-21T21:35:36.665279+00:00"
+      "first_seen": "2026-10-21T21:35:36.665279+00:00",
+      "confirm": {
+        "liquidity": 24725.12,
+        "market_cap": 85601,
+        "at": "2026-10-21T21:45:43.381266+00:00"
+      }
     },
     "A2f4GE3TdKMZPHs2gNdbZv75GpfV7uVQ4dsjgHLKJ8ch": {
       "symbol": "offchain",
@@ -249,6 +254,56 @@
       "symbol": "QUBITS",
       "created_at": "2026-10-21T21:43:31.578790468Z",
       "first_seen": "2026-10-21T21:43:42.031967+00:00"
+    },
+    "HSQMnjqcC4JAp2MUF1pV4sXQGCsacVLLLrYW1aYpump": {
+      "symbol": "BTH",
+      "created_at": "2026-10-21T21:45:42.005391272Z",
+      "first_seen": "2026-10-21T21:45:43.380828+00:00"
+    },
+    "GdnbW67vUrYdqiw1ic8CxKwDqLmPXvRxBoACdDijpump": {
+      "symbol": "BTH",
+      "created_at": "2026-10-21T21:45:41.908038228Z",
+      "first_seen": "2026-10-21T21:45:43.380828+00:00"
+    },
+    "Auv4WGfwi1EeK6qkyKT74K3VBmM48ubcZXZpcrDQdLQ2": {
+      "symbol": "ZTEST",
+      "created_at": "2026-10-21T21:45:40.797322013Z",
+      "first_seen": "2026-10-21T21:45:43.380828+00:00"
+    },
+    "Fr7jN5hBJH4PHvcXPHV9zmU2StXTzthWuD5GKfKbpump": {
+      "symbol": "SCAM",
+      "created_at": "2026-10-21T21:45:37.17089054Z",
+      "first_seen": "2026-10-21T21:45:43.380828+00:00"
+    },
+    "ESGNiHxXGo2EoDzLkGE1p9cp8pVx5konbjiD6CFJ5cNG": {
+      "symbol": "SPAWN",
+      "created_at": "2026-10-21T21:45:35.879963653Z",
+      "first_seen": "2026-10-21T21:45:43.380828+00:00"
+    },
+    "H9WDfoqgHoejq3VtpuRUK6rB4mrgMKdCb7qzWpEgpump": {
+      "symbol": "KIMCHICAT",
+      "created_at": "2026-10-21T21:45:34.455361634Z",
+      "first_seen": "2026-10-21T21:45:43.380828+00:00"
+    },
+    "arreZEDxNUeWn56ayXzdGN6u1aZwuDAcGRPyVRrpump": {
+      "symbol": "Dinner",
+      "created_at": "2026-10-21T21:45:33.931799067Z",
+      "first_seen": "2026-10-21T21:45:43.380828+00:00"
+    },
+    "DCCmDuSP5w3X6bVhPi8h29rqeAR2eLSqxZ9PKsC1pump": {
+      "symbol": "BOOSHI",
+      "created_at": "2026-10-21T21:45:33.559644534Z",
+      "first_seen": "2026-10-21T21:45:43.380828+00:00"
+    },
+    "AARJ1EMuAuzamMCkaBUTEMxzorq8uuXaKH399mLspump": {
+      "symbol": "RING",
+      "created_at": "2026-10-21T21:45:31.049490851Z",
+      "first_seen": "2026-10-21T21:45:43.380828+00:00"
+    },
+    "9HhHg1gCLDNc9vt96HLQ8Pub9m17F2jrGkcvFw6Xpump": {
+      "symbol": "Pumuckel",
+      "created_at": "2026-10-21T21:45:30.085201304Z",
+      "first_seen": "2026-10-21T21:45:43.380828+00:00"
     }
   },
   "alerted": [
