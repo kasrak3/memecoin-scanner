@@ -823,7 +823,12 @@
     "5mWAe8tDsRiCfjRsdgbrUKwrgnU1TMwfk9DRWbd5pump": {
       "symbol": "KIMCHINU",
       "created_at": "2026-10-21T05:10:51.403850588Z",
-      "first_seen": "2026-10-21T05:11:14.005858+00:00"
+      "first_seen": "2026-10-21T05:11:14.005858+00:00",
+      "confirm": {
+        "liquidity": 21434.64,
+        "market_cap": 69446,
+        "at": "2026-10-21T05:22:34.862474+00:00"
+      }
     },
     "BtSMrAnh9AjX12TpnfChrntLZcoXsGmbNS5xB8Lfpump": {
       "symbol": "KMCHI",
@@ -1024,6 +1029,56 @@
       "symbol": "PHP",
       "created_at": "2026-10-21T05:19:59.076626045Z",
       "first_seen": "2026-10-21T05:20:16.460024+00:00"
+    },
+    "xBRgB5BKJUjqZj78m3fnFK232AsNKVR8vthg5DyJG1a": {
+      "symbol": "PHP",
+      "created_at": "2026-10-21T05:22:30.50821457Z",
+      "first_seen": "2026-10-21T05:22:34.862170+00:00"
+    },
+    "9DstBMmpUDvygTroXAQ9MUHbfVAjZs4jwGzNSt6hRsgX": {
+      "symbol": "FAKE",
+      "created_at": "2026-10-21T05:22:29.090743821Z",
+      "first_seen": "2026-10-21T05:22:34.862170+00:00"
+    },
+    "3nhaHpxMppWtQuC8T8Koyze4vu7ZjMkDxubTMDNXt7VQ": {
+      "symbol": "P2 DANDI",
+      "created_at": "2026-10-21T05:22:27.488738137Z",
+      "first_seen": "2026-10-21T05:22:34.862170+00:00"
+    },
+    "3tLTTzzFp1vJpfsDphstnUFgarQxpD4BoxbMYssr9FSX": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-10-21T05:22:27.214743491Z",
+      "first_seen": "2026-10-21T05:22:34.862170+00:00"
+    },
+    "AqWTXbUtrLJSZJ9DzWBupXvGEKAN7pwpC1gP9bwJNmRx": {
+      "symbol": "MPN",
+      "created_at": "2026-10-21T05:22:27.156083859Z",
+      "first_seen": "2026-10-21T05:22:34.862170+00:00"
+    },
+    "77gP1BCrNmJZY9g7pzZsJRsAK2Z82Gc9i7tBP8cWDAmJ": {
+      "symbol": "FIHA",
+      "created_at": "2026-10-21T05:22:26.662860219Z",
+      "first_seen": "2026-10-21T05:22:34.862170+00:00"
+    },
+    "3MXBJDCJsjci6GYWP71H5UGUJm2KFrsLm9wBwDKm5zRD": {
+      "symbol": "OWP",
+      "created_at": "2026-10-21T05:22:26.270385055Z",
+      "first_seen": "2026-10-21T05:22:34.862170+00:00"
+    },
+    "7a4EEwEMzqD9fKFuz7bRScZCd1Hza9Dd73WwKZd9EMKz": {
+      "symbol": "OWP",
+      "created_at": "2026-10-21T05:22:26.181748095Z",
+      "first_seen": "2026-10-21T05:22:34.862170+00:00"
+    },
+    "3BAhTEcC78zf4JfF59v4SzTpLGnCNFGRB2piM9fVmxb3": {
+      "symbol": "MPN",
+      "created_at": "2026-10-21T05:22:26.157664132Z",
+      "first_seen": "2026-10-21T05:22:34.862170+00:00"
+    },
+    "GF8Gg4STmVGgMasiyFmnwACCHSZEzshdkAJCxmAVectA": {
+      "symbol": "OWP",
+      "created_at": "2026-10-21T05:22:26.135503093Z",
+      "first_seen": "2026-10-21T05:22:34.862170+00:00"
     }
   },
   "alerted": [
