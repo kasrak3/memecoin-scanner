@@ -45,16 +45,6 @@
       "created_at": "2026-10-21T21:35:14.578161983Z",
       "first_seen": "2026-10-21T21:35:36.665279+00:00"
     },
-    "6VVQE38thkLzR65EPjqU2FuMtvqfN5sMCXTUCMnapump": {
-      "symbol": "NUTCOIN",
-      "created_at": "2026-10-21T21:35:13.513817848Z",
-      "first_seen": "2026-10-21T21:35:36.665279+00:00",
-      "confirm": {
-        "liquidity": 24725.12,
-        "market_cap": 85601,
-        "at": "2026-10-21T21:45:43.381266+00:00"
-      }
-    },
     "A2f4GE3TdKMZPHs2gNdbZv75GpfV7uVQ4dsjgHLKJ8ch": {
       "symbol": "offchain",
       "created_at": "2026-10-21T21:37:34.645946182Z",
@@ -304,6 +294,56 @@
       "symbol": "Pumuckel",
       "created_at": "2026-10-21T21:45:30.085201304Z",
       "first_seen": "2026-10-21T21:45:43.380828+00:00"
+    },
+    "4kXU9kQuWFAswQbfdB3d3mHGTuLTwHZiZpDvQG2Wpump": {
+      "symbol": "Cuppy",
+      "created_at": "2026-10-21T21:47:40.173745331Z",
+      "first_seen": "2026-10-21T21:47:45.767924+00:00"
+    },
+    "857wqBz6YojmrKNHTVydCaEtutaZVyAP1QW5t46Jpump": {
+      "symbol": "MALONE",
+      "created_at": "2026-10-21T21:47:39.82615332Z",
+      "first_seen": "2026-10-21T21:47:45.767924+00:00"
+    },
+    "GfR3dvJssGggZz4mYYEGUzwumvGLutseNhAyNuqapump": {
+      "symbol": "DOOYET",
+      "created_at": "2026-10-21T21:47:38.240872977Z",
+      "first_seen": "2026-10-21T21:47:45.767924+00:00"
+    },
+    "5Rfwfcj6feuvBeb2Yqq3GnfjYFi3B1v2wLvt3ZfQW4Kq": {
+      "symbol": "OPTIMUS",
+      "created_at": "2026-10-21T21:47:38.152360812Z",
+      "first_seen": "2026-10-21T21:47:45.767924+00:00"
+    },
+    "4pE59FXQMV6XWqz1Qrz5o8asqLU2BczSDTahCZTdpump": {
+      "symbol": "JUMP",
+      "created_at": "2026-10-21T21:47:35.985624105Z",
+      "first_seen": "2026-10-21T21:47:45.767924+00:00"
+    },
+    "3WvrwVDwv5H9NsnbKQ2vWGDXAEeyAnhWJwZ9cy39m2Nh": {
+      "symbol": "Offline",
+      "created_at": "2026-10-21T21:47:35.930419569Z",
+      "first_seen": "2026-10-21T21:47:45.767924+00:00"
+    },
+    "FCdMZoiw1UCYPLFKdGMeJ1QqAcwEQmfKArWWaR6Lpump": {
+      "symbol": "kfa",
+      "created_at": "2026-10-21T21:47:32.182801276Z",
+      "first_seen": "2026-10-21T21:47:45.767924+00:00"
+    },
+    "79jfvb4SdieUqFt3ArPtB1cj9UF5j7hMxGxx6zahpump": {
+      "symbol": "Offline",
+      "created_at": "2026-10-21T21:47:31.136583471Z",
+      "first_seen": "2026-10-21T21:47:45.767924+00:00"
+    },
+    "3UGfJrNpU6oj1vwnhTrVz5sFWZdTU8z52ovfCwHZpump": {
+      "symbol": "Squirt",
+      "created_at": "2026-10-21T21:47:30.173364047Z",
+      "first_seen": "2026-10-21T21:47:45.767924+00:00"
+    },
+    "4XA2TYRQ6W1PEx1AHyQp8mgs3bsNRczeQ97GGHQNpump": {
+      "symbol": "NEKO AI",
+      "created_at": "2026-10-21T21:47:28.144568912Z",
+      "first_seen": "2026-10-21T21:47:45.767924+00:00"
     }
   },
   "alerted": [
@@ -783,7 +823,8 @@
     "jzVgAZFQaZ1gwaydGDDMVtSJhU5KfJeXDG38DkEpump",
     "9z8zy18mo7uzUC4a7ak1qujtaNH8DwBF5UbZdqVgpump",
     "5mWAe8tDsRiCfjRsdgbrUKwrgnU1TMwfk9DRWbd5pump",
-    "87jmjfJYm9xneXPPsxQR2QGohFJEYuWD9KcjoWsRpump"
+    "87jmjfJYm9xneXPPsxQR2QGohFJEYuWD9KcjoWsRpump",
+    "6VVQE38thkLzR65EPjqU2FuMtvqfN5sMCXTUCMnapump"
   ],
   "rejected": [
     "BxHWkRkNreZUWT42E3ZaQC5yRwnH3Z1Em7ArVqjWGiMH",
