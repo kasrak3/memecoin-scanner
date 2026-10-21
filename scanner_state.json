@@ -1010,16 +1010,6 @@
       "created_at": "2026-10-21T05:19:59.434589843Z",
       "first_seen": "2026-10-21T05:20:16.460024+00:00"
     },
-    "87jmjfJYm9xneXPPsxQR2QGohFJEYuWD9KcjoWsRpump": {
-      "symbol": "PHP",
-      "created_at": "2026-10-21T05:19:59.076626045Z",
-      "first_seen": "2026-10-21T05:20:16.460024+00:00",
-      "confirm": {
-        "liquidity": 21248.26,
-        "market_cap": 65326,
-        "at": "2026-10-21T05:31:51.395184+00:00"
-      }
-    },
     "xBRgB5BKJUjqZj78m3fnFK232AsNKVR8vthg5DyJG1a": {
       "symbol": "PHP",
       "created_at": "2026-10-21T05:22:30.50821457Z",
@@ -1269,6 +1259,56 @@
       "symbol": "BOTTEGABAG",
       "created_at": "2026-10-21T05:31:33.188532204Z",
       "first_seen": "2026-10-21T05:31:51.394859+00:00"
+    },
+    "C6Ger9THi7Jyb9Q2fakp3PWguUQWPYdkZpok2QNenM6e": {
+      "symbol": "MPN",
+      "created_at": "2026-10-21T05:34:08.382626285Z",
+      "first_seen": "2026-10-21T05:34:15.741044+00:00"
+    },
+    "3NJBXHiZDL4JLdUN89PRq5fQBJHTV7pRwqwckQARSxh4": {
+      "symbol": "RCL",
+      "created_at": "2026-10-21T05:34:08.322149003Z",
+      "first_seen": "2026-10-21T05:34:15.741044+00:00"
+    },
+    "8rtcQeM7WyrVqdbdQf5RvJs6DSiy3W1iiA1Ey8kUTs4X": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-10-21T05:34:08.237207253Z",
+      "first_seen": "2026-10-21T05:34:15.741044+00:00"
+    },
+    "EQa9MFYsWZd5oTXjovpLcr5SprpEyqkseCvWL6teXAc5": {
+      "symbol": "HYPE-UP",
+      "created_at": "2026-10-21T05:34:08.189931922Z",
+      "first_seen": "2026-10-21T05:34:15.741044+00:00"
+    },
+    "B8zCb6VpCCuDsKwowmrLJS8fegiALq2nBfBh2UG5XVhL": {
+      "symbol": "MPN",
+      "created_at": "2026-10-21T05:34:08.15650624Z",
+      "first_seen": "2026-10-21T05:34:15.741044+00:00"
+    },
+    "EUNPev2LLbgbhwzuVtzxpZR2fNrPory5KJpSFqweB2Qk": {
+      "symbol": "OWP",
+      "created_at": "2026-10-21T05:34:08.15431819Z",
+      "first_seen": "2026-10-21T05:34:15.741044+00:00"
+    },
+    "HdaTfczUMywVgsmGbf7YmVg3hDGkApoyzTzwNoUXqqJ3": {
+      "symbol": "RCL",
+      "created_at": "2026-10-21T05:34:08.151876504Z",
+      "first_seen": "2026-10-21T05:34:15.741044+00:00"
+    },
+    "rpvXNvfV9o7a3BSMh57AiGf43fPcTrahbELMRULuNk3": {
+      "symbol": "MPN",
+      "created_at": "2026-10-21T05:34:08.137280692Z",
+      "first_seen": "2026-10-21T05:34:15.741044+00:00"
+    },
+    "Fboaf2kgcPoxr3tcw24G6PHMe8zspd2FQoNrGJ4DbX9B": {
+      "symbol": "MPN",
+      "created_at": "2026-10-21T05:34:08.13328507Z",
+      "first_seen": "2026-10-21T05:34:15.741044+00:00"
+    },
+    "B1d42i2xggJr76jARwM2mzYXQiNPJuBPSbLceTpAtRm1": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-10-21T05:34:08.120587397Z",
+      "first_seen": "2026-10-21T05:34:15.741044+00:00"
     }
   },
   "alerted": [
@@ -1747,7 +1787,8 @@
     "SaKFs8B52TZ6c4qbH9MM12qz1mFWjJVZJSgMyLFpump",
     "jzVgAZFQaZ1gwaydGDDMVtSJhU5KfJeXDG38DkEpump",
     "9z8zy18mo7uzUC4a7ak1qujtaNH8DwBF5UbZdqVgpump",
-    "5mWAe8tDsRiCfjRsdgbrUKwrgnU1TMwfk9DRWbd5pump"
+    "5mWAe8tDsRiCfjRsdgbrUKwrgnU1TMwfk9DRWbd5pump",
+    "87jmjfJYm9xneXPPsxQR2QGohFJEYuWD9KcjoWsRpump"
   ],
   "rejected": [
     "CMAFfGagES3vMfKFkmDYCnDMsqnxnBwXPWhBg1VmNYJX",
