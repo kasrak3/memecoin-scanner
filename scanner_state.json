@@ -820,16 +820,6 @@
       "created_at": "2026-10-21T05:10:51.463288788Z",
       "first_seen": "2026-10-21T05:11:14.005858+00:00"
     },
-    "5mWAe8tDsRiCfjRsdgbrUKwrgnU1TMwfk9DRWbd5pump": {
-      "symbol": "KIMCHINU",
-      "created_at": "2026-10-21T05:10:51.403850588Z",
-      "first_seen": "2026-10-21T05:11:14.005858+00:00",
-      "confirm": {
-        "liquidity": 21434.64,
-        "market_cap": 69446,
-        "at": "2026-10-21T05:22:34.862474+00:00"
-      }
-    },
     "BtSMrAnh9AjX12TpnfChrntLZcoXsGmbNS5xB8Lfpump": {
       "symbol": "KMCHI",
       "created_at": "2026-10-21T05:13:26.718832973Z",
@@ -1079,6 +1069,56 @@
       "symbol": "OWP",
       "created_at": "2026-10-21T05:22:26.135503093Z",
       "first_seen": "2026-10-21T05:22:34.862170+00:00"
+    },
+    "7bQ63eVLSGmC53fLwaXheQfu3WYistQ2SiRjoTMqpump": {
+      "symbol": "STENKS",
+      "created_at": "2026-10-21T05:24:43.891692552Z",
+      "first_seen": "2026-10-21T05:24:52.554749+00:00"
+    },
+    "7s96X8H5cYkYgopsrprZ9kzJFbnr4vdJgESiSH4iFwz5": {
+      "symbol": "BOSS",
+      "created_at": "2026-10-21T05:24:43.375350724Z",
+      "first_seen": "2026-10-21T05:24:52.554749+00:00"
+    },
+    "BYtCzTFpnUrjApA9W3vC8ToNkSD6rncD4TGi3mJuNtFx": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-10-21T05:24:43.13454307Z",
+      "first_seen": "2026-10-21T05:24:52.554749+00:00"
+    },
+    "3zCgWoxuMzEEWVG8jwCjWa3QgbfuPQ6N5Y7mYF899Mdc": {
+      "symbol": "BOSS",
+      "created_at": "2026-10-21T05:24:42.677268637Z",
+      "first_seen": "2026-10-21T05:24:52.554749+00:00"
+    },
+    "HGv8MP87KzSrY1Ce9idLwxUaCjDR2FdZPG6Di4ygHK3c": {
+      "symbol": "AID",
+      "created_at": "2026-10-21T05:24:41.32084524Z",
+      "first_seen": "2026-10-21T05:24:52.554749+00:00"
+    },
+    "GEu1w7j4Diodd1LRBvBkCqacP4houCmvPj8VqeFt3fxP": {
+      "symbol": "FORTNITE",
+      "created_at": "2026-10-21T05:24:39.215889151Z",
+      "first_seen": "2026-10-21T05:24:52.554749+00:00"
+    },
+    "2p5T6j99c7J7W296ZMJozpfP1KigmvXpjD3DoPxgpump": {
+      "symbol": "FORTNITE",
+      "created_at": "2026-10-21T05:24:38.533736697Z",
+      "first_seen": "2026-10-21T05:24:52.554749+00:00"
+    },
+    "HhTupC1vDYsqM4wUcnPEDRJdv2ePBjRpM2TkzFmdpump": {
+      "symbol": "SCRVAN",
+      "created_at": "2026-10-21T05:24:34.86931164Z",
+      "first_seen": "2026-10-21T05:24:52.554749+00:00"
+    },
+    "HTaLSXSGg1qTbLqkJWxwDPLUp9ZeCqj9VouegcpktRvn": {
+      "symbol": "BOSS",
+      "created_at": "2026-10-21T05:24:33.493145774Z",
+      "first_seen": "2026-10-21T05:24:52.554749+00:00"
+    },
+    "B8cQDCRCqq4hVn2PLkVaQixu9VbJTkQDzoeZNp9Gpump": {
+      "symbol": "BOSS",
+      "created_at": "2026-10-21T05:24:32.879937911Z",
+      "first_seen": "2026-10-21T05:24:52.554749+00:00"
     }
   },
   "alerted": [
@@ -1556,7 +1596,8 @@
     "54uFPfTcybkLC3bc2i8KVwc3AiQkr42exJsq1rGepump",
     "SaKFs8B52TZ6c4qbH9MM12qz1mFWjJVZJSgMyLFpump",
     "jzVgAZFQaZ1gwaydGDDMVtSJhU5KfJeXDG38DkEpump",
-    "9z8zy18mo7uzUC4a7ak1qujtaNH8DwBF5UbZdqVgpump"
+    "9z8zy18mo7uzUC4a7ak1qujtaNH8DwBF5UbZdqVgpump",
+    "5mWAe8tDsRiCfjRsdgbrUKwrgnU1TMwfk9DRWbd5pump"
   ],
   "rejected": [
     "5EYQLLWTGTNJWJD4PPBoAFV2SUPDicwkiHtdbnCZpump",
