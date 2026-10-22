@@ -710,11 +710,6 @@
       "created_at": "2026-10-22T12:13:15.617651169Z",
       "first_seen": "2026-10-22T12:13:39.399226+00:00"
     },
-    "DAbApVtUxjjSadE4jYVtFv2ET8FBePqzKnJXDej8pump": {
-      "symbol": "Robinhood",
-      "created_at": "2026-10-22T12:13:13.405874072Z",
-      "first_seen": "2026-10-22T12:13:39.399226+00:00"
-    },
     "9t1TUNggwJiHJLHtRgLkfYdbrc4ZXjgvAS2oQuyqe6ea": {
       "symbol": "SWAMP",
       "created_at": "2026-10-22T12:13:11.798076141Z",
@@ -924,6 +919,56 @@
       "symbol": "TOAD",
       "created_at": "2026-10-22T12:22:10.280079986Z",
       "first_seen": "2026-10-22T12:22:44.098966+00:00"
+    },
+    "Ek3dpzi3BDiVTmFZWJh7pavii5jdrgzfaBZY1Mh7pump": {
+      "symbol": "BRO",
+      "created_at": "2026-10-22T12:24:58.628686899Z",
+      "first_seen": "2026-10-22T12:25:02.148735+00:00"
+    },
+    "GFEybm8EcqnL9aV1MydimLwQ9W3ToT4Y9vwhKf8upump": {
+      "symbol": "Doge",
+      "created_at": "2026-10-22T12:24:58.330617602Z",
+      "first_seen": "2026-10-22T12:25:02.148735+00:00"
+    },
+    "AwMELFMBqBCi6zMGHW4dB8zQUuB9Szj4ofeWq4Mpump": {
+      "symbol": "LARPCHI",
+      "created_at": "2026-10-22T12:24:53.409688443Z",
+      "first_seen": "2026-10-22T12:25:02.148735+00:00"
+    },
+    "7d7cdBTrUSEwFsCXb3Mqyu7KSoyp1f1VwBcpeQLVdPEN": {
+      "symbol": "Uptobear",
+      "created_at": "2026-10-22T12:24:52.018894746Z",
+      "first_seen": "2026-10-22T12:25:02.148735+00:00"
+    },
+    "GZ3pWAwpQx8VMzdE7jGE4qVvGhN5U7aUQahQqbZBpump": {
+      "symbol": "Zorrera",
+      "created_at": "2026-10-22T12:24:50.37182316Z",
+      "first_seen": "2026-10-22T12:25:02.148735+00:00"
+    },
+    "H89g2kXNQWdWRf99Dov1kSnAARzwLLyzHpwesU4Hpump": {
+      "symbol": "BRO",
+      "created_at": "2026-10-22T12:24:48.295301874Z",
+      "first_seen": "2026-10-22T12:25:02.148735+00:00"
+    },
+    "3eN7EG7eQWSvkArPMKJP16x8BFRTZDSy2Ao8bRAakYNm": {
+      "symbol": "VON",
+      "created_at": "2026-10-22T12:24:45.990757144Z",
+      "first_seen": "2026-10-22T12:25:02.148735+00:00"
+    },
+    "8MGvL6FHqnUZLFGoD49JxP1RsKYuVBwrMzQyN81upump": {
+      "symbol": "SIS",
+      "created_at": "2026-10-22T12:24:40.708896633Z",
+      "first_seen": "2026-10-22T12:25:02.148735+00:00"
+    },
+    "CGsTqbZKbmWDQJSJxfT2DSf8aNAAQMdV19FbM16mpump": {
+      "symbol": "Lyber",
+      "created_at": "2026-10-22T12:24:40.39085457Z",
+      "first_seen": "2026-10-22T12:25:02.148735+00:00"
+    },
+    "2W9QpGoG3DxCyrda18WsRWirS9LNtzSJKpMGqRTepump": {
+      "symbol": "$LOAD",
+      "created_at": "2026-10-22T12:24:40.349531655Z",
+      "first_seen": "2026-10-22T12:25:02.148735+00:00"
     }
   },
   "alerted": [
@@ -1411,7 +1456,6 @@
     "AKoQvPKCE5G3zdMXW4RpmjVrhpUoKZsgFKK3rS6pump"
   ],
   "rejected": [
-    "7qqEKZb87wyvSvhjcS9nHgiB2zdPhQCs4mHZm8WLpump",
     "AYw1YyR1BjiubCLybrSQieBwMD9cAFjNX8zcuSAw8cLD",
     "8ej9yf2Y9S1sLudtF6TVNvf5PXN2YqqehQ9BmzPwpump",
     "AE9DfMC2N7UiwLka2QooSJuqZHTpJwo7euK5QMKL2HHv",
@@ -3410,6 +3454,7 @@
     "93eGpRaMYqAjUgH54GPzXXVPZcY7nYR8EGLyHi9uJnmq",
     "4RDSEphgMX1nBpuR9yZEfEv8schuASdpbj6547eWsuAX",
     "A8xxiQ2QdTeBKwHYp3GsFSpMP6D8U4ZRB8k6nAGApump",
-    "FX2WYYDDpBTNbh9yyXCyxucqowDveioVW48g9zS2w21v"
+    "FX2WYYDDpBTNbh9yyXCyxucqowDveioVW48g9zS2w21v",
+    "DAbApVtUxjjSadE4jYVtFv2ET8FBePqzKnJXDej8pump"
   ]
 }
