@@ -1,55 +1,5 @@
 {
   "pending": {
-    "2Um5MUmACVuZursHS7Uo1FH44ytyGj9Fcgd9qBKqpump": {
-      "symbol": "Life",
-      "created_at": "2026-10-23T20:57:18.21800455Z",
-      "first_seen": "2026-10-23T20:57:28.439742+00:00"
-    },
-    "2Bwde7gxQRXLBjaAf8KRbxBp4CVnrUaT3an3AWXZNXwg": {
-      "symbol": "DAEMON",
-      "created_at": "2026-10-23T20:57:17.372719713Z",
-      "first_seen": "2026-10-23T20:57:28.439742+00:00"
-    },
-    "5LetKLpeYkwxBY8UzhaM3GRQ2FRZ2hS1GRjq5gLnYSZE": {
-      "symbol": "",
-      "created_at": "2026-10-23T20:57:16.883817631Z",
-      "first_seen": "2026-10-23T20:57:28.439742+00:00"
-    },
-    "6p2emjCLWP2HmvbxXWWQwWXsbPGftyHp4jrWs32Upump": {
-      "symbol": "Life",
-      "created_at": "2026-10-23T20:57:16.58075555Z",
-      "first_seen": "2026-10-23T20:57:28.439742+00:00"
-    },
-    "48YxALg5j1mdYXxR5SkkX4kfuVxsbGHXkviRqnQspump": {
-      "symbol": "DAEMON",
-      "created_at": "2026-10-23T20:57:16.432397426Z",
-      "first_seen": "2026-10-23T20:57:28.439742+00:00"
-    },
-    "3Mv5W2vzoQ2cShLCz6wKSj8m6JiEhxyuv23GL56tpump": {
-      "symbol": "CINL",
-      "created_at": "2026-10-23T20:57:16.065874838Z",
-      "first_seen": "2026-10-23T20:57:28.439742+00:00"
-    },
-    "8R52vwe8NYprZ3EVJQSWG13t5PiQk6eaLkFjiwRMpump": {
-      "symbol": "VAMPBAMA",
-      "created_at": "2026-10-23T20:57:15.964785275Z",
-      "first_seen": "2026-10-23T20:57:28.439742+00:00"
-    },
-    "8g9y9XjSwr5kEpu4xw9JvaJLmGvXdWv8s4T7irxSpump": {
-      "symbol": "Pilled",
-      "created_at": "2026-10-23T20:57:15.499731514Z",
-      "first_seen": "2026-10-23T20:57:28.439742+00:00"
-    },
-    "FMywBDgJqH8UrfzEsY2mTVD6mBAXhPR2wLsyFU6Zpump": {
-      "symbol": "VAMPBAMA",
-      "created_at": "2026-10-23T20:57:14.628455169Z",
-      "first_seen": "2026-10-23T20:57:28.439742+00:00"
-    },
-    "4NtcRZ2dhYCJuKAuDh1GyJboaXKcw1Zk2UrqSBWF8KME": {
-      "symbol": "IWILLSELL",
-      "created_at": "2026-10-23T20:57:11.371880038Z",
-      "first_seen": "2026-10-23T20:57:28.439742+00:00"
-    },
     "4yaA3SiUpiJt6kTz8bA8aHJFC9vUQsExdQZjDK4Kpump": {
       "symbol": "Billy",
       "created_at": "2026-10-23T21:00:05.892514464Z",
@@ -1595,11 +1545,6 @@
       "created_at": "2026-10-23T22:22:07.219141438Z",
       "first_seen": "2026-10-23T22:22:25.352672+00:00"
     },
-    "AsS3xzw996jMJksdKKj5qTxekfnvG4wzjssU4BETpump": {
-      "symbol": "Apple",
-      "created_at": "2026-10-23T22:22:06.921462901Z",
-      "first_seen": "2026-10-23T22:22:25.352672+00:00"
-    },
     "B4zL4W8HzxzFhWUJkG9hkPRqeqxSW9WFCLs5BffiW8wV": {
       "symbol": "",
       "created_at": "2026-10-23T22:22:05.532989319Z",
@@ -1633,7 +1578,12 @@
     "Aw2Gq5MTmnhfiuYUAz4UHMKGJioXmUJVmDxYkATWpump": {
       "symbol": "TESLA SI",
       "created_at": "2026-10-23T22:24:53.59689614Z",
-      "first_seen": "2026-10-23T22:25:02.941003+00:00"
+      "first_seen": "2026-10-23T22:25:02.941003+00:00",
+      "confirm": {
+        "liquidity": 27997.19,
+        "market_cap": 122785,
+        "at": "2026-10-23T22:59:47.138588+00:00"
+      }
     },
     "FLBU86Gv199F8W1voHSkrVUVpVnsEjG6Djo9Bgu5pump": {
       "symbol": "RAFFLE",
@@ -1828,11 +1778,6 @@
     "EF6oMRg4RheG9EwKQehEFYLkeZ58BfzAPiKgTbwozV7K": {
       "symbol": "HALO",
       "created_at": "2026-10-23T22:35:34.275738195Z",
-      "first_seen": "2026-10-23T22:35:39.176915+00:00"
-    },
-    "3bCAMM4pkAMTGPVse2R1Ub1U9XjHHRCoikCgAx3B7xhf": {
-      "symbol": "GOYIM",
-      "created_at": "2026-10-23T22:35:34.20495979Z",
       "first_seen": "2026-10-23T22:35:39.176915+00:00"
     },
     "6JWb5TGDCPgbeSB3ULLFZMSNmoUt1gqkQirbhFZHpump": {
@@ -2269,6 +2214,56 @@
       "symbol": "Banker",
       "created_at": "2026-10-23T22:56:49.837280865Z",
       "first_seen": "2026-10-23T22:57:11.130531+00:00"
+    },
+    "GHGR19mr3UC9Ky2bPhbLw4ZpyoXPnZtWudMwuV2xpump": {
+      "symbol": "paperpump",
+      "created_at": "2026-10-23T22:59:39.836374759Z",
+      "first_seen": "2026-10-23T22:59:47.138194+00:00"
+    },
+    "F5JyTHpnCMFL72mNahgSHPdYpm9oXb4PRWa1DxXWN1Ad": {
+      "symbol": "OWP",
+      "created_at": "2026-10-23T22:59:39.269429111Z",
+      "first_seen": "2026-10-23T22:59:47.138194+00:00"
+    },
+    "2CkLntwiSeEVNqYRov145bUn4GnzSDDsNwnYpXw1pump": {
+      "symbol": "ECLIPSE",
+      "created_at": "2026-10-23T22:59:38.565080784Z",
+      "first_seen": "2026-10-23T22:59:47.138194+00:00"
+    },
+    "5echAPV7abDhqeNEbdi3UU2USzM292fbmA6Esu9bpump": {
+      "symbol": "GOC",
+      "created_at": "2026-10-23T22:59:38.016278333Z",
+      "first_seen": "2026-10-23T22:59:47.138194+00:00"
+    },
+    "8eobtYi5yLp69wFWzMAcNDCLax98rY2oXCHLY2Kipump": {
+      "symbol": "DPM",
+      "created_at": "2026-10-23T22:59:35.271228697Z",
+      "first_seen": "2026-10-23T22:59:47.138194+00:00"
+    },
+    "2P1sjP1eCXGKzdYzJ3LTv1NbmJZxMsxMAcpasPerpump": {
+      "symbol": "TA",
+      "created_at": "2026-10-23T22:59:35.047641818Z",
+      "first_seen": "2026-10-23T22:59:47.138194+00:00"
+    },
+    "9vJum9reXBoSh3ULpm3LoBqW8dsXVNv9Uo82m2bbpump": {
+      "symbol": "Foodslop",
+      "created_at": "2026-10-23T22:59:34.465157771Z",
+      "first_seen": "2026-10-23T22:59:47.138194+00:00"
+    },
+    "FqfA4Sps2CKVzVFdmpMQMA7qAwKtrxCi7oNuiYvHnZd4": {
+      "symbol": "ORE AI",
+      "created_at": "2026-10-23T22:59:34.193511381Z",
+      "first_seen": "2026-10-23T22:59:47.138194+00:00"
+    },
+    "63EJ9yS77EJ5xfUdMQVsaDkkdZnDFR9okZGBJ9zapump": {
+      "symbol": "Pute",
+      "created_at": "2026-10-23T22:59:33.216102186Z",
+      "first_seen": "2026-10-23T22:59:47.138194+00:00"
+    },
+    "FHFRs7BhzvK85RkzceYjJHBD95iQGWkCHw7jyHNgpump": {
+      "symbol": "CBSTAIR",
+      "created_at": "2026-10-23T22:59:32.828320682Z",
+      "first_seen": "2026-10-23T22:59:47.138194+00:00"
     }
   },
   "alerted": [
@@ -2767,8 +2762,6 @@
     "HgRx2RZCSSVvj2PSGzRaoKEUcw77oEJT6dzP5UHSpump"
   ],
   "rejected": [
-    "3eH6LSPc3aW4xvHSED5vydUrVj7YNe4hKgdxRHSmoYCy",
-    "6hGVudfroZkUd6ikL4xNggbzgVPjJzUhxd4qRpzeTQVC",
     "Ab6CVmhqD3x1bvMZBnjJBJqeTLMm7tAapcZwSU6apump",
     "CNe4ndr6H6c9aVnaNzEdZpMnPXYCV1dGzemhokJ422tZ",
     "BbvzaDjoU1jprFN7VYd4xVzt3sz9vTdGQJenV7bNnHQK",
@@ -4766,6 +4759,8 @@
     "2dY2zMRxzn7qemoCZiZfijYzr5WWnAVKAAQUyoYfpump",
     "7svzyjN5TTmsMTjT6cCJm4Ug6RRZbjbW7P5fz7gnwvgx",
     "CJYxdC79qMe94db5cS6wMh7oi5Fsy3BJQMH2KxVB3my3",
-    "8eBbEsuxhreEU163sLxhtuVeFxswEFhwpTtCToyHpump"
+    "8eBbEsuxhreEU163sLxhtuVeFxswEFhwpTtCToyHpump",
+    "AsS3xzw996jMJksdKKj5qTxekfnvG4wzjssU4BETpump",
+    "3bCAMM4pkAMTGPVse2R1Ub1U9XjHHRCoikCgAx3B7xhf"
   ]
 }
