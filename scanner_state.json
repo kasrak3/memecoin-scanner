@@ -1,50 +1,5 @@
 {
   "pending": {
-    "GZ3V3CAYPVTBWjYexeYDCBVN5GFEEBgqnJey79GGpump": {
-      "symbol": "SOL",
-      "created_at": "2026-10-23T06:58:43.507797244Z",
-      "first_seen": "2026-10-23T06:58:52.299683+00:00"
-    },
-    "Ek8ZN3d5mFKXVNaQKU34N2Vuavxm2ZYXSksP3CWFpump": {
-      "symbol": "Prime",
-      "created_at": "2026-10-23T06:58:42.69720103Z",
-      "first_seen": "2026-10-23T06:58:52.299683+00:00"
-    },
-    "AvcykLk9G2md1aCfimtZUNbPWEcZ1vNajFKKJm47pump": {
-      "symbol": "SAVPIR",
-      "created_at": "2026-10-23T06:58:42.031489511Z",
-      "first_seen": "2026-10-23T06:58:52.299683+00:00"
-    },
-    "CqbZx1nLnoECckn7CsbyQXwTzimWzLN9xcRsuGavLiDc": {
-      "symbol": "Rosalind",
-      "created_at": "2026-10-23T06:58:40.568466757Z",
-      "first_seen": "2026-10-23T06:58:52.299683+00:00"
-    },
-    "3qxyVRBkFBRpSbATQEZWzV9x2SdeHZYcbd8LgQiQpump": {
-      "symbol": "beer",
-      "created_at": "2026-10-23T06:58:38.19706482Z",
-      "first_seen": "2026-10-23T06:58:52.299683+00:00"
-    },
-    "C4yPHgEboibwLvPtptnLRwprPL4Sdapz4srfMgJYpump": {
-      "symbol": "Unicorn",
-      "created_at": "2026-10-23T06:58:38.152441944Z",
-      "first_seen": "2026-10-23T06:58:52.299683+00:00"
-    },
-    "2hiy3YTEjdsfq9shDXoc6R4QFFt2j5ZHpgWWUd5JtVeH": {
-      "symbol": "",
-      "created_at": "2026-10-23T06:58:31.30135707Z",
-      "first_seen": "2026-10-23T06:58:52.299683+00:00"
-    },
-    "F4m9ZD7Gh5a8fopDPqjKi44yEX6z7CUtQtWCDbGppump": {
-      "symbol": "BOO",
-      "created_at": "2026-10-23T06:58:30.189138053Z",
-      "first_seen": "2026-10-23T06:58:52.299683+00:00"
-    },
-    "E5AbKEqkP17fiEKHSCPZTYh4WZKhxWHkYFyzqZ5Tchq5": {
-      "symbol": "MPN",
-      "created_at": "2026-10-23T06:58:23.771297175Z",
-      "first_seen": "2026-10-23T06:58:52.299683+00:00"
-    },
     "BHJ5tkwAt5zTzg7i1YxzKM3M4NEHkQgk4wWG1tB449mq": {
       "symbol": "MPN",
       "created_at": "2026-10-23T07:01:20.646060227Z",
@@ -1533,7 +1488,12 @@
     "DB63eXThLrpVoKpURGBEX5oiVwnnk1yXTbWqbaj2pump": {
       "symbol": "FORMATION",
       "created_at": "2026-10-23T08:18:08.788441969Z",
-      "first_seen": "2026-10-23T08:18:33.712595+00:00"
+      "first_seen": "2026-10-23T08:18:33.712595+00:00",
+      "confirm": {
+        "liquidity": 15041.38,
+        "market_cap": 38201,
+        "at": "2026-10-23T08:59:32.794728+00:00"
+      }
     },
     "3tYVpw2ugLKXYBMkDJBph1FiAMiwwGKuBJQ2aVAieQsJ": {
       "symbol": "DRAW-N",
@@ -2304,6 +2264,56 @@
       "symbol": "INU",
       "created_at": "2026-10-23T08:56:42.983041914Z",
       "first_seen": "2026-10-23T08:56:58.888140+00:00"
+    },
+    "2RX7B8z2EqhH47RGAXAQ1HzrERxeVkXnfi1FLsgKpump": {
+      "symbol": "$LA BEAST",
+      "created_at": "2026-10-23T08:59:25.447327513Z",
+      "first_seen": "2026-10-23T08:59:32.794310+00:00"
+    },
+    "8zFBe6CLPvdsKkaJTjHN8AY3rhLAvnHe1Gni5SXApump": {
+      "symbol": "$KMALONE",
+      "created_at": "2026-10-23T08:59:24.280115666Z",
+      "first_seen": "2026-10-23T08:59:32.794310+00:00"
+    },
+    "4Jb7RUwEiRQqYcGxEeR2WFghNEeuvfpESg6Peu8f9x7Y": {
+      "symbol": "IMMORTAL",
+      "created_at": "2026-10-23T08:59:22.064942606Z",
+      "first_seen": "2026-10-23T08:59:32.794310+00:00"
+    },
+    "BKxj4xBC1iZDDY7ZfAttypXTQ88b37fJekFNzqQaa9Qm": {
+      "symbol": "",
+      "created_at": "2026-10-23T08:59:21.829613419Z",
+      "first_seen": "2026-10-23T08:59:32.794310+00:00"
+    },
+    "BNXQEHtmCgCAhCVVL9TJfHVeWVi2w8ioqLEE7WRKpump": {
+      "symbol": "PERPO",
+      "created_at": "2026-10-23T08:59:21.12297446Z",
+      "first_seen": "2026-10-23T08:59:32.794310+00:00"
+    },
+    "9XC83Dry6vLtGXfJM2JscKmEf6g2WPyhUXyD3gRF7Nuv": {
+      "symbol": "",
+      "created_at": "2026-10-23T08:59:20.63098599Z",
+      "first_seen": "2026-10-23T08:59:32.794310+00:00"
+    },
+    "8xaUFiw85AZLZUYjo5BmCSGFMFusgm9qHMSYTTXLaXu5": {
+      "symbol": "MPN",
+      "created_at": "2026-10-23T08:59:17.191351041Z",
+      "first_seen": "2026-10-23T08:59:32.794310+00:00"
+    },
+    "ERzko1SBALxh5mC9PN6oT5uv6ath6PGTtezjXuVTpump": {
+      "symbol": "Shalom",
+      "created_at": "2026-10-23T08:59:16.607104781Z",
+      "first_seen": "2026-10-23T08:59:32.794310+00:00"
+    },
+    "5zSGrNmAse4uFfys6TRBifDmYhgqtY8evjtiTB3Uuobc": {
+      "symbol": "IMMORTAL",
+      "created_at": "2026-10-23T08:59:08.398472763Z",
+      "first_seen": "2026-10-23T08:59:32.794310+00:00"
+    },
+    "nPDMjRbLioaUWh6LUMKa7AK66hgARLnjQPAH9JHpump": {
+      "symbol": "BAGET",
+      "created_at": "2026-10-23T08:59:08.083665763Z",
+      "first_seen": "2026-10-23T08:59:32.794310+00:00"
     }
   },
   "alerted": [
