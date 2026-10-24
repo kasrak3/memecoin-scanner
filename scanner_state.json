@@ -1,50 +1,5 @@
 {
   "pending": {
-    "HLp68pHexkbCKZ2dPePP51MhnJ9Syi2tbsURBcqZ728g": {
-      "symbol": "Memegle",
-      "created_at": "2026-10-24T14:24:41.408582134Z",
-      "first_seen": "2026-10-24T14:24:51.822515+00:00"
-    },
-    "C7bZeWbCf7kg3yAZRcxZYZsq9jDoHNaTUbc1BmwKnaTR": {
-      "symbol": "OVER",
-      "created_at": "2026-10-24T14:24:41.194200531Z",
-      "first_seen": "2026-10-24T14:24:51.822515+00:00"
-    },
-    "2pN384FCipWpX1eL7j3yTVabp5BZBZ3Zog3fkb3Fpump": {
-      "symbol": "Hedged",
-      "created_at": "2026-10-24T14:24:34.846497311Z",
-      "first_seen": "2026-10-24T14:24:51.822515+00:00"
-    },
-    "CTnCPccTEeVC4XNtpmrbgvMgUYqwWDRgBq3PGQDipump": {
-      "symbol": "speedrun",
-      "created_at": "2026-10-24T14:24:31.139383045Z",
-      "first_seen": "2026-10-24T14:24:51.822515+00:00"
-    },
-    "JBmFJVVhiEiX72gTEXEBmb45WhFh6uuxo3YsvGwmpump": {
-      "symbol": "Station",
-      "created_at": "2026-10-24T14:24:29.71004772Z",
-      "first_seen": "2026-10-24T14:24:51.822515+00:00"
-    },
-    "ErLfAuUZ1hxBfrtoRm3CySaE1ejv8CBVd81nqJavpump": {
-      "symbol": "$MTTM",
-      "created_at": "2026-10-24T14:24:26.17228984Z",
-      "first_seen": "2026-10-24T14:24:51.822515+00:00"
-    },
-    "Fkuq6xo89dc5Jpa6UG3fEZRgFSpD1Ws3ZVoEd4iDpump": {
-      "symbol": "rvibe",
-      "created_at": "2026-10-24T14:24:25.159392358Z",
-      "first_seen": "2026-10-24T14:24:51.822515+00:00"
-    },
-    "4E38YYAtAbUkraWkcyMqTeKqar3QK5MGSPFbMRvWLzVV": {
-      "symbol": "BOBO",
-      "created_at": "2026-10-24T14:24:22.902028068Z",
-      "first_seen": "2026-10-24T14:24:51.822515+00:00"
-    },
-    "BWNuWCSdPgn7QMovN1RMHDsgFYA21gM7L1LMN1ZQpump": {
-      "symbol": "SOOTS",
-      "created_at": "2026-10-24T14:24:21.950237895Z",
-      "first_seen": "2026-10-24T14:24:51.822515+00:00"
-    },
     "FwmeTgat5thUZFpGbTcL9fGJft4GRGWXViS1HMUCSinq": {
       "symbol": "MPN",
       "created_at": "2026-10-24T14:27:41.257818226Z",
@@ -1858,7 +1813,12 @@
     "XZ6ZJnSKooD8C9fwdDftWEbz43GQwLGeWfsjEK8pump": {
       "symbol": "YouTube",
       "created_at": "2026-10-24T16:13:26.14791509Z",
-      "first_seen": "2026-10-24T16:13:52.697012+00:00"
+      "first_seen": "2026-10-24T16:13:52.697012+00:00",
+      "confirm": {
+        "liquidity": 24507,
+        "market_cap": 97919,
+        "at": "2026-10-24T16:25:34.222579+00:00"
+      }
     },
     "4EWLxCowg25Y1WMgvuHJZzdFfKszpB7ftkmvD8RZfVt4": {
       "symbol": "ODYS",
@@ -2009,6 +1969,56 @@
       "symbol": "$ELON",
       "created_at": "2026-10-24T16:21:42.831982006Z",
       "first_seen": "2026-10-24T16:22:39.874666+00:00"
+    },
+    "DArDzdPzwVdaG5og1fsdoPtW6acbjQciQvX6aPyTjT1Y": {
+      "symbol": "XieZheng",
+      "created_at": "2026-10-24T16:25:21.953224903Z",
+      "first_seen": "2026-10-24T16:25:34.222349+00:00"
+    },
+    "5sQEpMUL5m29beBrB67rtYPyyY8UE9poKVKK3BT1fK2y": {
+      "symbol": "flag",
+      "created_at": "2026-10-24T16:25:20.790288372Z",
+      "first_seen": "2026-10-24T16:25:34.222349+00:00"
+    },
+    "jR7aASSNDkHCinANi6hAxr3FNgCL7kFhQsJaeYWpump": {
+      "symbol": "flag",
+      "created_at": "2026-10-24T16:25:20.471136327Z",
+      "first_seen": "2026-10-24T16:25:34.222349+00:00"
+    },
+    "4CKeyhkN8UvWLe5rpLzysFDr2V25zdgoCbVgEctZpump": {
+      "symbol": "Annautaq",
+      "created_at": "2026-10-24T16:25:19.949048675Z",
+      "first_seen": "2026-10-24T16:25:34.222349+00:00"
+    },
+    "AEe5d1JmVVL63aFNJFWe8LP8DLr5WPUEZA8LyXNbpump": {
+      "symbol": "BNB",
+      "created_at": "2026-10-24T16:25:18.550093813Z",
+      "first_seen": "2026-10-24T16:25:34.222349+00:00"
+    },
+    "7bizLNjjsu3gTd1zKQSsdifVGyqUXCvx1b73FmQxpump": {
+      "symbol": "Annautaq",
+      "created_at": "2026-10-24T16:25:16.813940614Z",
+      "first_seen": "2026-10-24T16:25:34.222349+00:00"
+    },
+    "9tjiNQDTHD14AUueH2qu5XLpa4Eq8KBxpeHeS5jkpump": {
+      "symbol": "FI",
+      "created_at": "2026-10-24T16:25:16.481152097Z",
+      "first_seen": "2026-10-24T16:25:34.222349+00:00"
+    },
+    "xjqrjwHsD1U9PfFYCLhpYpnngXv7yYSgAsdHg5Jpump": {
+      "symbol": "Annautaq",
+      "created_at": "2026-10-24T16:25:12.439783482Z",
+      "first_seen": "2026-10-24T16:25:34.222349+00:00"
+    },
+    "AA3dHgUEVC977PFMQTmFmC2E57CqyNoVa9QjjH7Vpump": {
+      "symbol": "Annautaq",
+      "created_at": "2026-10-24T16:25:12.007606602Z",
+      "first_seen": "2026-10-24T16:25:34.222349+00:00"
+    },
+    "4X1NpEkZVbXEfZtT9CixasRRsNBumn6pt5auaiJjpump": {
+      "symbol": "SUNAEYE",
+      "created_at": "2026-10-24T16:25:11.547863256Z",
+      "first_seen": "2026-10-24T16:25:34.222349+00:00"
     }
   },
   "alerted": [
