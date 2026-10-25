@@ -1,50 +1,5 @@
 {
   "pending": {
-    "2Heb4pKgdLyugiiqhpPnWHnL1cSgQsTfo4hcA932gRet": {
-      "symbol": "MPN",
-      "created_at": "2026-10-25T09:33:02.957198384Z",
-      "first_seen": "2026-10-25T09:33:07.599720+00:00"
-    },
-    "9PdgphxY1Ny4qWajevvRdPEEctueL4QFmbgFztbnkcLt": {
-      "symbol": "",
-      "created_at": "2026-10-25T09:33:02.253718666Z",
-      "first_seen": "2026-10-25T09:33:07.599720+00:00"
-    },
-    "8NfRUtQ1C6KrATNunyGewh9DkeFtvRkdx442dLww5Yei": {
-      "symbol": "goon",
-      "created_at": "2026-10-25T09:32:59.085779659Z",
-      "first_seen": "2026-10-25T09:33:07.599720+00:00"
-    },
-    "3BtMvyuJNKi8KwbUUBQzScfu7zGJcpWnHnPFCNNqpump": {
-      "symbol": "inu",
-      "created_at": "2026-10-25T09:32:57.07109509Z",
-      "first_seen": "2026-10-25T09:33:07.599720+00:00"
-    },
-    "4Cm2ZyVtDBN7ccVXTs6zzwvFEHEoM9WzcoSkopaLpump": {
-      "symbol": "XRP",
-      "created_at": "2026-10-25T09:32:56.371073168Z",
-      "first_seen": "2026-10-25T09:33:07.599720+00:00"
-    },
-    "2wDE6439Q8ZZmYFCvutmAJx9DDhQuaa5XFgKJAKGxNu1": {
-      "symbol": "bet",
-      "created_at": "2026-10-25T09:32:56.370518743Z",
-      "first_seen": "2026-10-25T09:33:07.599720+00:00"
-    },
-    "2FkaZvJwpsYfdqPJvBCcHNZQU6KPA7xVLZbiUjpm8sGh": {
-      "symbol": "bet",
-      "created_at": "2026-10-25T09:32:55.782598126Z",
-      "first_seen": "2026-10-25T09:33:07.599720+00:00"
-    },
-    "3cbenxxDyViYqUqjaxLTLy4Un5R9v1dBDU89q6f38S77": {
-      "symbol": "bet",
-      "created_at": "2026-10-25T09:32:55.17926541Z",
-      "first_seen": "2026-10-25T09:33:07.599720+00:00"
-    },
-    "5XYdsDpXLNR7AKGMwZCEvKxgp39yum5Qcjj2RZvMpump": {
-      "symbol": "$KMALONE",
-      "created_at": "2026-10-25T09:32:52.62601201Z",
-      "first_seen": "2026-10-25T09:33:07.599720+00:00"
-    },
     "CABpEuRQtdrgj9jKJvFBjK6isBit2jaVn7jEcjQhpump": {
       "symbol": "weenpump",
       "created_at": "2026-10-25T09:35:55.350969419Z",
@@ -898,7 +853,12 @@
     "WN7y9L6mEZS17G9bRx1ESNPzyJFKCr3HHc2YN4ppump": {
       "symbol": "TESLA SI",
       "created_at": "2026-10-25T11:22:23.52028105Z",
-      "first_seen": "2026-10-25T11:22:50.269616+00:00"
+      "first_seen": "2026-10-25T11:22:50.269616+00:00",
+      "confirm": {
+        "liquidity": 25384.36,
+        "market_cap": 103516,
+        "at": "2026-10-25T11:34:06.024301+00:00"
+      }
     },
     "Aj89Seh7CLX9x54U6tzubbrPYKa2UsGdbHuL4rS8CDq1": {
       "symbol": "BRAVENEKO",
@@ -1124,6 +1084,56 @@
       "symbol": "DTC",
       "created_at": "2026-10-25T11:31:05.723558894Z",
       "first_seen": "2026-10-25T11:31:47.342120+00:00"
+    },
+    "9YuZRyG2V9KTk63AU7t41p8Qtx4f3oUfBoRKKWx6VoTC": {
+      "symbol": "Bezzy",
+      "created_at": "2026-10-25T11:33:49.20864286Z",
+      "first_seen": "2026-10-25T11:34:06.023918+00:00"
+    },
+    "ApQfK5peTba4jUE67jk4j6ZcRbd8wFhBEgFkujJVHrbN": {
+      "symbol": "Bezzy",
+      "created_at": "2026-10-25T11:33:48.612695127Z",
+      "first_seen": "2026-10-25T11:34:06.023918+00:00"
+    },
+    "FWbM9HRMa22GAKKUycS5qjYaXe2LKKqsYzf2JDD8pump": {
+      "symbol": "jurkin",
+      "created_at": "2026-10-25T11:33:47.843502579Z",
+      "first_seen": "2026-10-25T11:34:06.023918+00:00"
+    },
+    "HDkY9y7zHD7yZsmtawxfcqqejjrdjvYyxNSmezizRgbw": {
+      "symbol": "Bezzy",
+      "created_at": "2026-10-25T11:33:47.545433308Z",
+      "first_seen": "2026-10-25T11:34:06.023918+00:00"
+    },
+    "7LmqvfgC3KMYEQMavX3GaNdvp8cWFr5odjaHgoebpump": {
+      "symbol": "FAP",
+      "created_at": "2026-10-25T11:33:44.774313997Z",
+      "first_seen": "2026-10-25T11:34:06.023918+00:00"
+    },
+    "EFXx1QEXXTxAj3sdHa8NnzDbj8wZuACAGN4FjL5Cpump": {
+      "symbol": "PPP",
+      "created_at": "2026-10-25T11:33:44.189419341Z",
+      "first_seen": "2026-10-25T11:34:06.023918+00:00"
+    },
+    "Aq2MnWgjLS25uKHu6VtoFE927dYHXFx9kXcVu51rpump": {
+      "symbol": "LUPIN",
+      "created_at": "2026-10-25T11:33:42.487844217Z",
+      "first_seen": "2026-10-25T11:34:06.023918+00:00"
+    },
+    "Fjm7N1j5YoexV9JKNnKrC4BCbSSVegt1p6Mvakrypump": {
+      "symbol": "Beast",
+      "created_at": "2026-10-25T11:33:42.326602959Z",
+      "first_seen": "2026-10-25T11:34:06.023918+00:00"
+    },
+    "DPhKSr1treqQxyHGqPrjfTt6gjtxxVC5KyJVh18ppump": {
+      "symbol": "big three",
+      "created_at": "2026-10-25T11:33:35.026091298Z",
+      "first_seen": "2026-10-25T11:34:06.023918+00:00"
+    },
+    "DbrrfNV3s4kaSujLAejHoy8wptFshT8jBYJEWzkRQCKg": {
+      "symbol": "",
+      "created_at": "2026-10-25T11:33:34.811065103Z",
+      "first_seen": "2026-10-25T11:34:06.023918+00:00"
     }
   },
   "alerted": [
