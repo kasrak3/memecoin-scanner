@@ -1353,7 +1353,12 @@
     "3Vkkvo8jxHy6B4pxRLLV3F9EBYRS1NE8mKCxhi1Mpump": {
       "symbol": "ASS",
       "created_at": "2026-10-26T05:33:55.916893392Z",
-      "first_seen": "2026-10-26T05:34:25.355867+00:00"
+      "first_seen": "2026-10-26T05:34:25.355867+00:00",
+      "confirm": {
+        "liquidity": 14670.37,
+        "market_cap": 35599,
+        "at": "2026-10-26T05:46:05.573706+00:00"
+      }
     },
     "HSQMfYe88eyF4bVAh5RTRpgay47CjT1xxiNba5TeUp8x": {
       "symbol": "MPN",
@@ -1554,6 +1559,56 @@
       "symbol": "MPN",
       "created_at": "2026-10-26T05:43:11.000546809Z",
       "first_seen": "2026-10-26T05:43:44.585461+00:00"
+    },
+    "7HxK8PvyDujWyt5Nd8CtW9bdP8WDPY7G75cEP5b2c3Eb": {
+      "symbol": "ASS",
+      "created_at": "2026-10-26T05:46:00.693102001Z",
+      "first_seen": "2026-10-26T05:46:05.573268+00:00"
+    },
+    "2YA55jQcCX1mTfzeJhLSB7HayfEZPMbyymBdUSM2gRyV": {
+      "symbol": "GTA",
+      "created_at": "2026-10-26T05:46:00.28180894Z",
+      "first_seen": "2026-10-26T05:46:05.573268+00:00"
+    },
+    "CWC4pN6tVBF439CwDXyX5BPR9DYBSt5ZGR7Nid1ipump": {
+      "symbol": "GOLFER",
+      "created_at": "2026-10-26T05:45:58.266158409Z",
+      "first_seen": "2026-10-26T05:46:05.573268+00:00"
+    },
+    "G4RK11GBBsgf9ybr1o8HAFJnjkY44tA1UqjnEdUfpump": {
+      "symbol": "BIAO",
+      "created_at": "2026-10-26T05:45:57.685025256Z",
+      "first_seen": "2026-10-26T05:46:05.573268+00:00"
+    },
+    "2xHS3T8cmC3Mgaen4SVJkBnb5aYczTurLJtLuBbQpump": {
+      "symbol": "kittylick",
+      "created_at": "2026-10-26T05:45:54.70283909Z",
+      "first_seen": "2026-10-26T05:46:05.573268+00:00"
+    },
+    "GHiybJRBhcoaTLK2hLpsTDxVkvhghbNXDjqnaUx4chDT": {
+      "symbol": "BTC5Y",
+      "created_at": "2026-10-26T05:45:54.070098507Z",
+      "first_seen": "2026-10-26T05:46:05.573268+00:00"
+    },
+    "BDzyQrTbYdcE5XxzQZeRU4JGxSR4hbua3wDMcbJ2KmnV": {
+      "symbol": "MPN",
+      "created_at": "2026-10-26T05:45:46.408346929Z",
+      "first_seen": "2026-10-26T05:46:05.573268+00:00"
+    },
+    "9DcEdC8uKA5cuHwdNGaMqoDAsCFiF15ktEvCLzM3L5Sn": {
+      "symbol": "LIQCAT",
+      "created_at": "2026-10-26T05:45:46.10823291Z",
+      "first_seen": "2026-10-26T05:46:05.573268+00:00"
+    },
+    "34DFXb3q9oNpp3oPdx4tngQakvLg5vwFUx3PXpd8pump": {
+      "symbol": "sol",
+      "created_at": "2026-10-26T05:45:45.619297466Z",
+      "first_seen": "2026-10-26T05:46:05.573268+00:00"
+    },
+    "B6pN4Hz9gB9eovcHUKd9Y55KcpRB92iHLrt2X8Dmpump": {
+      "symbol": "trench",
+      "created_at": "2026-10-26T05:45:43.414189518Z",
+      "first_seen": "2026-10-26T05:46:05.573268+00:00"
     }
   },
   "alerted": [
