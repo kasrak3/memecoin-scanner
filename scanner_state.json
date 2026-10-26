@@ -1385,16 +1385,6 @@
       "created_at": "2026-10-26T05:36:30.723472665Z",
       "first_seen": "2026-10-26T05:36:43.306618+00:00"
     },
-    "oxp8r6fsGWgioCM9kvSgwSEaWvxSUVFRr9dvcB4pump": {
-      "symbol": "Apple",
-      "created_at": "2026-10-26T05:36:27.416127423Z",
-      "first_seen": "2026-10-26T05:36:43.306618+00:00",
-      "confirm": {
-        "liquidity": 19982.24,
-        "market_cap": 65910,
-        "at": "2026-10-26T05:48:27.169465+00:00"
-      }
-    },
     "5KDst2eUJy3JGgTt1H1u8FvVpKinK8cHze8eaGoQpump": {
       "symbol": "nudge",
       "created_at": "2026-10-26T05:36:22.649174437Z",
@@ -1654,6 +1644,56 @@
       "symbol": "fap",
       "created_at": "2026-10-26T05:47:41.279537021Z",
       "first_seen": "2026-10-26T05:48:27.169079+00:00"
+    },
+    "ho5fLSHnQfqEgafnMHcxeuDwZhtbdy38ns62BuPpump": {
+      "symbol": "NEUROFIX",
+      "created_at": "2026-10-26T05:50:42.622824696Z",
+      "first_seen": "2026-10-26T05:50:50.719863+00:00"
+    },
+    "HrhXGfPqY1fEhwfudzB6bwvZ4bQZ2xoKJgkMzg6s8sZW": {
+      "symbol": "MPN",
+      "created_at": "2026-10-26T05:50:40.071684149Z",
+      "first_seen": "2026-10-26T05:50:50.719863+00:00"
+    },
+    "FqWwM4yMriwhrtMZkyJMwuKtB3enmEssaxJAFXXdqbWH": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-10-26T05:50:39.780053258Z",
+      "first_seen": "2026-10-26T05:50:50.719863+00:00"
+    },
+    "9A4vUb8Bsy2t28jxWhVFPGxPscriQcxDkTid8Nb9b7TU": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-10-26T05:50:39.663377599Z",
+      "first_seen": "2026-10-26T05:50:50.719863+00:00"
+    },
+    "HND7i6xVGA4x14KuoBsF2CZVazTYsj1DGWtfcoJxaScJ": {
+      "symbol": "MPN",
+      "created_at": "2026-10-26T05:50:39.634332948Z",
+      "first_seen": "2026-10-26T05:50:50.719863+00:00"
+    },
+    "2RV7j62qMHrqHhtppNLH8KfQs9H2AU9cLuSDYDirPft6": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-10-26T05:50:39.618781706Z",
+      "first_seen": "2026-10-26T05:50:50.719863+00:00"
+    },
+    "517ovGSsF1H2AiJxbxT4XjiQ1bDtFaWziGMDe6KmJBXW": {
+      "symbol": "HYPE-DN",
+      "created_at": "2026-10-26T05:50:39.582236265Z",
+      "first_seen": "2026-10-26T05:50:50.719863+00:00"
+    },
+    "BdkxcBmcmjS6cUQ5xkE2etnm9zxMf9312ZUoyJSLDKet": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-10-26T05:50:39.534540383Z",
+      "first_seen": "2026-10-26T05:50:50.719863+00:00"
+    },
+    "7cqBj9d9FCBDzR3F45NhyqpF6cMYPMymwWhzPw8xec22": {
+      "symbol": "XRP-UP",
+      "created_at": "2026-10-26T05:50:39.53238471Z",
+      "first_seen": "2026-10-26T05:50:50.719863+00:00"
+    },
+    "DnqYtMkchYJeQVsYzaakZzCGqCfjEhwmjELmjhxrSdgu": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-10-26T05:50:39.520521547Z",
+      "first_seen": "2026-10-26T05:50:50.719863+00:00"
     }
   },
   "alerted": [
@@ -2160,7 +2200,6 @@
     "3Vkkvo8jxHy6B4pxRLLV3F9EBYRS1NE8mKCxhi1Mpump"
   ],
   "rejected": [
-    "1fRVDg4E8vUPBpAW32rc8HYaq6NneY7XZZ6SREHpump",
     "resiVGFrGhG2Q2o12uWVEGVGyycbHu3cYwEJ23JyaVc",
     "CnPigYJGnDiZbjaFkvdcbi9KzzEQnFQumsDEueeH8yBd",
     "QaviRuC4HAvvzYcBCQMCE5oRTjnSynB9egtYUkJpump",
@@ -4159,6 +4198,7 @@
     "DvHTWvZLvjxxRL5z8f4wjebVNHtUM2CiSd8eyGphnQbm",
     "3Fu1esSG4eYSFDQTiFEQmyYANaibnyAtu7X3a1jr9JZ6",
     "Hq3YLFX3NWBexGRABf6wuAokrZSV8n1VdZ4eoQcbYFYB",
-    "41tnwS9xPiv7LvwZUMTZKCp7yzrAhemNZhaf4eFFzrN7"
+    "41tnwS9xPiv7LvwZUMTZKCp7yzrAhemNZhaf4eFFzrN7",
+    "oxp8r6fsGWgioCM9kvSgwSEaWvxSUVFRr9dvcB4pump"
   ]
 }
