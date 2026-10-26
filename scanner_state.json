@@ -1350,16 +1350,6 @@
       "created_at": "2026-10-26T05:33:56.855333521Z",
       "first_seen": "2026-10-26T05:34:25.355867+00:00"
     },
-    "3Vkkvo8jxHy6B4pxRLLV3F9EBYRS1NE8mKCxhi1Mpump": {
-      "symbol": "ASS",
-      "created_at": "2026-10-26T05:33:55.916893392Z",
-      "first_seen": "2026-10-26T05:34:25.355867+00:00",
-      "confirm": {
-        "liquidity": 14670.37,
-        "market_cap": 35599,
-        "at": "2026-10-26T05:46:05.573706+00:00"
-      }
-    },
     "HSQMfYe88eyF4bVAh5RTRpgay47CjT1xxiNba5TeUp8x": {
       "symbol": "MPN",
       "created_at": "2026-10-26T05:36:35.958032506Z",
@@ -1398,7 +1388,12 @@
     "oxp8r6fsGWgioCM9kvSgwSEaWvxSUVFRr9dvcB4pump": {
       "symbol": "Apple",
       "created_at": "2026-10-26T05:36:27.416127423Z",
-      "first_seen": "2026-10-26T05:36:43.306618+00:00"
+      "first_seen": "2026-10-26T05:36:43.306618+00:00",
+      "confirm": {
+        "liquidity": 19982.24,
+        "market_cap": 65910,
+        "at": "2026-10-26T05:48:27.169465+00:00"
+      }
     },
     "5KDst2eUJy3JGgTt1H1u8FvVpKinK8cHze8eaGoQpump": {
       "symbol": "nudge",
@@ -1609,6 +1604,56 @@
       "symbol": "trench",
       "created_at": "2026-10-26T05:45:43.414189518Z",
       "first_seen": "2026-10-26T05:46:05.573268+00:00"
+    },
+    "BND68EXr24TcPixCjrp38ioCb8Ff9kBS5aXAjrz1pump": {
+      "symbol": "TheGreen",
+      "created_at": "2026-10-26T05:48:18.792044127Z",
+      "first_seen": "2026-10-26T05:48:27.169079+00:00"
+    },
+    "3NxAmm38X4QBkxrRco3XhV2FdMfJM4H8hRqpgy7Epump": {
+      "symbol": "prepare",
+      "created_at": "2026-10-26T05:48:18.207922089Z",
+      "first_seen": "2026-10-26T05:48:27.169079+00:00"
+    },
+    "7beB1KKVbcjAFJZsv4Lu2tqUzdkt5QuE3q3vpBgYpump": {
+      "symbol": "ECLIPSE",
+      "created_at": "2026-10-26T05:48:04.580948606Z",
+      "first_seen": "2026-10-26T05:48:27.169079+00:00"
+    },
+    "HsMR352LwahvasSYfLtwMizmyRdwz7kkEN2cvvnzpump": {
+      "symbol": "LMAO",
+      "created_at": "2026-10-26T05:47:51.645950058Z",
+      "first_seen": "2026-10-26T05:48:27.169079+00:00"
+    },
+    "Fw6gazm3FCKCAHvcHd9JwwhcaD7aFtZi4Myqyd23pump": {
+      "symbol": "RAYDIUMLA",
+      "created_at": "2026-10-26T05:47:51.116803783Z",
+      "first_seen": "2026-10-26T05:48:27.169079+00:00"
+    },
+    "2XxDmDToGwBV9bBXckkioZVVtiJV2UC6i2v8fbzapump": {
+      "symbol": "LADY",
+      "created_at": "2026-10-26T05:47:49.450337749Z",
+      "first_seen": "2026-10-26T05:48:27.169079+00:00"
+    },
+    "J8aNfd62QDjk5RDZcYwnE1bRWz2teAu47yPS1BgF6Zfh": {
+      "symbol": "TAIL",
+      "created_at": "2026-10-26T05:47:47.713234533Z",
+      "first_seen": "2026-10-26T05:48:27.169079+00:00"
+    },
+    "EaYT1yfNfWEFpg4sho9RXgodCZ7jAtEhAmiWgcqHpump": {
+      "symbol": "TAIL",
+      "created_at": "2026-10-26T05:47:44.548725463Z",
+      "first_seen": "2026-10-26T05:48:27.169079+00:00"
+    },
+    "8TijmrfCNeLa128k4dFsNiTV7o1nSqNrbipxzpsPGUDz": {
+      "symbol": "fap",
+      "created_at": "2026-10-26T05:47:41.732725453Z",
+      "first_seen": "2026-10-26T05:48:27.169079+00:00"
+    },
+    "DLfmekA6gP8sRfSq7C2SrbyxU8jHovYJCjDtupgpump": {
+      "symbol": "fap",
+      "created_at": "2026-10-26T05:47:41.279537021Z",
+      "first_seen": "2026-10-26T05:48:27.169079+00:00"
     }
   },
   "alerted": [
@@ -2111,7 +2156,8 @@
     "8EWs5XXw3eh8y2GmFCKsE67R6r6YBD2HrvyT5WFSpump",
     "EfMZfcStz5oxorWLhBLcPzkePLz91BG5knrGAGiXpump",
     "WN7y9L6mEZS17G9bRx1ESNPzyJFKCr3HHc2YN4ppump",
-    "A3crhAXj9295NtEjYdkkSsTFHEzEBJR9ZQXbEeNFpump"
+    "A3crhAXj9295NtEjYdkkSsTFHEzEBJR9ZQXbEeNFpump",
+    "3Vkkvo8jxHy6B4pxRLLV3F9EBYRS1NE8mKCxhi1Mpump"
   ],
   "rejected": [
     "1fRVDg4E8vUPBpAW32rc8HYaq6NneY7XZZ6SREHpump",
