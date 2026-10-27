@@ -1,50 +1,5 @@
 {
   "pending": {
-    "A4xN5T5kCmLDHbRzj3pMgjBPR19xbUq7GJQi1HFUpump": {
-      "symbol": "FI",
-      "created_at": "2026-10-27T17:21:09.490013514Z",
-      "first_seen": "2026-10-27T17:21:23.914567+00:00"
-    },
-    "6PZj1VeFibMuRYWDs77e8guzfF5KQA5puDSX7znfpump": {
-      "symbol": "FI",
-      "created_at": "2026-10-27T17:21:09.424759159Z",
-      "first_seen": "2026-10-27T17:21:23.914567+00:00"
-    },
-    "DfgzD3Ytfc4sYCUR6Jhxanx9AkiiT13q1vekABXrpump": {
-      "symbol": "JHI",
-      "created_at": "2026-10-27T17:21:07.24645491Z",
-      "first_seen": "2026-10-27T17:21:23.914567+00:00"
-    },
-    "3RwwzJwdXK4vCyxChUJ3uz8ScL9vEiym5omE7Axjpump": {
-      "symbol": "BARRELS",
-      "created_at": "2026-10-27T17:21:06.811136156Z",
-      "first_seen": "2026-10-27T17:21:23.914567+00:00"
-    },
-    "6AG5qAQcLDhWR2cueL3EHW8fL7QoUTa8G1Sj6SMEpump": {
-      "symbol": "FOMOCAT",
-      "created_at": "2026-10-27T17:21:04.732943759Z",
-      "first_seen": "2026-10-27T17:21:23.914567+00:00"
-    },
-    "9APnMFDvSSxeqyUJVPSK689u1x2GhMnCLbxWVt5TcGBg": {
-      "symbol": "Launch",
-      "created_at": "2026-10-27T17:21:04.678452878Z",
-      "first_seen": "2026-10-27T17:21:23.914567+00:00"
-    },
-    "EPW375J8oWkngNk3bkvE6LnEUx7oDSpfoTSNB48qVKZL": {
-      "symbol": "MPN",
-      "created_at": "2026-10-27T17:21:04.613162124Z",
-      "first_seen": "2026-10-27T17:21:23.914567+00:00"
-    },
-    "2nTWvKRhonreAe2BeP3sm3moD8WaXVpARDTBNnNtcKF6": {
-      "symbol": "SPCX5N",
-      "created_at": "2026-10-27T17:21:04.235547929Z",
-      "first_seen": "2026-10-27T17:21:23.914567+00:00"
-    },
-    "HSitCeDx6U3uS8ioZo2K52knG5yGexpBP1K5FNC8pump": {
-      "symbol": "RINSED",
-      "created_at": "2026-10-27T17:21:03.926637843Z",
-      "first_seen": "2026-10-27T17:21:23.914567+00:00"
-    },
     "4MvJfUL6hT2EL5z7mj5m4CwM6vDpnzPniBiXLDDWpump": {
       "symbol": "FI",
       "created_at": "2026-10-27T17:23:51.060456098Z",
@@ -2169,6 +2124,56 @@
       "symbol": "DICE",
       "created_at": "2026-10-27T19:19:38.284568228Z",
       "first_seen": "2026-10-27T19:19:53.383852+00:00"
+    },
+    "GQcXCasGCLDsTijVdoJdq5jhUGmUqCn8f7bdSwTrpump": {
+      "symbol": "Bingus",
+      "created_at": "2026-10-27T19:22:23.003494921Z",
+      "first_seen": "2026-10-27T19:22:31.637048+00:00"
+    },
+    "5rMoMDkxh2XnFeqmAD5FxHUjHqNKPhjvumy5qxeoXaUB": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-10-27T19:22:22.946215876Z",
+      "first_seen": "2026-10-27T19:22:31.637048+00:00"
+    },
+    "2ajAgbHsWm3XLjgBWo7G6uXcJuTdmn9FcSYsQoy7aECX": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-10-27T19:22:22.438742479Z",
+      "first_seen": "2026-10-27T19:22:31.637048+00:00"
+    },
+    "2K8bsmQopry8c89wqTvCohcWo1w7iFFbQm3TiLWoNMme": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-10-27T19:22:21.23549156Z",
+      "first_seen": "2026-10-27T19:22:31.637048+00:00"
+    },
+    "3r6rhnfRNWUNYidd2oFDzTddSWrdCKSNV2xh8hQinYfx": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-10-27T19:22:20.605956929Z",
+      "first_seen": "2026-10-27T19:22:31.637048+00:00"
+    },
+    "AmiZj5mypjM3uWYVGSxuhzXJsq7MXnNEYF3DVAjVwBCS": {
+      "symbol": "EMC2",
+      "created_at": "2026-10-27T19:22:19.623543186Z",
+      "first_seen": "2026-10-27T19:22:31.637048+00:00"
+    },
+    "A2ixzdnzvEHWPzswJUcHdrvid5K87HZM8LBkpRT7xByH": {
+      "symbol": "ROBIN",
+      "created_at": "2026-10-27T19:22:19.240209308Z",
+      "first_seen": "2026-10-27T19:22:31.637048+00:00"
+    },
+    "2T3tyDfTKtwn9ioSgg9vFkkZkvRBpTfrpGdKXNvzpump": {
+      "symbol": "dood",
+      "created_at": "2026-10-27T19:22:19.057378839Z",
+      "first_seen": "2026-10-27T19:22:31.637048+00:00"
+    },
+    "DGVw2sAq37ix6BcjhbgBPGMFpkr5hFABdifyHdPbpump": {
+      "symbol": "**",
+      "created_at": "2026-10-27T19:22:18.859501634Z",
+      "first_seen": "2026-10-27T19:22:31.637048+00:00"
+    },
+    "AojVf7zBHbgW1figzF2e3WtSH2epG8iPLer88TLQpump": {
+      "symbol": "dood",
+      "created_at": "2026-10-27T19:22:18.698028989Z",
+      "first_seen": "2026-10-27T19:22:31.637048+00:00"
     }
   },
   "alerted": [
