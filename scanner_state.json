@@ -618,7 +618,12 @@
     "CB2ExyzxfZjszbc1fdEZStpH6JepEuYx6gFNoaeFpump": {
       "symbol": "CHLOE",
       "created_at": "2026-10-29T13:18:02.647494878Z",
-      "first_seen": "2026-10-29T13:18:19.211113+00:00"
+      "first_seen": "2026-10-29T13:18:19.211113+00:00",
+      "confirm": {
+        "liquidity": 17374.71,
+        "market_cap": 51400,
+        "at": "2026-10-29T13:33:46.434453+00:00"
+      }
     },
     "FGuSajQHEkzEjgQ8RjpVASioKwg2kME8wfmQmCWEHMW9": {
       "symbol": "CHLOE",
@@ -698,11 +703,6 @@
     "ByjavNsrpKSfPRgTTWgakTYpGviwhProj1vJ78oJJMPF": {
       "symbol": "RCL",
       "created_at": "2026-10-29T13:22:27.996036954Z",
-      "first_seen": "2026-10-29T13:22:41.190542+00:00"
-    },
-    "G32fYWxicCq2HFhEu4Yf9CJwgykiNM9k1dtFmNuZ4Rgk": {
-      "symbol": "HYPERCAT",
-      "created_at": "2026-10-29T13:22:25.965978998Z",
       "first_seen": "2026-10-29T13:22:41.190542+00:00"
     },
     "7VhF5EEt3DzwwbFmXu4nay1s4eqvnhUncTrGND9erFYU": {
@@ -934,6 +934,56 @@
       "symbol": "PARCL",
       "created_at": "2026-10-29T13:31:13.051952066Z",
       "first_seen": "2026-10-29T13:31:30.975278+00:00"
+    },
+    "9ZVjyuAuy7zPbz4g5vembuB9vJn9UX6wA8TZ5DuS2oMZ": {
+      "symbol": "RCL",
+      "created_at": "2026-10-29T13:33:41.504104677Z",
+      "first_seen": "2026-10-29T13:33:46.433932+00:00"
+    },
+    "tBSDvjrPaN4XEE2RjUJdMpWrNXD8bsSY5YgjxWmJ4cf": {
+      "symbol": "GROKR",
+      "created_at": "2026-10-29T13:33:36.975475727Z",
+      "first_seen": "2026-10-29T13:33:46.433932+00:00"
+    },
+    "H499CUeMW127JFBwW5rMEDr2xdxAc2jpV5hwve14pump": {
+      "symbol": "wApe",
+      "created_at": "2026-10-29T13:33:33.601940204Z",
+      "first_seen": "2026-10-29T13:33:46.433932+00:00"
+    },
+    "31pNsrtDsdqHSutGDSD4JLV6rZUV1QKdXERU7Xa6pump": {
+      "symbol": "Trader",
+      "created_at": "2026-10-29T13:33:29.908942737Z",
+      "first_seen": "2026-10-29T13:33:46.433932+00:00"
+    },
+    "2DwDof2AUbQpPDqrZUi6ErMAGCmzUDwfJ8vmZ6opUBFk": {
+      "symbol": "OWP",
+      "created_at": "2026-10-29T13:33:29.479636043Z",
+      "first_seen": "2026-10-29T13:33:46.433932+00:00"
+    },
+    "HH5rpguK28w4t9tnr6DWYbqmsfkuARFBi9xeTYgwpump": {
+      "symbol": "vrl",
+      "created_at": "2026-10-29T13:33:28.92219384Z",
+      "first_seen": "2026-10-29T13:33:46.433932+00:00"
+    },
+    "6rRqPnQtPVQX23QzgyDrPx6FDTa9EybejkiqUzApwMsu": {
+      "symbol": "MPN",
+      "created_at": "2026-10-29T13:33:25.369728809Z",
+      "first_seen": "2026-10-29T13:33:46.433932+00:00"
+    },
+    "7HkXJHJeAhiRGNzyiKC4Gkm9TTaJRy3EMFFgw8yWcNtY": {
+      "symbol": "Stan",
+      "created_at": "2026-10-29T13:33:22.973609512Z",
+      "first_seen": "2026-10-29T13:33:46.433932+00:00"
+    },
+    "5R38XpXmWCnGuxnHZnoRSWB2FbHaSGLCbT2ssNNMpump": {
+      "symbol": "Andy",
+      "created_at": "2026-10-29T13:33:22.266701691Z",
+      "first_seen": "2026-10-29T13:33:46.433932+00:00"
+    },
+    "8YXUzwHF2PFU7kd8ro6LLz2oHJPjboXs5fqYSRJmfbyh": {
+      "symbol": "CHLOE",
+      "created_at": "2026-10-29T13:33:22.225678829Z",
+      "first_seen": "2026-10-29T13:33:46.433932+00:00"
     }
   },
   "alerted": [
@@ -1450,7 +1500,6 @@
     "HfPVTUsSd55Aab6BACWCy6dXo5pQgTUFnyGzgspFpump"
   ],
   "rejected": [
-    "5D3fW2o8qHH2vbbAxBJiqNN7Ydy58uYsMD3XSb8yf4L5",
     "56xFv3uemcYyS3g68gZa3DZcAmNVoNWnr4qg6VUELr3a",
     "FhfJp2gUiNdsCfJKHSuxEJTSY4xQWssZYfYay8HgBSMk",
     "GTzQKu51JCTcJNBR1JGcgKz6GYGrzoo594BQWYNBh6u",
@@ -3449,6 +3498,7 @@
     "44NG6x1gEGBecmAtfhKpDNuoitD5vMuuBPECKhLDZUNA",
     "BZkZVx3qVy3WxzpHkdyw7Xsga5bFY3wwoZNsxHL6KQsz",
     "FbHh44vprjUe13zjM3FTdZ9pgkH7NFbKjTq1erZRX6CT",
-    "77p2aJwDzgt6VZ4f5nShsZnUsjbjHMHxhN6urpTCzyBq"
+    "77p2aJwDzgt6VZ4f5nShsZnUsjbjHMHxhN6urpTCzyBq",
+    "G32fYWxicCq2HFhEu4Yf9CJwgykiNM9k1dtFmNuZ4Rgk"
   ]
 }
