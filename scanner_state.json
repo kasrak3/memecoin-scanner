@@ -1160,11 +1160,6 @@
       "created_at": "2026-10-29T06:28:22.519663789Z",
       "first_seen": "2026-10-29T06:28:42.126584+00:00"
     },
-    "CS1rkXSNfZXRTggi4BZyKrXGyQRAW7QRMGD7xdyY3HWe": {
-      "symbol": "Grokbot",
-      "created_at": "2026-10-29T06:28:22.056462032Z",
-      "first_seen": "2026-10-29T06:28:42.126584+00:00"
-    },
     "GYLXoP8Kz8Ymsg4da6QUksVTtx8kTJZ9YRjNBVw45pbe": {
       "symbol": "BTC-DN",
       "created_at": "2026-10-29T06:30:55.559104081Z",
@@ -1509,6 +1504,56 @@
       "symbol": "vCAT",
       "created_at": "2026-10-29T06:44:31.752148103Z",
       "first_seen": "2026-10-29T06:44:52.776073+00:00"
+    },
+    "GpQyoooM3KP3B5co6kkCyY4o7N3m9689uGafA5rDviW7": {
+      "symbol": "fridge",
+      "created_at": "2026-10-29T06:47:07.128371793Z",
+      "first_seen": "2026-10-29T06:47:15.020440+00:00"
+    },
+    "2fSmzXB8WhKEsAZnS2YUXyBwsnDnuv3yfG9eePTbpump": {
+      "symbol": "fridge",
+      "created_at": "2026-10-29T06:47:05.997729062Z",
+      "first_seen": "2026-10-29T06:47:15.020440+00:00"
+    },
+    "7pzhvqEgRfAQN1yxNDWNnx4Pn6ABbVA7zU6TS2A6pump": {
+      "symbol": "ep67",
+      "created_at": "2026-10-29T06:47:04.500479694Z",
+      "first_seen": "2026-10-29T06:47:15.020440+00:00"
+    },
+    "DYbuTRcQW3RGoSVeeEMkvtGMQEcd3YrJpfiX6ECvpump": {
+      "symbol": "Qcat",
+      "created_at": "2026-10-29T06:47:04.461966907Z",
+      "first_seen": "2026-10-29T06:47:15.020440+00:00"
+    },
+    "BztY8kJ6xEiZqMZd998rjaC4kyqsjgckijwfhUFgpump": {
+      "symbol": "MEH",
+      "created_at": "2026-10-29T06:46:59.616914919Z",
+      "first_seen": "2026-10-29T06:47:15.020440+00:00"
+    },
+    "GtJiq4bcds88yYoRDjfVWgwB15LRPsJaeiHiB3YhaTBA": {
+      "symbol": "PUMPFUN",
+      "created_at": "2026-10-29T06:46:51.791826481Z",
+      "first_seen": "2026-10-29T06:47:15.020440+00:00"
+    },
+    "F8WXpki865QoqEy7Q6CSGUmbxCMyPaKN9USMvvUvpump": {
+      "symbol": "PUMPFUN",
+      "created_at": "2026-10-29T06:46:50.739210398Z",
+      "first_seen": "2026-10-29T06:47:15.020440+00:00"
+    },
+    "5jNsSsNhTfsPiYYrHKcG7od42rzwrJsHzyZ2pp1Xpump": {
+      "symbol": "Fridgecoin",
+      "created_at": "2026-10-29T06:46:49.364539295Z",
+      "first_seen": "2026-10-29T06:47:15.020440+00:00"
+    },
+    "7SRvmGT1EipcpZXf4ADnKbyMd9MbJmPg1sVgFVy2pump": {
+      "symbol": "Trump",
+      "created_at": "2026-10-29T06:46:37.881184153Z",
+      "first_seen": "2026-10-29T06:47:15.020440+00:00"
+    },
+    "Gogu1noSiJLYfZvPhgWijZayiAQG5e9pvGiHT39ojtkR": {
+      "symbol": "PUMPFUN",
+      "created_at": "2026-10-29T06:46:35.025978809Z",
+      "first_seen": "2026-10-29T06:47:15.020440+00:00"
     }
   },
   "alerted": [
@@ -2025,7 +2070,6 @@
     "HfPVTUsSd55Aab6BACWCy6dXo5pQgTUFnyGzgspFpump"
   ],
   "rejected": [
-    "HPZ9A9o2dP4bLNjDp47YLUsR5EysmzuL5ZD9JRVpump",
     "Gdn2vWdxBwVNfVKhwRc32SbWnegAWKjj4WipwTnR8D2E",
     "B1Kx5fvHH2iEuSFXTEDUzhMVw2q5Vtud1qMWy52cpump",
     "GsdATLau4nQXpGdrhD42bDPHoMkgHGwF96LPBKUhpump",
@@ -4024,6 +4068,7 @@
     "CCVjWSqDDyYoXtcb5u2XCzEQkpc6w9CUkYfxuQaNCp5t",
     "Egy3NHW7P4j2W98FTEyvbkXohypDLJGEJKoFVcYu9vLT",
     "D1zb8G1QWDF1qDZ4ovS8KUJF2yfdt3mNpeWibVW9JMSA",
-    "BYPJJj8LxHYWbwDPPuukHc4FiXq2b4bGEqQR7tcJf4u8"
+    "BYPJJj8LxHYWbwDPPuukHc4FiXq2b4bGEqQR7tcJf4u8",
+    "CS1rkXSNfZXRTggi4BZyKrXGyQRAW7QRMGD7xdyY3HWe"
   ]
 }
