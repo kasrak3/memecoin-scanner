@@ -540,16 +540,6 @@
       "created_at": "2026-10-30T22:33:48.966367858Z",
       "first_seen": "2026-10-30T22:34:26.584154+00:00"
     },
-    "2Y3pJ4ErqdLdRrVCCKZFydp9mXaaFxq3ajgax6U2pump": {
-      "symbol": "EDS",
-      "created_at": "2026-10-30T22:33:48.219029057Z",
-      "first_seen": "2026-10-30T22:34:26.584154+00:00",
-      "confirm": {
-        "liquidity": 17128.47,
-        "market_cap": 51859,
-        "at": "2026-10-30T22:45:24.856550+00:00"
-      }
-    },
     "3BrSyhCuLQv3cVGiC9A8ibjUpc7XJYqa1oLnrRd2GK7f": {
       "symbol": "VNT",
       "created_at": "2026-10-30T22:36:21.096880153Z",
@@ -799,6 +789,56 @@
       "symbol": "MPN",
       "created_at": "2026-10-30T22:44:52.891827806Z",
       "first_seen": "2026-10-30T22:45:24.856316+00:00"
+    },
+    "73uBJuUa2ceefxDncbVxsobVL1HnS95nZfELh331BAGS": {
+      "symbol": "COPNATR",
+      "created_at": "2026-10-30T22:47:26.151572708Z",
+      "first_seen": "2026-10-30T22:47:41.682946+00:00"
+    },
+    "3LC9MLx5Cgzxj21yH9sJ1x1tkHYUQxpP648Fo4y4pump": {
+      "symbol": "SUSHIBARA",
+      "created_at": "2026-10-30T22:47:26.140949753Z",
+      "first_seen": "2026-10-30T22:47:41.682946+00:00"
+    },
+    "FScRRzfNYKNvGKqPZeaP8F7RaYbKRuZFogXu46iwpump": {
+      "symbol": "DOGEsword",
+      "created_at": "2026-10-30T22:47:25.394341163Z",
+      "first_seen": "2026-10-30T22:47:41.682946+00:00"
+    },
+    "DzoWhCeX9BySsiEqqmccwQb4owdcY8CX8ReZ4EVpump": {
+      "symbol": "TWINKCLAV",
+      "created_at": "2026-10-30T22:47:24.932030351Z",
+      "first_seen": "2026-10-30T22:47:41.682946+00:00"
+    },
+    "FtbThKYwxUYEPyPCrkQySv5pebFjTkpjsroXT67fpump": {
+      "symbol": "READ",
+      "created_at": "2026-10-30T22:47:21.921500674Z",
+      "first_seen": "2026-10-30T22:47:41.682946+00:00"
+    },
+    "GvDZRtzcN17iJkRaTkrPMkiNFSG85MGq8uLyCSUApump": {
+      "symbol": "RAG3",
+      "created_at": "2026-10-30T22:47:21.724825639Z",
+      "first_seen": "2026-10-30T22:47:41.682946+00:00"
+    },
+    "Ef2BXhG9oaPSfYrscSdi6P3pqksPYboBZ7RAcBiLpump": {
+      "symbol": "READ",
+      "created_at": "2026-10-30T22:47:18.382308942Z",
+      "first_seen": "2026-10-30T22:47:41.682946+00:00"
+    },
+    "5gGcuQHpWDUN5zxZENC3UwdHKCp5ME34MF1S77GFpump": {
+      "symbol": "READ",
+      "created_at": "2026-10-30T22:47:13.484110415Z",
+      "first_seen": "2026-10-30T22:47:41.682946+00:00"
+    },
+    "D8w3e8DZcSZrtiWKeVKHorcuzfm5EA12YT9WC4nbjnRM": {
+      "symbol": "AAPLCAT",
+      "created_at": "2026-10-30T22:47:13.22226737Z",
+      "first_seen": "2026-10-30T22:47:41.682946+00:00"
+    },
+    "4HTWtxQa8S8bUntBLVn7p7i1avZYzU9f9j6fpmBzpump": {
+      "symbol": "Kansas",
+      "created_at": "2026-10-30T22:47:12.694854809Z",
+      "first_seen": "2026-10-30T22:47:41.682946+00:00"
     }
   },
   "alerted": [
@@ -1316,7 +1356,8 @@
     "CB2ExyzxfZjszbc1fdEZStpH6JepEuYx6gFNoaeFpump",
     "8bVvkW6QzaRzhBWrdDGgvAwm7rV3wwLUqn5wWnbVpump",
     "3mh5pgk58HPZwEinnZNUbsJpUoyqYa23zS2n442Zpump",
-    "HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump"
+    "HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump",
+    "2Y3pJ4ErqdLdRrVCCKZFydp9mXaaFxq3ajgax6U2pump"
   ],
   "rejected": [
     "42vA3sBjRArLYenpJmwdicqegBVx2DKzPmDz76okYSkg",
