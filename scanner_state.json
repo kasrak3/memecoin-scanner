@@ -1913,7 +1913,12 @@
     "3mh5pgk58HPZwEinnZNUbsJpUoyqYa23zS2n442Zpump": {
       "symbol": "BEAST",
       "created_at": "2026-10-30T07:17:07.640378776Z",
-      "first_seen": "2026-10-30T07:17:25.723812+00:00"
+      "first_seen": "2026-10-30T07:17:25.723812+00:00",
+      "confirm": {
+        "liquidity": 16055.09,
+        "market_cap": 41553,
+        "at": "2026-10-30T07:34:32.709527+00:00"
+      }
     },
     "CvsN7g8xgm5Sc3jbW6w3wxhYCGbR9mrBkQDqh1Pepump": {
       "symbol": "CRACKED DEV",
@@ -2164,6 +2169,56 @@
       "symbol": "RIP",
       "created_at": "2026-10-30T07:31:11.578971422Z",
       "first_seen": "2026-10-30T07:31:37.009032+00:00"
+    },
+    "5iaZ7EvrE8QJq68khyuRnN5pbCD8jpDTpugNYd6syN6f": {
+      "symbol": "MPN",
+      "created_at": "2026-10-30T07:34:28.162029179Z",
+      "first_seen": "2026-10-30T07:34:32.709031+00:00"
+    },
+    "8mvdm3WojzJsEZppTgA5592bimhh4Epsc8zyUJnr5hXU": {
+      "symbol": "",
+      "created_at": "2026-10-30T07:34:23.720627537Z",
+      "first_seen": "2026-10-30T07:34:32.709031+00:00"
+    },
+    "7yCuNqGFFogkuoGuhRKFncYEaTRomUNsa5ZQ4C9V6UQ3": {
+      "symbol": "",
+      "created_at": "2026-10-30T07:34:22.72989415Z",
+      "first_seen": "2026-10-30T07:34:32.709031+00:00"
+    },
+    "7ph1gMaJjqMZPJMCSWTUJ9cQK8NZHSVoap2rRUzYpump": {
+      "symbol": "APE",
+      "created_at": "2026-10-30T07:34:20.729052927Z",
+      "first_seen": "2026-10-30T07:34:32.709031+00:00"
+    },
+    "AzUqfssEQeEhQwVwtQs55N6XHAvCvoHprnhHkd4YtTFc": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-10-30T07:34:15.973127449Z",
+      "first_seen": "2026-10-30T07:34:32.709031+00:00"
+    },
+    "27KSGH5783FnLjAxXSqT1cpxfW7hmtnQHNXD2Lfmpump": {
+      "symbol": "PUMP",
+      "created_at": "2026-10-30T07:34:13.035730859Z",
+      "first_seen": "2026-10-30T07:34:32.709031+00:00"
+    },
+    "EofBWhufbG3oLXep1ZYCgPo11M7pJkF2bEvPe2Supump": {
+      "symbol": "non",
+      "created_at": "2026-10-30T07:34:08.946236461Z",
+      "first_seen": "2026-10-30T07:34:32.709031+00:00"
+    },
+    "BaufMezdFiRqd6joM1jAS2wSgDFtNQsdbniq2VGzvjb2": {
+      "symbol": "",
+      "created_at": "2026-10-30T07:34:01.579886948Z",
+      "first_seen": "2026-10-30T07:34:32.709031+00:00"
+    },
+    "GDMQ9fiDJmqv8q5DdV2DsVNGSnU6qJs1yCStaVHhsEHm": {
+      "symbol": "PIGY",
+      "created_at": "2026-10-30T07:34:00.657168185Z",
+      "first_seen": "2026-10-30T07:34:32.709031+00:00"
+    },
+    "9qTUdTRMYtfQvUafqFGFHBH6J6xzLVLdKTvmZHgsPgFT": {
+      "symbol": "",
+      "created_at": "2026-10-30T07:33:59.905346396Z",
+      "first_seen": "2026-10-30T07:34:32.709031+00:00"
     }
   },
   "alerted": [
