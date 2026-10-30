@@ -1,55 +1,5 @@
 {
   "pending": {
-    "B5aRMvDZT4atT7bof28EBLpVqntWn3LV1auPsborpump": {
-      "symbol": "tonnel",
-      "created_at": "2026-10-30T04:11:41.414771377Z",
-      "first_seen": "2026-10-30T04:11:43.449773+00:00"
-    },
-    "563mCgAiA4CpKJvXd7pey5K9fBgtd4atzuU5P8wmpump": {
-      "symbol": "SATINU",
-      "created_at": "2026-10-30T04:11:37.89024703Z",
-      "first_seen": "2026-10-30T04:11:43.449773+00:00"
-    },
-    "5QgKd8eGcTEEqQQmNUb2NYucKkxBMkBXoifEswAvpump": {
-      "symbol": "DOGE PAID",
-      "created_at": "2026-10-30T04:11:35.985400198Z",
-      "first_seen": "2026-10-30T04:11:43.449773+00:00"
-    },
-    "5sbsPjYw776SPsezctQhfiDRjBATfvyFp1BCgg8apump": {
-      "symbol": "BLINDAPE",
-      "created_at": "2026-10-30T04:11:33.846740852Z",
-      "first_seen": "2026-10-30T04:11:43.449773+00:00"
-    },
-    "667tAyhVvB5RFVd6wNkWhRX7BAoECwJNEyPXYB3upump": {
-      "symbol": "BLINDAPE",
-      "created_at": "2026-10-30T04:11:33.192023624Z",
-      "first_seen": "2026-10-30T04:11:43.449773+00:00"
-    },
-    "97Zn1mrdGKtX66Y8gKDWvmRG78yE9wqvRBDxESUUpump": {
-      "symbol": "HYPETAP",
-      "created_at": "2026-10-30T04:11:32.720918626Z",
-      "first_seen": "2026-10-30T04:11:43.449773+00:00"
-    },
-    "DhWqdvAFUeg4n2pyj7wwrCvtrZVzLoLR7Umrx58jpump": {
-      "symbol": "OFB",
-      "created_at": "2026-10-30T04:11:31.337549999Z",
-      "first_seen": "2026-10-30T04:11:43.449773+00:00"
-    },
-    "E2nqSDTYHe3mwrLGg2ee1Mik85tjw564BBzxo1RMpump": {
-      "symbol": "Blindsight",
-      "created_at": "2026-10-30T04:11:30.483123194Z",
-      "first_seen": "2026-10-30T04:11:43.449773+00:00"
-    },
-    "Ge7NkDMWvteGdRdhAuJq2rYJqjJeVXfVfrABB34UYc9i": {
-      "symbol": "MPN",
-      "created_at": "2026-10-30T04:11:28.296982181Z",
-      "first_seen": "2026-10-30T04:11:43.449773+00:00"
-    },
-    "DRM1zL5PVKKqnLzdkqsUUgRhTnGRpW8NrAvLK46apump": {
-      "symbol": "INSIDE",
-      "created_at": "2026-10-30T04:11:26.999166483Z",
-      "first_seen": "2026-10-30T04:11:43.449773+00:00"
-    },
     "7ndBouwhAjzhAhV4dAJm1Ld9pwas2MAwc6xmxoeVpump": {
       "symbol": "TBFI",
       "created_at": "2026-10-30T04:14:16.15069941Z",
@@ -818,7 +768,12 @@
     "8bVvkW6QzaRzhBWrdDGgvAwm7rV3wwLUqn5wWnbVpump": {
       "symbol": "SpaceX",
       "created_at": "2026-10-30T06:01:02.838346893Z",
-      "first_seen": "2026-10-30T06:01:28.508159+00:00"
+      "first_seen": "2026-10-30T06:01:28.508159+00:00",
+      "confirm": {
+        "liquidity": 27390.28,
+        "market_cap": 123151,
+        "at": "2026-10-30T06:13:28.485114+00:00"
+      }
     },
     "ELSpKyiMSXfyb6WhNHUBigpVFByx2PZK8YGhSt89J5mF": {
       "symbol": "",
@@ -1019,6 +974,56 @@
       "symbol": "CZ",
       "created_at": "2026-10-30T06:10:32.26742001Z",
       "first_seen": "2026-10-30T06:11:02.383362+00:00"
+    },
+    "CWocc1NAqa2wz5VUt6gtU9weesJLYV6f6x8H7pZtpump": {
+      "symbol": "DMND",
+      "created_at": "2026-10-30T06:13:17.770181949Z",
+      "first_seen": "2026-10-30T06:13:28.484726+00:00"
+    },
+    "FQXePtNnDv1S1XSf1Un24uhr6Vrab8wGDpjemZAQB1Xh": {
+      "symbol": "FLUKE",
+      "created_at": "2026-10-30T06:13:16.470437672Z",
+      "first_seen": "2026-10-30T06:13:28.484726+00:00"
+    },
+    "Gs3qbw9dqzRDgVF4DbAfeNAZC5MyBb1GpH2Tc3Eqpump": {
+      "symbol": "Mars",
+      "created_at": "2026-10-30T06:13:12.529903321Z",
+      "first_seen": "2026-10-30T06:13:28.484726+00:00"
+    },
+    "BNG15RGjPSPuLyd8c6nRbVPdNCu7zVdzuzyhEXWvBTua": {
+      "symbol": "Mars",
+      "created_at": "2026-10-30T06:13:12.443716574Z",
+      "first_seen": "2026-10-30T06:13:28.484726+00:00"
+    },
+    "J5BErqmcZvonMN3w39w6YufQ2M1mPCJcFvcSs8KyYjrh": {
+      "symbol": "E91",
+      "created_at": "2026-10-30T06:13:12.26212061Z",
+      "first_seen": "2026-10-30T06:13:28.484726+00:00"
+    },
+    "7Rssxb7V5dtChL51waq8GnBWqdydkHznmNi18Yh2pump": {
+      "symbol": "LMC",
+      "created_at": "2026-10-30T06:13:11.948773164Z",
+      "first_seen": "2026-10-30T06:13:28.484726+00:00"
+    },
+    "FupmiycKttojPNGhLnHyVzFnsrq88GqMqNUv3kBJpump": {
+      "symbol": "Mars",
+      "created_at": "2026-10-30T06:13:09.665897057Z",
+      "first_seen": "2026-10-30T06:13:28.484726+00:00"
+    },
+    "5DMjUMihKWUNvkCbTWDWHK6WZKPrjWxQnqbYytLxpump": {
+      "symbol": "ngr",
+      "created_at": "2026-10-30T06:13:09.211956645Z",
+      "first_seen": "2026-10-30T06:13:28.484726+00:00"
+    },
+    "FN72SnSBvQiiSYxz7Rg5DkAa2TsWhU6cJoWgpMiTpump": {
+      "symbol": "song",
+      "created_at": "2026-10-30T06:13:08.881418373Z",
+      "first_seen": "2026-10-30T06:13:28.484726+00:00"
+    },
+    "Ca8BYPRDgj88PDntofUhLxWLDhQPC81t3kBKYohJpump": {
+      "symbol": "Mars",
+      "created_at": "2026-10-30T06:13:06.492658842Z",
+      "first_seen": "2026-10-30T06:13:28.484726+00:00"
     }
   },
   "alerted": [
