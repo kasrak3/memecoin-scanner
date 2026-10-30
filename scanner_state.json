@@ -543,7 +543,12 @@
     "2Y3pJ4ErqdLdRrVCCKZFydp9mXaaFxq3ajgax6U2pump": {
       "symbol": "EDS",
       "created_at": "2026-10-30T22:33:48.219029057Z",
-      "first_seen": "2026-10-30T22:34:26.584154+00:00"
+      "first_seen": "2026-10-30T22:34:26.584154+00:00",
+      "confirm": {
+        "liquidity": 17128.47,
+        "market_cap": 51859,
+        "at": "2026-10-30T22:45:24.856550+00:00"
+      }
     },
     "3BrSyhCuLQv3cVGiC9A8ibjUpc7XJYqa1oLnrRd2GK7f": {
       "symbol": "VNT",
@@ -744,6 +749,56 @@
       "symbol": "iCoin",
       "created_at": "2026-10-30T22:42:43.786681726Z",
       "first_seen": "2026-10-30T22:43:09.731375+00:00"
+    },
+    "7RPQmufWt63W1dx2ScBcdTaWgaZbK9RxMVAKPYxEpump": {
+      "symbol": "$LOAD",
+      "created_at": "2026-10-30T22:45:05.080091994Z",
+      "first_seen": "2026-10-30T22:45:24.856316+00:00"
+    },
+    "CdadhRAE2dpwqzh5zHm3pS4HsdEs72f7chekhCtfpump": {
+      "symbol": "DZ",
+      "created_at": "2026-10-30T22:45:04.877314455Z",
+      "first_seen": "2026-10-30T22:45:24.856316+00:00"
+    },
+    "CaDfrU3FBWPryz6425yEqd69xX2YJ9neMKbQjr1xy141": {
+      "symbol": "AAPLCAT",
+      "created_at": "2026-10-30T22:45:03.899694306Z",
+      "first_seen": "2026-10-30T22:45:24.856316+00:00"
+    },
+    "AVv1xfKqjyXddKs6vjTQyZtF9TKC5rNrApWMSMfSpump": {
+      "symbol": "READ",
+      "created_at": "2026-10-30T22:45:03.873052006Z",
+      "first_seen": "2026-10-30T22:45:24.856316+00:00"
+    },
+    "BCCxWkhVvmYc9pzqbsHUPUZYxo3T9RDtZTE33s21AEaB": {
+      "symbol": "ASTEROID",
+      "created_at": "2026-10-30T22:44:59.937443098Z",
+      "first_seen": "2026-10-30T22:45:24.856316+00:00"
+    },
+    "4D3fus5Zisxr4A52d6x6FnU7eoMWk5dedEGbdrHbpump": {
+      "symbol": "READ",
+      "created_at": "2026-10-30T22:44:57.92460264Z",
+      "first_seen": "2026-10-30T22:45:24.856316+00:00"
+    },
+    "CTeC5dMftbnEV6cUMYgtK611uMujS7VJiaXz5D8mpump": {
+      "symbol": "GOR",
+      "created_at": "2026-10-30T22:44:57.488687906Z",
+      "first_seen": "2026-10-30T22:45:24.856316+00:00"
+    },
+    "4ThAF39PiLjqFjepQ6AQUwaxtohEv3Ua4RUzUNm8pump": {
+      "symbol": "JAPE",
+      "created_at": "2026-10-30T22:44:54.702760688Z",
+      "first_seen": "2026-10-30T22:45:24.856316+00:00"
+    },
+    "HwutP4H55y8QAhVVWZWgkwetGwfuoaJc5tTQVtJYpump": {
+      "symbol": "Wapple",
+      "created_at": "2026-10-30T22:44:54.466690217Z",
+      "first_seen": "2026-10-30T22:45:24.856316+00:00"
+    },
+    "8XNhnBPwgqF2GTVy3ukADkZ4ajp4kgfFXGchUeQWSDwA": {
+      "symbol": "MPN",
+      "created_at": "2026-10-30T22:44:52.891827806Z",
+      "first_seen": "2026-10-30T22:45:24.856316+00:00"
     }
   },
   "alerted": [
