@@ -1580,11 +1580,6 @@
       "created_at": "2026-10-30T13:54:10.198285593Z",
       "first_seen": "2026-10-30T13:55:24.053137+00:00"
     },
-    "GEWDAj3NaK3WVpgjhusnZq8CMsYu9yQPRRxApfXwpump": {
-      "symbol": "laptop",
-      "created_at": "2026-10-30T13:54:09.885756772Z",
-      "first_seen": "2026-10-30T13:55:24.053137+00:00"
-    },
     "3JDG6wZXwkRSuFxuyf4PenK3uRgzHFctMcFSfdkUpump": {
       "symbol": "REDFRIDAY",
       "created_at": "2026-10-30T13:54:09.77836568Z",
@@ -1799,6 +1794,56 @@
       "symbol": "MPN",
       "created_at": "2026-10-30T14:04:56.481633796Z",
       "first_seen": "2026-10-30T14:05:25.232521+00:00"
+    },
+    "9LKqa1baxyvY1hWqYB2WiHThfC7zQBtJr2ASLd7UFEe1": {
+      "symbol": "LONG",
+      "created_at": "2026-10-30T14:07:47.847398205Z",
+      "first_seen": "2026-10-30T14:07:50.426306+00:00"
+    },
+    "7TxoLMB4vdRuHpBT2BQSwPtxwMeFNYVRJJbkUPXMJCMy": {
+      "symbol": "HEDGE",
+      "created_at": "2026-10-30T14:07:47.05879809Z",
+      "first_seen": "2026-10-30T14:07:50.426306+00:00"
+    },
+    "5AXsTtCRvQY88qeSGF8eVzKjC1nM2DEUqVksL4g1Eqrt": {
+      "symbol": "HYPELON",
+      "created_at": "2026-10-30T14:07:46.722536036Z",
+      "first_seen": "2026-10-30T14:07:50.426306+00:00"
+    },
+    "8khmkmWD1vEyqzE5waGoGeYmtdmKwZu9ssQwimqVpump": {
+      "symbol": "$BUY",
+      "created_at": "2026-10-30T14:07:42.644331248Z",
+      "first_seen": "2026-10-30T14:07:50.426306+00:00"
+    },
+    "2b6Mtai7JLhFWTYQARXnf2qBtYoXUVH98qG2jMpgpump": {
+      "symbol": "ZGOB",
+      "created_at": "2026-10-30T14:07:42.189640101Z",
+      "first_seen": "2026-10-30T14:07:50.426306+00:00"
+    },
+    "AA5HtwPtnuzxdiGwT3tkmuGBr2A4v99p7Eop5Ho3UbQP": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-10-30T14:07:41.052518911Z",
+      "first_seen": "2026-10-30T14:07:50.426306+00:00"
+    },
+    "HfKdwVefeSAndkx1KPCgVb9oECSr5nEyXaC3kZoTAkjq": {
+      "symbol": "Laptop",
+      "created_at": "2026-10-30T14:07:39.15598254Z",
+      "first_seen": "2026-10-30T14:07:50.426306+00:00"
+    },
+    "F6aDycvdpH8TVxfbTAMpxWay5TWUpVxfwuhcddyapump": {
+      "symbol": "Laptop",
+      "created_at": "2026-10-30T14:07:38.899918629Z",
+      "first_seen": "2026-10-30T14:07:50.426306+00:00"
+    },
+    "g6qV4v6xRUi6vrTZREqssYFvLu83e2fc2qi4qTHpump": {
+      "symbol": "USOE",
+      "created_at": "2026-10-30T14:07:38.178593721Z",
+      "first_seen": "2026-10-30T14:07:50.426306+00:00"
+    },
+    "21y6d1n16fDNi63NqahaNrL7GmbhuSqFuyU9T8cmveQd": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-10-30T14:07:37.621602749Z",
+      "first_seen": "2026-10-30T14:07:50.426306+00:00"
     }
   },
   "alerted": [
@@ -2319,7 +2364,6 @@
     "HftEwseBtcbgxj9j7AfgsA5ZiTEhSK9qWXZs8rzfpump"
   ],
   "rejected": [
-    "3Zz9jTW7bc8cXQ3ojQYMiNYwe4e4gsAw1vvGFCbm8Hip",
     "2WnAqBi6irRdDD8gim2xxryiSM9mHCuD81zhsCH4WPsS",
     "eojMKAWBV5diSVRY6zZc5k3NvbNkJRTPtPLBoj8Kdej",
     "usdpVRcmkjKgbHXuBQspnpDFuVkjNgvr6VgoqeaEi5E",
@@ -4318,6 +4362,7 @@
     "T52KSuMZshVRCro2QUMgFPgGrXakcWZbFnt8q7Npump",
     "5N1zsjBNqiij1cVEztEMffwcbxsJdHmSPm5ahtjF5suR",
     "27MWqjFnGt2ma5xkLB4AG9zkbNF1bzRVQ4WrtWmqz1cc",
-    "H3f8M2eZ8AVvUKtXKTcaK2syotZijFSYh6sV27TLcAFT"
+    "H3f8M2eZ8AVvUKtXKTcaK2syotZijFSYh6sV27TLcAFT",
+    "GEWDAj3NaK3WVpgjhusnZq8CMsYu9yQPRRxApfXwpump"
   ]
 }
