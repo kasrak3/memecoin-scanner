@@ -1465,16 +1465,6 @@
       "created_at": "2026-10-30T06:52:43.124634138Z",
       "first_seen": "2026-10-30T06:52:56.830599+00:00"
     },
-    "E5pZM5GH1WaCWxNnDvhtWVjvzR7P5iUqXU8epki2pump": {
-      "symbol": "SI",
-      "created_at": "2026-10-30T06:52:42.863893554Z",
-      "first_seen": "2026-10-30T06:52:56.830599+00:00",
-      "confirm": {
-        "liquidity": 20262.31,
-        "market_cap": 64386,
-        "at": "2026-10-30T07:03:36.775631+00:00"
-      }
-    },
     "He53typN2HYVxpqNzeArBSBr1vdmSAT7qbTnsQqoWoFC": {
       "symbol": "OWP",
       "created_at": "2026-10-30T06:52:41.420105511Z",
@@ -1689,6 +1679,56 @@
       "symbol": "MPN",
       "created_at": "2026-10-30T07:03:19.996481938Z",
       "first_seen": "2026-10-30T07:03:36.775206+00:00"
+    },
+    "2QGK85McpSF4KCNv3ofYuibhBFx8HBwXgBPL3TVqpump": {
+      "symbol": "VICEBOT",
+      "created_at": "2026-10-30T07:06:09.744760406Z",
+      "first_seen": "2026-10-30T07:06:19.895466+00:00"
+    },
+    "H7WqVVZRiBNLtUpG9SCAWGU4Lg2ardWoFNSTnHhpump": {
+      "symbol": "PCM",
+      "created_at": "2026-10-30T07:06:06.88307293Z",
+      "first_seen": "2026-10-30T07:06:19.895466+00:00"
+    },
+    "AHsSkpgTfkh1LzJu6vodJidC51Jakz1P5uwXYMkYzSpJ": {
+      "symbol": "",
+      "created_at": "2026-10-30T07:06:06.422406519Z",
+      "first_seen": "2026-10-30T07:06:19.895466+00:00"
+    },
+    "64oZziUw1YCE21udEifJa7izwYqmyEPbhiq1PTPKvg5f": {
+      "symbol": "worth",
+      "created_at": "2026-10-30T07:06:05.176455799Z",
+      "first_seen": "2026-10-30T07:06:19.895466+00:00"
+    },
+    "F2gpHFyZmmQMbEp8z4PgMQ1dnhg5wFdvYuPejJHJpump": {
+      "symbol": "Chrome",
+      "created_at": "2026-10-30T07:06:04.872770278Z",
+      "first_seen": "2026-10-30T07:06:19.895466+00:00"
+    },
+    "9WBK8JxvE9Mui1JzJ7Lh8EQEP7pYuktwJGZhmvAJEoyG": {
+      "symbol": "MPN",
+      "created_at": "2026-10-30T07:06:02.156902855Z",
+      "first_seen": "2026-10-30T07:06:19.895466+00:00"
+    },
+    "2A9dtkv8ZVg5nqt6tFyXfrB1QkKf67yLzQhKogsdpump": {
+      "symbol": "cccat",
+      "created_at": "2026-10-30T07:06:01.186384807Z",
+      "first_seen": "2026-10-30T07:06:19.895466+00:00"
+    },
+    "DWGrbvVQW69k2fjTH7BwWFyq1uz2NxnewGR6ZoerxwnR": {
+      "symbol": "MPN",
+      "created_at": "2026-10-30T07:06:00.604755081Z",
+      "first_seen": "2026-10-30T07:06:19.895466+00:00"
+    },
+    "27KJur9aW9PRnTnvN8kJgAYaTbCkqPq44jtmVbCdpump": {
+      "symbol": "Incoginu",
+      "created_at": "2026-10-30T07:06:00.097778137Z",
+      "first_seen": "2026-10-30T07:06:19.895466+00:00"
+    },
+    "qPmWp3ySsidKBHfxz15QEh3Eq44A1UD3Q1NsrRmpump": {
+      "symbol": "zone",
+      "created_at": "2026-10-30T07:05:56.73665311Z",
+      "first_seen": "2026-10-30T07:06:19.895466+00:00"
     }
   },
   "alerted": [
@@ -2207,7 +2247,6 @@
     "8bVvkW6QzaRzhBWrdDGgvAwm7rV3wwLUqn5wWnbVpump"
   ],
   "rejected": [
-    "gjaDS6RBeS2577qvTRP7BuavKkAKFEV82tkr8JCpump",
     "9X2BiKv1eFiWNjDw2NYP9zoQ2xEZc5KTr6P4XsPPfv4G",
     "CUyaDiHbRRv9yNEG1iXZdbU1xXUciPX5pfz4nuMebX3x",
     "Buc1fRBUfjkU6W74EVM6G5J7YJ2nwPyQYRpSdswXhxJk",
@@ -4206,6 +4245,7 @@
     "5n5ysVLbZ1F6zoPWVqQsohtcEh9PEKvdJR6f9JFgaD8a",
     "4YwGaYF8oG5K1D7v44MkPcWF1DRLcsoi4X5rUrtqpump",
     "58fX1qDBHHiEwR2ShZeHcV3pzjv1Z94pUXcGGSFTD2aU",
-    "BE4yGB6yduEjgBQwUX6rczqyVRkAHQo9vUrQ7k6RmHZF"
+    "BE4yGB6yduEjgBQwUX6rczqyVRkAHQo9vUrQ7k6RmHZF",
+    "E5pZM5GH1WaCWxNnDvhtWVjvzR7P5iUqXU8epki2pump"
   ]
 }
