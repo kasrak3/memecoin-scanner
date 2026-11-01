@@ -1198,7 +1198,12 @@
     "9b1nHYf7itdoTTKgxsWyGNL2PmsN1a3doPTZdRhdpump": {
       "symbol": "fomo",
       "created_at": "2026-11-01T06:44:35.101331763Z",
-      "first_seen": "2026-11-01T06:44:54.392661+00:00"
+      "first_seen": "2026-11-01T06:44:54.392661+00:00",
+      "confirm": {
+        "liquidity": 25714.69,
+        "market_cap": 111486,
+        "at": "2026-11-01T06:56:49.793156+00:00"
+      }
     },
     "FnAVKhwoTPATgpV3b7gfwWkrnDHA9WFf5oRFMKbLpump": {
       "symbol": "SXSN",
@@ -1409,6 +1414,56 @@
       "symbol": "KIM",
       "created_at": "2026-11-01T06:53:42.856378531Z",
       "first_seen": "2026-11-01T06:54:25.114321+00:00"
+    },
+    "7jL1MUxaLeQspMyPZHCorCA5ne6cEdCVZcVJ9JhtsFS3": {
+      "symbol": "BBC",
+      "created_at": "2026-11-01T06:56:47.025453507Z",
+      "first_seen": "2026-11-01T06:56:49.792842+00:00"
+    },
+    "Ezme78tF5GLMkFtD7qfPHnDnKLDKyTDe64Le3dTuPgFc": {
+      "symbol": "Fox",
+      "created_at": "2026-11-01T06:56:45.068567322Z",
+      "first_seen": "2026-11-01T06:56:49.792842+00:00"
+    },
+    "HrgA8c3Q8nMtykgn71ZgdohF5faHbi2HZm3Zqpm2sfMC": {
+      "symbol": "",
+      "created_at": "2026-11-01T06:56:44.142227742Z",
+      "first_seen": "2026-11-01T06:56:49.792842+00:00"
+    },
+    "6TAJPQiUZ4AqBMGVS91gRXuTEqDagmAFdWrNZrvdaqad": {
+      "symbol": "",
+      "created_at": "2026-11-01T06:56:36.7205088Z",
+      "first_seen": "2026-11-01T06:56:49.792842+00:00"
+    },
+    "2MdeVsCYFypRH7NTxW5fmDTxkAiSFHaETMxxjEtwZEkn": {
+      "symbol": "",
+      "created_at": "2026-11-01T06:56:36.50796428Z",
+      "first_seen": "2026-11-01T06:56:49.792842+00:00"
+    },
+    "BB1e59mPk1BsJKKGdoKeRP4m5jp9BWLio7Y6mSajhvz9": {
+      "symbol": "BALL",
+      "created_at": "2026-11-01T06:56:34.833572943Z",
+      "first_seen": "2026-11-01T06:56:49.792842+00:00"
+    },
+    "fTmwkc92n83AvWKzVrYybFY52ebS85cJqtjjNPtpump": {
+      "symbol": "fg",
+      "created_at": "2026-11-01T06:56:34.476431525Z",
+      "first_seen": "2026-11-01T06:56:49.792842+00:00"
+    },
+    "GXnisKWQT7rWyYmHfoP9fW33mCm4i2FyiagUpgmzpump": {
+      "symbol": "FUTR",
+      "created_at": "2026-11-01T06:56:33.467034207Z",
+      "first_seen": "2026-11-01T06:56:49.792842+00:00"
+    },
+    "3knRzPtq4d6wDRhnmkMg2YH3W1vT5fh2a8csp4popump": {
+      "symbol": "BALL",
+      "created_at": "2026-11-01T06:56:33.431517516Z",
+      "first_seen": "2026-11-01T06:56:49.792842+00:00"
+    },
+    "DC1t7mXdR58nxPDTcedTLHzMPVD4fNH1C8xVUpUt3gob": {
+      "symbol": "MPN",
+      "created_at": "2026-11-01T06:56:29.373613961Z",
+      "first_seen": "2026-11-01T06:56:49.792842+00:00"
     }
   },
   "alerted": [
