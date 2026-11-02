@@ -1,15 +1,5 @@
 {
   "pending": {
-    "yfK4airsMD4bT91byCbex2mzVeeS3jxutn4i5Ltpump": {
-      "symbol": "FOMO",
-      "created_at": "2026-11-02T15:38:23.174823318Z",
-      "first_seen": "2026-11-02T15:38:24.968916+00:00",
-      "confirm": {
-        "liquidity": 24454.15,
-        "market_cap": 102708,
-        "at": "2026-11-02T15:48:33.914411+00:00"
-      }
-    },
     "32sFAZxj7hGijFXoP8KK5BpRhTesmewdThpooPbEpump": {
       "symbol": "Cleveland",
       "created_at": "2026-11-02T15:38:17.637536865Z",
@@ -304,6 +294,56 @@
       "symbol": "RCL",
       "created_at": "2026-11-02T15:48:23.097035948Z",
       "first_seen": "2026-11-02T15:48:33.914202+00:00"
+    },
+    "BjwrXxBdwtQvaFoonuBJ7fAwwsLkKpSKRN84zcF6e26U": {
+      "symbol": "ANSEM",
+      "created_at": "2026-11-02T15:50:30.047708112Z",
+      "first_seen": "2026-11-02T15:50:37.834269+00:00"
+    },
+    "GsWkPFoKVVe275Q6gUdenk7Do2dEjuvBrw29xqJZpump": {
+      "symbol": "ANSEM",
+      "created_at": "2026-11-02T15:50:28.971586531Z",
+      "first_seen": "2026-11-02T15:50:37.834269+00:00"
+    },
+    "GTqzNMbmvaMLCFEGTu2nRhRTiH9wUBnLUoFqJRVRpump": {
+      "symbol": "FEAR",
+      "created_at": "2026-11-02T15:50:27.45986621Z",
+      "first_seen": "2026-11-02T15:50:37.834269+00:00"
+    },
+    "CQyUZofsKi3UBRWDyTSEVpDy6xodttSaDtmdRKNNpump": {
+      "symbol": "FEAR",
+      "created_at": "2026-11-02T15:50:25.341650082Z",
+      "first_seen": "2026-11-02T15:50:37.834269+00:00"
+    },
+    "DR5R5TugNnSmEJ28rQikcPyaFSn5V2JAdCiKyPd6pump": {
+      "symbol": "Rock.Star",
+      "created_at": "2026-11-02T15:50:25.204278424Z",
+      "first_seen": "2026-11-02T15:50:37.834269+00:00"
+    },
+    "GiXvXQ9mcBG2hFekVFBRgMt8wKD1X2KMaDjTYTe4pump": {
+      "symbol": "Stallion",
+      "created_at": "2026-11-02T15:50:24.162663399Z",
+      "first_seen": "2026-11-02T15:50:37.834269+00:00"
+    },
+    "B4KZbsy22onPzy7n1MNoL4T3MG38AEaATJ1fVAU6pump": {
+      "symbol": "trench",
+      "created_at": "2026-11-02T15:50:23.760516336Z",
+      "first_seen": "2026-11-02T15:50:37.834269+00:00"
+    },
+    "FMx3RP2fNHT8niMeUGeYcg3jpajtJaYJEpVgnKNCpump": {
+      "symbol": "MOMO",
+      "created_at": "2026-11-02T15:50:21.032980944Z",
+      "first_seen": "2026-11-02T15:50:37.834269+00:00"
+    },
+    "8PzaxwchtbeXUiYNzWXBDwBoZBbYk4KXw7wNmNpst81V": {
+      "symbol": "MARTHA",
+      "created_at": "2026-11-02T15:50:18.443593093Z",
+      "first_seen": "2026-11-02T15:50:37.834269+00:00"
+    },
+    "CUmJXwWcApJvJ2ZgcnTVbVXkqWy8aNDJXgZvaodWqDy5": {
+      "symbol": "MACHKA",
+      "created_at": "2026-11-02T15:50:16.418433922Z",
+      "first_seen": "2026-11-02T15:50:37.834269+00:00"
     }
   },
   "alerted": [
@@ -828,7 +868,8 @@
     "4ynAufCG832vbRc2mpxPDG1AJnSkiFR963Schy4Tpump",
     "9b1nHYf7itdoTTKgxsWyGNL2PmsN1a3doPTZdRhdpump",
     "GuvRLfGP4CMJfF9VyHv85vih9yqxhNB5R8zgRcD9pump",
-    "9p33KK1bvr6rcBZYabi79voz5ok8gE9XWtGyRe4zpump"
+    "9p33KK1bvr6rcBZYabi79voz5ok8gE9XWtGyRe4zpump",
+    "yfK4airsMD4bT91byCbex2mzVeeS3jxutn4i5Ltpump"
   ],
   "rejected": [
     "6mXLigvp4mqsryALpU3EDjzLThAVuU9YDoAwVz6wCzx",
