@@ -30,11 +30,6 @@
       "created_at": "2026-11-02T05:52:34.261697053Z",
       "first_seen": "2026-11-02T05:52:58.248476+00:00"
     },
-    "F8CwdqV7FJDXBKjW5GeUTYCChyEst6cCJodXDk8qz78U": {
-      "symbol": "WAR",
-      "created_at": "2026-11-02T05:52:31.204209283Z",
-      "first_seen": "2026-11-02T05:52:58.248476+00:00"
-    },
     "3mkkKbphBHuhLxKc55HxxoJoMFjj9BJPj7ys7pb1pump": {
       "symbol": "AR",
       "created_at": "2026-11-02T05:52:28.177169007Z",
@@ -249,6 +244,56 @@
       "symbol": "DOOB",
       "created_at": "2026-11-02T06:00:53.864835039Z",
       "first_seen": "2026-11-02T06:01:04.572613+00:00"
+    },
+    "81MTxcDntZYrfUEd4RaBZzt37HJyQxWuFPaiS35mpump": {
+      "symbol": "Apple",
+      "created_at": "2026-11-02T06:03:01.278737803Z",
+      "first_seen": "2026-11-02T06:03:06.167686+00:00"
+    },
+    "GT3FnvGpVuqyggF4SG4CgjWT9TccH9p2o9CN2m24pump": {
+      "symbol": "Fox",
+      "created_at": "2026-11-02T06:03:00.646597351Z",
+      "first_seen": "2026-11-02T06:03:06.167686+00:00"
+    },
+    "EcoP4GCk9U5vC9vmji6WmNvZR6x3oVjDdntWKFPijHA7": {
+      "symbol": "XMRISE",
+      "created_at": "2026-11-02T06:02:57.900121574Z",
+      "first_seen": "2026-11-02T06:03:06.167686+00:00"
+    },
+    "yJXcTJV8LNwKwu5hfR896TdzxG1NCM9SJW8RLDzpump": {
+      "symbol": "faucet",
+      "created_at": "2026-11-02T06:02:56.660784938Z",
+      "first_seen": "2026-11-02T06:03:06.167686+00:00"
+    },
+    "6QAcHhbdTm8f4wE8kqu3HLrp7t6kCPaHPo2cR3F2pump": {
+      "symbol": "elpepe",
+      "created_at": "2026-11-02T06:02:55.983296334Z",
+      "first_seen": "2026-11-02T06:03:06.167686+00:00"
+    },
+    "CjnGneUS7Wf5kFzmy2uLtERrPGaqTTrhije8BfP1pump": {
+      "symbol": "TUKTUK",
+      "created_at": "2026-11-02T06:02:54.506874569Z",
+      "first_seen": "2026-11-02T06:03:06.167686+00:00"
+    },
+    "DKjE3g3wdLaZvghBxpN8bA39GPELjWpWE575ZngBpump": {
+      "symbol": "WAR",
+      "created_at": "2026-11-02T06:02:44.321207627Z",
+      "first_seen": "2026-11-02T06:03:06.167686+00:00"
+    },
+    "HpcMp3XrF7gDkVSCGSDRHjyoqwA3aMKi8quNHYcy7Xqm": {
+      "symbol": "J40",
+      "created_at": "2026-11-02T06:02:42.689265184Z",
+      "first_seen": "2026-11-02T06:03:06.167686+00:00"
+    },
+    "B6U4tY2FcERhgndbnyJor3yLDozxK948Qyb1vJUSpump": {
+      "symbol": "FRANK",
+      "created_at": "2026-11-02T06:02:41.562138265Z",
+      "first_seen": "2026-11-02T06:03:06.167686+00:00"
+    },
+    "DE23y9HhhJHX4HvrsDP5V5cX5kurf5Rw8TMgbSEgpump": {
+      "symbol": "Harley3",
+      "created_at": "2026-11-02T06:02:40.720314629Z",
+      "first_seen": "2026-11-02T06:03:06.167686+00:00"
     }
   },
   "alerted": [
@@ -776,7 +821,6 @@
     "9p33KK1bvr6rcBZYabi79voz5ok8gE9XWtGyRe4zpump"
   ],
   "rejected": [
-    "8qfyGBXhN43m8nWcLeTVZVdCVyH554F5gpEWFBAYpump",
     "EpDpQZQti2ucGcFtpQd3CurQtsfM3wSBqrYscwsxnWTm",
     "msdqLXj5VratMqCb3HwqcNAHZqVHR64Ge6DZEC8TZmH",
     "FHrUC2H5ZX8nbWr3G2Ue1PPYUXFEC7iDZ9QJad2AoyLW",
@@ -2775,6 +2819,7 @@
     "w2Sxp91vi5HkhvW5p2VvB7MTAH1XsLncsY3DVKwpump",
     "AzDCq6Ab2pfTTueB2qgZaE6XkSsNFQz17oNacDNRoXpN",
     "EAu7C4RUPtFWG1G2vUBQPJufEiXX4Z5mmuadjEsKpump",
-    "Cxq2PEkYLNEAsqTERF7Y1VL689Nzc3gSEyjaNFkfRxi9"
+    "Cxq2PEkYLNEAsqTERF7Y1VL689Nzc3gSEyjaNFkfRxi9",
+    "F8CwdqV7FJDXBKjW5GeUTYCChyEst6cCJodXDk8qz78U"
   ]
 }
