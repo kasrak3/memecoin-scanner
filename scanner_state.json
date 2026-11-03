@@ -523,7 +523,12 @@
     "DhbsYGQvu4vTZYaZnemdE9P4jqZL3HPwdgYhbsbZpump": {
       "symbol": "X",
       "created_at": "2026-11-03T23:34:38.231755282Z",
-      "first_seen": "2026-11-03T23:34:55.193211+00:00"
+      "first_seen": "2026-11-03T23:34:55.193211+00:00",
+      "confirm": {
+        "liquidity": 20652.54,
+        "market_cap": 75405,
+        "at": "2026-11-03T23:45:30.421859+00:00"
+      }
     },
     "DCRsmY8zijCk3rzaihKp3RniddyEPvVKW2GtEnsTBAGS": {
       "symbol": "Copcomp",
@@ -724,6 +729,56 @@
       "symbol": "PLINK",
       "created_at": "2026-11-03T23:43:05.417000783Z",
       "first_seen": "2026-11-03T23:43:23.102709+00:00"
+    },
+    "52scimmuVJgxmjVmRJJ58KDXAx5gXW8AHUNoSTGBTHdp": {
+      "symbol": "MPN",
+      "created_at": "2026-11-03T23:45:20.397592909Z",
+      "first_seen": "2026-11-03T23:45:30.421482+00:00"
+    },
+    "AjR8dmDaLXUWq1hGE9e3nUdgcGz4oYzqu9bMrAABpump": {
+      "symbol": "PREDICTINU",
+      "created_at": "2026-11-03T23:45:19.013298213Z",
+      "first_seen": "2026-11-03T23:45:30.421482+00:00"
+    },
+    "8B1qTYVHm3yYovDDrmroGpSQ3UK9t9wLj1wdy8xapump": {
+      "symbol": "goonstocks",
+      "created_at": "2026-11-03T23:45:17.188296934Z",
+      "first_seen": "2026-11-03T23:45:30.421482+00:00"
+    },
+    "9ENgmhZaUJHABQixQmoLHmvjG1N5kf42Bh54EmEutqkk": {
+      "symbol": "",
+      "created_at": "2026-11-03T23:45:16.830370675Z",
+      "first_seen": "2026-11-03T23:45:30.421482+00:00"
+    },
+    "9wBPnoiJ8wW5xWtpPhQZZApX65zNJaMY9m7tHKtqpump": {
+      "symbol": "SXSN",
+      "created_at": "2026-11-03T23:45:16.628439235Z",
+      "first_seen": "2026-11-03T23:45:30.421482+00:00"
+    },
+    "KeJy3eT2LEfXDmuFqdHA11kBd6gW4zG4D4ofU7xpump": {
+      "symbol": "Darling",
+      "created_at": "2026-11-03T23:45:15.702610821Z",
+      "first_seen": "2026-11-03T23:45:30.421482+00:00"
+    },
+    "DxPWjn9cPhtkQRdMngMCz3WQ6u5ziMfmvhcYrRgDJPRc": {
+      "symbol": "",
+      "created_at": "2026-11-03T23:45:13.384536173Z",
+      "first_seen": "2026-11-03T23:45:30.421482+00:00"
+    },
+    "4TfqiBeRzG66LA9CAT8oC3uBAPzLFXCWsnwHeTiXpump": {
+      "symbol": "EGRET",
+      "created_at": "2026-11-03T23:45:11.252404471Z",
+      "first_seen": "2026-11-03T23:45:30.421482+00:00"
+    },
+    "7oYCjPUSuTVaNw4oMwBamrYocX2paXpjLJN8yCJRxcA7": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-11-03T23:45:11.011863192Z",
+      "first_seen": "2026-11-03T23:45:30.421482+00:00"
+    },
+    "DbJvT2fde6vX2i4fE3nwH2MpL6BhmW37L86zgKxpump": {
+      "symbol": "BBS",
+      "created_at": "2026-11-03T23:45:09.897152123Z",
+      "first_seen": "2026-11-03T23:45:30.421482+00:00"
     }
   },
   "alerted": [
