@@ -1043,7 +1043,12 @@
     "2Csio9ZpB2U526YD8xusoFrTBk7y4Yu9gLtVitYcpump": {
       "symbol": "DJT",
       "created_at": "2026-11-03T14:47:21.784651338Z",
-      "first_seen": "2026-11-03T14:47:40.218881+00:00"
+      "first_seen": "2026-11-03T14:47:40.218881+00:00",
+      "confirm": {
+        "liquidity": 28345.21,
+        "market_cap": 127924,
+        "at": "2026-11-03T14:57:34.882404+00:00"
+      }
     },
     "EyZPdEnAfBLpRGDxQ3jf5HjRJPYHWNiP5ogpJZsJaVeh": {
       "symbol": "",
@@ -1214,6 +1219,56 @@
       "symbol": "DOSED",
       "created_at": "2026-11-03T14:54:47.561770465Z",
       "first_seen": "2026-11-03T14:55:04.143866+00:00"
+    },
+    "5Zncdi7Q9b6ctvwpb1pXUrifjn6EUijT6h6uvFtCU6f4": {
+      "symbol": "MPN",
+      "created_at": "2026-11-03T14:57:21.300148881Z",
+      "first_seen": "2026-11-03T14:57:34.882055+00:00"
+    },
+    "2xW3AEmxPjuK62GC7CuFGTk7g5t9xua4p18M8tabokf9": {
+      "symbol": "Inu",
+      "created_at": "2026-11-03T14:57:21.262322499Z",
+      "first_seen": "2026-11-03T14:57:34.882055+00:00"
+    },
+    "JDkBPKKmkdDcZCSJKb9S53X7LPqCq96KzcAgiJWQpump": {
+      "symbol": "Inu",
+      "created_at": "2026-11-03T14:57:21.009723828Z",
+      "first_seen": "2026-11-03T14:57:34.882055+00:00"
+    },
+    "CS5FtZRERKVfSXt3w6knZbj5Rz93KxsmbedjxBkJULTr": {
+      "symbol": "MPN",
+      "created_at": "2026-11-03T14:57:17.037523641Z",
+      "first_seen": "2026-11-03T14:57:34.882055+00:00"
+    },
+    "5aNMre8BXrh1T7mabQoJv5YxKXhcGkQgTjKXhuEnQYzL": {
+      "symbol": "CAT",
+      "created_at": "2026-11-03T14:57:15.706991404Z",
+      "first_seen": "2026-11-03T14:57:34.882055+00:00"
+    },
+    "BUMLoWX6uFNuNjg1Vps8DRbnrSuAYTVqPTQtFR1ZUXW": {
+      "symbol": "HYPEBOTS",
+      "created_at": "2026-11-03T14:57:15.640347863Z",
+      "first_seen": "2026-11-03T14:57:34.882055+00:00"
+    },
+    "DZxhwTg9G8XTcnFA1kcozJikJSU4qdAwbyu8XPwJRsig": {
+      "symbol": "",
+      "created_at": "2026-11-03T14:57:15.446856813Z",
+      "first_seen": "2026-11-03T14:57:34.882055+00:00"
+    },
+    "8KzWFLQFfdaMsZcPw7pY5vo9fRutF4fj3onC9pVNU6Yg": {
+      "symbol": "HYPEBOTS",
+      "created_at": "2026-11-03T14:57:15.390225645Z",
+      "first_seen": "2026-11-03T14:57:34.882055+00:00"
+    },
+    "4mEFLb6qugj3cEdokewDNtyHVtz4BGkNfzFTePEtZPSf": {
+      "symbol": "HYPEBOTS",
+      "created_at": "2026-11-03T14:57:15.116330558Z",
+      "first_seen": "2026-11-03T14:57:34.882055+00:00"
+    },
+    "8r1kAuPdNEEikfxFs4iCZn8oy494yWJEgr8QqEWYRNdc": {
+      "symbol": "HYPEBOTS",
+      "created_at": "2026-11-03T14:57:15.037813219Z",
+      "first_seen": "2026-11-03T14:57:34.882055+00:00"
     }
   },
   "alerted": [
