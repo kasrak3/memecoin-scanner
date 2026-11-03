@@ -520,16 +520,6 @@
       "created_at": "2026-11-03T23:34:38.295588418Z",
       "first_seen": "2026-11-03T23:34:55.193211+00:00"
     },
-    "DhbsYGQvu4vTZYaZnemdE9P4jqZL3HPwdgYhbsbZpump": {
-      "symbol": "X",
-      "created_at": "2026-11-03T23:34:38.231755282Z",
-      "first_seen": "2026-11-03T23:34:55.193211+00:00",
-      "confirm": {
-        "liquidity": 20652.54,
-        "market_cap": 75405,
-        "at": "2026-11-03T23:45:30.421859+00:00"
-      }
-    },
     "DCRsmY8zijCk3rzaihKp3RniddyEPvVKW2GtEnsTBAGS": {
       "symbol": "Copcomp",
       "created_at": "2026-11-03T23:36:56.082293742Z",
@@ -779,6 +769,56 @@
       "symbol": "BBS",
       "created_at": "2026-11-03T23:45:09.897152123Z",
       "first_seen": "2026-11-03T23:45:30.421482+00:00"
+    },
+    "GS3XjSXLvnMN7viVGGJhk4fP7wyf7gZsv1DKxpDKRgjs": {
+      "symbol": "",
+      "created_at": "2026-11-03T23:47:29.998751076Z",
+      "first_seen": "2026-11-03T23:47:39.707725+00:00"
+    },
+    "H63NNU31nPd5e4TrhJ466qvRKbpnAY5agV7rx2pikwpL": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-11-03T23:47:27.7210536Z",
+      "first_seen": "2026-11-03T23:47:39.707725+00:00"
+    },
+    "72QmhWvFBQrmxW6jyz9uLvSorFh7gzesuCoLHtdnpump": {
+      "symbol": "NEONAGENTS",
+      "created_at": "2026-11-03T23:47:26.223820187Z",
+      "first_seen": "2026-11-03T23:47:39.707725+00:00"
+    },
+    "8XSPY2zxVsUL29kbkvGBWU8RDK4ob9UwxP5HYaT6pump": {
+      "symbol": "e.g.  SHIB",
+      "created_at": "2026-11-03T23:47:25.147921884Z",
+      "first_seen": "2026-11-03T23:47:39.707725+00:00"
+    },
+    "8fCYRH6BFAEzhvWZAs7zsJSqaJXEMTMb2WBLP5trpump": {
+      "symbol": "d",
+      "created_at": "2026-11-03T23:47:24.971240918Z",
+      "first_seen": "2026-11-03T23:47:39.707725+00:00"
+    },
+    "86iipZcdFhL8BKhY9wvf6xTbi3GzANrwNc72ppvTpump": {
+      "symbol": "Darling",
+      "created_at": "2026-11-03T23:47:24.450281536Z",
+      "first_seen": "2026-11-03T23:47:39.707725+00:00"
+    },
+    "CPEH7213MY3mqPEerkPe5nHPjEBmVktEMXNXVFiykY53": {
+      "symbol": "",
+      "created_at": "2026-11-03T23:47:24.275587824Z",
+      "first_seen": "2026-11-03T23:47:39.707725+00:00"
+    },
+    "4qJ7eEfhMwK77bjG9CH3RNgEaC51PAbyhKXzdRz4EBq8": {
+      "symbol": "",
+      "created_at": "2026-11-03T23:47:22.825845598Z",
+      "first_seen": "2026-11-03T23:47:39.707725+00:00"
+    },
+    "8QoXLkBJte2T6zTgeoU3xuW7P5srViTy3oAX1oezpump": {
+      "symbol": "MI450",
+      "created_at": "2026-11-03T23:47:20.934893543Z",
+      "first_seen": "2026-11-03T23:47:39.707725+00:00"
+    },
+    "wpR9MDVQ71rVXV7o2jtgXCHj6Lwf5zc2fZ6fbHhirZe": {
+      "symbol": "BTC",
+      "created_at": "2026-11-03T23:47:20.501127731Z",
+      "first_seen": "2026-11-03T23:47:39.707725+00:00"
     }
   },
   "alerted": [
@@ -1306,7 +1346,8 @@
     "9p33KK1bvr6rcBZYabi79voz5ok8gE9XWtGyRe4zpump",
     "yfK4airsMD4bT91byCbex2mzVeeS3jxutn4i5Ltpump",
     "2Csio9ZpB2U526YD8xusoFrTBk7y4Yu9gLtVitYcpump",
-    "5iUma4rkEfpX68shEK1HxgLnoeZQWQiK4ELozQcvpump"
+    "5iUma4rkEfpX68shEK1HxgLnoeZQWQiK4ELozQcvpump",
+    "DhbsYGQvu4vTZYaZnemdE9P4jqZL3HPwdgYhbsbZpump"
   ],
   "rejected": [
     "3j4Ef44j8tP13mDr2VFoyQFxADZwpNEoWcEE39MXGS3P",
