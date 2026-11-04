@@ -1168,7 +1168,12 @@
     "412U9wZ9P93BvmdRo8L9p4XLxktuyb6RqL7wKvXipump": {
       "symbol": "mtrl",
       "created_at": "2026-11-04T00:05:16.178278706Z",
-      "first_seen": "2026-11-04T00:05:27.517121+00:00"
+      "first_seen": "2026-11-04T00:05:27.517121+00:00",
+      "confirm": {
+        "liquidity": 18657.08,
+        "market_cap": 61084,
+        "at": "2026-11-04T00:16:58.310449+00:00"
+      }
     },
     "95NukkN1qUdxj4a9MrZCzSq7xszpdySBDXxoC6La3xCN": {
       "symbol": "",
@@ -1404,6 +1409,56 @@
       "symbol": "ORACLE",
       "created_at": "2026-11-04T00:14:15.762855145Z",
       "first_seen": "2026-11-04T00:14:38.608809+00:00"
+    },
+    "4xmgG7NRXFZ5c3ZdBB3EbUFXrqUbziUANNte6BBFpump": {
+      "symbol": "pruple",
+      "created_at": "2026-11-04T00:16:54.152645989Z",
+      "first_seen": "2026-11-04T00:16:58.310070+00:00"
+    },
+    "8bDGiwFds1k5FPXDpsbj4Toi952kUypxiqFL1n89pump": {
+      "symbol": "PREDICTINU",
+      "created_at": "2026-11-04T00:16:53.799894279Z",
+      "first_seen": "2026-11-04T00:16:58.310070+00:00"
+    },
+    "EPFpuLhVmrfmarUazJEdk5eiFC3uSmMofvrRrkJuiWds": {
+      "symbol": "MPN",
+      "created_at": "2026-11-04T00:16:52.942019443Z",
+      "first_seen": "2026-11-04T00:16:58.310070+00:00"
+    },
+    "5atBHNuKbL33VBDkN22nnCd6gcSHBUHqREUFfF2Vpump": {
+      "symbol": "DICE",
+      "created_at": "2026-11-04T00:16:51.450431603Z",
+      "first_seen": "2026-11-04T00:16:58.310070+00:00"
+    },
+    "6mZvFK9LLCuc1sRykviRFenNbAGhXHybrtPV5gwqpump": {
+      "symbol": "cap",
+      "created_at": "2026-11-04T00:16:49.505440618Z",
+      "first_seen": "2026-11-04T00:16:58.310070+00:00"
+    },
+    "GDJ3rAMNMKmgf43pHv1New6tHVgsbXFdQ35xKgDvkPxC": {
+      "symbol": "IR",
+      "created_at": "2026-11-04T00:16:48.641239522Z",
+      "first_seen": "2026-11-04T00:16:58.310070+00:00"
+    },
+    "BhfPzyudLUyhoJozjpfzsBcP9EyGpEBtTpgbx5qCpump": {
+      "symbol": "IR",
+      "created_at": "2026-11-04T00:16:47.996188973Z",
+      "first_seen": "2026-11-04T00:16:58.310070+00:00"
+    },
+    "F6VZEgNtEDqnbmvnUe2Gqe3iQ6uZFmVbX2Q5FSbWpump": {
+      "symbol": "Pump Farm",
+      "created_at": "2026-11-04T00:16:47.788132069Z",
+      "first_seen": "2026-11-04T00:16:58.310070+00:00"
+    },
+    "4NcAnTTSaNiGdiQiTdSXGPGjK5c96KB7XgFHEr8Jpump": {
+      "symbol": "$PRESS",
+      "created_at": "2026-11-04T00:16:47.545394517Z",
+      "first_seen": "2026-11-04T00:16:58.310070+00:00"
+    },
+    "GKyH6FGujUmGFrYPcKadKjcGrpVsbL2kgkoXMmP8pump": {
+      "symbol": "CLAUDE",
+      "created_at": "2026-11-04T00:16:47.417932202Z",
+      "first_seen": "2026-11-04T00:16:58.310070+00:00"
     }
   },
   "alerted": [
