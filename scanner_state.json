@@ -1450,11 +1450,6 @@
       "created_at": "2026-11-04T15:28:25.368372925Z",
       "first_seen": "2026-11-04T15:28:42.418959+00:00"
     },
-    "FXSNAPemdzDj8w1tmDnQKtkTY3M6cMzFzfvHFK2oNhcD": {
-      "symbol": "BTC",
-      "created_at": "2026-11-04T15:28:21.582329399Z",
-      "first_seen": "2026-11-04T15:28:42.418959+00:00"
-    },
     "He1ELKUHHbF6Ny4x6GatuAU1pzSepGoBwr1caF7Lpump": {
       "symbol": "LMC",
       "created_at": "2026-11-04T15:28:21.008307694Z",
@@ -1614,6 +1609,56 @@
       "symbol": "OWP",
       "created_at": "2026-11-04T15:36:29.685629075Z",
       "first_seen": "2026-11-04T15:36:49.566945+00:00"
+    },
+    "FTj3fkyqJ2AP9Gi2xiEVyRo6vZDUovESYPgoYyqrpump": {
+      "symbol": "WLOB",
+      "created_at": "2026-11-04T15:39:29.479362322Z",
+      "first_seen": "2026-11-04T15:39:35.171842+00:00"
+    },
+    "8HqpAzpqi2dNYhV8HDX1bRPtKrSVt6mv9hut8xtspump": {
+      "symbol": "AppSmith",
+      "created_at": "2026-11-04T15:39:29.321283674Z",
+      "first_seen": "2026-11-04T15:39:35.171842+00:00"
+    },
+    "F7Wjk3HGKQ54XtdqjDSk8xhkAKNHops1nygABmsrJYry": {
+      "symbol": "tremp",
+      "created_at": "2026-11-04T15:39:26.467948167Z",
+      "first_seen": "2026-11-04T15:39:35.171842+00:00"
+    },
+    "9TibZdsKLGDty7pVMg4ascPtzuNZodEKvMeGrTV4pump": {
+      "symbol": "Tsunami",
+      "created_at": "2026-11-04T15:39:25.566130685Z",
+      "first_seen": "2026-11-04T15:39:35.171842+00:00"
+    },
+    "7gwFVEaaM3nzLd58sWHDDV7vufhdtYpjFXMEYEzRpump": {
+      "symbol": "Tsunami",
+      "created_at": "2026-11-04T15:39:25.56143516Z",
+      "first_seen": "2026-11-04T15:39:35.171842+00:00"
+    },
+    "Da7WaMjFQm24SuNKLFLQvTc5jxhP456HenGFzstJpump": {
+      "symbol": "Tsunami",
+      "created_at": "2026-11-04T15:39:25.53757848Z",
+      "first_seen": "2026-11-04T15:39:35.171842+00:00"
+    },
+    "7qY3uRwRXqfhCzXuSsVWBDuuZWqheX6sMt3zVP79pump": {
+      "symbol": "Tsunami",
+      "created_at": "2026-11-04T15:39:25.527321021Z",
+      "first_seen": "2026-11-04T15:39:35.171842+00:00"
+    },
+    "7JkziUTskFBvGtrjMcYKjyQE7AGHux5SDzaA4h8Xpump": {
+      "symbol": "Tsunami",
+      "created_at": "2026-11-04T15:39:25.526525036Z",
+      "first_seen": "2026-11-04T15:39:35.171842+00:00"
+    },
+    "BzViHCXJwgYCtYRTp8UrQRGNSrokwCq4Jf6pozDxpump": {
+      "symbol": "Tsunami",
+      "created_at": "2026-11-04T15:39:25.517977099Z",
+      "first_seen": "2026-11-04T15:39:35.171842+00:00"
+    },
+    "FUCdssPaZntQbHdtGMnLxF9mybBNvbMkBYkiGtxPpump": {
+      "symbol": "Tsunami",
+      "created_at": "2026-11-04T15:39:25.513103352Z",
+      "first_seen": "2026-11-04T15:39:35.171842+00:00"
     }
   },
   "alerted": [
@@ -2149,7 +2194,6 @@
     "9X6eckaebAwSPXSQ9Biy2R9XhqsxbJEdAeTz3CCQpump"
   ],
   "rejected": [
-    "GcmpYEKmtPiDhfLSCNDWX21wjFGSVyo64DdkGoJ1hwps",
     "BXSTh3ggGTKMG6r7wAT3zpBVATcgqTwJWY6FCuGpump",
     "GfSnoWLdQNnrzQWPpgw5bgunGojAekhGSD3KwRQTNu9v",
     "EUSGYCndbPh4uMjE8FhjE4FtEchzYHjiGGGQHnuXqPh",
@@ -4148,6 +4192,7 @@
     "HWCr9sWu6GhBAetPYoqrZkEDqHqrxYZpEtpmRGdBngWk",
     "74d7tkEWURzHCnLD2eNdh94SeNmYfzeWVtmQa4QGPJn2",
     "8GzdDqRQUsww64st3uDgmA1hg9UQNVjmpQ8FrXFrZhSD",
-    "F7Ja1vBNxrJRgv9kEVitDe31coQgc1mixZhwj13m49Tx"
+    "F7Ja1vBNxrJRgv9kEVitDe31coQgc1mixZhwj13m49Tx",
+    "FXSNAPemdzDj8w1tmDnQKtkTY3M6cMzFzfvHFK2oNhcD"
   ]
 }
