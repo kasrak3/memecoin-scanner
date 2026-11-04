@@ -1,55 +1,5 @@
 {
   "pending": {
-    "6VMScJ8VKeiKe4JcCXigEe1k3WycMhVaCoPKArQGpump": {
-      "symbol": "Groyper",
-      "created_at": "2026-11-04T02:32:28.698580581Z",
-      "first_seen": "2026-11-04T02:32:33.653986+00:00"
-    },
-    "8KYLPSmgvdDjvhzudLH8FYfe1W1FtsSWiJpxVXtYpump": {
-      "symbol": "DICE",
-      "created_at": "2026-11-04T02:32:28.618871072Z",
-      "first_seen": "2026-11-04T02:32:33.653986+00:00"
-    },
-    "FPMYyESoaBpiy41EwRDfHzdw634AQiHuJszWsFmSi7to": {
-      "symbol": "TRUMPJAK",
-      "created_at": "2026-11-04T02:32:28.476591762Z",
-      "first_seen": "2026-11-04T02:32:33.653986+00:00"
-    },
-    "9x2ZdZu9DvDW419Wc2Djek26mywoATfwQWbVXJruzRgb": {
-      "symbol": "Groyper",
-      "created_at": "2026-11-04T02:32:28.447583473Z",
-      "first_seen": "2026-11-04T02:32:33.653986+00:00"
-    },
-    "3akAYS8kXF2Q2FVVg7Wiyng1ozvk6JwvGSwJ5mLz9kVR": {
-      "symbol": "Tremp",
-      "created_at": "2026-11-04T02:32:22.409321195Z",
-      "first_seen": "2026-11-04T02:32:33.653986+00:00"
-    },
-    "12uev7JbZM5mSJRKkUqND3NdTgVM9CS6cydkQMnqpump": {
-      "symbol": "Tremp",
-      "created_at": "2026-11-04T02:32:21.962254903Z",
-      "first_seen": "2026-11-04T02:32:33.653986+00:00"
-    },
-    "7CSAJ7cudJoYsHcyw6xrMY3ZL8nM82WvJUkWhCcrpump": {
-      "symbol": "att",
-      "created_at": "2026-11-04T02:32:21.377333091Z",
-      "first_seen": "2026-11-04T02:32:33.653986+00:00"
-    },
-    "5zmtdkNo9Gqb1h1Mod3mbqCkyNTMxWaXy9r6LN7Apump": {
-      "symbol": "song",
-      "created_at": "2026-11-04T02:32:19.676950869Z",
-      "first_seen": "2026-11-04T02:32:33.653986+00:00"
-    },
-    "22Xy6QL6fHSnPo64wtFUVp6Ec49JgTycj9m47BHSpump": {
-      "symbol": "USMS",
-      "created_at": "2026-11-04T02:32:19.431476233Z",
-      "first_seen": "2026-11-04T02:32:33.653986+00:00"
-    },
-    "67qWbV3NiUeben8M7DZdujyQo9mFF65QG4UyaETHjAmj": {
-      "symbol": "FLASH",
-      "created_at": "2026-11-04T02:32:19.417588591Z",
-      "first_seen": "2026-11-04T02:32:33.653986+00:00"
-    },
     "EuAV3t7FWbdGoTWXWh8GiWhgHLzzhb74yjGcCDPZpump": {
       "symbol": "DICE",
       "created_at": "2026-11-04T02:34:56.073590084Z",
@@ -258,7 +208,12 @@
     "Fouy9tyEnbpbvXqZqpxSohhD76URfCcATndZnjqUpump": {
       "symbol": "UHI",
       "created_at": "2026-11-04T02:45:02.437558306Z",
-      "first_seen": "2026-11-04T02:45:07.947644+00:00"
+      "first_seen": "2026-11-04T02:45:07.947644+00:00",
+      "confirm": {
+        "liquidity": 15549.62,
+        "market_cap": 45798,
+        "at": "2026-11-04T04:34:43.258619+00:00"
+      }
     },
     "D9aFYAusF6KQjyCD6FyZbj5qpbiCJrodCKwr89KJpump": {
       "symbol": "TOAD",
@@ -2419,6 +2374,56 @@
       "symbol": "assoff",
       "created_at": "2026-11-04T04:31:52.356330314Z",
       "first_seen": "2026-11-04T04:32:15.286300+00:00"
+    },
+    "24wAVcc5nEAP25FJbGmowHUfMDB5dXAxxAv1xd2cyKkA": {
+      "symbol": "E",
+      "created_at": "2026-11-04T04:34:36.93339767Z",
+      "first_seen": "2026-11-04T04:34:43.258211+00:00"
+    },
+    "HzusVJAnTxxoK7rV82BR3H2Q19hPG19Hswsw8QHYpump": {
+      "symbol": "toma",
+      "created_at": "2026-11-04T04:34:32.372883382Z",
+      "first_seen": "2026-11-04T04:34:43.258211+00:00"
+    },
+    "BkihF8Y8355XWrQhPnZNEQKv6zGWX9dvSkpDkV2JMgQW": {
+      "symbol": "POOLS",
+      "created_at": "2026-11-04T04:34:30.031396174Z",
+      "first_seen": "2026-11-04T04:34:43.258211+00:00"
+    },
+    "AZubAJJT7zrT89YCaigp7hVuUpQ7mVQ2hBZ378hY2sjn": {
+      "symbol": "PUMPOHOUSE",
+      "created_at": "2026-11-04T04:34:29.751822906Z",
+      "first_seen": "2026-11-04T04:34:43.258211+00:00"
+    },
+    "4yforuatVxF7a2WfvR8nziQy4LwPJMyXbfamjdgFpump": {
+      "symbol": "POLLPAD",
+      "created_at": "2026-11-04T04:34:25.839233533Z",
+      "first_seen": "2026-11-04T04:34:43.258211+00:00"
+    },
+    "D5o6WYHGjpGvFF9F3RLJ4Gfdzyq8PgdgwNET4XyEpump": {
+      "symbol": "Apple",
+      "created_at": "2026-11-04T04:34:25.104071803Z",
+      "first_seen": "2026-11-04T04:34:43.258211+00:00"
+    },
+    "BSL9JdkbUb7sFC5z3sMbsrakKouw6qGt6fQkfwfmpump": {
+      "symbol": "HC",
+      "created_at": "2026-11-04T04:34:23.363452736Z",
+      "first_seen": "2026-11-04T04:34:43.258211+00:00"
+    },
+    "7UMZeLqWVzJoMYoTLCxxfVz4n8fNxtScsK1YxPXXpump": {
+      "symbol": "PUMPOHOUSE",
+      "created_at": "2026-11-04T04:34:21.914760478Z",
+      "first_seen": "2026-11-04T04:34:43.258211+00:00"
+    },
+    "G6Z5SszTCCLtDzhiWg8Kz1UbYRadpVNT6ZngSxB8svLG": {
+      "symbol": "bluekkake",
+      "created_at": "2026-11-04T04:34:21.898844926Z",
+      "first_seen": "2026-11-04T04:34:43.258211+00:00"
+    },
+    "C8PitnEa7vzcUeo5FBSfpjXPjKXn7FnuvDXkdV2Cpump": {
+      "symbol": "BLACKBULL",
+      "created_at": "2026-11-04T04:34:20.711697072Z",
+      "first_seen": "2026-11-04T04:34:43.258211+00:00"
     }
   },
   "alerted": [
