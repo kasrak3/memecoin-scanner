@@ -1,55 +1,5 @@
 {
   "pending": {
-    "9o81iDSgkEC5f9tuU72iW6KwWSWpW8Y25trXfPMcBATW": {
-      "symbol": "DIVZ",
-      "created_at": "2026-11-04T15:36:38.421697803Z",
-      "first_seen": "2026-11-04T15:36:49.566945+00:00"
-    },
-    "8NnsKK33x6m4Rx7zRLhXVnzVPKexj1PMxzuKQkMj9CFB": {
-      "symbol": "Tsunami",
-      "created_at": "2026-11-04T15:36:38.021631019Z",
-      "first_seen": "2026-11-04T15:36:49.566945+00:00"
-    },
-    "5XpoywQwkWCzhd8LDvM9aSEVSMrUe6uxCMK7HhWtpump": {
-      "symbol": "Know",
-      "created_at": "2026-11-04T15:36:35.750042822Z",
-      "first_seen": "2026-11-04T15:36:49.566945+00:00"
-    },
-    "9zzYSCuqFxwRnmYDNvtLLx6NYDYAaKGnDXRNd2FZpump": {
-      "symbol": "AIB",
-      "created_at": "2026-11-04T15:36:33.160936848Z",
-      "first_seen": "2026-11-04T15:36:49.566945+00:00"
-    },
-    "6ZwQoBU1q8QGMEyYGW2RebCaEBjw8L5gR5wgyqjRNyfA": {
-      "symbol": "OWP",
-      "created_at": "2026-11-04T15:36:32.381292131Z",
-      "first_seen": "2026-11-04T15:36:49.566945+00:00"
-    },
-    "DCCPZwuD7XDuusdGMMNgARWaTPbKUF1XD3DRFHojzARR": {
-      "symbol": "Stonked",
-      "created_at": "2026-11-04T15:36:32.373945837Z",
-      "first_seen": "2026-11-04T15:36:49.566945+00:00"
-    },
-    "8qp2L3UZdCNFkk6xWoosaf2MuK2n6tnWhX8cnPrfpump": {
-      "symbol": "Tsunami",
-      "created_at": "2026-11-04T15:36:31.37938938Z",
-      "first_seen": "2026-11-04T15:36:49.566945+00:00"
-    },
-    "CLUzzPj6c8JChMNNZLVU1FCNnLcXyFoBiup3i3H8pump": {
-      "symbol": "fg",
-      "created_at": "2026-11-04T15:36:30.946060871Z",
-      "first_seen": "2026-11-04T15:36:49.566945+00:00"
-    },
-    "BcgJhHn78pEGfZVNrpTVpSdiS6QTYuFeQyEff1Cspump": {
-      "symbol": "blue band",
-      "created_at": "2026-11-04T15:36:29.755563923Z",
-      "first_seen": "2026-11-04T15:36:49.566945+00:00"
-    },
-    "9DZ3SYNky5AVKk6Xt8UQC9WbSBsVdXKTqEKtX4fb8PU4": {
-      "symbol": "OWP",
-      "created_at": "2026-11-04T15:36:29.685629075Z",
-      "first_seen": "2026-11-04T15:36:49.566945+00:00"
-    },
     "FTj3fkyqJ2AP9Gi2xiEVyRo6vZDUovESYPgoYyqrpump": {
       "symbol": "WLOB",
       "created_at": "2026-11-04T15:39:29.479362322Z",
@@ -1808,7 +1758,12 @@
     "EV35Nw5xDQnJiKE2ntb2EMsM9a5x1mAutncoi7dypump": {
       "symbol": "SQUAD",
       "created_at": "2026-11-04T17:23:42.548591015Z",
-      "first_seen": "2026-11-04T17:23:48.911934+00:00"
+      "first_seen": "2026-11-04T17:23:48.911934+00:00",
+      "confirm": {
+        "liquidity": 14363.31,
+        "market_cap": 38084,
+        "at": "2026-11-04T17:38:46.933723+00:00"
+      }
     },
     "HWhn38i36wgSyGw3UE5yQfA8DBZa1F7sd3X9NZmfpump": {
       "symbol": "Fox",
@@ -2024,6 +1979,56 @@
       "symbol": "CYBERLEEK",
       "created_at": "2026-11-04T17:35:27.838447528Z",
       "first_seen": "2026-11-04T17:35:47.348457+00:00"
+    },
+    "9SDJpAL4dJccqtgifnKXFmvsm5WZXpLAmMtjnkMapump": {
+      "symbol": "Airdrop",
+      "created_at": "2026-11-04T17:38:41.547560509Z",
+      "first_seen": "2026-11-04T17:38:46.933484+00:00"
+    },
+    "EjcyykH6fQC7pZKFkXNwbec9r55wBwtojWcWMSe3pump": {
+      "symbol": "Airdrop",
+      "created_at": "2026-11-04T17:38:41.518397973Z",
+      "first_seen": "2026-11-04T17:38:46.933484+00:00"
+    },
+    "HYpoD7PUk4NDHJaSJsRHnCjRRMQVDXAwLe8uL8znejtg": {
+      "symbol": "TITDEX",
+      "created_at": "2026-11-04T17:38:40.736712679Z",
+      "first_seen": "2026-11-04T17:38:46.933484+00:00"
+    },
+    "89JaaR261FhLqy9fkJCXTjAjyC5s11uHeVBTMsdGpump": {
+      "symbol": "$CCOW",
+      "created_at": "2026-11-04T17:38:40.407873759Z",
+      "first_seen": "2026-11-04T17:38:46.933484+00:00"
+    },
+    "9oMxpmGKBohysv7aFNwKyUKaFX43KKmmXg6ZkCFFpump": {
+      "symbol": "Airdrop",
+      "created_at": "2026-11-04T17:38:40.259621912Z",
+      "first_seen": "2026-11-04T17:38:46.933484+00:00"
+    },
+    "j8UWUQWK8fYU1K9vio1dfwWiVFE3KCAVsUVbNKipump": {
+      "symbol": "Airdrop",
+      "created_at": "2026-11-04T17:38:40.256326279Z",
+      "first_seen": "2026-11-04T17:38:46.933484+00:00"
+    },
+    "AvvBuNXxMB2L8Na8XEh4pV1Y8Lfq9vXDxTa1ijAwpump": {
+      "symbol": "Airdrop",
+      "created_at": "2026-11-04T17:38:39.581531744Z",
+      "first_seen": "2026-11-04T17:38:46.933484+00:00"
+    },
+    "CTmKrmJeFyVFG2AW2vVrdSoMQX4Tise1JdmFtyDdpump": {
+      "symbol": "Airdrop",
+      "created_at": "2026-11-04T17:38:39.577942382Z",
+      "first_seen": "2026-11-04T17:38:46.933484+00:00"
+    },
+    "Bu3VRLu9Lq4XrVNw273msaVcQYgBvNiFT1MmQqKGpump": {
+      "symbol": "DEM",
+      "created_at": "2026-11-04T17:38:39.364681401Z",
+      "first_seen": "2026-11-04T17:38:46.933484+00:00"
+    },
+    "3qev7LBHShWbp4VKRHXo2vJmkyeJudmWaWmKWKf1aRAY": {
+      "symbol": "ZPAD",
+      "created_at": "2026-11-04T17:38:39.216368162Z",
+      "first_seen": "2026-11-04T17:38:46.933484+00:00"
     }
   },
   "alerted": [
