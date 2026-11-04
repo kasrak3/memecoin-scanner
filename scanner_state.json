@@ -970,11 +970,6 @@
       "created_at": "2026-11-03T23:53:55.205831737Z",
       "first_seen": "2026-11-03T23:54:13.430119+00:00"
     },
-    "BKN4342ug26DJCeLJT4oDb5VhcKVvk4EHnkF71AR28c6": {
-      "symbol": "",
-      "created_at": "2026-11-03T23:56:13.391974714Z",
-      "first_seen": "2026-11-03T23:56:25.183187+00:00"
-    },
     "29fdL4U4m5RrcRLr1n8WsZ7xKKBQo1PZyAPPDTPEpump": {
       "symbol": "OVER",
       "created_at": "2026-11-03T23:56:12.424216666Z",
@@ -1219,6 +1214,56 @@
       "symbol": "Bayham",
       "created_at": "2026-11-04T00:05:03.963684481Z",
       "first_seen": "2026-11-04T00:05:27.517121+00:00"
+    },
+    "CA9sPx11nDZGDdrkxySRQAU6gotmCGFc2swbytRppump": {
+      "symbol": "uinhim",
+      "created_at": "2026-11-04T00:07:36.576754962Z",
+      "first_seen": "2026-11-04T00:07:42.237978+00:00"
+    },
+    "HZM3xNLPF4A2KGGXAHBnzjxvZq3Hfoo94ddRRdUB3MYa": {
+      "symbol": "ASTEROID",
+      "created_at": "2026-11-04T00:07:34.205148093Z",
+      "first_seen": "2026-11-04T00:07:42.237978+00:00"
+    },
+    "2iTt6ATw6A241rxTsL8wCnCJB4uPr5XtNKy4ng5Tpump": {
+      "symbol": "spritecran",
+      "created_at": "2026-11-04T00:07:33.439260526Z",
+      "first_seen": "2026-11-04T00:07:42.237978+00:00"
+    },
+    "GCJ646UU5gp1dfWS3SBx67KBWefjaAYP3wNGCCaypump": {
+      "symbol": "sol",
+      "created_at": "2026-11-04T00:07:32.281682847Z",
+      "first_seen": "2026-11-04T00:07:42.237978+00:00"
+    },
+    "51ov9KxuBhdtGsev7dY8RGS9dPPu25SXkP9Z1cMDpump": {
+      "symbol": "PROP",
+      "created_at": "2026-11-04T00:07:32.162022867Z",
+      "first_seen": "2026-11-04T00:07:42.237978+00:00"
+    },
+    "AgpJbYGkrTSjRYqxux1okgMBi4CQortcE54wYgFt41sF": {
+      "symbol": "",
+      "created_at": "2026-11-04T00:07:30.646300489Z",
+      "first_seen": "2026-11-04T00:07:42.237978+00:00"
+    },
+    "6Gh8csyYp1oyR3PS91xrhUv9Epcubo68QQmY841Cpump": {
+      "symbol": "GOYSTICKER",
+      "created_at": "2026-11-04T00:07:28.491645653Z",
+      "first_seen": "2026-11-04T00:07:42.237978+00:00"
+    },
+    "AaQSVYdf5eFxy8UfDpsxcg5GGgpaQeg2ktqKfS2Npump": {
+      "symbol": "ASTEROID",
+      "created_at": "2026-11-04T00:07:27.116718607Z",
+      "first_seen": "2026-11-04T00:07:42.237978+00:00"
+    },
+    "E6agGtVruCZufLbc45xWUX7bnwsHWycEJGJPhWCzziMt": {
+      "symbol": "SelfieSing",
+      "created_at": "2026-11-04T00:07:25.662140091Z",
+      "first_seen": "2026-11-04T00:07:42.237978+00:00"
+    },
+    "9ACjuHuJgHBhgsWkcZeUtuAfpGrZTtEJuEQQsmUbpump": {
+      "symbol": "AMD",
+      "created_at": "2026-11-04T00:07:19.851529051Z",
+      "first_seen": "2026-11-04T00:07:42.237978+00:00"
     }
   },
   "alerted": [
@@ -1750,7 +1795,6 @@
     "DhbsYGQvu4vTZYaZnemdE9P4jqZL3HPwdgYhbsbZpump"
   ],
   "rejected": [
-    "3j4Ef44j8tP13mDr2VFoyQFxADZwpNEoWcEE39MXGS3P",
     "EC1cNLoVszLie53fyVRDXkhygYR1ShUE7DWcG6mfDHBz",
     "FS5B3rwDBiQPNeAFQcAgnr5ZrA4XU2aAMgm5ajBiV2CU",
     "BVtD4roBbFcsaJ2yu56betjViwrTBof7JiNoYvgcpmG6",
@@ -3749,6 +3793,7 @@
     "AGGa2P5JmLsURXUbmTvND7zk9XrHBcoe2wtFMCNNggiY",
     "Bz2kab9aGrEHNGbRHPpE4fy26pWKAARcCysGihJTsgSF",
     "HwJYKH7HCs2ZSgdDCVvSxXXHfs1HxsoH97sCPQ16nXEv",
-    "Ad2cY8XgNmHUzyfg6YP1Y4MmtAZTtU4ZzPzoUYtepump"
+    "Ad2cY8XgNmHUzyfg6YP1Y4MmtAZTtU4ZzPzoUYtepump",
+    "BKN4342ug26DJCeLJT4oDb5VhcKVvk4EHnkF71AR28c6"
   ]
 }
