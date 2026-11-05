@@ -1,55 +1,5 @@
 {
   "pending": {
-    "4HpJhbcKT4YzFy88GzLkdewrdVMKSqBBpNhTE4DebrQt": {
-      "symbol": "Pronos",
-      "created_at": "2026-11-05T04:55:23.469035966Z",
-      "first_seen": "2026-11-05T04:55:29.754975+00:00"
-    },
-    "HuinTHinrCcgFrZvyR3Ms3LkBtqZ77cqvC9KxCuBLwAB": {
-      "symbol": "Pronos",
-      "created_at": "2026-11-05T04:55:22.750436451Z",
-      "first_seen": "2026-11-05T04:55:29.754975+00:00"
-    },
-    "DQFsVZb1duDtkh4DqmupKYmY8dFvy83ss7Meh2T1pump": {
-      "symbol": "Pronos",
-      "created_at": "2026-11-05T04:55:22.429342606Z",
-      "first_seen": "2026-11-05T04:55:29.754975+00:00"
-    },
-    "Av9foYsyy6hQShqZsG9NawUiSGgGbnFpRYU4z2YKpump": {
-      "symbol": "$Deal",
-      "created_at": "2026-11-05T04:55:21.440259826Z",
-      "first_seen": "2026-11-05T04:55:29.754975+00:00"
-    },
-    "6Ft9Spn6g5fY9Wb7pt7KZj9a5UTfCYcByTPFC9YKV9ej": {
-      "symbol": "BTC-UP",
-      "created_at": "2026-11-05T04:55:19.530141468Z",
-      "first_seen": "2026-11-05T04:55:29.754975+00:00"
-    },
-    "G9Wx5XHxWfmS3TiQcm9fKDKNqEHMbsJeZxRmi8m7pump": {
-      "symbol": "SALUKI",
-      "created_at": "2026-11-05T04:55:19.434022373Z",
-      "first_seen": "2026-11-05T04:55:29.754975+00:00"
-    },
-    "4RTPZvF7UEEKecByCAmBkg6kAFEe2dqPiQrpEAb5pump": {
-      "symbol": "HYPURR",
-      "created_at": "2026-11-05T04:55:16.918320019Z",
-      "first_seen": "2026-11-05T04:55:29.754975+00:00"
-    },
-    "3RsPto9pjWeEDDrWDyqKLevYfb7buVenfKYHpScudiWX": {
-      "symbol": "BTC-DN",
-      "created_at": "2026-11-05T04:55:16.120970242Z",
-      "first_seen": "2026-11-05T04:55:29.754975+00:00"
-    },
-    "84NTX58cmRwoMG6X6wGxMfsEST9kh8hk4evv6KJFUr6Q": {
-      "symbol": "ETH-DN",
-      "created_at": "2026-11-05T04:55:15.924905375Z",
-      "first_seen": "2026-11-05T04:55:29.754975+00:00"
-    },
-    "6545tmBaMnzc1tQw85r2twU8CxfgfEJFjAF4CCYb6bfx": {
-      "symbol": "PAIRSCAT",
-      "created_at": "2026-11-05T04:55:10.464780969Z",
-      "first_seen": "2026-11-05T04:55:29.754975+00:00"
-    },
     "9vkMquZyYFd7tsNgyW2NEg3ZFgPpGowgTjQuwnHwcLrf": {
       "symbol": "HIJAB",
       "created_at": "2026-11-05T04:58:18.351296057Z",
@@ -708,7 +658,12 @@
     "9KASpPXxyL8DnV4Wrayg5dbae7GyV76YyJGpSK82pump": {
       "symbol": "PIKACOIN",
       "created_at": "2026-11-05T06:45:06.838295162Z",
-      "first_seen": "2026-11-05T06:45:26.533307+00:00"
+      "first_seen": "2026-11-05T06:45:26.533307+00:00",
+      "confirm": {
+        "liquidity": 19631.17,
+        "market_cap": 53207,
+        "at": "2026-11-05T06:57:09.845065+00:00"
+      }
     },
     "GzF2CWbn64fPuniREyfvwaiTAnXpquBisMUNNo8Rpump": {
       "symbol": "$WILLIE",
@@ -944,6 +899,56 @@
       "symbol": "USPR",
       "created_at": "2026-11-05T06:54:28.07953426Z",
       "first_seen": "2026-11-05T06:54:48.019373+00:00"
+    },
+    "HBLPorG8CQ55NLUZS6LzHQWkEw4WyK68VGZmoqrSpump": {
+      "symbol": "DOGE PAID",
+      "created_at": "2026-11-05T06:57:07.995233792Z",
+      "first_seen": "2026-11-05T06:57:09.844727+00:00"
+    },
+    "6gUSR2qD4n5TUw92uyuHRuAEPXNz3Z5WaZZe27x6S16P": {
+      "symbol": "PIKACOIN",
+      "created_at": "2026-11-05T06:57:05.381467393Z",
+      "first_seen": "2026-11-05T06:57:09.844727+00:00"
+    },
+    "7USqgJh4S32BdAer2N2haftKkBJD4n3bbRjHfYngpump": {
+      "symbol": "BTC",
+      "created_at": "2026-11-05T06:57:04.71167839Z",
+      "first_seen": "2026-11-05T06:57:09.844727+00:00"
+    },
+    "7oMH4DeZ9f5qf8VhT3uNrDGPGh2XzgQXAwDtJRbGpump": {
+      "symbol": "PSA 10 ASS",
+      "created_at": "2026-11-05T06:56:59.288086286Z",
+      "first_seen": "2026-11-05T06:57:09.844727+00:00"
+    },
+    "9aCp6MpU3fCQF7iqBVEtxwa17H6Dp79cp3kt9bt8JE4L": {
+      "symbol": "MPN",
+      "created_at": "2026-11-05T06:56:58.658392781Z",
+      "first_seen": "2026-11-05T06:57:09.844727+00:00"
+    },
+    "53Zv6uk29d9xRo6cuCbNcUdytLrMGewuyYisSDUxpump": {
+      "symbol": "TBC",
+      "created_at": "2026-11-05T06:56:56.896696005Z",
+      "first_seen": "2026-11-05T06:57:09.844727+00:00"
+    },
+    "CDZjxCtpmWkJrX5JrXhMLE9QQVKu9cSg4wHWWFedHfkY": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-11-05T06:56:56.620204196Z",
+      "first_seen": "2026-11-05T06:57:09.844727+00:00"
+    },
+    "9jc13VEa2bkZGPM9NgpoVnWN4n1eYh5d9riNQHG2pump": {
+      "symbol": "DIPDOGE",
+      "created_at": "2026-11-05T06:56:55.149405224Z",
+      "first_seen": "2026-11-05T06:57:09.844727+00:00"
+    },
+    "Mbvue6Ad2xuw3MFRTtXy66BQKFZc8aj73iSmq86Z5zV": {
+      "symbol": "CPAW",
+      "created_at": "2026-11-05T06:56:53.320836016Z",
+      "first_seen": "2026-11-05T06:57:09.844727+00:00"
+    },
+    "BDicDMdqYFxjbsnEtjgMQ198DibrsAY1Xn5Lis93uWsK": {
+      "symbol": "PIKACOIN",
+      "created_at": "2026-11-05T06:56:52.495285234Z",
+      "first_seen": "2026-11-05T06:57:09.844727+00:00"
     }
   },
   "alerted": [
