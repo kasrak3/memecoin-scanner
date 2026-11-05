@@ -448,7 +448,12 @@
     "7UooapEDmXmP5hRJPoYvXqYDWMVh15Gi59gYu7hopump": {
       "symbol": "CALL",
       "created_at": "2026-11-04T23:54:13.084787858Z",
-      "first_seen": "2026-11-04T23:54:21.111612+00:00"
+      "first_seen": "2026-11-04T23:54:21.111612+00:00",
+      "confirm": {
+        "liquidity": 12020.63,
+        "market_cap": 27277,
+        "at": "2026-11-05T00:05:18.069526+00:00"
+      }
     },
     "WZDtYAjXnx2jXM9kXoNiKcKDkCh5S9C29RcQmELpump": {
       "symbol": "HI",
@@ -689,6 +694,56 @@
       "symbol": "fumo",
       "created_at": "2026-11-05T00:02:54.355089142Z",
       "first_seen": "2026-11-05T00:03:04.560680+00:00"
+    },
+    "89uhFGUvbe7qvsedp7K8DtPsTdcnSzSpUU4GHg6Ysrct": {
+      "symbol": "MPN",
+      "created_at": "2026-11-05T00:05:10.478924542Z",
+      "first_seen": "2026-11-05T00:05:18.069136+00:00"
+    },
+    "5zQTUcLjGP7gFJgP8P5B9FUTK15aKgvP5uzXWJZ5pump": {
+      "symbol": "SXSN",
+      "created_at": "2026-11-05T00:05:09.90032713Z",
+      "first_seen": "2026-11-05T00:05:18.069136+00:00"
+    },
+    "AR8MHiaKLYZooKADtVZmXd819wtuKQJBWcmBiwwry9kq": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-11-05T00:05:08.762169416Z",
+      "first_seen": "2026-11-05T00:05:18.069136+00:00"
+    },
+    "27YHFLV3D74987ZMfTkS4Zt4s3h6CiHLKKWSydU1pump": {
+      "symbol": "brandongill",
+      "created_at": "2026-11-05T00:05:08.363424392Z",
+      "first_seen": "2026-11-05T00:05:18.069136+00:00"
+    },
+    "34xS39LookLspa4PJUjBNEh5yUT9YzHBeaCwismqpump": {
+      "symbol": "MTO",
+      "created_at": "2026-11-05T00:05:08.349252007Z",
+      "first_seen": "2026-11-05T00:05:18.069136+00:00"
+    },
+    "CRg9htGdFgbsYmzfk5t4TcvSrp2jJoBPUQJGQA4CVp9V": {
+      "symbol": "slop",
+      "created_at": "2026-11-05T00:05:07.231588514Z",
+      "first_seen": "2026-11-05T00:05:18.069136+00:00"
+    },
+    "7mYvNfFhXjcFh5bz59cmqT6v3DtdFojypmnLqHiN7z1C": {
+      "symbol": "EAGL",
+      "created_at": "2026-11-05T00:05:07.09285507Z",
+      "first_seen": "2026-11-05T00:05:18.069136+00:00"
+    },
+    "DrRzSioHmTvpekm7gz4nafAEz9YDTg4BxLtDyqkd6kMJ": {
+      "symbol": "https://fomo.",
+      "created_at": "2026-11-05T00:05:07.025488661Z",
+      "first_seen": "2026-11-05T00:05:18.069136+00:00"
+    },
+    "9AdKxSY9iEG6928bLJmRStk6X471NbuMqvVpsBMmpump": {
+      "symbol": "slop",
+      "created_at": "2026-11-05T00:05:04.912140028Z",
+      "first_seen": "2026-11-05T00:05:18.069136+00:00"
+    },
+    "9LK2MuDFBeDVLTcNd5HzRURk3QQcUe1GhnDdDSjHpump": {
+      "symbol": "GTA6",
+      "created_at": "2026-11-05T00:05:02.464951746Z",
+      "first_seen": "2026-11-05T00:05:18.069136+00:00"
     }
   },
   "alerted": [
