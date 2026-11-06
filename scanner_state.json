@@ -1,50 +1,5 @@
 {
   "pending": {
-    "G9wNTN2mTswhYBBwopu7u9sdGx38uBVP7GC74wePpump": {
-      "symbol": "Polycities",
-      "created_at": "2026-11-06T20:33:45.846242338Z",
-      "first_seen": "2026-11-06T20:33:46.246387+00:00"
-    },
-    "2J7TXW2a1G4JaBWHVwSEKscgcGbgycM5wHhv62NTpump": {
-      "symbol": "JISOO",
-      "created_at": "2026-11-06T20:33:45.1074252Z",
-      "first_seen": "2026-11-06T20:33:46.246387+00:00"
-    },
-    "akVmzxFonzVpukG4dCNps6rD6s9TRttt1xg3LNgpump": {
-      "symbol": "Polycities",
-      "created_at": "2026-11-06T20:33:44.926032622Z",
-      "first_seen": "2026-11-06T20:33:46.246387+00:00"
-    },
-    "9AFSzc15XapN3SDJ3WhbXGPqH4Bs3D2CBxw49Sf2pump": {
-      "symbol": "Polycities",
-      "created_at": "2026-11-06T20:33:43.752425025Z",
-      "first_seen": "2026-11-06T20:33:46.246387+00:00"
-    },
-    "73tZuqUDBw77XJA17Xx46zeWGXvWK7TFXc5AuhFRe4zu": {
-      "symbol": "Polycities",
-      "created_at": "2026-11-06T20:33:42.955252995Z",
-      "first_seen": "2026-11-06T20:33:46.246387+00:00"
-    },
-    "HjraWiC1WEi6io8AbbkGNm9dSuKPxD4tHAvewmVypump": {
-      "symbol": "Polycities",
-      "created_at": "2026-11-06T20:33:42.942833149Z",
-      "first_seen": "2026-11-06T20:33:46.246387+00:00"
-    },
-    "EqrJPQRdeFJGVa5bCWZXXWW2CbdSk16TMKkujJB82H4C": {
-      "symbol": "\u30e1\u30e1",
-      "created_at": "2026-11-06T20:33:42.381757791Z",
-      "first_seen": "2026-11-06T20:33:46.246387+00:00"
-    },
-    "yGSGxQsz7Qvdy3TvHGSD5pFKdCXDbspbPWdifCppump": {
-      "symbol": "Polycities",
-      "created_at": "2026-11-06T20:33:41.922197298Z",
-      "first_seen": "2026-11-06T20:33:46.246387+00:00"
-    },
-    "37G3Ly7b5pskr2sTD9iR6JjrXDXHRjP19fmLUYSnpump": {
-      "symbol": "1P",
-      "created_at": "2026-11-06T20:33:41.762293311Z",
-      "first_seen": "2026-11-06T20:33:46.246387+00:00"
-    },
     "GSFwRyFtih4qjSgn2i3xHuFJ2c8HFxBMv6nwB69dWZ3q": {
       "symbol": "DNUT",
       "created_at": "2026-11-06T20:37:07.951042369Z",
@@ -423,7 +378,12 @@
     "BW1K4YTSGW4xUfRPX8EeimzqVPB5MJbCr2HfhgZZpump": {
       "symbol": "Sahil",
       "created_at": "2026-11-06T20:58:49.617131649Z",
-      "first_seen": "2026-11-06T20:59:01.764725+00:00"
+      "first_seen": "2026-11-06T20:59:01.764725+00:00",
+      "confirm": {
+        "liquidity": 14345.43,
+        "market_cap": 39761,
+        "at": "2026-11-06T22:35:25.715044+00:00"
+      }
     },
     "3UYEHgD6B3QGckbvG2YcT7x3ggCSa4Zmmpz8GUsMBAGS": {
       "symbol": "Lukaflm",
@@ -1869,6 +1829,56 @@
       "symbol": "BTC",
       "created_at": "2026-11-06T22:32:23.799754405Z",
       "first_seen": "2026-11-06T22:32:35.581206+00:00"
+    },
+    "AVD86yDgwFAAciuammDhqJ7N5n6BrPt18G1fYXs3pump": {
+      "symbol": "N/A",
+      "created_at": "2026-11-06T22:35:23.983454341Z",
+      "first_seen": "2026-11-06T22:35:25.714815+00:00"
+    },
+    "7WSNYSC4guj3sSwszNbvbMu4yvEmqwW4FmojEXezpump": {
+      "symbol": "FHC",
+      "created_at": "2026-11-06T22:35:23.798308902Z",
+      "first_seen": "2026-11-06T22:35:25.714815+00:00"
+    },
+    "BMfkrSWpVVw91HFqeMfDagifGEGmusUz4CVx5LVKEknC": {
+      "symbol": "Jos\u00e9",
+      "created_at": "2026-11-06T22:35:22.418648796Z",
+      "first_seen": "2026-11-06T22:35:25.714815+00:00"
+    },
+    "EbCpsFmHexoGwPVY3dcEB35sHMEB6cxEVRoWhUSipump": {
+      "symbol": "$SPACEMEOW",
+      "created_at": "2026-11-06T22:35:22.085261413Z",
+      "first_seen": "2026-11-06T22:35:25.714815+00:00"
+    },
+    "9vGTyes8ih8UozznoXNaUTSH1zyRWR4waJWeFJuHpump": {
+      "symbol": "DJT",
+      "created_at": "2026-11-06T22:35:21.921701593Z",
+      "first_seen": "2026-11-06T22:35:25.714815+00:00"
+    },
+    "Fs7CH9bwjvk9qAhcMjTxt7jDZ4K68kth36mQxBCcV1WW": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-11-06T22:35:17.910642983Z",
+      "first_seen": "2026-11-06T22:35:25.714815+00:00"
+    },
+    "5HZ6G4VbLC2XntsezmhWouLfBZHv2M1EwJNx4X7if1vV": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-11-06T22:35:16.65143555Z",
+      "first_seen": "2026-11-06T22:35:25.714815+00:00"
+    },
+    "4gL5vUdz8jWKB78FLJkL5NNGY8N2dTzyts1isaqNw378": {
+      "symbol": "Revaly",
+      "created_at": "2026-11-06T22:35:15.61279661Z",
+      "first_seen": "2026-11-06T22:35:25.714815+00:00"
+    },
+    "8ccfEBhLcJxij55yJRE4X6P95owXkwrY9iPi7kFypump": {
+      "symbol": "WHITE",
+      "created_at": "2026-11-06T22:35:13.562217643Z",
+      "first_seen": "2026-11-06T22:35:25.714815+00:00"
+    },
+    "EZ23JWGdmvuGT3u5ciabexDmrr7tNm2uDNmSvDoppump": {
+      "symbol": "Revaly",
+      "created_at": "2026-11-06T22:35:12.885227882Z",
+      "first_seen": "2026-11-06T22:35:25.714815+00:00"
     }
   },
   "alerted": [
