@@ -1,55 +1,5 @@
 {
   "pending": {
-    "AwSzpCEiuxijbkHUrbUAz6dRQ1bA7JeGGa3LQ6TetuGF": {
-      "symbol": "loansharks",
-      "created_at": "2026-11-06T20:16:28.043551831Z",
-      "first_seen": "2026-11-06T20:16:36.895401+00:00"
-    },
-    "3Cxih1fbsYvF9Xo78sFaLinBE9bg7ZWHK8GAJKR1pump": {
-      "symbol": "MEUS",
-      "created_at": "2026-11-06T20:16:26.960107451Z",
-      "first_seen": "2026-11-06T20:16:36.895401+00:00"
-    },
-    "2j2Bv2HCH5uwp6Vs9Fb2xrTqhC7ZeE9FLcAA6hUaQxbm": {
-      "symbol": "ZIPI",
-      "created_at": "2026-11-06T20:16:25.956005492Z",
-      "first_seen": "2026-11-06T20:16:36.895401+00:00"
-    },
-    "D79tkdBLaWr4FSbMRjBWgrqT9tqqqL8f2PkK9BJhFPFk": {
-      "symbol": "BTC-UP",
-      "created_at": "2026-11-06T20:16:25.83639836Z",
-      "first_seen": "2026-11-06T20:16:36.895401+00:00"
-    },
-    "GU56MwMw1bwp71tRE9oUrSVUoaqNWxdxDLSb4C4epump": {
-      "symbol": "DUMORAT",
-      "created_at": "2026-11-06T20:16:24.723533756Z",
-      "first_seen": "2026-11-06T20:16:36.895401+00:00"
-    },
-    "9jeNDtPnjc6qN3q8ctdjW1hDo2NAeLAHRijxKFSypump": {
-      "symbol": "PNG",
-      "created_at": "2026-11-06T20:16:23.90334349Z",
-      "first_seen": "2026-11-06T20:16:36.895401+00:00"
-    },
-    "4iwAA1CFVHRXFRJCxZY6hx5dAWQuUnxWawL6MV16pump": {
-      "symbol": "SHIPPY",
-      "created_at": "2026-11-06T20:16:23.614514512Z",
-      "first_seen": "2026-11-06T20:16:36.895401+00:00"
-    },
-    "8ruzevZwJEmQXFokU1pw6wsPdnnzuuaNGqwHw6HDpump": {
-      "symbol": "loansharks",
-      "created_at": "2026-11-06T20:16:22.079486988Z",
-      "first_seen": "2026-11-06T20:16:36.895401+00:00"
-    },
-    "E1hcu373YL5p9pdaNAfizBRXmCq4b7GrWTxgPznvuFFt": {
-      "symbol": "Obama",
-      "created_at": "2026-11-06T20:16:21.226933113Z",
-      "first_seen": "2026-11-06T20:16:36.895401+00:00"
-    },
-    "9QTZ1ZZL5o3fDYSwZ5M5tXNgfeB2DokaJ5NYKJispump": {
-      "symbol": "PARTY",
-      "created_at": "2026-11-06T20:16:21.038159382Z",
-      "first_seen": "2026-11-06T20:16:36.895401+00:00"
-    },
     "5uLoxZrDmHkwpz3g8N8V24haGgzxxAhK7CdFeg3Apump": {
       "symbol": "PARTY",
       "created_at": "2026-11-06T20:19:38.753167474Z",
@@ -1768,7 +1718,12 @@
     "G9MtqPnSyieTdM96Ai5qcu867kG1kaQcPrUAG9JVpump": {
       "symbol": "GTA 6 Coin",
       "created_at": "2026-11-06T22:06:10.105224177Z",
-      "first_seen": "2026-11-06T22:06:36.329664+00:00"
+      "first_seen": "2026-11-06T22:06:36.329664+00:00",
+      "confirm": {
+        "liquidity": 26530.24,
+        "market_cap": 123999,
+        "at": "2026-11-06T22:17:44.944673+00:00"
+      }
     },
     "13scycJCyzj6FNb87x6ikvKAYbwpL53XjmRQXUwRrAWj": {
       "symbol": "SPACESHIP",
@@ -1874,6 +1829,56 @@
       "symbol": "dairy",
       "created_at": "2026-11-06T22:13:53.884707888Z",
       "first_seen": "2026-11-06T22:14:06.410447+00:00"
+    },
+    "5am6yJ8N9K78eXm1kw6uboq98asc71Nqhus1nt1fExyu": {
+      "symbol": "XTO",
+      "created_at": "2026-11-06T22:17:44.314452571Z",
+      "first_seen": "2026-11-06T22:17:44.944436+00:00"
+    },
+    "3oTCJjax7qLaiBykX8D3LBT83YEffopACWfaySakpump": {
+      "symbol": "XTO",
+      "created_at": "2026-11-06T22:17:43.898450354Z",
+      "first_seen": "2026-11-06T22:17:44.944436+00:00"
+    },
+    "CzUkyy8RDVCpzwyStTMC2C3TB4Ut4pLfVjvr6Zoapump": {
+      "symbol": "WIB",
+      "created_at": "2026-11-06T22:17:43.502795249Z",
+      "first_seen": "2026-11-06T22:17:44.944436+00:00"
+    },
+    "HTYYDQAPY2joi2VwQ1E8CGrfbxYqRY824aHGQgKuB9Gq": {
+      "symbol": "AI",
+      "created_at": "2026-11-06T22:17:41.316024007Z",
+      "first_seen": "2026-11-06T22:17:44.944436+00:00"
+    },
+    "6L4AhKuKe28oTG71ULzA3roe6XpsUxgfCneJWiktpump": {
+      "symbol": "AI",
+      "created_at": "2026-11-06T22:17:40.384125245Z",
+      "first_seen": "2026-11-06T22:17:44.944436+00:00"
+    },
+    "5ztGQqGMy2qtAvCnQGeQz1umUi9WD6T7TXPuoKU3pump": {
+      "symbol": "PACE",
+      "created_at": "2026-11-06T22:17:36.704314356Z",
+      "first_seen": "2026-11-06T22:17:44.944436+00:00"
+    },
+    "CanAHGwZrDRjxM4TrZnuBC22NZx2iQAjjs8fXqDjpump": {
+      "symbol": "beer",
+      "created_at": "2026-11-06T22:17:36.321184623Z",
+      "first_seen": "2026-11-06T22:17:44.944436+00:00"
+    },
+    "9kT3zdggH6S7RYkmdExNAbriwbQn2aJsrbSCA9XNpump": {
+      "symbol": "NOBRAIN$",
+      "created_at": "2026-11-06T22:17:36.162309627Z",
+      "first_seen": "2026-11-06T22:17:44.944436+00:00"
+    },
+    "G3fdqg4gu22eN26Eyr4R97qnBDvdYdx6vowPaEGWpump": {
+      "symbol": "BetOnBlak",
+      "created_at": "2026-11-06T22:17:35.793688308Z",
+      "first_seen": "2026-11-06T22:17:44.944436+00:00"
+    },
+    "8m3zkdF877gQnTe78ZYNZbDE6psTpWjCfLE4pohkpump": {
+      "symbol": "TAO",
+      "created_at": "2026-11-06T22:17:35.367015347Z",
+      "first_seen": "2026-11-06T22:17:44.944436+00:00"
     }
   },
   "alerted": [
