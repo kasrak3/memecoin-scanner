@@ -638,7 +638,12 @@
     "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump": {
       "symbol": "BTC",
       "created_at": "2026-11-07T13:16:56.360773661Z",
-      "first_seen": "2026-11-07T13:17:18.144410+00:00"
+      "first_seen": "2026-11-07T13:17:18.144410+00:00",
+      "confirm": {
+        "liquidity": 23243.54,
+        "market_cap": 96267,
+        "at": "2026-11-07T13:28:34.540253+00:00"
+      }
     },
     "PecjX2TC2Wnh34e7mrR4XkK2b7hKfRNajhX7KYQQBM5": {
       "symbol": "",
@@ -839,6 +844,56 @@
       "symbol": "QDOG",
       "created_at": "2026-11-07T13:25:46.942724567Z",
       "first_seen": "2026-11-07T13:26:17.294145+00:00"
+    },
+    "EnseKD8NsXNJRec3dsJYPqaTV6CJxu8YBBqDj29ejPiW": {
+      "symbol": "Democat",
+      "created_at": "2026-11-07T13:28:23.747609387Z",
+      "first_seen": "2026-11-07T13:28:34.540013+00:00"
+    },
+    "DwqPXBQqwncZ1xkUzLCR5wm8bE8dYZbEzmHimvRwpump": {
+      "symbol": "COLOSSAL",
+      "created_at": "2026-11-07T13:28:21.108244563Z",
+      "first_seen": "2026-11-07T13:28:34.540013+00:00"
+    },
+    "6CUkcWMCyjdJm2LhMfxZTzRxP5FnSfvFhyhQopKypump": {
+      "symbol": "$CALLCAT",
+      "created_at": "2026-11-07T13:28:19.792361734Z",
+      "first_seen": "2026-11-07T13:28:34.540013+00:00"
+    },
+    "2Uo6e3uwYHN9sJ85BNEFyGCtdEX6RSovFxeTbT2Wpump": {
+      "symbol": "MMM",
+      "created_at": "2026-11-07T13:28:19.703402324Z",
+      "first_seen": "2026-11-07T13:28:34.540013+00:00"
+    },
+    "2kwcpf4g6FUm5nufts6urQMFw2kNW2JQMfnuduK8mum9": {
+      "symbol": "DUGE",
+      "created_at": "2026-11-07T13:28:18.871170732Z",
+      "first_seen": "2026-11-07T13:28:34.540013+00:00"
+    },
+    "BEAbMbyyXP2X1uV2WEDWQwpKUDcMVtcekgqXkmGuaRAR": {
+      "symbol": "MITTENS",
+      "created_at": "2026-11-07T13:28:15.491540374Z",
+      "first_seen": "2026-11-07T13:28:34.540013+00:00"
+    },
+    "5CeqjngHuMeFzAeBzEshkfVza5jCyvvVzQj2QedPpump": {
+      "symbol": "MITTENS",
+      "created_at": "2026-11-07T13:28:14.29636386Z",
+      "first_seen": "2026-11-07T13:28:34.540013+00:00"
+    },
+    "EBrhEmRxp7q39MsbhS5skD7kYzr9FELfdR6GPGuapump": {
+      "symbol": "CDOG",
+      "created_at": "2026-11-07T13:28:14.290792526Z",
+      "first_seen": "2026-11-07T13:28:34.540013+00:00"
+    },
+    "28Gq2TGC6Jb8HPpucxDMikfj7JkSJP1YW1nNJVbes4dU": {
+      "symbol": "MPN",
+      "created_at": "2026-11-07T13:28:13.728040072Z",
+      "first_seen": "2026-11-07T13:28:34.540013+00:00"
+    },
+    "uanVF2c49TtLdu3MAL7SST5kA5oAquCKK4iManNpump": {
+      "symbol": "TEST",
+      "created_at": "2026-11-07T13:28:11.495556055Z",
+      "first_seen": "2026-11-07T13:28:34.540013+00:00"
     }
   },
   "alerted": [
