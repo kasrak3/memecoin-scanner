@@ -70,16 +70,6 @@
       "created_at": "2026-11-07T12:54:14.219253269Z",
       "first_seen": "2026-11-07T12:54:21.774825+00:00"
     },
-    "CfL8KmoTngbNpmjAo1SD1udnJ1h2Rg23bng6WCbDpump": {
-      "symbol": "farmsem",
-      "created_at": "2026-11-07T12:54:12.547086626Z",
-      "first_seen": "2026-11-07T12:54:21.774825+00:00",
-      "confirm": {
-        "liquidity": 25677.12,
-        "market_cap": 110989,
-        "at": "2026-11-07T13:04:30.710058+00:00"
-      }
-    },
     "D35V6W7cx6d21gyNJS8T9bvT8qhvFt5edSMHiRfbRcPq": {
       "symbol": "",
       "created_at": "2026-11-07T12:54:10.759790651Z",
@@ -354,6 +344,56 @@
       "symbol": "ORBIL",
       "created_at": "2026-11-07T13:04:14.126533966Z",
       "first_seen": "2026-11-07T13:04:30.709808+00:00"
+    },
+    "2MVom3C6BwFMXTXTtooQLx9CnVje9JUxXAX4cRw7pump": {
+      "symbol": "ead",
+      "created_at": "2026-11-07T13:06:26.505999011Z",
+      "first_seen": "2026-11-07T13:06:35.003507+00:00"
+    },
+    "BSY8aB3WaZwR4Tx6R6Ku1uPUpXzCjahs4xzLRZ6mJM1g": {
+      "symbol": "Seatbelt",
+      "created_at": "2026-11-07T13:06:24.964843779Z",
+      "first_seen": "2026-11-07T13:06:35.003507+00:00"
+    },
+    "F5C2YrxHV3cL5V8ed6wMaDE19Zjoe7tpEPE1CQt9FgsK": {
+      "symbol": "",
+      "created_at": "2026-11-07T13:06:23.610428152Z",
+      "first_seen": "2026-11-07T13:06:35.003507+00:00"
+    },
+    "GCGYDZe4mJhzUdPyH5iM27JRKYAXPZtgPgZkRJrZUFU1": {
+      "symbol": "Corgi",
+      "created_at": "2026-11-07T13:06:22.171387024Z",
+      "first_seen": "2026-11-07T13:06:35.003507+00:00"
+    },
+    "VYvse51aV2MkpTztMbCY6ojaYHVhUestz8bZsUHpump": {
+      "symbol": "helllp",
+      "created_at": "2026-11-07T13:06:21.883094575Z",
+      "first_seen": "2026-11-07T13:06:35.003507+00:00"
+    },
+    "GsQBgrTeT3t9W3NFzjvEv3ZEADnqoR3wFCX967oqNn4q": {
+      "symbol": "",
+      "created_at": "2026-11-07T13:06:21.852500229Z",
+      "first_seen": "2026-11-07T13:06:35.003507+00:00"
+    },
+    "CLvYms8XFboXyfkgWnzLzejcd6WKtZy1h14a3BpPpump": {
+      "symbol": "FOX",
+      "created_at": "2026-11-07T13:06:21.523228931Z",
+      "first_seen": "2026-11-07T13:06:35.003507+00:00"
+    },
+    "CrJxYV1rnbaBwsi7vSpevmZBkiz4vuxJyDtFuko5pump": {
+      "symbol": "pingu",
+      "created_at": "2026-11-07T13:06:21.519956392Z",
+      "first_seen": "2026-11-07T13:06:35.003507+00:00"
+    },
+    "f7qk18Qnxc8z1wT4PyXVMqLdu26MRVintiEHsHgs6w4": {
+      "symbol": "cig",
+      "created_at": "2026-11-07T13:06:21.137338069Z",
+      "first_seen": "2026-11-07T13:06:35.003507+00:00"
+    },
+    "C6MnHUM3Ny94b8fjigxtYV4SP1YcnXhWtMPHB5FBpump": {
+      "symbol": "00",
+      "created_at": "2026-11-07T13:06:19.453555128Z",
+      "first_seen": "2026-11-07T13:06:35.003507+00:00"
     }
   },
   "alerted": [
@@ -894,7 +934,8 @@
     "oH8GNDTZ4LYTxNx3D6WYP5V6m1VCBUoWfFNLxUwpump",
     "Cy6F9HUKj29dTS9hUWopk2RkRLXRhcRaysrsQiXQpump",
     "G9MtqPnSyieTdM96Ai5qcu867kG1kaQcPrUAG9JVpump",
-    "BW1K4YTSGW4xUfRPX8EeimzqVPB5MJbCr2HfhgZZpump"
+    "BW1K4YTSGW4xUfRPX8EeimzqVPB5MJbCr2HfhgZZpump",
+    "CfL8KmoTngbNpmjAo1SD1udnJ1h2Rg23bng6WCbDpump"
   ],
   "rejected": [
     "GHopsuZRMMBD4HtzD1fnEMHcV642Yntbi1SS5CmkJ9CA",
