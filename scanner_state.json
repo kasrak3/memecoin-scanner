@@ -305,16 +305,6 @@
       "created_at": "2026-11-07T13:04:25.438886722Z",
       "first_seen": "2026-11-07T13:04:30.709808+00:00"
     },
-    "ASTLrYPQeCt4iTdiZu439i4cfkcWEH1RrPA4ctyEpump": {
-      "symbol": "GW",
-      "created_at": "2026-11-07T13:04:22.055399698Z",
-      "first_seen": "2026-11-07T13:04:30.709808+00:00",
-      "confirm": {
-        "liquidity": 16014,
-        "market_cap": 48497,
-        "at": "2026-11-07T13:15:06.897952+00:00"
-      }
-    },
     "FoA7zvrowiTdyUaw5ta85nToRtXWAsp8FxRqAVcypump": {
       "symbol": "Corgi",
       "created_at": "2026-11-07T13:04:21.951625351Z",
@@ -599,6 +589,56 @@
       "symbol": "FBIS",
       "created_at": "2026-11-07T13:14:44.578678756Z",
       "first_seen": "2026-11-07T13:15:06.897716+00:00"
+    },
+    "7mMaKoTfPJz8VKFCzppjDHciNDUkqBb1nyEN81S1pump": {
+      "symbol": "Rocketman",
+      "created_at": "2026-11-07T13:17:10.426570584Z",
+      "first_seen": "2026-11-07T13:17:18.144410+00:00"
+    },
+    "HxPaq3Fymu99F4zZgiRDEYrgsJzq3UPoxQDZBhgNQvDo": {
+      "symbol": "Seatbelt",
+      "created_at": "2026-11-07T13:17:10.250212248Z",
+      "first_seen": "2026-11-07T13:17:18.144410+00:00"
+    },
+    "GeCVaojVJdXEF4cMzgX278T1is5km5xz4pddaCB2vVri": {
+      "symbol": "MPN",
+      "created_at": "2026-11-07T13:17:09.015785622Z",
+      "first_seen": "2026-11-07T13:17:18.144410+00:00"
+    },
+    "HEakXyU67QeMCMJJrunrd5xBjQGwA3qApUTH3GYopump": {
+      "symbol": "apple",
+      "created_at": "2026-11-07T13:17:06.036420431Z",
+      "first_seen": "2026-11-07T13:17:18.144410+00:00"
+    },
+    "6GBVGaASoqbZG8wzPgTyaChvFQdHUnnGrw2oLz6Cpump": {
+      "symbol": "Seatbelt",
+      "created_at": "2026-11-07T13:17:04.304246941Z",
+      "first_seen": "2026-11-07T13:17:18.144410+00:00"
+    },
+    "Hah1BhYeTf7WEQ2gmsUZ5GaaCtYQ7gHZb4Go2GDu1S4i": {
+      "symbol": "MPN",
+      "created_at": "2026-11-07T13:17:03.730132617Z",
+      "first_seen": "2026-11-07T13:17:18.144410+00:00"
+    },
+    "2QFRSPqxi4WVtdDftaYtya8CUZdeKgUVXm9hDdWN4LZv": {
+      "symbol": "TI",
+      "created_at": "2026-11-07T13:17:00.540846023Z",
+      "first_seen": "2026-11-07T13:17:18.144410+00:00"
+    },
+    "BJP6KatnURwp3kC86z8Ec3x12WGsRiugUd4f35pdpump": {
+      "symbol": "kittylick",
+      "created_at": "2026-11-07T13:16:59.642534216Z",
+      "first_seen": "2026-11-07T13:17:18.144410+00:00"
+    },
+    "8d9MiwrQ9VtBXmHdCdUJ8CNNFmczo84itF4kd7FEpump": {
+      "symbol": "TI",
+      "created_at": "2026-11-07T13:16:58.779221622Z",
+      "first_seen": "2026-11-07T13:17:18.144410+00:00"
+    },
+    "CZRtwCDJy4cKNvtVwtgGqeEGzLnCDJdTkexgpEsMpump": {
+      "symbol": "BTC",
+      "created_at": "2026-11-07T13:16:56.360773661Z",
+      "first_seen": "2026-11-07T13:17:18.144410+00:00"
     }
   },
   "alerted": [
@@ -1140,7 +1180,8 @@
     "Cy6F9HUKj29dTS9hUWopk2RkRLXRhcRaysrsQiXQpump",
     "G9MtqPnSyieTdM96Ai5qcu867kG1kaQcPrUAG9JVpump",
     "BW1K4YTSGW4xUfRPX8EeimzqVPB5MJbCr2HfhgZZpump",
-    "CfL8KmoTngbNpmjAo1SD1udnJ1h2Rg23bng6WCbDpump"
+    "CfL8KmoTngbNpmjAo1SD1udnJ1h2Rg23bng6WCbDpump",
+    "ASTLrYPQeCt4iTdiZu439i4cfkcWEH1RrPA4ctyEpump"
   ],
   "rejected": [
     "GHopsuZRMMBD4HtzD1fnEMHcV642Yntbi1SS5CmkJ9CA",
