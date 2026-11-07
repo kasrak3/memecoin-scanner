@@ -490,11 +490,6 @@
       "created_at": "2026-11-07T06:10:30.122802154Z",
       "first_seen": "2026-11-07T06:10:31.279257+00:00"
     },
-    "5AsHknvUiGsAFXvyydtJkSisfvBmfitkaU6yzF4Tn5ye": {
-      "symbol": "Diamond",
-      "created_at": "2026-11-07T06:10:30.105670788Z",
-      "first_seen": "2026-11-07T06:10:31.279257+00:00"
-    },
     "4TWn1HZq5DiU4cZPhb3rivyZg19CybUJH41jhTuV97hT": {
       "symbol": "PBBL",
       "created_at": "2026-11-07T06:10:25.744444116Z",
@@ -734,6 +729,56 @@
       "symbol": "cashinu",
       "created_at": "2026-11-07T06:18:30.94577352Z",
       "first_seen": "2026-11-07T06:18:56.525816+00:00"
+    },
+    "ER4qupGKJAa8qgVDNyTMwvDDTyCpQm5pgWD8XDy7hNqh": {
+      "symbol": "Dividends",
+      "created_at": "2026-11-07T06:20:54.03774774Z",
+      "first_seen": "2026-11-07T06:21:04.095564+00:00"
+    },
+    "5pYNRsKQpbYVnLsBW4JDP64V9d6oQ54ewVJwB3DSSBuW": {
+      "symbol": "COLLECTOR",
+      "created_at": "2026-11-07T06:20:53.355201619Z",
+      "first_seen": "2026-11-07T06:21:04.095564+00:00"
+    },
+    "8sW2WxZtmZZPLJz1pkj5veBdiboBF7bnXxmVFi3Bpump": {
+      "symbol": "RACOON",
+      "created_at": "2026-11-07T06:20:52.3883304Z",
+      "first_seen": "2026-11-07T06:21:04.095564+00:00"
+    },
+    "6jvUWftguv7cpGwKxApqWGqT1HBNR5i1KDLvjVrCpump": {
+      "symbol": "silly",
+      "created_at": "2026-11-07T06:20:50.340498861Z",
+      "first_seen": "2026-11-07T06:21:04.095564+00:00"
+    },
+    "4VJkp4ojv6cE594kt7yNzTtsRznYqK6GrhQckEirpump": {
+      "symbol": "ETH",
+      "created_at": "2026-11-07T06:20:48.467270053Z",
+      "first_seen": "2026-11-07T06:21:04.095564+00:00"
+    },
+    "9bJ7Z36Laon5K1aUTcCTtVr1mjPjQKBCpHCZGQfjpump": {
+      "symbol": "CASHDOG",
+      "created_at": "2026-11-07T06:20:47.896170169Z",
+      "first_seen": "2026-11-07T06:21:04.095564+00:00"
+    },
+    "4CnFhrHBaacVPBDJkE2SZrpsvTv4XRLY5U4Dh6Ycpump": {
+      "symbol": "34%",
+      "created_at": "2026-11-07T06:20:45.340408881Z",
+      "first_seen": "2026-11-07T06:21:04.095564+00:00"
+    },
+    "GLGuC89C1pXGnjCqFnEJpx2AdkccbSCXYknq8WQ2wWtt": {
+      "symbol": "CASHDOG",
+      "created_at": "2026-11-07T06:20:41.889575152Z",
+      "first_seen": "2026-11-07T06:21:04.095564+00:00"
+    },
+    "6VJWP9zmPhccV49hDfgd7FQEBvnP3i2CjS6pUFjYpump": {
+      "symbol": "LaMisery",
+      "created_at": "2026-11-07T06:20:34.946507197Z",
+      "first_seen": "2026-11-07T06:21:04.095564+00:00"
+    },
+    "2Kk479o7eBGM55rUptrcnQpJTDNj1TS9zrSQjvk7pump": {
+      "symbol": "SATINU",
+      "created_at": "2026-11-07T06:20:33.806881728Z",
+      "first_seen": "2026-11-07T06:21:04.095564+00:00"
     }
   },
   "alerted": [
@@ -1277,7 +1322,6 @@
     "BW1K4YTSGW4xUfRPX8EeimzqVPB5MJbCr2HfhgZZpump"
   ],
   "rejected": [
-    "37BRvv3mB475uso7yeFcjQzyMkkx1E5trmtneVCbf5Kp",
     "hvffADaBvXAMfNuJHnahERWgPzMXAZkggSn7QMrpump",
     "A5RSmqS2PKzHwdVQFUKUqThHs48pX3cRYqpRmKDm3CYL",
     "2hAVtwC6qNV6dJhn6ZPxnDyCNkfh8suW1uu4tj7uiShK",
@@ -3276,6 +3320,7 @@
     "dMyGV4ptoPmJPQ6Cqh2j69AJRZU88mGL7JryMezpump",
     "72T3LoknsYiZrycK4wwHaxYbptSoqvgnVJr948oHtcFC",
     "DTuG18xCtXTLe3nWSsL96Ehe8au6NiuBRG4MwvVipump",
-    "HpH8Ybs4EbnY3rk8Zpsr5WFnkC33ccuDSsMnbkGUjmmS"
+    "HpH8Ybs4EbnY3rk8Zpsr5WFnkC33ccuDSsMnbkGUjmmS",
+    "5AsHknvUiGsAFXvyydtJkSisfvBmfitkaU6yzF4Tn5ye"
   ]
 }
