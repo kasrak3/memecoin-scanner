@@ -1,50 +1,5 @@
 {
   "pending": {
-    "7mMaKoTfPJz8VKFCzppjDHciNDUkqBb1nyEN81S1pump": {
-      "symbol": "Rocketman",
-      "created_at": "2026-11-07T13:17:10.426570584Z",
-      "first_seen": "2026-11-07T13:17:18.144410+00:00"
-    },
-    "HxPaq3Fymu99F4zZgiRDEYrgsJzq3UPoxQDZBhgNQvDo": {
-      "symbol": "Seatbelt",
-      "created_at": "2026-11-07T13:17:10.250212248Z",
-      "first_seen": "2026-11-07T13:17:18.144410+00:00"
-    },
-    "GeCVaojVJdXEF4cMzgX278T1is5km5xz4pddaCB2vVri": {
-      "symbol": "MPN",
-      "created_at": "2026-11-07T13:17:09.015785622Z",
-      "first_seen": "2026-11-07T13:17:18.144410+00:00"
-    },
-    "HEakXyU67QeMCMJJrunrd5xBjQGwA3qApUTH3GYopump": {
-      "symbol": "apple",
-      "created_at": "2026-11-07T13:17:06.036420431Z",
-      "first_seen": "2026-11-07T13:17:18.144410+00:00"
-    },
-    "6GBVGaASoqbZG8wzPgTyaChvFQdHUnnGrw2oLz6Cpump": {
-      "symbol": "Seatbelt",
-      "created_at": "2026-11-07T13:17:04.304246941Z",
-      "first_seen": "2026-11-07T13:17:18.144410+00:00"
-    },
-    "Hah1BhYeTf7WEQ2gmsUZ5GaaCtYQ7gHZb4Go2GDu1S4i": {
-      "symbol": "MPN",
-      "created_at": "2026-11-07T13:17:03.730132617Z",
-      "first_seen": "2026-11-07T13:17:18.144410+00:00"
-    },
-    "2QFRSPqxi4WVtdDftaYtya8CUZdeKgUVXm9hDdWN4LZv": {
-      "symbol": "TI",
-      "created_at": "2026-11-07T13:17:00.540846023Z",
-      "first_seen": "2026-11-07T13:17:18.144410+00:00"
-    },
-    "BJP6KatnURwp3kC86z8Ec3x12WGsRiugUd4f35pdpump": {
-      "symbol": "kittylick",
-      "created_at": "2026-11-07T13:16:59.642534216Z",
-      "first_seen": "2026-11-07T13:17:18.144410+00:00"
-    },
-    "8d9MiwrQ9VtBXmHdCdUJ8CNNFmczo84itF4kd7FEpump": {
-      "symbol": "TI",
-      "created_at": "2026-11-07T13:16:58.779221622Z",
-      "first_seen": "2026-11-07T13:17:18.144410+00:00"
-    },
     "PecjX2TC2Wnh34e7mrR4XkK2b7hKfRNajhX7KYQQBM5": {
       "symbol": "",
       "created_at": "2026-11-07T13:19:20.394528878Z",
@@ -1948,7 +1903,12 @@
     "AjM3EBZp1hGZjCEDGU8jQ7bZWnjAeYe5Lb6UJwYSpump": {
       "symbol": "CR7",
       "created_at": "2026-11-07T15:03:34.853583585Z",
-      "first_seen": "2026-11-07T15:03:44.523452+00:00"
+      "first_seen": "2026-11-07T15:03:44.523452+00:00",
+      "confirm": {
+        "liquidity": 28277.08,
+        "market_cap": 140962,
+        "at": "2026-11-07T15:18:37.908282+00:00"
+      }
     },
     "64m9KZ5pNM4Hc7naBKuUY6zCM2ypYCSreA8isMY5pump": {
       "symbol": "GOONCAVE",
@@ -2174,6 +2134,56 @@
       "symbol": "sol",
       "created_at": "2026-11-07T15:15:18.210507979Z",
       "first_seen": "2026-11-07T15:15:39.536411+00:00"
+    },
+    "BKiNySGeTANa1f2qHTaaksyJM98NGCosY35om9ka9Ye8": {
+      "symbol": "OPSF1",
+      "created_at": "2026-11-07T15:18:34.562233828Z",
+      "first_seen": "2026-11-07T15:18:37.908046+00:00"
+    },
+    "8HtEpVKb8SbMpqDidn1mkpaosVrsvcnkxhbU3N3ypump": {
+      "symbol": "WeinerDog",
+      "created_at": "2026-11-07T15:18:34.227547006Z",
+      "first_seen": "2026-11-07T15:18:37.908046+00:00"
+    },
+    "GS2cEDtw5A6aHZqT6VTzx3tZoMJykHVuSrQXJDbKqGF7": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-11-07T15:18:33.028857176Z",
+      "first_seen": "2026-11-07T15:18:37.908046+00:00"
+    },
+    "D9UMJDK3aBc99JGSJi1aftN1sFbssCiev5LNCZEVpump": {
+      "symbol": "LUNA",
+      "created_at": "2026-11-07T15:18:32.7914332Z",
+      "first_seen": "2026-11-07T15:18:37.908046+00:00"
+    },
+    "6ePvvP7M6Pvb1pvTrWvjgXG2545tFeF15T4eCNZ4pump": {
+      "symbol": "WinCoin",
+      "created_at": "2026-11-07T15:18:30.157915098Z",
+      "first_seen": "2026-11-07T15:18:37.908046+00:00"
+    },
+    "BCueoca6zSH6fMvUkvKcK4do9XEnbmt1qkZzSLgNBUBt": {
+      "symbol": "duge",
+      "created_at": "2026-11-07T15:18:29.955020355Z",
+      "first_seen": "2026-11-07T15:18:37.908046+00:00"
+    },
+    "B8DsZyqXQnVL9BwHafjuGgsaCz9Z8TkFwyfAgZcnpump": {
+      "symbol": "qwe",
+      "created_at": "2026-11-07T15:18:29.664761415Z",
+      "first_seen": "2026-11-07T15:18:37.908046+00:00"
+    },
+    "AMgDcaHn7kWXUDu4tTu2ioavDXiW7C7ZcQ4h2YPxkBKa": {
+      "symbol": "",
+      "created_at": "2026-11-07T15:18:28.499531219Z",
+      "first_seen": "2026-11-07T15:18:37.908046+00:00"
+    },
+    "HWiVLMHbSPvovhjYDVsoX9KY43a9paAuaxo8WrWjpump": {
+      "symbol": "tick",
+      "created_at": "2026-11-07T15:18:27.854696581Z",
+      "first_seen": "2026-11-07T15:18:37.908046+00:00"
+    },
+    "E333h6AYrR9ECAEqRsVkut8tLhZPdXkjyNhAqUwEBAGS": {
+      "symbol": "MELANIA",
+      "created_at": "2026-11-07T15:18:26.492690479Z",
+      "first_seen": "2026-11-07T15:18:37.908046+00:00"
     }
   },
   "alerted": [
