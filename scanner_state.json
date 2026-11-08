@@ -1033,7 +1033,12 @@
     "9p9cvSbkmhoyZW9CUXXJauDb2oD3LZuXHChCcSApump": {
       "symbol": "DV",
       "created_at": "2026-11-08T13:59:30.810116139Z",
-      "first_seen": "2026-11-08T13:59:36.626187+00:00"
+      "first_seen": "2026-11-08T13:59:36.626187+00:00",
+      "confirm": {
+        "liquidity": 15916.4,
+        "market_cap": 48525,
+        "at": "2026-11-08T14:10:59.775621+00:00"
+      }
     },
     "E5vdTeisEYfgyUkzZM4fBDNPDpqCLHU2S4usoRsNTF9U": {
       "symbol": "TEST",
@@ -1254,6 +1259,56 @@
       "symbol": "SOLDOG",
       "created_at": "2026-11-08T14:08:21.078088891Z",
       "first_seen": "2026-11-08T14:08:41.812641+00:00"
+    },
+    "DaJHJ64whbmXnEksZYy9XtNfkj8VtkJNAfKn8MXtpump": {
+      "symbol": "KAME",
+      "created_at": "2026-11-08T14:10:55.371697504Z",
+      "first_seen": "2026-11-08T14:10:59.775114+00:00"
+    },
+    "EhUx339hChL6cL8QnMPcfH1L3BvZSmokKZhogx2Upump": {
+      "symbol": "VERI",
+      "created_at": "2026-11-08T14:10:54.794469918Z",
+      "first_seen": "2026-11-08T14:10:59.775114+00:00"
+    },
+    "ED3qLVw22A8baPPevQti1yG1gK7mibAFXKa8h61Gpump": {
+      "symbol": "nana",
+      "created_at": "2026-11-08T14:10:54.794043607Z",
+      "first_seen": "2026-11-08T14:10:59.775114+00:00"
+    },
+    "Q2qmK4tRo3YMBAEyMsc1Uj4tEdRUJ2LUaz4p1Uavg2f": {
+      "symbol": "JLI",
+      "created_at": "2026-11-08T14:10:54.348036607Z",
+      "first_seen": "2026-11-08T14:10:59.775114+00:00"
+    },
+    "AaAZnL6L13XgDjPK4UHjm2LnS3dGJACVHL1cTd6ZShD9": {
+      "symbol": "MPN",
+      "created_at": "2026-11-08T14:10:51.699365273Z",
+      "first_seen": "2026-11-08T14:10:59.775114+00:00"
+    },
+    "F5hYs7T2dX6sXadtmDrnyNxE34Y8BCWxXaWTKnMRpump": {
+      "symbol": "LaMisery",
+      "created_at": "2026-11-08T14:10:50.853925175Z",
+      "first_seen": "2026-11-08T14:10:59.775114+00:00"
+    },
+    "9fzGAnHc5UxmopywCqcmQU5TucTuZMAWtU4RpZpm63Sp": {
+      "symbol": "MPN",
+      "created_at": "2026-11-08T14:10:47.163728192Z",
+      "first_seen": "2026-11-08T14:10:59.775114+00:00"
+    },
+    "3VrugsJvUXM1aaA32xPkRsERT8tidLBTkUuzHBLbHje5": {
+      "symbol": "B42DE",
+      "created_at": "2026-11-08T14:10:46.719394425Z",
+      "first_seen": "2026-11-08T14:10:59.775114+00:00"
+    },
+    "5U2urnYspb9AcqKTFuW9qmKF9cJYu9LR3XDHmGGepump": {
+      "symbol": "cancercure",
+      "created_at": "2026-11-08T14:10:46.519008729Z",
+      "first_seen": "2026-11-08T14:10:59.775114+00:00"
+    },
+    "C9fpmYF9KNy8Usd9Hqjzia3fLXGumAhJ26skWbRRpump": {
+      "symbol": "hope",
+      "created_at": "2026-11-08T14:10:46.443150397Z",
+      "first_seen": "2026-11-08T14:10:59.775114+00:00"
     }
   },
   "alerted": [
