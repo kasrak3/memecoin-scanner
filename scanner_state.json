@@ -1680,16 +1680,6 @@
       "created_at": "2026-11-08T14:29:40.160634809Z",
       "first_seen": "2026-11-08T14:29:56.698442+00:00"
     },
-    "xXH97DT2qo5HpNKGnB16tRoF6npqhcEySUtZ56CUWsS": {
-      "symbol": "USDP",
-      "created_at": "2026-11-08T14:32:18.880570057Z",
-      "first_seen": "2026-11-08T14:32:23.182588+00:00"
-    },
-    "6PGJGHSjqwEpkVdXJsNfUYJjAf8wjD3F6yf8FedqNxit": {
-      "symbol": "PEPE",
-      "created_at": "2026-11-08T14:32:12.544585585Z",
-      "first_seen": "2026-11-08T14:32:23.182588+00:00"
-    },
     "9iz8QPYsgD3bgjDg85xmpbY6dtZm8BW2u2u5mmzENVd3": {
       "symbol": "",
       "created_at": "2026-11-08T14:32:09.312943152Z",
@@ -1708,7 +1698,12 @@
     "HmGTHFH5cuKky43qdXXAG4DwZ27txEGTueu6ag5Qpump": {
       "symbol": "GTA6",
       "created_at": "2026-11-08T14:32:04.55680545Z",
-      "first_seen": "2026-11-08T14:32:23.182588+00:00"
+      "first_seen": "2026-11-08T14:32:23.182588+00:00",
+      "confirm": {
+        "liquidity": 27955.6,
+        "market_cap": 138288,
+        "at": "2026-11-08T14:44:43.521373+00:00"
+      }
     },
     "7KKtSrtj54a3m8K4xEVrF5QL1YdFCKQLheVYNFzCpump": {
       "symbol": "RCPT",
@@ -1929,6 +1924,56 @@
       "symbol": "Dumpvember",
       "created_at": "2026-11-08T14:41:43.197037302Z",
       "first_seen": "2026-11-08T14:42:15.520581+00:00"
+    },
+    "DaRTxidDeMkKLoHM34A5nthhHto1iYFhrLwb1rLRpump": {
+      "symbol": "ScamDogi",
+      "created_at": "2026-11-08T14:44:37.453178405Z",
+      "first_seen": "2026-11-08T14:44:43.520876+00:00"
+    },
+    "H5RPN5SCGiVwjY4eqhvot7c9Hn4yr3prfEk7cqWupump": {
+      "symbol": "NEKO",
+      "created_at": "2026-11-08T14:44:33.507580567Z",
+      "first_seen": "2026-11-08T14:44:43.520876+00:00"
+    },
+    "6Nz9sLwLPKHQyegsKadSkMQGfBCWdPTyyguk7Avspump": {
+      "symbol": "wApe",
+      "created_at": "2026-11-08T14:44:28.88205402Z",
+      "first_seen": "2026-11-08T14:44:43.520876+00:00"
+    },
+    "ANUmzYKGjGdiMLoodNLdwfuLcLm7XP5zgcNTnAMbpump": {
+      "symbol": "MGOAT",
+      "created_at": "2026-11-08T14:44:24.498600029Z",
+      "first_seen": "2026-11-08T14:44:43.520876+00:00"
+    },
+    "B3wdXZ8JEkvcVzoPMh4DuF6ZXADixaTJaGre9JLKpump": {
+      "symbol": "random",
+      "created_at": "2026-11-08T14:44:23.900914154Z",
+      "first_seen": "2026-11-08T14:44:43.520876+00:00"
+    },
+    "3Fk7TuRK6VXYKwDUUNPx9TtMGeUAdc9XBMuapjShpump": {
+      "symbol": "CLAUDIA",
+      "created_at": "2026-11-08T14:44:23.847905881Z",
+      "first_seen": "2026-11-08T14:44:43.520876+00:00"
+    },
+    "BrrW1Cko1E7JJmMq3Ls81mxrfoJcK27AEisb8u1Apump": {
+      "symbol": "STA",
+      "created_at": "2026-11-08T14:44:22.695031194Z",
+      "first_seen": "2026-11-08T14:44:43.520876+00:00"
+    },
+    "BEk8friNWdyjYp1vcssny1ns6WLbkaU7bDyqLiKzNhJH": {
+      "symbol": "DACITY",
+      "created_at": "2026-11-08T14:44:22.58281691Z",
+      "first_seen": "2026-11-08T14:44:43.520876+00:00"
+    },
+    "Dxt1R6j7BDo6QtdGSxbycMVAtaW4rQYjKBLbeVSZSKTE": {
+      "symbol": "MPN",
+      "created_at": "2026-11-08T14:44:22.397478735Z",
+      "first_seen": "2026-11-08T14:44:43.520876+00:00"
+    },
+    "3wTMj88BmTiuBN2NE3AnDpWfKeMBuDLYLkHe5VHpkPDL": {
+      "symbol": "RCL",
+      "created_at": "2026-11-08T14:44:22.363272091Z",
+      "first_seen": "2026-11-08T14:44:43.520876+00:00"
     }
   },
   "alerted": [
@@ -2485,8 +2530,6 @@
     "9p9cvSbkmhoyZW9CUXXJauDb2oD3LZuXHChCcSApump"
   ],
   "rejected": [
-    "uv4GRWUTjunyToMKPBueeRYTRbVJt78wYLeaZDxpump",
-    "9b1RCJzUsg6qGHLo1SrmL4ASEPZk1eEororSPT6mVYcs",
     "CPCcZK52tJrrTaisKP93KMJ8KTko7UyCzErFaiRBpump",
     "4kQw7RUh3PYYoWHLhiCMh5TgAwnfX9MMJX2ZzfX3dEvW",
     "D2ikX4djUVMeseAZXEYNDnyA9ZbBfpg19j5nRHpxznX1",
@@ -4484,6 +4527,8 @@
     "9g1u2Y6JP8sX91uTkzeh3jJScjKJ97n7KBMWtLW7wCHY",
     "CXEct52TLrtrrP7Hr8KSbjMfmpp87kHSVTR5i9qY8z8p",
     "FAKkDr9cKivGanh9yRcwm5YTQfF5nir1vRZpGrCYtu5A",
-    "G2rj9GFvEFozfF95KMYvKpSWMniBuEGNDakvKYP9Tk6f"
+    "G2rj9GFvEFozfF95KMYvKpSWMniBuEGNDakvKYP9Tk6f",
+    "xXH97DT2qo5HpNKGnB16tRoF6npqhcEySUtZ56CUWsS",
+    "6PGJGHSjqwEpkVdXJsNfUYJjAf8wjD3F6yf8FedqNxit"
   ]
 }
