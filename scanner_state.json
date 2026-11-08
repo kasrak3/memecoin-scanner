@@ -1460,11 +1460,6 @@
       "created_at": "2026-11-08T07:00:14.254194687Z",
       "first_seen": "2026-11-08T07:00:20.702410+00:00"
     },
-    "HAGBBY68WRUwuWoPmdYDDaYfPo7tEHUf1z9SsxeXamPr": {
-      "symbol": "SPX",
-      "created_at": "2026-11-08T07:00:13.452827198Z",
-      "first_seen": "2026-11-08T07:00:20.702410+00:00"
-    },
     "5EbPJNRs3p6ZzYPtCZmWVmqcFw4Wq9rpeQvnXzMopump": {
       "symbol": "CHARACTER",
       "created_at": "2026-11-08T07:00:13.396337543Z",
@@ -1654,6 +1649,56 @@
       "symbol": "MPN",
       "created_at": "2026-11-08T07:07:47.859081277Z",
       "first_seen": "2026-11-08T07:08:10.666961+00:00"
+    },
+    "GPfoazz5eH2kvyNpzPa3VHJWG3rCPosWUeSHhZKUpump": {
+      "symbol": "alice",
+      "created_at": "2026-11-08T07:10:29.425053357Z",
+      "first_seen": "2026-11-08T07:10:49.126491+00:00"
+    },
+    "2shojuR3CNYM9ofB7AHmJMQYmWJKHjHRPTSpWToepump": {
+      "symbol": "MARS",
+      "created_at": "2026-11-08T07:10:25.847583513Z",
+      "first_seen": "2026-11-08T07:10:49.126491+00:00"
+    },
+    "5XabMbtWyzeUz7hvwkQXJLBxBx3gLrmixnX2f7cpump": {
+      "symbol": "SOCIETY",
+      "created_at": "2026-11-08T07:10:25.09610007Z",
+      "first_seen": "2026-11-08T07:10:49.126491+00:00"
+    },
+    "F9mzer3M2FUWoALHjCR4cAhEjwLU3rN63aP21tFBEwHS": {
+      "symbol": "Pamuk",
+      "created_at": "2026-11-08T07:10:23.292531947Z",
+      "first_seen": "2026-11-08T07:10:49.126491+00:00"
+    },
+    "HK5uYNgbbgch6uKGrp3C7mpG5SJe94SquaAzBy5fpump": {
+      "symbol": "DOGE PAID",
+      "created_at": "2026-11-08T07:10:17.707205806Z",
+      "first_seen": "2026-11-08T07:10:49.126491+00:00"
+    },
+    "ArqqTq5UFxqXR6CkAhK4RLogysjDVZcmmkTez2PamTVV": {
+      "symbol": "MPN",
+      "created_at": "2026-11-08T07:10:17.375335736Z",
+      "first_seen": "2026-11-08T07:10:49.126491+00:00"
+    },
+    "BFbhKS4YPwEJSxG8u4HxxEXzsAzjQAsw8CMkUjbTpump": {
+      "symbol": "MI",
+      "created_at": "2026-11-08T07:10:17.304906242Z",
+      "first_seen": "2026-11-08T07:10:49.126491+00:00"
+    },
+    "B4ke25pgFaWkG8kY8V3ppXMarLT74Lnqme8AUGFCrpYh": {
+      "symbol": "MPN",
+      "created_at": "2026-11-08T07:10:17.012685054Z",
+      "first_seen": "2026-11-08T07:10:49.126491+00:00"
+    },
+    "E314ymerK2WwZyhqUo2UAKMb4rxeDon2Gke9vj69pump": {
+      "symbol": "MI",
+      "created_at": "2026-11-08T07:10:16.994902151Z",
+      "first_seen": "2026-11-08T07:10:49.126491+00:00"
+    },
+    "AezjXrhVCw61kw58svbk3Ujw7bhrnPkseQsLLpz5pump": {
+      "symbol": "Mars Cat",
+      "created_at": "2026-11-08T07:10:16.093773618Z",
+      "first_seen": "2026-11-08T07:10:49.126491+00:00"
     }
   },
   "alerted": [
@@ -2206,7 +2251,6 @@
     "GDRSWpEeKWngc26CVLFXZyZCUwo9fEzctZoEAp1qpump"
   ],
   "rejected": [
-    "CrShgv1VTXRnUMKRr2ZYG78rUgGcoRVGNU7TA3guWSHU",
     "uz1bKPr61M5W3ZwYY4qqJ97NjLqBSaNFbFiq3VZpump",
     "BEgeejPmtcd21LcmFzc18qmTfMCUgN5ybmeGpj7P3gc4",
     "9rePqRYvKFPMRg1fhAHKujMRjpbwzk8nwxauRatFZwZ2",
@@ -4205,6 +4249,7 @@
     "4KUx6Ua3mHB3JHDCcj5UEJ7YewL1G3DmhW6n8MtCdeHX",
     "F8asacSr1okrVhe8LBRcW834b9DrzVQz6uXKMPaeg5FQ",
     "Bie3F8VuvH2azErXk63HTB6vCGKCsNmpSTDECHd1LDwY",
-    "3XLBHuEq751qWd6iGytkDcomrTETQ4ase6HJwFkNLhkG"
+    "3XLBHuEq751qWd6iGytkDcomrTETQ4ase6HJwFkNLhkG",
+    "HAGBBY68WRUwuWoPmdYDDaYfPo7tEHUf1z9SsxeXamPr"
   ]
 }
