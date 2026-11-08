@@ -1030,16 +1030,6 @@
       "created_at": "2026-11-08T13:59:31.790873408Z",
       "first_seen": "2026-11-08T13:59:36.626187+00:00"
     },
-    "9p9cvSbkmhoyZW9CUXXJauDb2oD3LZuXHChCcSApump": {
-      "symbol": "DV",
-      "created_at": "2026-11-08T13:59:30.810116139Z",
-      "first_seen": "2026-11-08T13:59:36.626187+00:00",
-      "confirm": {
-        "liquidity": 15916.4,
-        "market_cap": 48525,
-        "at": "2026-11-08T14:10:59.775621+00:00"
-      }
-    },
     "E5vdTeisEYfgyUkzZM4fBDNPDpqCLHU2S4usoRsNTF9U": {
       "symbol": "TEST",
       "created_at": "2026-11-08T13:59:27.789372812Z",
@@ -1309,6 +1299,56 @@
       "symbol": "hope",
       "created_at": "2026-11-08T14:10:46.443150397Z",
       "first_seen": "2026-11-08T14:10:59.775114+00:00"
+    },
+    "CXEct52TLrtrrP7Hr8KSbjMfmpp87kHSVTR5i9qY8z8p": {
+      "symbol": "MUTUN",
+      "created_at": "2026-11-08T14:13:10.447384762Z",
+      "first_seen": "2026-11-08T14:13:18.701241+00:00"
+    },
+    "HgFeKwcKAzvetTDALYgdeeW8LBoPLNbS32A3KxLZpump": {
+      "symbol": "MooTun",
+      "created_at": "2026-11-08T14:13:08.656096482Z",
+      "first_seen": "2026-11-08T14:13:18.701241+00:00"
+    },
+    "FX9PbdxhNWvu97VkK1DoUeq6BaVfj9WgZGjE5irrpump": {
+      "symbol": "PNUT2READ",
+      "created_at": "2026-11-08T14:13:08.353980405Z",
+      "first_seen": "2026-11-08T14:13:18.701241+00:00"
+    },
+    "GegCioExfpgyfeYr6YJ6VVogYTULZ1ZaRb9TMm3Nfdh1": {
+      "symbol": "Tremp",
+      "created_at": "2026-11-08T14:13:08.181917806Z",
+      "first_seen": "2026-11-08T14:13:18.701241+00:00"
+    },
+    "3jcu26z1tH7xs6uby8387oifANj9hrutGsAgoJV4NAKf": {
+      "symbol": "Tremp",
+      "created_at": "2026-11-08T14:13:07.372786954Z",
+      "first_seen": "2026-11-08T14:13:18.701241+00:00"
+    },
+    "3mWNFXiYZYVAp1avGdSEJho3ZutQLYeYo3AZhWmdpump": {
+      "symbol": "KAME",
+      "created_at": "2026-11-08T14:13:05.290554512Z",
+      "first_seen": "2026-11-08T14:13:18.701241+00:00"
+    },
+    "5DppJjW4mULz1BtRZAG7V28LrAfhiyF5hT6eqkKWWfd8": {
+      "symbol": "Lemon",
+      "created_at": "2026-11-08T14:13:04.160802786Z",
+      "first_seen": "2026-11-08T14:13:18.701241+00:00"
+    },
+    "31PAqLnTz3Epyf9dE9cV7dxvbeug7gBSBm6QoSpn6CTp": {
+      "symbol": "MPN",
+      "created_at": "2026-11-08T14:13:03.835489904Z",
+      "first_seen": "2026-11-08T14:13:18.701241+00:00"
+    },
+    "FAKkDr9cKivGanh9yRcwm5YTQfF5nir1vRZpGrCYtu5A": {
+      "symbol": "MELT",
+      "created_at": "2026-11-08T14:13:00.903724894Z",
+      "first_seen": "2026-11-08T14:13:18.701241+00:00"
+    },
+    "BVrUNj8QZDHZowtknxkvY2Lura2Uvxn99qjK3S9Zpump": {
+      "symbol": "Mu Tun",
+      "created_at": "2026-11-08T14:12:59.953420708Z",
+      "first_seen": "2026-11-08T14:13:18.701241+00:00"
     }
   },
   "alerted": [
@@ -1861,7 +1901,8 @@
     "GDRSWpEeKWngc26CVLFXZyZCUwo9fEzctZoEAp1qpump",
     "BRKJMgL8McCUSHH6JjjbMUYYq7CVi26AKsezNZeVpump",
     "AKeCyQBKmKRTekyvv5eC4sTkrrMwcPdzMYqxzGbQPUTS",
-    "8r1dELDh8c15fnNxqtAEpRnhK34fSRFWvcSSs98mpump"
+    "8r1dELDh8c15fnNxqtAEpRnhK34fSRFWvcSSs98mpump",
+    "9p9cvSbkmhoyZW9CUXXJauDb2oD3LZuXHChCcSApump"
   ],
   "rejected": [
     "5HGpZgyrCMgHJYCn4Y6o1Z4GypYFzgFuF7s4oUxFyuLF",
