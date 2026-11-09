@@ -1193,7 +1193,12 @@
     "DMxLgvueiehQY3JYSWtP7rXNqzXtYpEzP6DjTxMUpump": {
       "symbol": "Claude AI",
       "created_at": "2026-11-09T07:04:59.161257079Z",
-      "first_seen": "2026-11-09T07:05:04.332516+00:00"
+      "first_seen": "2026-11-09T07:05:04.332516+00:00",
+      "confirm": {
+        "liquidity": 27396.18,
+        "market_cap": 138995,
+        "at": "2026-11-09T07:15:10.332750+00:00"
+      }
     },
     "Fb17f49c1dvk4GV8umLd3rPpreRsu1MrayYSESQnpump": {
       "symbol": "Capy",
@@ -1389,6 +1394,56 @@
       "symbol": "CAP",
       "created_at": "2026-11-09T07:12:12.03152672Z",
       "first_seen": "2026-11-09T07:12:36.895726+00:00"
+    },
+    "QYRMXMv4N5d1oqmujRB28SVLFhQFmkA6rJBXywzwM1u": {
+      "symbol": "mem",
+      "created_at": "2026-11-09T07:15:04.609805657Z",
+      "first_seen": "2026-11-09T07:15:10.332510+00:00"
+    },
+    "D1i2vVBtYk3piUPPWMXCDy8tfd4BndAJkcjcu4Hnpump": {
+      "symbol": "JENSENSPY",
+      "created_at": "2026-11-09T07:15:03.641859682Z",
+      "first_seen": "2026-11-09T07:15:10.332510+00:00"
+    },
+    "8XNrZzt1x3H9dNjnRQJTMKJZj4sao78wVKx2h3impump": {
+      "symbol": "mem",
+      "created_at": "2026-11-09T07:14:59.029811119Z",
+      "first_seen": "2026-11-09T07:15:10.332510+00:00"
+    },
+    "BMMTMT8FVwueCZh9eSTmXzq8YMoZczZdbvMZCvs6eVhc": {
+      "symbol": "",
+      "created_at": "2026-11-09T07:14:52.752577248Z",
+      "first_seen": "2026-11-09T07:15:10.332510+00:00"
+    },
+    "8qyKCw9MR7i7izDKaYMxhqidci9H8xkF2H7GqMwZ4N3P": {
+      "symbol": "OWP",
+      "created_at": "2026-11-09T07:14:52.325547487Z",
+      "first_seen": "2026-11-09T07:15:10.332510+00:00"
+    },
+    "7pAGxAJhWyq5Basenp9yngt2M22zJAufCdFPz1BNysNB": {
+      "symbol": "RCL",
+      "created_at": "2026-11-09T07:14:52.091498224Z",
+      "first_seen": "2026-11-09T07:15:10.332510+00:00"
+    },
+    "mXPJKRD8Eik7B2RJpwGJuMhP2hbS852PWzBnyfKpump": {
+      "symbol": "meow",
+      "created_at": "2026-11-09T07:14:50.137438173Z",
+      "first_seen": "2026-11-09T07:15:10.332510+00:00"
+    },
+    "8XeLwxYnc1ZfDUfZCME8h5bEaASbiMGPXJEraMzGpump": {
+      "symbol": "1",
+      "created_at": "2026-11-09T07:14:47.852772536Z",
+      "first_seen": "2026-11-09T07:15:10.332510+00:00"
+    },
+    "F5wmv4z3yG1CyWfKp2nJYr84JRJ2H5LGzeqeUzqYpump": {
+      "symbol": "CTO",
+      "created_at": "2026-11-09T07:14:47.348704624Z",
+      "first_seen": "2026-11-09T07:15:10.332510+00:00"
+    },
+    "2qx2c9PayQcDuTc1bR7q16w8tHBif45AsXneLVz3pump": {
+      "symbol": "JUMP",
+      "created_at": "2026-11-09T07:14:46.534285553Z",
+      "first_seen": "2026-11-09T07:15:10.332510+00:00"
     }
   },
   "alerted": [
