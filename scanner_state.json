@@ -1490,16 +1490,6 @@
       "created_at": "2026-11-09T17:13:11.653866054Z",
       "first_seen": "2026-11-09T17:13:17.555612+00:00"
     },
-    "BVKQMGR8kHoXYsg3592Hzpo59FPkiQqpef8ozwptvnrR": {
-      "symbol": "BAGWORK",
-      "created_at": "2026-11-09T17:13:10.185004354Z",
-      "first_seen": "2026-11-09T17:13:17.555612+00:00"
-    },
-    "7nfxtdzmyCzGnKa3Njg15iZ6vvZzjXyVrbKVjFkjq4Bf": {
-      "symbol": "BMT",
-      "created_at": "2026-11-09T17:13:09.955412047Z",
-      "first_seen": "2026-11-09T17:13:17.555612+00:00"
-    },
     "6NaZsKZ585DSPxjcApcnG8izwdkS4ZHHUHKksa2DqQLs": {
       "symbol": "TRIX",
       "created_at": "2026-11-09T17:13:05.993234968Z",
@@ -1709,6 +1699,56 @@
       "symbol": "TRUMP",
       "created_at": "2026-11-09T17:22:51.005891048Z",
       "first_seen": "2026-11-09T17:23:06.470647+00:00"
+    },
+    "7vTatN5HpHgTvdcKJg9KNq6EEf8s7tQ7jxN3XkXpump": {
+      "symbol": "TOAD",
+      "created_at": "2026-11-09T17:25:30.835948036Z",
+      "first_seen": "2026-11-09T17:25:34.098281+00:00"
+    },
+    "7hZQexR4bQYmt253Ae3kY2uoqsWnmbboiLKewG6pump": {
+      "symbol": "HYPERPUMP",
+      "created_at": "2026-11-09T17:25:30.615665432Z",
+      "first_seen": "2026-11-09T17:25:34.098281+00:00"
+    },
+    "5noAfA39fMJWDHj99pKgxqAFrJ4cyHxDpnzB5Febpump": {
+      "symbol": "METUBE",
+      "created_at": "2026-11-09T17:25:30.615635479Z",
+      "first_seen": "2026-11-09T17:25:34.098281+00:00"
+    },
+    "4nySYYXW1qqcDAXDwCA8mjuwLcRNyGxkW1rGDfWZrYRw": {
+      "symbol": "MPN",
+      "created_at": "2026-11-09T17:25:30.591025474Z",
+      "first_seen": "2026-11-09T17:25:34.098281+00:00"
+    },
+    "8wTtTmML2PqnBdLeU6muWpUeARcakMLp5adV6xMQhAWU": {
+      "symbol": "Osaru",
+      "created_at": "2026-11-09T17:25:28.49507409Z",
+      "first_seen": "2026-11-09T17:25:34.098281+00:00"
+    },
+    "GZ4MjkatzZHdpTtBczAsbxxyxSKnW6ozoDEZd2rcDFAH": {
+      "symbol": "Osaru",
+      "created_at": "2026-11-09T17:25:28.473963373Z",
+      "first_seen": "2026-11-09T17:25:34.098281+00:00"
+    },
+    "B5uoxgxdfyoxJXSfWth2m38TT3C3xrmf2wqkHp3GjF1N": {
+      "symbol": "",
+      "created_at": "2026-11-09T17:25:27.603311519Z",
+      "first_seen": "2026-11-09T17:25:34.098281+00:00"
+    },
+    "BEhRsinfRWwJjqU98YiUTmqprxVhKPNV6THwS5eMm99C": {
+      "symbol": "Meme",
+      "created_at": "2026-11-09T17:25:26.668553715Z",
+      "first_seen": "2026-11-09T17:25:34.098281+00:00"
+    },
+    "6dL5zfxL6HAyrVjWHNYEErdviKvAT13nAo5TboVjfp5D": {
+      "symbol": "BABYPUNCH",
+      "created_at": "2026-11-09T17:25:25.650745648Z",
+      "first_seen": "2026-11-09T17:25:34.098281+00:00"
+    },
+    "65pnvtvUxdcGAne59WkQC8mZK4hphmprC9s687LCpump": {
+      "symbol": "Meme",
+      "created_at": "2026-11-09T17:25:25.222681006Z",
+      "first_seen": "2026-11-09T17:25:34.098281+00:00"
     }
   },
   "alerted": [
@@ -2266,8 +2306,6 @@
     "3DjMTYh64TaCR9vxas8X7z8GpaM6ULGncpBHfbXBpump"
   ],
   "rejected": [
-    "BvWWJ46KB4FixPJrEfytFMBg2bmEQMtgtu7a2Tbqcxqx",
-    "6gwSCDJfBUusfUr1bh9C875s5ZBSecHcM8pPR3ATcpY6",
     "u11t8AgayqWfuPJT6S4Ko6fP1ikYTTiCNb1ReVZpump",
     "GYbjDz31u2rC4L5RzmpcPLPFrcHy96objmRBf4WdHKRa",
     "7N5piKFLKBkHQ73qWYZN6DiEwKGkcLYytQyMiW2ESpj4",
@@ -4265,6 +4303,8 @@
     "94MpEGYJ8V3DD7k6ciMZTK7VVUp8qrLQ7Nc3EeRtSYkK",
     "FLTeDc8DFLUctbYjbt7EupYkGCP1u1G35wJETiVg6sZT",
     "Bhr5bkphU4tSBKbUDSdP4F3jt8HKe3xZEua6SNeH6L9",
-    "CUwgKho26eAwaw4S5AsdDh5HYqe4Pfr3DcDXeq4DtME"
+    "CUwgKho26eAwaw4S5AsdDh5HYqe4Pfr3DcDXeq4DtME",
+    "BVKQMGR8kHoXYsg3592Hzpo59FPkiQqpef8ozwptvnrR",
+    "7nfxtdzmyCzGnKa3Njg15iZ6vvZzjXyVrbKVjFkjq4Bf"
   ]
 }
