@@ -1600,11 +1600,6 @@
       "created_at": "2026-11-09T17:18:00.42272716Z",
       "first_seen": "2026-11-09T17:18:13.359674+00:00"
     },
-    "LCFEDi1PRRnN3MHDJiM5BTcCkmqMEP795ebTjtTpump": {
-      "symbol": "USPR",
-      "created_at": "2026-11-09T17:20:27.699284182Z",
-      "first_seen": "2026-11-09T17:20:38.864820+00:00"
-    },
     "EZnqKi4bRy2yUaqBTbvN7dsFGxd8nJsuUc3z3yHRknZa": {
       "symbol": "Democat",
       "created_at": "2026-11-09T17:20:25.940722872Z",
@@ -1799,6 +1794,56 @@
       "symbol": "Osaru",
       "created_at": "2026-11-09T17:27:49.675640567Z",
       "first_seen": "2026-11-09T17:28:04.858160+00:00"
+    },
+    "8so99Nsc2i5G1jxeoJheT4DUyTc3iMhBQg7sDGvjpump": {
+      "symbol": "Zara",
+      "created_at": "2026-11-09T17:30:31.890330264Z",
+      "first_seen": "2026-11-09T17:30:34.506669+00:00"
+    },
+    "H6cBpWFCTEvNSa9Xhe9kgLuALBvTBf1ZTgPsXMxuvwT1": {
+      "symbol": "ESPORTSDB",
+      "created_at": "2026-11-09T17:30:31.855549974Z",
+      "first_seen": "2026-11-09T17:30:34.506669+00:00"
+    },
+    "3Fgm6zpjTACjrXDXVaRRAbfUEMr2uAbSJhsBU4YRpump": {
+      "symbol": "ESPORTSDB",
+      "created_at": "2026-11-09T17:30:30.413653594Z",
+      "first_seen": "2026-11-09T17:30:34.506669+00:00"
+    },
+    "AWEKDqSAJkqwe8XbD7wrb1vL6D6it1gG2ZDT45sLpump": {
+      "symbol": "SOLIMON",
+      "created_at": "2026-11-09T17:30:29.782687362Z",
+      "first_seen": "2026-11-09T17:30:34.506669+00:00"
+    },
+    "BaivVzNQddRELXgNbgo88qgJBYEfvQCyZX2FSxUc8fDz": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-11-09T17:30:27.79367866Z",
+      "first_seen": "2026-11-09T17:30:34.506669+00:00"
+    },
+    "H5vN7CJ1n73RLqtiV7ndtC6FZASZv5d9JiPQ9dV3wzx8": {
+      "symbol": "MERLYN",
+      "created_at": "2026-11-09T17:30:27.639037084Z",
+      "first_seen": "2026-11-09T17:30:34.506669+00:00"
+    },
+    "JGxSYQpWWzHr6vWY9cktaFLargkM4GjnDnGJwmkpump": {
+      "symbol": "001",
+      "created_at": "2026-11-09T17:30:26.901135848Z",
+      "first_seen": "2026-11-09T17:30:34.506669+00:00"
+    },
+    "8JcUWo62Aoj1vxZZznYodLfDGs8YRA17y2pTqjZ1DKe7": {
+      "symbol": "Osaru",
+      "created_at": "2026-11-09T17:30:26.583886695Z",
+      "first_seen": "2026-11-09T17:30:34.506669+00:00"
+    },
+    "2JTbK7TaB3dfyVW2NN2w8i4Z44u7BNnDfjftgTz4oSDa": {
+      "symbol": "OSARU",
+      "created_at": "2026-11-09T17:30:23.190970364Z",
+      "first_seen": "2026-11-09T17:30:34.506669+00:00"
+    },
+    "5BafSzUL5SpoohtxHNgAkaHVYEz4scGyqrvz1mfB6wsX": {
+      "symbol": "TWISING",
+      "created_at": "2026-11-09T17:30:22.137359909Z",
+      "first_seen": "2026-11-09T17:30:34.506669+00:00"
     }
   },
   "alerted": [
@@ -2356,7 +2401,6 @@
     "3DjMTYh64TaCR9vxas8X7z8GpaM6ULGncpBHfbXBpump"
   ],
   "rejected": [
-    "u11t8AgayqWfuPJT6S4Ko6fP1ikYTTiCNb1ReVZpump",
     "GYbjDz31u2rC4L5RzmpcPLPFrcHy96objmRBf4WdHKRa",
     "7N5piKFLKBkHQ73qWYZN6DiEwKGkcLYytQyMiW2ESpj4",
     "6RNbvk9ZgmGCoKKcjcaep9Ue4nqghPerxDEMdKHtLPwj",
@@ -4355,6 +4399,7 @@
     "Bhr5bkphU4tSBKbUDSdP4F3jt8HKe3xZEua6SNeH6L9",
     "CUwgKho26eAwaw4S5AsdDh5HYqe4Pfr3DcDXeq4DtME",
     "BVKQMGR8kHoXYsg3592Hzpo59FPkiQqpef8ozwptvnrR",
-    "7nfxtdzmyCzGnKa3Njg15iZ6vvZzjXyVrbKVjFkjq4Bf"
+    "7nfxtdzmyCzGnKa3Njg15iZ6vvZzjXyVrbKVjFkjq4Bf",
+    "LCFEDi1PRRnN3MHDJiM5BTcCkmqMEP795ebTjtTpump"
   ]
 }
