@@ -183,7 +183,12 @@
     "3LCmyGiuXNKB13SrcF9BRMxrn7iJXwVavNf5mxTcpump": {
       "symbol": "fomo",
       "created_at": "2026-11-10T01:33:24.28193695Z",
-      "first_seen": "2026-11-10T01:33:41.132659+00:00"
+      "first_seen": "2026-11-10T01:33:41.132659+00:00",
+      "confirm": {
+        "liquidity": 25850.49,
+        "market_cap": 123039,
+        "at": "2026-11-10T01:43:53.830371+00:00"
+      }
     },
     "2GYGJw5YYEpTkWSxq2sah4DaHYdUfETuKZrytLgwpump": {
       "symbol": "SKREEM",
@@ -394,6 +399,56 @@
       "symbol": "\u725b\u903c",
       "created_at": "2026-11-10T01:41:08.334770819Z",
       "first_seen": "2026-11-10T01:41:49.633109+00:00"
+    },
+    "473DvDA2HbVjnzuEimr4vd1mLZWwkVWVa1H1Zda7pump": {
+      "symbol": "oinc",
+      "created_at": "2026-11-10T01:43:48.119734462Z",
+      "first_seen": "2026-11-10T01:43:53.830138+00:00"
+    },
+    "HuF8cGSDdAMhA9gxYG7WiLZZNUBUZgYriG2926gZpump": {
+      "symbol": "NTC",
+      "created_at": "2026-11-10T01:43:47.200284796Z",
+      "first_seen": "2026-11-10T01:43:53.830138+00:00"
+    },
+    "FYEYGKM4GCbe3KAsLZjU7PVEbShMkxA1ALxx4hDzpump": {
+      "symbol": "RNC",
+      "created_at": "2026-11-10T01:43:46.079002932Z",
+      "first_seen": "2026-11-10T01:43:53.830138+00:00"
+    },
+    "6CD8uNzCSpPkaE6cQ7G5uBnVKTCajdKLBv5PXDeMpump": {
+      "symbol": "NBT",
+      "created_at": "2026-11-10T01:43:44.75797978Z",
+      "first_seen": "2026-11-10T01:43:53.830138+00:00"
+    },
+    "HeTMDV2mmhaE8Q7ZoUhBMT7617wyLo1tg9TpYct2pump": {
+      "symbol": "KYC",
+      "created_at": "2026-11-10T01:43:43.771861947Z",
+      "first_seen": "2026-11-10T01:43:53.830138+00:00"
+    },
+    "CPDrtd53QdNTs2TLdZ9Kao5qx1jNFPQQKZJnEucVpump": {
+      "symbol": "GNB",
+      "created_at": "2026-11-10T01:43:43.742031176Z",
+      "first_seen": "2026-11-10T01:43:53.830138+00:00"
+    },
+    "SLpY6dFip2awGNejXJxWtTt6M2SYCCF4UCTAePdpump": {
+      "symbol": "WAGMI",
+      "created_at": "2026-11-10T01:43:42.386913125Z",
+      "first_seen": "2026-11-10T01:43:53.830138+00:00"
+    },
+    "DQw5WfYGMeV26eukcyG94Dgm1rE6kCZf8Mp8T9htpump": {
+      "symbol": "USDC",
+      "created_at": "2026-11-10T01:43:41.915328412Z",
+      "first_seen": "2026-11-10T01:43:53.830138+00:00"
+    },
+    "Epz1gMRgKedyxQfrbwXTfcB3CUuEfFm4wxTmoCxxDYVy": {
+      "symbol": "Anthropic",
+      "created_at": "2026-11-10T01:43:38.852547744Z",
+      "first_seen": "2026-11-10T01:43:53.830138+00:00"
+    },
+    "22Y9CMTSqfocJyvtCcSZTq3q2wxJjTrzqsPJ6fZCpump": {
+      "symbol": "CBJ",
+      "created_at": "2026-11-10T01:43:38.739372317Z",
+      "first_seen": "2026-11-10T01:43:53.830138+00:00"
     }
   },
   "alerted": [
