@@ -370,11 +370,6 @@
       "created_at": "2026-11-10T14:59:58.691437115Z",
       "first_seen": "2026-11-10T15:00:12.229332+00:00"
     },
-    "5FpKXDpYAK1QSpb4qeUjyex7h7Q9gmYpzRfYeFtpVq7R": {
-      "symbol": "HCAT",
-      "created_at": "2026-11-10T14:59:58.390244954Z",
-      "first_seen": "2026-11-10T15:00:12.229332+00:00"
-    },
     "4JoKtaREdBW4SsSGcCreei7yuBNDBDaXEPV2Aqerpump": {
       "symbol": "DacityCoin",
       "created_at": "2026-11-10T15:02:15.701470807Z",
@@ -814,6 +809,56 @@
       "symbol": "LUV",
       "created_at": "2026-11-10T15:19:49.830292729Z",
       "first_seen": "2026-11-10T15:19:59.228112+00:00"
+    },
+    "8sZ2hdY3zQP2NCuXufbwUjYzLgCKB3FB2Qtckhxbpump": {
+      "symbol": "ZEAL",
+      "created_at": "2026-11-10T15:22:10.227049237Z",
+      "first_seen": "2026-11-10T15:22:16.617352+00:00"
+    },
+    "CjdMxbdZe2WEQ6reDLFSdutjja2wsHVQRCipJoRJpump": {
+      "symbol": "PAWS",
+      "created_at": "2026-11-10T15:22:07.579212491Z",
+      "first_seen": "2026-11-10T15:22:16.617352+00:00"
+    },
+    "9uqig6CShS7Co2A8UFSADq9zczoSn6MRAJm6pcXTVSAW": {
+      "symbol": "MPN",
+      "created_at": "2026-11-10T15:22:06.607714932Z",
+      "first_seen": "2026-11-10T15:22:16.617352+00:00"
+    },
+    "6CgtGjjvpN11Y8sLDimWgs8yf9zYDoydKRb2U73apump": {
+      "symbol": "DacityCoin",
+      "created_at": "2026-11-10T15:22:03.570234242Z",
+      "first_seen": "2026-11-10T15:22:16.617352+00:00"
+    },
+    "7vCYJ6BgjtiHvGDQxyWGCXg89GpW1XU9pq1tdxuYpump": {
+      "symbol": "DacityCoin",
+      "created_at": "2026-11-10T15:22:03.411040963Z",
+      "first_seen": "2026-11-10T15:22:16.617352+00:00"
+    },
+    "355FcHU3VAsTJ7kX1CMcfoiJKBKmRm2wvMvAn4H6pump": {
+      "symbol": "DacityCoin",
+      "created_at": "2026-11-10T15:22:03.119867733Z",
+      "first_seen": "2026-11-10T15:22:16.617352+00:00"
+    },
+    "7kd9NotZaw7mCdPbMxKxaio7icgko8Dc8trGVo9jy7Vd": {
+      "symbol": "MMLI",
+      "created_at": "2026-11-10T15:22:01.858855405Z",
+      "first_seen": "2026-11-10T15:22:16.617352+00:00"
+    },
+    "8hJLt4J8QjC19hpZDiiSjcgK41H1AYhBhqrZHy9ypump": {
+      "symbol": "DacityCoin",
+      "created_at": "2026-11-10T15:22:00.135760122Z",
+      "first_seen": "2026-11-10T15:22:16.617352+00:00"
+    },
+    "UMe8uHuUcoY34mAgzdVpxiddP3GbuBq9vouHKdSpump": {
+      "symbol": "DacityCoin",
+      "created_at": "2026-11-10T15:22:00.100239946Z",
+      "first_seen": "2026-11-10T15:22:16.617352+00:00"
+    },
+    "A7voBHVnDbjbNZQ7toBbN18FNDz7R4Jsv82UqjV7pump": {
+      "symbol": "DacityCoin",
+      "created_at": "2026-11-10T15:22:00.009853212Z",
+      "first_seen": "2026-11-10T15:22:16.617352+00:00"
     }
   },
   "alerted": [
@@ -1375,7 +1420,6 @@
     "Fjpwy5gu2PLLS7gX85qLgsYSjbq39axox6Zn9VFVpump"
   ],
   "rejected": [
-    "3CmfHbdspXTbThRbo2WmuN1KYuPdy9SvK5Kez5F5MJyJ",
     "4N5UvuTLFeV7szsErF7Ro6Azb4yjWtPUGYe87x3tzrLq",
     "Cmuz57HpJmag4Ja8uHMDCu55Ron2DdbZPigkL2Pk8NkE",
     "CrH9NwtQ6pVcCtCEjyFyEq9cudZoKBNFzYFJn6UeS4iu",
@@ -3374,6 +3418,7 @@
     "G5pDKuQwpydLjhX2SXpeokotyBr5GkQVCNmv1xhNkL2P",
     "HAkB9TVBrwpb8xcenkF6Swuahw84mGUMznLfrpEJpump",
     "BtrF3ufiYxDZkuJir81ukVNAcJQ2ABL7Au8ryEMWpRX7",
-    "8w8JEJoNt1SZvxGcMUYoh5SApYkcPEAEwA9Y2QW1jwp5"
+    "8w8JEJoNt1SZvxGcMUYoh5SApYkcPEAEwA9Y2QW1jwp5",
+    "5FpKXDpYAK1QSpb4qeUjyex7h7Q9gmYpzRfYeFtpVq7R"
   ]
 }
