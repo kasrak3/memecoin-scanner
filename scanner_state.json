@@ -283,7 +283,12 @@
     "5vDSBsneovh52igEy8PYbye3hSCy9ENkZuJEvt1Kpump": {
       "symbol": "Rockstar",
       "created_at": "2026-11-10T01:39:37.408614085Z",
-      "first_seen": "2026-11-10T01:39:46.208293+00:00"
+      "first_seen": "2026-11-10T01:39:46.208293+00:00",
+      "confirm": {
+        "liquidity": 20029.71,
+        "market_cap": 76305,
+        "at": "2026-11-10T01:50:14.185412+00:00"
+      }
     },
     "GuP7PhpL5aGUvxzZXCJrQLUEb9nf2JenQfcR6UF3pump": {
       "symbol": "Pump Farm",
@@ -529,6 +534,56 @@
       "symbol": "Billie",
       "created_at": "2026-11-10T01:47:41.107399264Z",
       "first_seen": "2026-11-10T01:48:06.611720+00:00"
+    },
+    "6oNZSgjhareyyTS6BhZfJJXJgGSv3yCh97YM6FxJpump": {
+      "symbol": "Contrarian",
+      "created_at": "2026-11-10T01:50:10.617355704Z",
+      "first_seen": "2026-11-10T01:50:14.185177+00:00"
+    },
+    "vzgZ7ad4U9ECd9TaCzQJZNAwcoRwgoyyqKXGgampump": {
+      "symbol": "DropNorm",
+      "created_at": "2026-11-10T01:50:10.437567334Z",
+      "first_seen": "2026-11-10T01:50:14.185177+00:00"
+    },
+    "5Gv8z2gJ3SJA3tKiHH3Cv73CTxwwwEBrNq4Vmeag1cMH": {
+      "symbol": "Lyber",
+      "created_at": "2026-11-10T01:50:07.953117252Z",
+      "first_seen": "2026-11-10T01:50:14.185177+00:00"
+    },
+    "BTTG7GFastuXCb92RjeuFWWjE7iTCYukmVwU3JLHpump": {
+      "symbol": "Lyber",
+      "created_at": "2026-11-10T01:50:04.696001718Z",
+      "first_seen": "2026-11-10T01:50:14.185177+00:00"
+    },
+    "FtUfZURaDhkJYk9KjEfDidzwoeE1wuPGskCWjRC691qR": {
+      "symbol": "HNIO",
+      "created_at": "2026-11-10T01:50:01.444774861Z",
+      "first_seen": "2026-11-10T01:50:14.185177+00:00"
+    },
+    "GZQzHoqHbmeKYQuZ9FvDUm1Udt6LN3HnKMMbxNXzpump": {
+      "symbol": "BINGO",
+      "created_at": "2026-11-10T01:50:00.527972852Z",
+      "first_seen": "2026-11-10T01:50:14.185177+00:00"
+    },
+    "BcwcYbAABABRTqK9vpB7NM8daE5EffSKPVDkRbSuj25F": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-11-10T01:49:58.333982439Z",
+      "first_seen": "2026-11-10T01:50:14.185177+00:00"
+    },
+    "5y31MjMuj7rLydhT1aFaBQwxb8xabBhrqqbnmNdzpump": {
+      "symbol": "HNIO",
+      "created_at": "2026-11-10T01:49:54.299666063Z",
+      "first_seen": "2026-11-10T01:50:14.185177+00:00"
+    },
+    "H1VJLymDvP2KvZdVz4PMjgMu4XsjgcJrLPRq6oU8pump": {
+      "symbol": "Billie",
+      "created_at": "2026-11-10T01:49:52.539284227Z",
+      "first_seen": "2026-11-10T01:50:14.185177+00:00"
+    },
+    "DixBr7cvSR37tCcMc4X2H1Syfhi9ykPo7HeY84Fbpump": {
+      "symbol": "TILCAYO",
+      "created_at": "2026-11-10T01:49:42.445665652Z",
+      "first_seen": "2026-11-10T01:50:14.185177+00:00"
     }
   },
   "alerted": [
