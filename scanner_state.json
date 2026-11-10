@@ -1,55 +1,5 @@
 {
   "pending": {
-    "96DCDs42TmbzjqLuZstyeFSdf2CLAH78T29yUP6Bpump": {
-      "symbol": "Bob",
-      "created_at": "2026-11-10T15:41:20.284549998Z",
-      "first_seen": "2026-11-10T15:41:21.331559+00:00"
-    },
-    "8kv9AoXa5nANjFm9jnE6C9pqtVifvTUsuRJjX33RPCu2": {
-      "symbol": "Bodie",
-      "created_at": "2026-11-10T15:41:18.805476207Z",
-      "first_seen": "2026-11-10T15:41:21.331559+00:00"
-    },
-    "EmAx2R9W6mT6nKvFbJe3oUeutwJXBaMS9o7RKHN8pump": {
-      "symbol": "HALH",
-      "created_at": "2026-11-10T15:41:18.204065885Z",
-      "first_seen": "2026-11-10T15:41:21.331559+00:00"
-    },
-    "FiTbVxvGXc758tEuRRsGWsZQqsbN2TcbYzBBS2zv1kL": {
-      "symbol": "Tampon",
-      "created_at": "2026-11-10T15:41:15.936594316Z",
-      "first_seen": "2026-11-10T15:41:21.331559+00:00"
-    },
-    "5Tv288XS2DE5WKGtZ4bx8GQKhaYrhXs8KR4EuWScBAGS": {
-      "symbol": "Bgvault",
-      "created_at": "2026-11-10T15:41:14.422189824Z",
-      "first_seen": "2026-11-10T15:41:21.331559+00:00"
-    },
-    "3mVfiaC5cZuFy2qHiyi5V1TvfHnRTFhtD5ZDmTHZpump": {
-      "symbol": "OTTER",
-      "created_at": "2026-11-10T15:41:13.949318031Z",
-      "first_seen": "2026-11-10T15:41:21.331559+00:00"
-    },
-    "EPWv4Qmoy2UxaMxYe5qhjFJkt3bHqi5b7sNKtAkipump": {
-      "symbol": "SLIGNAL",
-      "created_at": "2026-11-10T15:41:11.830574773Z",
-      "first_seen": "2026-11-10T15:41:21.331559+00:00"
-    },
-    "6FozpDtMHSfTREFdNax9t8AjASsgCykKTKtgXbjwpump": {
-      "symbol": "Tampon",
-      "created_at": "2026-11-10T15:41:09.872548143Z",
-      "first_seen": "2026-11-10T15:41:21.331559+00:00"
-    },
-    "6Znnqvb18PMT6Lcq2X8JTdPu7GdGRAg1Zti9zh6wpump": {
-      "symbol": "elon",
-      "created_at": "2026-11-10T15:41:07.236392833Z",
-      "first_seen": "2026-11-10T15:41:21.331559+00:00"
-    },
-    "7z9AvCMinrs49bstzs3aWcEkMmgM2fp78GBLTNowU4SQ": {
-      "symbol": "PEARL",
-      "created_at": "2026-11-10T15:41:06.107247039Z",
-      "first_seen": "2026-11-10T15:41:21.331559+00:00"
-    },
     "Fq87W3rkEyziyoRjYEwefSX6wzQQNvbQVpUCPS9bpump": {
       "symbol": "fg",
       "created_at": "2026-11-10T15:43:38.126587296Z",
@@ -1933,7 +1883,12 @@
     "G46SmdinUGB8yReXHboX1WyakKTJn6m27pAr5FsXpump": {
       "symbol": "GTA 6",
       "created_at": "2026-11-10T17:30:54.780544375Z",
-      "first_seen": "2026-11-10T17:31:02.331448+00:00"
+      "first_seen": "2026-11-10T17:31:02.331448+00:00",
+      "confirm": {
+        "liquidity": 17956.41,
+        "market_cap": 65135,
+        "at": "2026-11-10T17:42:34.853826+00:00"
+      }
     },
     "CVt7BZ2kZxYfsFWqBJz9ZW6PLVphqEAY5wdeHkQqpump": {
       "symbol": "MILFS",
@@ -2099,6 +2054,56 @@
       "symbol": "",
       "created_at": "2026-11-10T17:39:07.435796652Z",
       "first_seen": "2026-11-10T17:39:37.085243+00:00"
+    },
+    "JAcSsrZUTpkt7JUAdV3tcMYqytc5kRxgYjiMbjpjpump": {
+      "symbol": "CHAROC",
+      "created_at": "2026-11-10T17:42:12.38548065Z",
+      "first_seen": "2026-11-10T17:42:34.853396+00:00"
+    },
+    "BkMmiaFDrUdaBKKdnMzEokMC94WBP9LecgQzichkpump": {
+      "symbol": "DOOB",
+      "created_at": "2026-11-10T17:42:12.38173274Z",
+      "first_seen": "2026-11-10T17:42:34.853396+00:00"
+    },
+    "5Zo6W8AJ8Z1bgoiMqzB32Ys6LMfGM1jEHpSno3m4pump": {
+      "symbol": "RICK",
+      "created_at": "2026-11-10T17:42:12.339912464Z",
+      "first_seen": "2026-11-10T17:42:34.853396+00:00"
+    },
+    "7mZRQRDr4WpzC6D6eopATciws2merLLUbzqj2mPQpump": {
+      "symbol": "DOGE",
+      "created_at": "2026-11-10T17:42:09.619011115Z",
+      "first_seen": "2026-11-10T17:42:34.853396+00:00"
+    },
+    "FJWfrYGZehxyb5JeW5yxFTpA1KatCrHnJr7dytvPP8k4": {
+      "symbol": "DOGE",
+      "created_at": "2026-11-10T17:42:09.181096943Z",
+      "first_seen": "2026-11-10T17:42:34.853396+00:00"
+    },
+    "GmCNQGaijtKyonE77cJJmoU8eaeRZea7h6Dgjq4Fp5g1": {
+      "symbol": "HATA",
+      "created_at": "2026-11-10T17:42:09.002602184Z",
+      "first_seen": "2026-11-10T17:42:34.853396+00:00"
+    },
+    "wd5KymszHSzhWJHi9Fgga7GMgCCtC2jtmCWT1vqc1yn": {
+      "symbol": "CHEESECAKE",
+      "created_at": "2026-11-10T17:42:08.874984209Z",
+      "first_seen": "2026-11-10T17:42:34.853396+00:00"
+    },
+    "CFM6fuqa21Q52zoqiUR89v8N3YEydPCK4ckCiPHWUM8b": {
+      "symbol": "DOGE",
+      "created_at": "2026-11-10T17:42:07.871033011Z",
+      "first_seen": "2026-11-10T17:42:34.853396+00:00"
+    },
+    "FyR6fLW3paR6SJNdHCWpBHSVmaBjWULeBJBgsiJ5pump": {
+      "symbol": "HATA",
+      "created_at": "2026-11-10T17:42:07.800675541Z",
+      "first_seen": "2026-11-10T17:42:34.853396+00:00"
+    },
+    "BzSPwSRCXpBwtVZht545Lr2813M1fubbY3bAsRmc738S": {
+      "symbol": "DOGE",
+      "created_at": "2026-11-10T17:42:06.806738179Z",
+      "first_seen": "2026-11-10T17:42:34.853396+00:00"
     }
   },
   "alerted": [
