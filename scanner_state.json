@@ -1858,7 +1858,12 @@
     "4wMa1EVxMiAZtdJH2AwZAGnMK82Mhdz2vWy7Ya1pump": {
       "symbol": "NVIDIA",
       "created_at": "2026-11-11T18:21:39.814683533Z",
-      "first_seen": "2026-11-11T18:21:49.895121+00:00"
+      "first_seen": "2026-11-11T18:21:49.895121+00:00",
+      "confirm": {
+        "liquidity": 26837.56,
+        "market_cap": 133834,
+        "at": "2026-11-11T18:33:30.841641+00:00"
+      }
     },
     "J6U2FJXjAt9Mmc9VqYu7y9cJajzqVjyqzRs3YBaNcyMc": {
       "symbol": "SANTAHOOD",
@@ -2009,6 +2014,56 @@
       "symbol": "$JAMJI",
       "created_at": "2026-11-11T18:30:14.091012829Z",
       "first_seen": "2026-11-11T18:30:34.264457+00:00"
+    },
+    "FL98U487VYToErhH7ddMRQereDEHKQjZM69oEKGe6cPP": {
+      "symbol": "dagestan",
+      "created_at": "2026-11-11T18:33:25.456563345Z",
+      "first_seen": "2026-11-11T18:33:30.841297+00:00"
+    },
+    "4ZDJ6fcPESxmaHvAqY2VV5u6ozug5MaHV77FBzW1Cqqr": {
+      "symbol": "dagestan",
+      "created_at": "2026-11-11T18:33:25.176877614Z",
+      "first_seen": "2026-11-11T18:33:30.841297+00:00"
+    },
+    "FLsWGJtcnXvsggi6uJjDjCkEuodsRL7nSEjyKT7F5K91": {
+      "symbol": "cookcat",
+      "created_at": "2026-11-11T18:33:24.720864932Z",
+      "first_seen": "2026-11-11T18:33:30.841297+00:00"
+    },
+    "JAgRm4XGAEHdnXoVCdFMCfBbafexUTdSBAGP8RnDyeC8": {
+      "symbol": "RCL",
+      "created_at": "2026-11-11T18:33:22.343104075Z",
+      "first_seen": "2026-11-11T18:33:30.841297+00:00"
+    },
+    "C8ZdCQk4du9TdxFRqPdbKhtKLrPLVLVaT4LstNW6pump": {
+      "symbol": "Fish",
+      "created_at": "2026-11-11T18:33:21.612852489Z",
+      "first_seen": "2026-11-11T18:33:30.841297+00:00"
+    },
+    "8R5jnVuZ4vM6cGx5VFRhGrATkT7PxNHD2S5MBwxGWmXK": {
+      "symbol": "",
+      "created_at": "2026-11-11T18:33:21.048738739Z",
+      "first_seen": "2026-11-11T18:33:30.841297+00:00"
+    },
+    "CBcawsxAULptwogQth3N4R4pqhcaG5btDaqnBewc8cug": {
+      "symbol": "RCAT",
+      "created_at": "2026-11-11T18:33:18.815917948Z",
+      "first_seen": "2026-11-11T18:33:30.841297+00:00"
+    },
+    "7qNhCEh444fFyVvHhRQQvh6RN8cqd4nwpaUHkqVWpump": {
+      "symbol": "TOTAL",
+      "created_at": "2026-11-11T18:33:18.089676532Z",
+      "first_seen": "2026-11-11T18:33:30.841297+00:00"
+    },
+    "EaoWxST3jCkwZhtW7SM1cTwHLHNAt39P7NDn1rXUfnmq": {
+      "symbol": "BANTAM",
+      "created_at": "2026-11-11T18:33:17.226113433Z",
+      "first_seen": "2026-11-11T18:33:30.841297+00:00"
+    },
+    "GdEZSLUW3DAdMBVji1eQtovHshNBTjCSJpN1JRm8smgp": {
+      "symbol": "COOKCAT",
+      "created_at": "2026-11-11T18:33:16.091917937Z",
+      "first_seen": "2026-11-11T18:33:30.841297+00:00"
     }
   },
   "alerted": [
