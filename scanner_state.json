@@ -1230,16 +1230,6 @@
       "created_at": "2026-11-11T15:02:32.690675708Z",
       "first_seen": "2026-11-11T15:02:34.358857+00:00"
     },
-    "AAnSVtYJ1MfYan3rmFVxKaiMf5SxaY7o4A6FaSJBpump": {
-      "symbol": "GTA 6 Coin",
-      "created_at": "2026-11-11T15:02:29.695144154Z",
-      "first_seen": "2026-11-11T15:02:34.358857+00:00",
-      "confirm": {
-        "liquidity": 26034.46,
-        "market_cap": 128125,
-        "at": "2026-11-11T15:12:52.513313+00:00"
-      }
-    },
     "6TiyaFLGaJEr8U4vXM4ga8T6WS77wdCru52Zx4Yw49xK": {
       "symbol": "",
       "created_at": "2026-11-11T15:02:29.575839309Z",
@@ -1474,6 +1464,56 @@
       "symbol": "OWP",
       "created_at": "2026-11-11T15:12:38.472024505Z",
       "first_seen": "2026-11-11T15:12:52.512958+00:00"
+    },
+    "9wXoVwoP4mPTCdH6KXwugrLqM5gR9mQaMeRcmezGpump": {
+      "symbol": "CASE",
+      "created_at": "2026-11-11T15:15:28.308220211Z",
+      "first_seen": "2026-11-11T15:15:31.049164+00:00"
+    },
+    "GEyuAZH4798fTUminu6ryzeG9ftJQTiuzPZFRrubfork": {
+      "symbol": "VOD",
+      "created_at": "2026-11-11T15:15:28.251032697Z",
+      "first_seen": "2026-11-11T15:15:31.049164+00:00"
+    },
+    "AsPn1ukaGen5iNRYyDp1Vr7Ga6ud9u3M6PL19n8rF88V": {
+      "symbol": "MeiMei",
+      "created_at": "2026-11-11T15:15:27.229691189Z",
+      "first_seen": "2026-11-11T15:15:31.049164+00:00"
+    },
+    "4zqLTFwz66r9ezyqT3UhLh5YGWzGCHnCNLAiwjcxpump": {
+      "symbol": "MeiMei",
+      "created_at": "2026-11-11T15:15:25.987982329Z",
+      "first_seen": "2026-11-11T15:15:31.049164+00:00"
+    },
+    "8kkV5tFzBp9XPxReJ1zuBt28WvebuP4Y8wp8gYtNpump": {
+      "symbol": "NINATURNER",
+      "created_at": "2026-11-11T15:15:25.543126527Z",
+      "first_seen": "2026-11-11T15:15:31.049164+00:00"
+    },
+    "EEYfu5FfQfdKf484mYGwZ5ztj7n7SCzurSSg47hA7oto": {
+      "symbol": "MeiMei",
+      "created_at": "2026-11-11T15:15:25.076192251Z",
+      "first_seen": "2026-11-11T15:15:31.049164+00:00"
+    },
+    "5aUhr1tChhYwC5HVsDg93EETb6ivpJjspGWCrLzASx8r": {
+      "symbol": "RCL",
+      "created_at": "2026-11-11T15:15:24.416411552Z",
+      "first_seen": "2026-11-11T15:15:31.049164+00:00"
+    },
+    "FEsQftbx78wjtMB5z8jc5saDb9j2W2FvaqUaeuwBpump": {
+      "symbol": "ANGEL",
+      "created_at": "2026-11-11T15:15:23.618944461Z",
+      "first_seen": "2026-11-11T15:15:31.049164+00:00"
+    },
+    "FSE2UxmmU2TDCm46pNKngLU1jRyDn1Qx8Wv4zLJUWseA": {
+      "symbol": "ETH-UP",
+      "created_at": "2026-11-11T15:15:21.967342281Z",
+      "first_seen": "2026-11-11T15:15:31.049164+00:00"
+    },
+    "ANhfpdfFywTeLBHQAtVQg5965G68XCk4296PJWpi3MuD": {
+      "symbol": "Innit",
+      "created_at": "2026-11-11T15:15:20.309680584Z",
+      "first_seen": "2026-11-11T15:15:31.049164+00:00"
     }
   },
   "alerted": [
@@ -2038,7 +2078,8 @@
     "6yXjaaaC6D9987UvJpBHHzU53jK3hPxGpbhcUNXxpump",
     "BXwgus8w5NPgxxWxTUUHiKUz3Jezn8RB6uqowcJxpump",
     "9c5JteS7LDobkcxXKdkfgrxeebxEruAQJ6x9F7Tupump",
-    "EHZPYFvxzdCFxoAYy1fgxvjasAoeow4zHgdNaS8Fpump"
+    "EHZPYFvxzdCFxoAYy1fgxvjasAoeow4zHgdNaS8Fpump",
+    "AAnSVtYJ1MfYan3rmFVxKaiMf5SxaY7o4A6FaSJBpump"
   ],
   "rejected": [
     "4VXNQUEVq5BPHWAnKDrBN6zqqumKDVy6mYjvBtLipump",
