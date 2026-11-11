@@ -1605,16 +1605,6 @@
       "created_at": "2026-11-11T08:41:22.473361724Z",
       "first_seen": "2026-11-11T08:41:29.425975+00:00"
     },
-    "5obfMMi4cm9dkt6DQcWTunS5JQNJiBiHKghYb194pump": {
-      "symbol": "xfill",
-      "created_at": "2026-11-11T08:41:20.992206455Z",
-      "first_seen": "2026-11-11T08:41:29.425975+00:00",
-      "confirm": {
-        "liquidity": 18181.53,
-        "market_cap": 63367,
-        "at": "2026-11-11T09:11:42.299288+00:00"
-      }
-    },
     "92FTdkdornNrp9BxpYYsmMW2en6ji9KcPHQfVpB6CLv3": {
       "symbol": "OWP",
       "created_at": "2026-11-11T08:41:18.282165785Z",
@@ -2304,6 +2294,56 @@
       "symbol": "MPN",
       "created_at": "2026-11-11T09:13:42.609529976Z",
       "first_seen": "2026-11-11T09:14:15.820437+00:00"
+    },
+    "6f4uVDJYtrBdfmFs3wP2QHxsiLxzS895SEBwLUpqpump": {
+      "symbol": "PgM",
+      "created_at": "2026-11-11T09:16:34.429268845Z",
+      "first_seen": "2026-11-11T09:16:45.288327+00:00"
+    },
+    "H58JPt122SbThRavJq2LsdkvG4xKrBh24M1knQoEYSJf": {
+      "symbol": "KEK",
+      "created_at": "2026-11-11T09:16:33.953115447Z",
+      "first_seen": "2026-11-11T09:16:45.288327+00:00"
+    },
+    "HxT5qFP8rKcvCazmmFpfCHG9Jy1qvCNJomLXPm5upump": {
+      "symbol": "KEK",
+      "created_at": "2026-11-11T09:16:33.905198908Z",
+      "first_seen": "2026-11-11T09:16:45.288327+00:00"
+    },
+    "9MPLK5daBapgBnCLUHntyd94EkYARpmdeJKqUhFBpump": {
+      "symbol": "WrenchCat",
+      "created_at": "2026-11-11T09:16:31.203157886Z",
+      "first_seen": "2026-11-11T09:16:45.288327+00:00"
+    },
+    "A7hZCbvdzYAyL2n6S7bPEGSCCgEyDzzoKz81cNDqpump": {
+      "symbol": "TikTok US",
+      "created_at": "2026-11-11T09:16:27.322739393Z",
+      "first_seen": "2026-11-11T09:16:45.288327+00:00"
+    },
+    "HLC54H9f6ZfZnn3FcPu7BgW8ZshXWXhi9ffPnoGDzXsg": {
+      "symbol": "DCL",
+      "created_at": "2026-11-11T09:16:24.573528317Z",
+      "first_seen": "2026-11-11T09:16:45.288327+00:00"
+    },
+    "96FfbPYVVUW9j4JadehjYC94zd7idLXfrqVKsNjSFyap": {
+      "symbol": "Vetcoin",
+      "created_at": "2026-11-11T09:16:20.008759884Z",
+      "first_seen": "2026-11-11T09:16:45.288327+00:00"
+    },
+    "BQtBq5gE83Nc5zaQtkLvTK6FKF6vMP2UqBm5GLX2pump": {
+      "symbol": "Vetcoin",
+      "created_at": "2026-11-11T09:16:18.410179799Z",
+      "first_seen": "2026-11-11T09:16:45.288327+00:00"
+    },
+    "ABSxba9RjQMdzuFLhJpoCMvrbUmcu6uPQWDMinqFMHx3": {
+      "symbol": "",
+      "created_at": "2026-11-11T09:16:16.983666102Z",
+      "first_seen": "2026-11-11T09:16:45.288327+00:00"
+    },
+    "EvBfRAtPD3rY2WDNMiiJT3ZE3tuTK71orN8CbjAwpump": {
+      "symbol": "RMN",
+      "created_at": "2026-11-11T09:16:15.857771732Z",
+      "first_seen": "2026-11-11T09:16:45.288327+00:00"
     }
   },
   "alerted": [
@@ -2870,7 +2910,6 @@
     "9c5JteS7LDobkcxXKdkfgrxeebxEruAQJ6x9F7Tupump"
   ],
   "rejected": [
-    "HtvdK7oSKF1rV1hasrfSaipTF2GJDCdZKFLFsmdrpump",
     "oVzja1Z7Z9Qdd1stomtAXWkHd14HVvNAaDnxhsmpump",
     "GjqF2Y1WyciqmpsbCUWuCAB1WBMCLUySc2Rc1riSgpyv",
     "mTPkQ2f8J8PPrMy5i8VdHosvcvd4fnShLAtYSzEuz4M",
@@ -4869,6 +4908,7 @@
     "2QVhgNyEzGVveiZL6yjSFHzNigvT9Jxmcx2vivPiB4BA",
     "868vBbPhrQfPgbG2iKo3b6rPwNjfA3jcwjbjtrKTySLR",
     "7Ps9R7mGi1WVY4V68zcYkJN8qfhD8ukioLEGurxyEupB",
-    "5efqosK4fWarjHUkm38VGXy9A97ZxvHY12jZpe8tbNXP"
+    "5efqosK4fWarjHUkm38VGXy9A97ZxvHY12jZpe8tbNXP",
+    "5obfMMi4cm9dkt6DQcWTunS5JQNJiBiHKghYb194pump"
   ]
 }
