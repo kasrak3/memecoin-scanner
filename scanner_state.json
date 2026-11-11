@@ -70,16 +70,6 @@
       "created_at": "2026-11-11T14:08:47.65507612Z",
       "first_seen": "2026-11-11T14:08:58.041696+00:00"
     },
-    "EHZPYFvxzdCFxoAYy1fgxvjasAoeow4zHgdNaS8Fpump": {
-      "symbol": "Boris",
-      "created_at": "2026-11-11T14:08:47.292417841Z",
-      "first_seen": "2026-11-11T14:08:58.041696+00:00",
-      "confirm": {
-        "liquidity": 15806.89,
-        "market_cap": 50144,
-        "at": "2026-11-11T14:19:09.266334+00:00"
-      }
-    },
     "39F2GKxtDL8kEULjk3EjSM8q5HnRL8ti4LChehSNpump": {
       "symbol": "CHEEBS",
       "created_at": "2026-11-11T14:08:47.070336274Z",
@@ -349,6 +339,56 @@
       "symbol": "Buster",
       "created_at": "2026-11-11T14:18:51.26117793Z",
       "first_seen": "2026-11-11T14:19:09.265988+00:00"
+    },
+    "EhoUF7rabUKH9moMCYPiwvyDKxPgPLWcMRmf55j53Mr6": {
+      "symbol": "BAGWORK",
+      "created_at": "2026-11-11T14:21:03.339964763Z",
+      "first_seen": "2026-11-11T14:21:14.110939+00:00"
+    },
+    "EYkghh1aXUTx2aHNubTc3SyjizMvakPVmiD634RMVR3J": {
+      "symbol": "GEMDO",
+      "created_at": "2026-11-11T14:20:58.033422073Z",
+      "first_seen": "2026-11-11T14:21:14.110939+00:00"
+    },
+    "6FtmVZC9HUDbtFoPEHoVqvNkP7U1kgMTdgbF6iKApump": {
+      "symbol": "BPCATE",
+      "created_at": "2026-11-11T14:20:56.226368899Z",
+      "first_seen": "2026-11-11T14:21:14.110939+00:00"
+    },
+    "Bt9J6eQxVQRWyeSS39gk5Md6AYmoKfzPsMV4TYcXpump": {
+      "symbol": "BPCATE",
+      "created_at": "2026-11-11T14:20:55.773620294Z",
+      "first_seen": "2026-11-11T14:21:14.110939+00:00"
+    },
+    "EQ29wBJ7UNWkmWUpJSbjS91Pr6bJAXgV7qjBmHDGpump": {
+      "symbol": "ULTRA",
+      "created_at": "2026-11-11T14:20:53.733621254Z",
+      "first_seen": "2026-11-11T14:21:14.110939+00:00"
+    },
+    "9PpzgoMD3fNXBAVsUbBrZPhJujUCMr1Zd4e9SHuspump": {
+      "symbol": "VA",
+      "created_at": "2026-11-11T14:20:50.001033324Z",
+      "first_seen": "2026-11-11T14:21:14.110939+00:00"
+    },
+    "AivqTzBdg8yizN1X3tZbBfNV7cJy15hgeGujqF6Npump": {
+      "symbol": "Dogo",
+      "created_at": "2026-11-11T14:20:49.762390155Z",
+      "first_seen": "2026-11-11T14:21:14.110939+00:00"
+    },
+    "2kRd66Ziv5raJeqS8GJYUpzD4xKmKWewfozaj1bkweAn": {
+      "symbol": "Xingxing",
+      "created_at": "2026-11-11T14:20:46.605623082Z",
+      "first_seen": "2026-11-11T14:21:14.110939+00:00"
+    },
+    "D7HaZgWwq33p1cXaMSoTkHr6ByrebMCcqHduEKRopump": {
+      "symbol": "STAKE",
+      "created_at": "2026-11-11T14:20:40.381936651Z",
+      "first_seen": "2026-11-11T14:21:14.110939+00:00"
+    },
+    "D7aFZq2cG1fNLUEz3Ej1StAqjAfW7CNN56E8eoiPvPmZ": {
+      "symbol": "",
+      "created_at": "2026-11-11T14:20:37.140293831Z",
+      "first_seen": "2026-11-11T14:21:14.110939+00:00"
     }
   },
   "alerted": [
@@ -912,7 +952,8 @@
     "xoHqBEB2aris17etsgszonDmDkDKJUNWcUm6cMJpump",
     "6yXjaaaC6D9987UvJpBHHzU53jK3hPxGpbhcUNXxpump",
     "BXwgus8w5NPgxxWxTUUHiKUz3Jezn8RB6uqowcJxpump",
-    "9c5JteS7LDobkcxXKdkfgrxeebxEruAQJ6x9F7Tupump"
+    "9c5JteS7LDobkcxXKdkfgrxeebxEruAQJ6x9F7Tupump",
+    "EHZPYFvxzdCFxoAYy1fgxvjasAoeow4zHgdNaS8Fpump"
   ],
   "rejected": [
     "87VhNu5EP4VnXCTQW5NTUR2XVxjzR9A4q7pUbpyii7SK",
