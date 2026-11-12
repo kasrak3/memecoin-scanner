@@ -870,16 +870,6 @@
       "created_at": "2026-11-12T01:10:37.331828197Z",
       "first_seen": "2026-11-12T01:10:45.765662+00:00"
     },
-    "4rg7dZ1cUec9iv1f1Mj5GP4juUe1dhAJooNNozCVpump": {
-      "symbol": "Rockstar",
-      "created_at": "2026-11-12T01:10:36.209732716Z",
-      "first_seen": "2026-11-12T01:10:45.765662+00:00",
-      "confirm": {
-        "liquidity": 24262.62,
-        "market_cap": 112825,
-        "at": "2026-11-12T01:22:06.243282+00:00"
-      }
-    },
     "DvzyapvgVAkFzj8eS4RopM1Vw8CAsdyVZgJ1EqVEpump": {
       "symbol": "$FOMO",
       "created_at": "2026-11-12T01:10:35.559769814Z",
@@ -918,7 +908,12 @@
     "ENdPZyCaoUeS4Evfb9YxK2y3U9LjLHYzTomhZFx7Qpay": {
       "symbol": "X",
       "created_at": "2026-11-12T01:12:58.114200674Z",
-      "first_seen": "2026-11-12T01:13:00.361151+00:00"
+      "first_seen": "2026-11-12T01:13:00.361151+00:00",
+      "confirm": {
+        "liquidity": 14335.59,
+        "market_cap": 40527,
+        "at": "2026-11-12T01:24:24.202517+00:00"
+      }
     },
     "6bTCZufFtqSAZ1WqFHedf7Ri1SHEewJXJx84vz7rFYxQ": {
       "symbol": "MPN",
@@ -1164,6 +1159,56 @@
       "symbol": "GROKBOT1.0",
       "created_at": "2026-11-12T01:21:42.589152132Z",
       "first_seen": "2026-11-12T01:22:06.243018+00:00"
+    },
+    "EK1CoYDrXVHWC6W3RsUUcGnzQ1gABHj1FnL7aMfMpump": {
+      "symbol": "Toilet",
+      "created_at": "2026-11-12T01:24:14.651832039Z",
+      "first_seen": "2026-11-12T01:24:24.202277+00:00"
+    },
+    "Dyzc9WSyRF3j2oYSVcpF7GrxNZ5BnSgUXEQFQdcKpump": {
+      "symbol": "HUNG",
+      "created_at": "2026-11-12T01:24:14.244071051Z",
+      "first_seen": "2026-11-12T01:24:24.202277+00:00"
+    },
+    "vx9vdMvpHmLnz5MtrHuFFZ8PWSa9DZSf6au8oghtUa4": {
+      "symbol": "",
+      "created_at": "2026-11-12T01:24:13.941208286Z",
+      "first_seen": "2026-11-12T01:24:24.202277+00:00"
+    },
+    "HF9wN8MtDjvBUg454w8LK4kfmyy7XxR8YsXwXVqqkffB": {
+      "symbol": "TOMMO",
+      "created_at": "2026-11-12T01:24:11.574678806Z",
+      "first_seen": "2026-11-12T01:24:24.202277+00:00"
+    },
+    "Hv8Ggz8SVfBGbaZo8qgmcVFZkLt5nTxzHhZeKqKFFVTP": {
+      "symbol": "CUMMIES",
+      "created_at": "2026-11-12T01:24:09.325884627Z",
+      "first_seen": "2026-11-12T01:24:24.202277+00:00"
+    },
+    "Fj6mgwgY4qfQuY2SNwjxxJgsn4SjTsJG7FMNvbucpump": {
+      "symbol": "GROK",
+      "created_at": "2026-11-12T01:24:08.291803685Z",
+      "first_seen": "2026-11-12T01:24:24.202277+00:00"
+    },
+    "FR7GgiDCmhYDkBMQoJAyfcEhNgiAckyuXAK4ax6YHaVq": {
+      "symbol": "X Coin",
+      "created_at": "2026-11-12T01:24:07.857288095Z",
+      "first_seen": "2026-11-12T01:24:24.202277+00:00"
+    },
+    "2P75Zh6dwcZZhBQtGuM4Lf9BWbB3mFwqPFPW8XqzLV8k": {
+      "symbol": "ROCKET",
+      "created_at": "2026-11-12T01:24:07.462678235Z",
+      "first_seen": "2026-11-12T01:24:24.202277+00:00"
+    },
+    "EnGUe9yCv4A5Nbdc3sYoc2SeXeuBR2DQXiEq7RCvpump": {
+      "symbol": "ROCKET",
+      "created_at": "2026-11-12T01:24:05.160851431Z",
+      "first_seen": "2026-11-12T01:24:24.202277+00:00"
+    },
+    "2eNmAZrfPXU3DPWXs1nALQWrTb1ocNNBkud37E3Kpump": {
+      "symbol": "$BOSS",
+      "created_at": "2026-11-12T01:24:05.137431673Z",
+      "first_seen": "2026-11-12T01:24:24.202277+00:00"
     }
   },
   "alerted": [
@@ -1734,7 +1779,8 @@
     "DZEFFpDSTmM1rn8f3qqyuu62qkezvfHKgKN3wYicpump",
     "4wMa1EVxMiAZtdJH2AwZAGnMK82Mhdz2vWy7Ya1pump",
     "4QypmZMeVG8973e6b5YMVBGHJpfCyhLgtSTEWa9fpump",
-    "7nJKEbWKXJBqesd1YR1hfcbzMRsUhPB9k8a2NMd5pump"
+    "7nJKEbWKXJBqesd1YR1hfcbzMRsUhPB9k8a2NMd5pump",
+    "4rg7dZ1cUec9iv1f1Mj5GP4juUe1dhAJooNNozCVpump"
   ],
   "rejected": [
     "HRr2N3XPewd562WFj4omGtA8PRYeYiGGSuXZW2LC3fjD",
