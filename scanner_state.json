@@ -1435,11 +1435,6 @@
       "created_at": "2026-11-12T01:35:48.159215766Z",
       "first_seen": "2026-11-12T01:36:10.494890+00:00"
     },
-    "3AffVM14LyNBYydrpGmCwFnPoHhx5ih6MitwvhAtjbc3": {
-      "symbol": "Max",
-      "created_at": "2026-11-12T01:38:30.714452198Z",
-      "first_seen": "2026-11-12T01:38:34.452011+00:00"
-    },
     "5t11Me75Y9WGM9Gwnnaz2PqEYWEwRgCsEhyCkiBbpump": {
       "symbol": "Rex",
       "created_at": "2026-11-12T01:38:26.975955269Z",
@@ -1684,6 +1679,56 @@
       "symbol": "Sackson",
       "created_at": "2026-11-12T01:47:47.800413704Z",
       "first_seen": "2026-11-12T01:48:17.139969+00:00"
+    },
+    "9bHzMr5T8627adBtmiKKrRHq49ze2xsp24aZ1BgPKeXB": {
+      "symbol": "POPVAX",
+      "created_at": "2026-11-12T01:50:33.417335579Z",
+      "first_seen": "2026-11-12T01:50:43.588774+00:00"
+    },
+    "4nf5WMAVjFCcuXeoSbEDfaJmCgWx5XfheowDropspump": {
+      "symbol": "DERP",
+      "created_at": "2026-11-12T01:50:26.039039698Z",
+      "first_seen": "2026-11-12T01:50:43.588774+00:00"
+    },
+    "5CNWBLpku5RJ7DQruBRcYUtLcvB3h9Q7qaPFQyftpump": {
+      "symbol": "NUSAMI",
+      "created_at": "2026-11-12T01:50:25.540950448Z",
+      "first_seen": "2026-11-12T01:50:43.588774+00:00"
+    },
+    "DqH2y62RmXEUpwb8fKBvYfMjgU6caLiXFW5Wgy4uTVxK": {
+      "symbol": "HOLD",
+      "created_at": "2026-11-12T01:50:24.377581446Z",
+      "first_seen": "2026-11-12T01:50:43.588774+00:00"
+    },
+    "6UBKiYRPP1kuJMKcB6EeCzZJPaAubMyTHtkNYnVxpump": {
+      "symbol": "HALH",
+      "created_at": "2026-11-12T01:50:22.833341414Z",
+      "first_seen": "2026-11-12T01:50:43.588774+00:00"
+    },
+    "CDtyBuEuVkefmGcFn5vG9PkmcKNFoVvVphStNRhXMPzG": {
+      "symbol": "MPN",
+      "created_at": "2026-11-12T01:50:19.684621783Z",
+      "first_seen": "2026-11-12T01:50:43.588774+00:00"
+    },
+    "HYhwpctSNW3reSyWAym4eJGs8ec6UboEkMpLzHcXpump": {
+      "symbol": "SAXONPUMP",
+      "created_at": "2026-11-12T01:50:17.845855705Z",
+      "first_seen": "2026-11-12T01:50:43.588774+00:00"
+    },
+    "DUzi4Qh3UQ55XmUb4AqQG3K6w9Qo31C8ahdkqEc4pump": {
+      "symbol": "DERP",
+      "created_at": "2026-11-12T01:50:15.512391281Z",
+      "first_seen": "2026-11-12T01:50:43.588774+00:00"
+    },
+    "4YBm9krgMfqUMDYjp5dk6Z2hcLyPguxQX9igwgoLpump": {
+      "symbol": "UPDOG",
+      "created_at": "2026-11-12T01:50:14.986118817Z",
+      "first_seen": "2026-11-12T01:50:43.588774+00:00"
+    },
+    "EA1VqdMS1suJ79yAB1VYLRBjibmumxdJZXcJJ7q9fpsG": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-11-12T01:50:11.218617942Z",
+      "first_seen": "2026-11-12T01:50:43.588774+00:00"
     }
   },
   "alerted": [
@@ -2259,7 +2304,6 @@
     "ENdPZyCaoUeS4Evfb9YxK2y3U9LjLHYzTomhZFx7Qpay"
   ],
   "rejected": [
-    "drXZUgnPeyM5Poau4xSEPvSoh2BRpQRSgrvtqgzpump",
     "ppixztwnw86vwpDaAyftM1FDgNmB8E4tb4ykWKQVrGk",
     "GXEi3fcqhHbTnV8dddY6FhNm7zv6fQ15EzPKmNJTpump",
     "4tbVWcaj2U8jVZvPS9oE7nQL7HL8fdp93FGqEyK2ZhH4",
@@ -4258,6 +4302,7 @@
     "FinCPEAp3Qh26SEjG3YhqwnzLF3aHJ8Pu72hsH4GxKj",
     "5jxgeUdYmkxFmJ8Ctc84jtoYuHcmG8LBP1oCM2enzoVg",
     "AJugBEYWwXqcEVLhsSDk4k3iTj6g2RuTsGobMXJBUWro",
-    "A6Wh9Xsf2Tw5oYsaGTnKpjruxxewaqCrGg4GnVTvpump"
+    "A6Wh9Xsf2Tw5oYsaGTnKpjruxxewaqCrGg4GnVTvpump",
+    "3AffVM14LyNBYydrpGmCwFnPoHhx5ih6MitwvhAtjbc3"
   ]
 }
