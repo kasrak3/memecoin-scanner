@@ -800,11 +800,6 @@
       "created_at": "2026-11-12T01:05:52.338641951Z",
       "first_seen": "2026-11-12T01:06:21.644159+00:00"
     },
-    "Hk5STSNNcmhMp7xfmoCxhmEYx2Gxn3ydYzFXKspTSam9": {
-      "symbol": "BRR",
-      "created_at": "2026-11-12T01:05:49.642870846Z",
-      "first_seen": "2026-11-12T01:06:21.644159+00:00"
-    },
     "DEiX8UNEdaXZCULubcsdFEavrPMY7UqRfGmmNLcZbg12": {
       "symbol": "",
       "created_at": "2026-11-12T01:05:44.826498Z",
@@ -813,11 +808,6 @@
     "J9kxPeGq52Hq65KTuc2egZtm6VxyfHKSrGTKsyeWBAGS": {
       "symbol": "CORECRB",
       "created_at": "2026-11-12T01:05:44.051313702Z",
-      "first_seen": "2026-11-12T01:06:21.644159+00:00"
-    },
-    "FinCPEAp3Qh26SEjG3YhqwnzLF3aHJ8Pu72hsH4GxKj": {
-      "symbol": "HUNG",
-      "created_at": "2026-11-12T01:05:41.026863742Z",
       "first_seen": "2026-11-12T01:06:21.644159+00:00"
     },
     "6n9DB4esD5d7jQnc2XJRTB4HWeKKCetSH9DGJ8Lpump": {
@@ -1019,6 +1009,56 @@
       "symbol": "Wepe the lynx",
       "created_at": "2026-11-12T01:14:59.346086146Z",
       "first_seen": "2026-11-12T01:15:15.581830+00:00"
+    },
+    "fk5fFbMUsfiUR5VYTjgkmYZN1hwYCmmuUuh65umpump": {
+      "symbol": "X",
+      "created_at": "2026-11-12T01:17:28.037543129Z",
+      "first_seen": "2026-11-12T01:17:32.626547+00:00"
+    },
+    "BGNu5uAx9P1e7eyRPMrz3Zt9kjjeZtsbFc2veHmvrsfY": {
+      "symbol": "BTC-UP",
+      "created_at": "2026-11-12T01:17:27.991685085Z",
+      "first_seen": "2026-11-12T01:17:32.626547+00:00"
+    },
+    "5nsHuvGzDZeWvnS9wZS3bxYBoqF2suGUDDmuQRuFpump": {
+      "symbol": "X",
+      "created_at": "2026-11-12T01:17:27.596076414Z",
+      "first_seen": "2026-11-12T01:17:32.626547+00:00"
+    },
+    "EC7c3jmD155JPU9owH9bZCv7psSZczEcsKzjJFm5pump": {
+      "symbol": "X",
+      "created_at": "2026-11-12T01:17:27.212062756Z",
+      "first_seen": "2026-11-12T01:17:32.626547+00:00"
+    },
+    "GMXFFecMoTkQHGnHGVdSAuWkeGnjvGV4yFmRAgZmpump": {
+      "symbol": "COURT",
+      "created_at": "2026-11-12T01:17:26.005464088Z",
+      "first_seen": "2026-11-12T01:17:32.626547+00:00"
+    },
+    "8vfcfn8uvRLVJqMXYYxyCfSpuGx2KZPMrU79tJ3xpump": {
+      "symbol": "SCION",
+      "created_at": "2026-11-12T01:17:25.585281276Z",
+      "first_seen": "2026-11-12T01:17:32.626547+00:00"
+    },
+    "D5xPoKoYpsceqN5anGiGLcvxKGfuK2sB9DjjLmNppump": {
+      "symbol": "HALH",
+      "created_at": "2026-11-12T01:17:23.681949557Z",
+      "first_seen": "2026-11-12T01:17:32.626547+00:00"
+    },
+    "9cPFDzCzApC44wqDtuKwrxsiHuXfxWhn286TVbJ7pump": {
+      "symbol": "LMAO",
+      "created_at": "2026-11-12T01:17:22.991616503Z",
+      "first_seen": "2026-11-12T01:17:32.626547+00:00"
+    },
+    "4qQPkZd8KQbk7raxKb6xU8ugMW53vRFwvC3t4zsFBJvw": {
+      "symbol": "ARKIS",
+      "created_at": "2026-11-12T01:17:15.185848438Z",
+      "first_seen": "2026-11-12T01:17:32.626547+00:00"
+    },
+    "BBqAVYABXMca2Eds7MDMA6CWpZb7z5JHFSMdviPopump": {
+      "symbol": "USA",
+      "created_at": "2026-11-12T01:17:14.392372056Z",
+      "first_seen": "2026-11-12T01:17:32.626547+00:00"
     }
   },
   "alerted": [
@@ -1592,8 +1632,6 @@
     "7nJKEbWKXJBqesd1YR1hfcbzMRsUhPB9k8a2NMd5pump"
   ],
   "rejected": [
-    "3vK9WKiJoreLx7euDdVVHrJKDEseQ7utTuGZH3uXMrPD",
-    "uqnJh9MWDbiizXRXEhag9biGYkn9A3CbHDeogC7qGU9",
     "HRr2N3XPewd562WFj4omGtA8PRYeYiGGSuXZW2LC3fjD",
     "HAGesCTqVe3ZsvzWuBpnp681Nrn6ryJiUwrHYsYdKsyQ",
     "f7Wyy6XJ5LKk4SjBD6DYDLb9izwehCoY84qCciwJxiT",
@@ -3591,6 +3629,8 @@
     "BRTHRL3wKXxQ2D7NSf1hA35dWfof4o3BqmAgbB1Npump",
     "F2LyoKXMBr3ekLP6KcAtXjLq4u88fr2PAx1nvLWK91Tp",
     "DG2kKoNevk2EmtP5DBxbJ38t1zx4f4o89MwuDqR6TEgQ",
-    "21cAbAr2KA8SrrfTTi7ig4zRqoaHzey6c7grFrsFdiYN"
+    "21cAbAr2KA8SrrfTTi7ig4zRqoaHzey6c7grFrsFdiYN",
+    "Hk5STSNNcmhMp7xfmoCxhmEYx2Gxn3ydYzFXKspTSam9",
+    "FinCPEAp3Qh26SEjG3YhqwnzLF3aHJ8Pu72hsH4GxKj"
   ]
 }
