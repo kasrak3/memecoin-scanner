@@ -873,7 +873,12 @@
     "4rg7dZ1cUec9iv1f1Mj5GP4juUe1dhAJooNNozCVpump": {
       "symbol": "Rockstar",
       "created_at": "2026-11-12T01:10:36.209732716Z",
-      "first_seen": "2026-11-12T01:10:45.765662+00:00"
+      "first_seen": "2026-11-12T01:10:45.765662+00:00",
+      "confirm": {
+        "liquidity": 24262.62,
+        "market_cap": 112825,
+        "at": "2026-11-12T01:22:06.243282+00:00"
+      }
     },
     "DvzyapvgVAkFzj8eS4RopM1Vw8CAsdyVZgJ1EqVEpump": {
       "symbol": "$FOMO",
@@ -1109,6 +1114,56 @@
       "symbol": "Stamp",
       "created_at": "2026-11-12T01:19:32.196418841Z",
       "first_seen": "2026-11-12T01:19:49.601651+00:00"
+    },
+    "2iiFkxPpuJ1AKsQ6LfrdB9RtJn5uJeqtgZ9KWbMqpump": {
+      "symbol": "PP",
+      "created_at": "2026-11-12T01:22:04.181244541Z",
+      "first_seen": "2026-11-12T01:22:06.243018+00:00"
+    },
+    "8dm4LTMQcgU62xXZ5Ytjx3LLz36AThfVmNLiZ1k2pump": {
+      "symbol": "NIELON",
+      "created_at": "2026-11-12T01:22:03.598862543Z",
+      "first_seen": "2026-11-12T01:22:06.243018+00:00"
+    },
+    "BYBNt3jY9kWxHtRZeGQ1wtdnCGGRzh5HpyYkedjJ6BUJ": {
+      "symbol": "boost",
+      "created_at": "2026-11-12T01:22:02.74760732Z",
+      "first_seen": "2026-11-12T01:22:06.243018+00:00"
+    },
+    "BMMRFV1kMFdekBxc3qdnorjXZPDxGsutkJrNUFHJpump": {
+      "symbol": "boost",
+      "created_at": "2026-11-12T01:21:58.638331583Z",
+      "first_seen": "2026-11-12T01:22:06.243018+00:00"
+    },
+    "9LwmUSmzhS8JwxHYTZjNshdbMCE6istMTWpwYi7ntQjv": {
+      "symbol": "KOTU",
+      "created_at": "2026-11-12T01:21:58.309024795Z",
+      "first_seen": "2026-11-12T01:22:06.243018+00:00"
+    },
+    "31A3AurEc9eu9hADL6YKBLscJYEMzDFCY3h3xYovazps": {
+      "symbol": "MPN",
+      "created_at": "2026-11-12T01:21:51.617776423Z",
+      "first_seen": "2026-11-12T01:22:06.243018+00:00"
+    },
+    "AKeBjG7mvQE485QsuSBCNeYaVQH9X4pxYUL5rteWBAGS": {
+      "symbol": "ALX",
+      "created_at": "2026-11-12T01:21:47.768375393Z",
+      "first_seen": "2026-11-12T01:22:06.243018+00:00"
+    },
+    "55zsGTsrsYjGp2MMK8hg5Twpvb1ob8wdhvpjekm99c6g": {
+      "symbol": "Max",
+      "created_at": "2026-11-12T01:21:47.033970216Z",
+      "first_seen": "2026-11-12T01:22:06.243018+00:00"
+    },
+    "779yeodfqKo4rCKQwac3wRrDVLC33FUCQfXx8D4gojVa": {
+      "symbol": "TEST",
+      "created_at": "2026-11-12T01:21:46.033575574Z",
+      "first_seen": "2026-11-12T01:22:06.243018+00:00"
+    },
+    "Dz1gtEGe3xkMcJwFYKXCz2BwxxFn7exeKBSbzRDZpump": {
+      "symbol": "GROKBOT1.0",
+      "created_at": "2026-11-12T01:21:42.589152132Z",
+      "first_seen": "2026-11-12T01:22:06.243018+00:00"
     }
   },
   "alerted": [
