@@ -1475,16 +1475,6 @@
       "created_at": "2026-11-12T16:10:43.437671412Z",
       "first_seen": "2026-11-12T16:11:05.566448+00:00"
     },
-    "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK": {
-      "symbol": "TRENCHEDIN",
-      "created_at": "2026-11-12T16:10:43.082299649Z",
-      "first_seen": "2026-11-12T16:11:05.566448+00:00",
-      "confirm": {
-        "liquidity": 10878.25,
-        "market_cap": 25296,
-        "at": "2026-11-12T16:21:47.796420+00:00"
-      }
-    },
     "Fj3p1D4Et2U4S3VXQ8XnYhZsQ6mebxq6QUKR8Z3qpump": {
       "symbol": "AMD",
       "created_at": "2026-11-12T16:13:37.176566368Z",
@@ -1513,11 +1503,6 @@
     "7oicEAKTAeswCRZwBQ1XZkQRbz8c8T2u2t54YJzx61EV": {
       "symbol": "RCL",
       "created_at": "2026-11-12T16:13:31.447459832Z",
-      "first_seen": "2026-11-12T16:13:39.750228+00:00"
-    },
-    "7v7gnm1mJXCGfvUFSFfQ1vtg76YMJi4RA6jwVWc5Gbjc": {
-      "symbol": "Huang",
-      "created_at": "2026-11-12T16:13:30.139992448Z",
       "first_seen": "2026-11-12T16:13:39.750228+00:00"
     },
     "7T2ZRNVdQxEM6fNihJ8HnLyETMHbZXvfJXhoZX9rrHfx": {
@@ -1684,6 +1669,56 @@
       "symbol": "SI",
       "created_at": "2026-11-12T16:21:32.486572452Z",
       "first_seen": "2026-11-12T16:21:47.795987+00:00"
+    },
+    "7eijKhwHUhs44ZRk5LXFvmk511aLhRG8Um4hQgbDpump": {
+      "symbol": "speedrun",
+      "created_at": "2026-11-12T16:24:28.891506774Z",
+      "first_seen": "2026-11-12T16:24:34.289186+00:00"
+    },
+    "Atg9eFseHFhUsxGKaHfJ1TtoAK3wyMMsSktcxvXvCoqC": {
+      "symbol": "Spacesen",
+      "created_at": "2026-11-12T16:24:27.396494341Z",
+      "first_seen": "2026-11-12T16:24:34.289186+00:00"
+    },
+    "E72xmvZpo2YquG3DFc5HHg7S9xgQZFhBhHhnyJGKpump": {
+      "symbol": "$LUCIA",
+      "created_at": "2026-11-12T16:24:26.260061673Z",
+      "first_seen": "2026-11-12T16:24:34.289186+00:00"
+    },
+    "ANci4BrtyyFTRjqhsPfBwG78VEqiXBpmd14uXrmVpump": {
+      "symbol": "LC",
+      "created_at": "2026-11-12T16:24:26.257985073Z",
+      "first_seen": "2026-11-12T16:24:34.289186+00:00"
+    },
+    "7WfrUCCZtbvp2FrCQUkWeWQG2Px2Bn1rMvsUmmV5f2Qq": {
+      "symbol": "ass",
+      "created_at": "2026-11-12T16:24:25.577906976Z",
+      "first_seen": "2026-11-12T16:24:34.289186+00:00"
+    },
+    "75GCKAfB79REoUgFeNR3EkmCczC64dK4QQeMmgfcpump": {
+      "symbol": "KYMRCAT",
+      "created_at": "2026-11-12T16:24:25.564067707Z",
+      "first_seen": "2026-11-12T16:24:34.289186+00:00"
+    },
+    "CSgjsZMxd1bti7ZRobqKHcy6w2pKtUC5GXjbnrFFTSie": {
+      "symbol": "OAI",
+      "created_at": "2026-11-12T16:24:24.013260758Z",
+      "first_seen": "2026-11-12T16:24:34.289186+00:00"
+    },
+    "7A1nirFHPEfc7XEfDofbtoLy1XvEgMasZUjRB4ispump": {
+      "symbol": "OAI",
+      "created_at": "2026-11-12T16:24:23.183502341Z",
+      "first_seen": "2026-11-12T16:24:34.289186+00:00"
+    },
+    "6VvRR6pHPZ1yaYEwVg5gPjyEiAUoLj42x3CHMb2zpump": {
+      "symbol": "$PCOIN",
+      "created_at": "2026-11-12T16:24:17.064035855Z",
+      "first_seen": "2026-11-12T16:24:34.289186+00:00"
+    },
+    "EU2GVeQPmcQJWR6b1R1gNVTbpmuoTR5JF3gCUNfUQohq": {
+      "symbol": "$GIGA",
+      "created_at": "2026-11-12T16:24:16.907103632Z",
+      "first_seen": "2026-11-12T16:24:34.289186+00:00"
     }
   },
   "alerted": [
@@ -2262,10 +2297,10 @@
     "7yLCJpWQvE2bnX3JZGbmmKrCkCSrSGbqTmgA8tMdpump",
     "9azVa2sxrvM1meRA2ixEyyYNcYMoYQYgjtjmFczUpump",
     "6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump",
-    "EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump"
+    "EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump",
+    "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK"
   ],
   "rejected": [
-    "4BYukhusvogAAdakrbzS4Q9b4hxPLG6UKRMEoujV6bed",
     "5YKHxL6LKEEAYJX4pnFXLxHqHKzpXoQRgWy7rMufgwj",
     "J5XXBfonLN3RAHWjwknQTLcgJwuhQRcpH5zccLxX1hzS",
     "4iiMgBNY6TyctCSZtRNiGmXqgrQPQ7D2MTPedeABpump",
@@ -4264,6 +4299,7 @@
     "2Er3UtbQGWyNgeKMyUs218i11Z6v4gtfgwmqoSNPpump",
     "GNFSQbcZUbj1EWeKWSTGcmjzegjTuTd4nBFFZ3RxTuDG",
     "65n2vwCEXwhNLcUn5McSYDxxE7Nwk5dnqS9L6wBpump",
-    "9hkhAL2Pmob7SqGc95iXEjGxzvTMeer4UJMCXt2Nww6C"
+    "9hkhAL2Pmob7SqGc95iXEjGxzvTMeer4UJMCXt2Nww6C",
+    "7v7gnm1mJXCGfvUFSFfQ1vtg76YMJi4RA6jwVWc5Gbjc"
   ]
 }
