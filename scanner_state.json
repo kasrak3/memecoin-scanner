@@ -1335,16 +1335,6 @@
       "created_at": "2026-11-13T00:29:24.160532986Z",
       "first_seen": "2026-11-13T00:29:34.063853+00:00"
     },
-    "2eBGQFFjmARa2kPECwLhMiuz7WZaSvgncH3nSruLpump": {
-      "symbol": "Timsen",
-      "created_at": "2026-11-13T00:29:22.310989714Z",
-      "first_seen": "2026-11-13T00:29:34.063853+00:00",
-      "confirm": {
-        "liquidity": 21111.17,
-        "market_cap": 79265,
-        "at": "2026-11-13T00:41:22.719088+00:00"
-      }
-    },
     "BUvvTXmaKSJGo6xu8t1K1KS6rYz3sU5KULrj2f4mpump": {
       "symbol": "kittylick",
       "created_at": "2026-11-13T00:29:20.125808695Z",
@@ -1624,6 +1614,56 @@
       "symbol": "$JEETSURE",
       "created_at": "2026-11-13T00:41:02.735502804Z",
       "first_seen": "2026-11-13T00:41:22.718742+00:00"
+    },
+    "2LgayWQ8C6brnuCcHmnsKvtbqi8AeBc1ufBRRervpump": {
+      "symbol": "MONY",
+      "created_at": "2026-11-13T00:43:44.417714659Z",
+      "first_seen": "2026-11-13T00:43:47.053529+00:00"
+    },
+    "BiifgZmZ5PGtBgjB258WzRBuewFDsT8HM46KFkkzVSkM": {
+      "symbol": "",
+      "created_at": "2026-11-13T00:43:41.180050852Z",
+      "first_seen": "2026-11-13T00:43:47.053529+00:00"
+    },
+    "5V6HRptQajQ7uJpqn682D1cpT86rcRm88n1AMGxa3MD2": {
+      "symbol": "Buckskin",
+      "created_at": "2026-11-13T00:43:40.964612922Z",
+      "first_seen": "2026-11-13T00:43:47.053529+00:00"
+    },
+    "F3cqVQHwMLoWGkmyc97q4wT4EyKW2jqJsnohDV5npump": {
+      "symbol": "mmrich",
+      "created_at": "2026-11-13T00:43:38.747145064Z",
+      "first_seen": "2026-11-13T00:43:47.053529+00:00"
+    },
+    "7eTV1axBBtAGYo8DuZPWS8DEcsJyUxCX8EzUVuPdnGME": {
+      "symbol": "ELONCOIN",
+      "created_at": "2026-11-13T00:43:38.000323965Z",
+      "first_seen": "2026-11-13T00:43:47.053529+00:00"
+    },
+    "CUFUqgSE9QbXKJPXbbrQvWaPpbxRNxgTdmMRjhygmoon": {
+      "symbol": "Nvcrown",
+      "created_at": "2026-11-13T00:43:33.276611689Z",
+      "first_seen": "2026-11-13T00:43:47.053529+00:00"
+    },
+    "FBD8egcTrWYU3R28sxU9qfJkPMkG4yyWEk8cekpupump": {
+      "symbol": "ElCinco",
+      "created_at": "2026-11-13T00:43:31.320531514Z",
+      "first_seen": "2026-11-13T00:43:47.053529+00:00"
+    },
+    "4Aa3XvoXtbiiwJRhN5JTZjddHqa3Wj6TBpbuRGYXpump": {
+      "symbol": "$LA BEAST",
+      "created_at": "2026-11-13T00:43:30.883513495Z",
+      "first_seen": "2026-11-13T00:43:47.053529+00:00"
+    },
+    "6xaAF9U2uth6Ugerj5ttBoEoP5ucaYujpgCPPbyCpump": {
+      "symbol": "butcuin",
+      "created_at": "2026-11-13T00:43:28.312390902Z",
+      "first_seen": "2026-11-13T00:43:47.053529+00:00"
+    },
+    "9HK3zMiJ1kbXPd45QbYnU2fqu6mpV6UziGXTyzgFpump": {
+      "symbol": "Buckskin",
+      "created_at": "2026-11-13T00:43:27.331504225Z",
+      "first_seen": "2026-11-13T00:43:47.053529+00:00"
     }
   },
   "alerted": [
@@ -2203,7 +2243,8 @@
     "9azVa2sxrvM1meRA2ixEyyYNcYMoYQYgjtjmFczUpump",
     "6MZZGJutbeEny8KB7Lexu3qxSTe7dHe1kQL3RVwCpump",
     "EUq1phoM815xUsqfWv2VNit7KTmSMwM3WyC8z97Dpump",
-    "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK"
+    "tinnKfUbWBQsiJw3f9mypgZw4K18JaygxRxNAW1NPxK",
+    "2eBGQFFjmARa2kPECwLhMiuz7WZaSvgncH3nSruLpump"
   ],
   "rejected": [
     "CPHNJwW8NHA847iLiFsTnjN8TYzCQyGpZUvUrxsAitEg",
