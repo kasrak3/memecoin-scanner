@@ -740,16 +740,6 @@
       "created_at": "2026-11-14T06:40:13.636503746Z",
       "first_seen": "2026-11-14T06:40:26.468576+00:00"
     },
-    "Hx1H9xGMuFRJcnVyzJb7VVyiFXnDh47xUYWt5JGtpump": {
-      "symbol": "r/acc",
-      "created_at": "2026-11-14T06:40:13.237872657Z",
-      "first_seen": "2026-11-14T06:40:26.468576+00:00",
-      "confirm": {
-        "liquidity": 19768.43,
-        "market_cap": 56905,
-        "at": "2026-11-14T06:51:24.893860+00:00"
-      }
-    },
     "Bv7bwmJHxewsLH5agUyVYM3SCv5HVhxTBpzNA9X2ndsv": {
       "symbol": "MPN",
       "created_at": "2026-11-14T06:40:12.591633282Z",
@@ -1004,6 +994,56 @@
       "symbol": "SHITCOIN",
       "created_at": "2026-11-14T06:50:49.032839132Z",
       "first_seen": "2026-11-14T06:51:24.893563+00:00"
+    },
+    "HMDMFQCe8EpRbT69XwtVbHm87nBkNMvyte9pnQttpump": {
+      "symbol": "KUOMBOKA",
+      "created_at": "2026-11-14T06:53:37.894887029Z",
+      "first_seen": "2026-11-14T06:53:40.581643+00:00"
+    },
+    "9bdrQEpzYuhqLzcjCCsxRzUK1tUceNTAGB2EdK74pump": {
+      "symbol": "$LA BEAST",
+      "created_at": "2026-11-14T06:53:35.271156306Z",
+      "first_seen": "2026-11-14T06:53:40.581643+00:00"
+    },
+    "61cuxuwS48PBYgK3dEzmpqrM3tGCnzVmUrCQvbN2LATq": {
+      "symbol": "MPN",
+      "created_at": "2026-11-14T06:53:34.243717736Z",
+      "first_seen": "2026-11-14T06:53:40.581643+00:00"
+    },
+    "DFVWJCe3AKaJWDSPdSzpKLpFtjku2iR7AiZk7qyDpump": {
+      "symbol": "SAI",
+      "created_at": "2026-11-14T06:53:33.114650673Z",
+      "first_seen": "2026-11-14T06:53:40.581643+00:00"
+    },
+    "3wjwYV5wreV32QSQLdQiz3BAcGXXwkpugbG7tuMVpump": {
+      "symbol": "SAI",
+      "created_at": "2026-11-14T06:53:33.113229365Z",
+      "first_seen": "2026-11-14T06:53:40.581643+00:00"
+    },
+    "DWtFydZpduz79k3J988tKWgAtwd1ijeJpCaSHWFxpump": {
+      "symbol": "SAI",
+      "created_at": "2026-11-14T06:53:33.111810421Z",
+      "first_seen": "2026-11-14T06:53:40.581643+00:00"
+    },
+    "G4gaioACWqcn8yt7Lgmf4Pmyx1S9mfbUyhMpkij6pump": {
+      "symbol": "SAI",
+      "created_at": "2026-11-14T06:53:33.105776167Z",
+      "first_seen": "2026-11-14T06:53:40.581643+00:00"
+    },
+    "698ckWpAXVpRLS7D5NGdqMXXtT3Rb21YhyLJSkVUpump": {
+      "symbol": "SAI",
+      "created_at": "2026-11-14T06:53:33.07462683Z",
+      "first_seen": "2026-11-14T06:53:40.581643+00:00"
+    },
+    "HPpfhq9d3spyVCEpHVtZKHduJLhWtAFN5bi7YvQipump": {
+      "symbol": "SAI",
+      "created_at": "2026-11-14T06:53:33.016062507Z",
+      "first_seen": "2026-11-14T06:53:40.581643+00:00"
+    },
+    "2yNHrArE8mgyjTmTFtZBvJcpFNms7FDXjXmfffegpump": {
+      "symbol": "SAI",
+      "created_at": "2026-11-14T06:53:33.003806712Z",
+      "first_seen": "2026-11-14T06:53:40.581643+00:00"
     }
   },
   "alerted": [
@@ -1590,7 +1630,8 @@
     "3PgpUb3t1AviCDVVR8SPY8gVxr7GpUApmsahRW8bpump",
     "J4MsEuqfAnCFAE1E7zfN1MrK7X1msFHtGFTySXi2pump",
     "EnXT7SXxXb9MYt3RJzDTXA9FxCaEzf9erDQbmcTQpump",
-    "jZA1BRrbsKmdPko2WsAvXY9YMY2Q7atM7g3ow2Dpump"
+    "jZA1BRrbsKmdPko2WsAvXY9YMY2Q7atM7g3ow2Dpump",
+    "Hx1H9xGMuFRJcnVyzJb7VVyiFXnDh47xUYWt5JGtpump"
   ],
   "rejected": [
     "54dJxLkFNwJemHzKT4v46hifUJFoWRsr35wK5QxFpump",
