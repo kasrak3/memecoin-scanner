@@ -545,16 +545,6 @@
       "created_at": "2026-11-15T19:08:29.64806034Z",
       "first_seen": "2026-11-15T19:08:31.630986+00:00"
     },
-    "Da5Gbwd8GCuKwd5fv4pk7bBh12UKjUg5iH3VthDWCity": {
-      "symbol": "DYC",
-      "created_at": "2026-11-15T19:08:28.974170417Z",
-      "first_seen": "2026-11-15T19:08:31.630986+00:00",
-      "confirm": {
-        "liquidity": 17442.18,
-        "market_cap": 48241,
-        "at": "2026-11-15T19:22:11.152877+00:00"
-      }
-    },
     "XA8u9pJ7YtSoZiR9p2hK4tsVLjtmmz9p1LudGrsF4so": {
       "symbol": "NYR15-Y",
       "created_at": "2026-11-15T19:08:27.941085588Z",
@@ -644,11 +634,6 @@
       "symbol": "RIVALY",
       "created_at": "2026-11-15T19:10:20.259003461Z",
       "first_seen": "2026-11-15T19:10:44.053439+00:00"
-    },
-    "6tTjYkAnKLTE95vvyPAcfKQwwf5vEPY5FkMBR6zuSeH2": {
-      "symbol": "Mentats",
-      "created_at": "2026-11-15T19:12:55.324760072Z",
-      "first_seen": "2026-11-15T19:13:05.090346+00:00"
     },
     "CKTyf8bbwu99B7sJ982yuonM2bckEkVyhbTWtDw5pump": {
       "symbol": "AIGOTUS",
@@ -894,6 +879,56 @@
       "symbol": "NVRIA",
       "created_at": "2026-11-15T19:21:54.217849892Z",
       "first_seen": "2026-11-15T19:22:11.152562+00:00"
+    },
+    "Bjy6VMcVUuaC3W8DhRnMFrfz2B8gopirDPf7dZVaknfP": {
+      "symbol": "JENSEN",
+      "created_at": "2026-11-15T19:24:26.237733783Z",
+      "first_seen": "2026-11-15T19:24:30.136991+00:00"
+    },
+    "GLetaK1ac8XNaCwkZY1VBR3xa2gYNdMpQE5uiDt4pump": {
+      "symbol": "JENSEN",
+      "created_at": "2026-11-15T19:24:20.134194448Z",
+      "first_seen": "2026-11-15T19:24:30.136991+00:00"
+    },
+    "AUhVUb95VukY21XP8cCRvzVef5Ei6ed5douejBympump": {
+      "symbol": "Freemans",
+      "created_at": "2026-11-15T19:24:20.114184411Z",
+      "first_seen": "2026-11-15T19:24:30.136991+00:00"
+    },
+    "CWbTua9RTsGQ2WVDKccwncvxaPo7dXRJDbxFG8PUpump": {
+      "symbol": "#CAH",
+      "created_at": "2026-11-15T19:24:20.082653484Z",
+      "first_seen": "2026-11-15T19:24:30.136991+00:00"
+    },
+    "49tdNSmopeTP3e3PDMNPmM1Dt5pLFSLbkCgYZqWCmMaY": {
+      "symbol": "RCL",
+      "created_at": "2026-11-15T19:24:19.786035096Z",
+      "first_seen": "2026-11-15T19:24:30.136991+00:00"
+    },
+    "HGADesupnf4m5j1D8aRTJ8xTv4NkawNapKHcc7y1pump": {
+      "symbol": "JENSEN",
+      "created_at": "2026-11-15T19:24:18.6872231Z",
+      "first_seen": "2026-11-15T19:24:30.136991+00:00"
+    },
+    "Em6c7EcUy14JNaQmnFmxuovQh9NqfuPKTBQ4yMFwcyKm": {
+      "symbol": "RCL",
+      "created_at": "2026-11-15T19:24:18.436971093Z",
+      "first_seen": "2026-11-15T19:24:30.136991+00:00"
+    },
+    "iYZpgudasKWfqiRv8J58TgKfNi7xehDA4qgzxxWzJSj": {
+      "symbol": "JENSEN",
+      "created_at": "2026-11-15T19:24:13.554045378Z",
+      "first_seen": "2026-11-15T19:24:30.136991+00:00"
+    },
+    "DWQyNtCsfGmAMxUpprNjEZAjDwYNPTgbLv3wjR2mpump": {
+      "symbol": "\u2705",
+      "created_at": "2026-11-15T19:24:12.668099889Z",
+      "first_seen": "2026-11-15T19:24:30.136991+00:00"
+    },
+    "HESgPJKoerrvShJXCBTXgZmS2L3D7wEpgiVBPcUapump": {
+      "symbol": "DOGE PAID",
+      "created_at": "2026-11-15T19:24:11.493350102Z",
+      "first_seen": "2026-11-15T19:24:30.136991+00:00"
     }
   },
   "alerted": [
@@ -1487,10 +1522,10 @@
     "BtB54BEhTsx8syvWFUcMEe6vxASyL9zP7feXY5d1pump",
     "5ZJsK7rz5EdwmqQ72NaYdYxuui7WLPaDgyDQ5BF3mtQo",
     "2Qd3Y66u21yLHLYPAYqGjPksC9qzoiqqFUmnd4R4pump",
-    "HsnRuBpm8T44ehANRvP1LdrHg9cWrzBn1gDvCirGhuSr"
+    "HsnRuBpm8T44ehANRvP1LdrHg9cWrzBn1gDvCirGhuSr",
+    "Da5Gbwd8GCuKwd5fv4pk7bBh12UKjUg5iH3VthDWCity"
   ],
   "rejected": [
-    "q6379YK9gEVdzAQ71Y5iJiCzDC4AEHJVyQn391Hpump",
     "5HBkf6UguGDazCrXfN6U5bLxWMEzGVTg8HujhTLDpump",
     "8QF6QfQWJ6MDhaVmLHorxr7YzJcJe5pcXxFxBu6ATNsG",
     "3ar87fijrVnompCwXnm3H7Ks2nrHKsdsK1o96Hgbpump",
@@ -3489,6 +3524,7 @@
     "BFGCEf3XAmeSBjEwiYZgVM3Rq8Fe74vSNqSEj5tLYwf4",
     "99JjaCdqkebRLyKD1A1rLn6DAbjWuUznNHnykGZMPh6B",
     "4ek4WoLFzRKz18JsM23AG2kJvYKTMLf2cDu56F23gQXy",
-    "BGawBHhL13RvrvDPM9uLY63UKKVSBA5hFvG6DvRSFtB1"
+    "BGawBHhL13RvrvDPM9uLY63UKKVSBA5hFvG6DvRSFtB1",
+    "6tTjYkAnKLTE95vvyPAcfKQwwf5vEPY5FkMBR6zuSeH2"
   ]
 }
