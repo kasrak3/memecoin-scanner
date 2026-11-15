@@ -240,16 +240,6 @@
       "created_at": "2026-11-15T18:53:24.681238514Z",
       "first_seen": "2026-11-15T18:53:46.971850+00:00"
     },
-    "HsnRuBpm8T44ehANRvP1LdrHg9cWrzBn1gDvCirGhuSr": {
-      "symbol": "BFS",
-      "created_at": "2026-11-15T18:53:24.661017216Z",
-      "first_seen": "2026-11-15T18:53:46.971850+00:00",
-      "confirm": {
-        "liquidity": 15573,
-        "market_cap": 174971,
-        "at": "2026-11-15T19:13:05.090693+00:00"
-      }
-    },
     "4qpADTtdWj6SR7bYxAHzKbFh4GYaggRDonVPzSXWpump": {
       "symbol": "NOTDUMP",
       "created_at": "2026-11-15T18:53:24.427773347Z",
@@ -699,6 +689,56 @@
       "symbol": "HC",
       "created_at": "2026-11-15T19:12:41.014967143Z",
       "first_seen": "2026-11-15T19:13:05.090346+00:00"
+    },
+    "FjWZSAW4CuDXc5LG1w6RcY9qHv7ud4LJodQ4TE8Jpump": {
+      "symbol": "BACK",
+      "created_at": "2026-11-15T19:15:05.749406153Z",
+      "first_seen": "2026-11-15T19:15:18.259467+00:00"
+    },
+    "2HLcie5fCQWUctj77vg4sxqbp1TWCpYJL99kbdfApump": {
+      "symbol": "HC",
+      "created_at": "2026-11-15T19:15:05.156863021Z",
+      "first_seen": "2026-11-15T19:15:18.259467+00:00"
+    },
+    "27v59RsVSKamNn1A49t2vGV1ximRH2bn7Nz8rki2pump": {
+      "symbol": "JENSEN",
+      "created_at": "2026-11-15T19:15:00.835362852Z",
+      "first_seen": "2026-11-15T19:15:18.259467+00:00"
+    },
+    "CAj8aWHkJQYkc7ciKcdaQnsvznLSYuHoRx6kLFRYaWs2": {
+      "symbol": "OWP",
+      "created_at": "2026-11-15T19:14:59.895287654Z",
+      "first_seen": "2026-11-15T19:15:18.259467+00:00"
+    },
+    "65EfmYJAp2Ao1r1k4bH1nEU8CB1YAnXsvUGYF2j5pump": {
+      "symbol": "MEME",
+      "created_at": "2026-11-15T19:14:59.174389008Z",
+      "first_seen": "2026-11-15T19:15:18.259467+00:00"
+    },
+    "7pmGZLnuyk36KQ2uEuw4kGXqM6Wn2GXLxawNJPs9pump": {
+      "symbol": "Bananaut",
+      "created_at": "2026-11-15T19:14:58.6525042Z",
+      "first_seen": "2026-11-15T19:15:18.259467+00:00"
+    },
+    "AWyBzw3noyoVYuQYWAxruc5Csa7f9rcy7iJp5ZmTpump": {
+      "symbol": "$LA BEAST",
+      "created_at": "2026-11-15T19:14:57.733923377Z",
+      "first_seen": "2026-11-15T19:15:18.259467+00:00"
+    },
+    "77nHNS8CgqEuBs6wPkquyjtRxc4q1Z6yXz1Y8YRCpump": {
+      "symbol": "TIKA",
+      "created_at": "2026-11-15T19:14:53.327894678Z",
+      "first_seen": "2026-11-15T19:15:18.259467+00:00"
+    },
+    "HGuoB8GRqXdwHU3VZkpLFbageYspq2rRMFqV4UVoxEqR": {
+      "symbol": "GIFT",
+      "created_at": "2026-11-15T19:14:52.191439685Z",
+      "first_seen": "2026-11-15T19:15:18.259467+00:00"
+    },
+    "6GbXNkvagyC8KqWcxx1HontmrTozN2XbmswEHWGiVRig": {
+      "symbol": "RIG",
+      "created_at": "2026-11-15T19:14:49.697972914Z",
+      "first_seen": "2026-11-15T19:15:18.259467+00:00"
     }
   },
   "alerted": [
@@ -1291,7 +1331,8 @@
     "fF6re6hDUyeBWFoeJtMs3BNB2cdgQnkwxr7BGwCpump",
     "BtB54BEhTsx8syvWFUcMEe6vxASyL9zP7feXY5d1pump",
     "5ZJsK7rz5EdwmqQ72NaYdYxuui7WLPaDgyDQ5BF3mtQo",
-    "2Qd3Y66u21yLHLYPAYqGjPksC9qzoiqqFUmnd4R4pump"
+    "2Qd3Y66u21yLHLYPAYqGjPksC9qzoiqqFUmnd4R4pump",
+    "HsnRuBpm8T44ehANRvP1LdrHg9cWrzBn1gDvCirGhuSr"
   ],
   "rejected": [
     "q6379YK9gEVdzAQ71Y5iJiCzDC4AEHJVyQn391Hpump",
