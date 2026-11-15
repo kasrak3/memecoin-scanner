@@ -403,7 +403,12 @@
     "2Qd3Y66u21yLHLYPAYqGjPksC9qzoiqqFUmnd4R4pump": {
       "symbol": "JENSEN",
       "created_at": "2026-11-15T06:32:30.82833543Z",
-      "first_seen": "2026-11-15T06:32:36.118373+00:00"
+      "first_seen": "2026-11-15T06:32:36.118373+00:00",
+      "confirm": {
+        "liquidity": 12683.48,
+        "market_cap": 39054,
+        "at": "2026-11-15T06:51:48.662583+00:00"
+      }
     },
     "35cRnTwvxp2v3e1n6F1YZT7gHLv7nKGHp8eY8HLmpump": {
       "symbol": "FT",
@@ -804,6 +809,56 @@
       "symbol": "FORGE",
       "created_at": "2026-11-15T06:49:09.97528172Z",
       "first_seen": "2026-11-15T06:49:39.239874+00:00"
+    },
+    "3xSS1DG41fssVcSYELBGwC6GA5NgaSdxW5FUL2FdZThR": {
+      "symbol": "PROOF",
+      "created_at": "2026-11-15T06:51:39.708026608Z",
+      "first_seen": "2026-11-15T06:51:48.662248+00:00"
+    },
+    "4X9y5oMYqoqyMAjTpVbDAyy7SEapqukxME5C2SSgpump": {
+      "symbol": "OWEDDOG",
+      "created_at": "2026-11-15T06:51:35.939906662Z",
+      "first_seen": "2026-11-15T06:51:48.662248+00:00"
+    },
+    "Cf4ygrZ5zRfZwMx7q3fxQyGD6eX3Qjn53fYLEK5gKW6U": {
+      "symbol": "MPN",
+      "created_at": "2026-11-15T06:51:34.862114703Z",
+      "first_seen": "2026-11-15T06:51:48.662248+00:00"
+    },
+    "rtgWtaKhxMdFqiQFk3pVqGQqf1jcELvhCC1y4iDpump": {
+      "symbol": "EASY",
+      "created_at": "2026-11-15T06:51:34.490729968Z",
+      "first_seen": "2026-11-15T06:51:48.662248+00:00"
+    },
+    "7YDiT1pxbazfzx6rkaUSSMEptJEwcWV2G8x9puSxpump": {
+      "symbol": "VIBESTACK",
+      "created_at": "2026-11-15T06:51:34.239778897Z",
+      "first_seen": "2026-11-15T06:51:48.662248+00:00"
+    },
+    "56ndjh7CBNigUdMhvX9qhoKkFZtc9EsJvsvJZY1Upump": {
+      "symbol": "FERSPE",
+      "created_at": "2026-11-15T06:51:33.219332598Z",
+      "first_seen": "2026-11-15T06:51:48.662248+00:00"
+    },
+    "86NfgFdEeRaCRa5DjtpALmYgSydmXNADYC4GybHipump": {
+      "symbol": "LCN",
+      "created_at": "2026-11-15T06:51:32.862972453Z",
+      "first_seen": "2026-11-15T06:51:48.662248+00:00"
+    },
+    "FYH5hRYDk14JJ8JMSdDxt3W4H7vMH69tJsuPNPpBpump": {
+      "symbol": "Duck",
+      "created_at": "2026-11-15T06:51:26.003561159Z",
+      "first_seen": "2026-11-15T06:51:48.662248+00:00"
+    },
+    "2Cvhi2uZMPbSeRFo6VvZbiXVayyk2kuGwKmJ2Tj8pump": {
+      "symbol": "HOGE",
+      "created_at": "2026-11-15T06:51:25.87255713Z",
+      "first_seen": "2026-11-15T06:51:48.662248+00:00"
+    },
+    "8nEYzUgUWF1EK426mpcpB7QKnoYovR5Vp4DrAXHLpump": {
+      "symbol": "GCOIN",
+      "created_at": "2026-11-15T06:51:21.176332699Z",
+      "first_seen": "2026-11-15T06:51:48.662248+00:00"
     }
   },
   "alerted": [
