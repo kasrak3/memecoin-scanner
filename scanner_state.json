@@ -1300,16 +1300,6 @@
       "created_at": "2026-11-16T22:52:03.281109113Z",
       "first_seen": "2026-11-16T22:52:08.949688+00:00"
     },
-    "GJGzdbGxu96JqJ87KfJkNQhP7hN4thGRptcytrKsYAYg": {
-      "symbol": "\ud83c\udf92",
-      "created_at": "2026-11-16T22:52:02.749283971Z",
-      "first_seen": "2026-11-16T22:52:08.949688+00:00",
-      "confirm": {
-        "liquidity": 8400.54,
-        "market_cap": 180413,
-        "at": "2026-11-16T23:06:23.219976+00:00"
-      }
-    },
     "7bZb9JR1jDLqMg3jmxqyLkyyeni9K6dAetJeJcXJpump": {
       "symbol": "mayhem",
       "created_at": "2026-11-16T22:54:26.648163359Z",
@@ -1609,6 +1599,56 @@
       "symbol": "RIGFLO",
       "created_at": "2026-11-16T23:06:10.070834688Z",
       "first_seen": "2026-11-16T23:06:23.219731+00:00"
+    },
+    "47HH96WyUZgoMGMcSp9e2zbEXhA86bbf1BbJRi2opump": {
+      "symbol": "BOB",
+      "created_at": "2026-11-16T23:08:42.182560544Z",
+      "first_seen": "2026-11-16T23:08:49.392807+00:00"
+    },
+    "HXjKtiYm5RcMEdSphn9ATMnz5jFj2BofbV6ztF1Upump": {
+      "symbol": "CLAVICULAR",
+      "created_at": "2026-11-16T23:08:41.700054188Z",
+      "first_seen": "2026-11-16T23:08:49.392807+00:00"
+    },
+    "9B9xj4PFrHJi7fwHb5LnaXacfKukZe9ZkHzeSydnpump": {
+      "symbol": "IHIHIHIH",
+      "created_at": "2026-11-16T23:08:41.402650777Z",
+      "first_seen": "2026-11-16T23:08:49.392807+00:00"
+    },
+    "4BLAzCEdHazVPHFQiUA5XyEkXnam8CqE4z9Z8o67pump": {
+      "symbol": "kittylick",
+      "created_at": "2026-11-16T23:08:41.33694686Z",
+      "first_seen": "2026-11-16T23:08:49.392807+00:00"
+    },
+    "YHT7jyqD5e643QyJNNMVjsgARjiDugZ6mGWsbR9capx": {
+      "symbol": "HUMSHEET",
+      "created_at": "2026-11-16T23:08:40.559789882Z",
+      "first_seen": "2026-11-16T23:08:49.392807+00:00"
+    },
+    "72ZsY7RDnpfDuACfwfgYEF5Q3zVb9FBcs21vsPBDpump": {
+      "symbol": "CSI",
+      "created_at": "2026-11-16T23:08:38.734601273Z",
+      "first_seen": "2026-11-16T23:08:49.392807+00:00"
+    },
+    "9Jam96Qz75AiWr9sYpLUqgMDCcxZjhNAeuAGBaRxpump": {
+      "symbol": "CE",
+      "created_at": "2026-11-16T23:08:36.979122554Z",
+      "first_seen": "2026-11-16T23:08:49.392807+00:00"
+    },
+    "5RLTRDj2pRjx2HDJRNo4WGU3XEtrdNcHtz37mCYNpump": {
+      "symbol": "Lone",
+      "created_at": "2026-11-16T23:08:34.392220332Z",
+      "first_seen": "2026-11-16T23:08:49.392807+00:00"
+    },
+    "ASaXFqRHUa5Z3CbZ6tJdTMuTG4DJbx9dCymC6Tdepump": {
+      "symbol": "HABIBO",
+      "created_at": "2026-11-16T23:08:32.548697195Z",
+      "first_seen": "2026-11-16T23:08:49.392807+00:00"
+    },
+    "EfDLX8Fb5GAudXGkUbBkTSUZTsx48t223kKMMmEnpump": {
+      "symbol": "Slop",
+      "created_at": "2026-11-16T23:08:31.632029573Z",
+      "first_seen": "2026-11-16T23:08:49.392807+00:00"
     }
   },
   "alerted": [
@@ -2209,7 +2249,6 @@
     "Cza8qQwR659D6j9rHdxJvHmuwEJg81QZGMCQz43Kpump"
   ],
   "rejected": [
-    "2e9MeYZRy5NMoGdmAGHzetMijVi8Sm1JrjXeGyEepump",
     "Gh2fpS3tR1ZHi7CPYRGgKDUJDLGMt64y5sRzPBxxxFvn",
     "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump",
     "3GfHysPhHJcQZ4rvYfHdHGDwnb5voZSQMyaMBi7wN2ZZ",
@@ -4208,6 +4247,7 @@
     "F2NRd35sL12aSFJUxyLmmu4nyRWDBKa4eTabnjSx6iej",
     "21unhWFhNXu1cbYYWRByVQYJpEEvMF98TGUwgJimxbPN",
     "3BqyBCQ4V5VCQ1F9ofoEgr3na46YFKvQdk5zoDn2Ptku",
-    "DpxMwGRzozmjGzrxeiotgY4YFvBA9SZWjrMkbPVdZ4fo"
+    "DpxMwGRzozmjGzrxeiotgY4YFvBA9SZWjrMkbPVdZ4fo",
+    "GJGzdbGxu96JqJ87KfJkNQhP7hN4thGRptcytrKsYAYg"
   ]
 }
