@@ -1470,16 +1470,6 @@
       "created_at": "2026-11-17T21:56:41.329294904Z",
       "first_seen": "2026-11-17T21:56:56.943143+00:00"
     },
-    "EXjWDotqEwcE4XHwFQqCjwjyz83Hd1FWdk2aEY66pump": {
-      "symbol": "GTAVI",
-      "created_at": "2026-11-17T21:56:40.191576858Z",
-      "first_seen": "2026-11-17T21:56:56.943143+00:00",
-      "confirm": {
-        "liquidity": 14486.58,
-        "market_cap": 47437,
-        "at": "2026-11-17T22:07:51.490579+00:00"
-      }
-    },
     "CWFKfWn4AbMRiNZkNRehCqAe2urBKz5ADJkKydzPpump": {
       "symbol": "dogbaton",
       "created_at": "2026-11-17T21:59:33.656915212Z",
@@ -1679,6 +1669,56 @@
       "symbol": "trench",
       "created_at": "2026-11-17T22:07:41.246526544Z",
       "first_seen": "2026-11-17T22:07:51.490326+00:00"
+    },
+    "9N7R2SZo1r661frSM5ixZwbwCo7DABg5nTqdEdFhpump": {
+      "symbol": "33",
+      "created_at": "2026-11-17T22:10:25.62715295Z",
+      "first_seen": "2026-11-17T22:10:38.339263+00:00"
+    },
+    "BVrPTvUvYGjZfvPiav8bGCfFJZLBCE9Pq3Peu6ZSpump": {
+      "symbol": "$ZEROIQ",
+      "created_at": "2026-11-17T22:10:23.710837198Z",
+      "first_seen": "2026-11-17T22:10:38.339263+00:00"
+    },
+    "6JotEr268hV8TXjLJBeZDk7RQugM6jWifq1G3jP9pump": {
+      "symbol": "SERAPE",
+      "created_at": "2026-11-17T22:10:23.032281847Z",
+      "first_seen": "2026-11-17T22:10:38.339263+00:00"
+    },
+    "JBfTbaMRSM49HyzJ5aFMaogNiTipAPNSo9rcxvQ3pump": {
+      "symbol": "LaMisery",
+      "created_at": "2026-11-17T22:10:22.013732911Z",
+      "first_seen": "2026-11-17T22:10:38.339263+00:00"
+    },
+    "CLAnw4FA1Ei6wHn4W9x276Yici23KqMvsQJyjypopump": {
+      "symbol": "chair",
+      "created_at": "2026-11-17T22:10:21.622600549Z",
+      "first_seen": "2026-11-17T22:10:38.339263+00:00"
+    },
+    "BTFAoTB1ceecoiZ1MHMnTfvQu9LEJ4rGpdT9HRKGpump": {
+      "symbol": "NVIDIANINUS",
+      "created_at": "2026-11-17T22:10:20.913623085Z",
+      "first_seen": "2026-11-17T22:10:38.339263+00:00"
+    },
+    "1Pi6kdLYhiiNGbcudH1p1xKVWqi2iWnCuLnnbAz7egq": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-11-17T22:10:19.577692124Z",
+      "first_seen": "2026-11-17T22:10:38.339263+00:00"
+    },
+    "Hh1XN6i39ThbBE8sNuqsnuHUh8JexUMfWcAg7h1ppump": {
+      "symbol": "X1N1",
+      "created_at": "2026-11-17T22:10:18.130758131Z",
+      "first_seen": "2026-11-17T22:10:38.339263+00:00"
+    },
+    "qJ1ziC53hz1nt24TteX2uG7JjXb3dyVeJeriER9pump": {
+      "symbol": "Hope",
+      "created_at": "2026-11-17T22:10:13.789529681Z",
+      "first_seen": "2026-11-17T22:10:38.339263+00:00"
+    },
+    "Dbu7gNYMDioB2Cv7bcekKqjyifB3STizA9DfJPwHpump": {
+      "symbol": "Download",
+      "created_at": "2026-11-17T22:10:13.786837667Z",
+      "first_seen": "2026-11-17T22:10:38.339263+00:00"
     }
   },
   "alerted": [
@@ -2281,7 +2321,6 @@
     "J6FZKLuYPuko9tSjTM4TYZBiEfsYSrqzGStbwFuWpump"
   ],
   "rejected": [
-    "55CVHCXoUDWN6xPTVwfxJD7ceoPwXJwBj1LpfUJJ8RcC",
     "G8cmMTbu8UKKwH5eK7XXcnqqYBbNvgmddeDUHdtZpump",
     "AbPnCPPDezxH5iDdu5UoJKPwKttvecj8ajEezipmpu1H",
     "GzTMeuTn4FuoTZZfKPxXsAo63hHfB5fmDwyLYrmL2yqD",
@@ -4280,6 +4319,7 @@
     "ATiivdP5MhCd1XY4DXYhgPpqmwYG38zfP69zQCnkPEQM",
     "9oZy3TtZnRN6YJpq3GprWyQqPJk58qZH8uiJSJ6bCkJJ",
     "665qMSz9btqyk5cU3WgBmhKD44t6xpPznrtHmQW5maod",
-    "9TTHhrcMrARsiSYGvkNqzALRiqgz2KVAbVUk3bKiFHaw"
+    "9TTHhrcMrARsiSYGvkNqzALRiqgz2KVAbVUk3bKiFHaw",
+    "EXjWDotqEwcE4XHwFQqCjwjyz83Hd1FWdk2aEY66pump"
   ]
 }
