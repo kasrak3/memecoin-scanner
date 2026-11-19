@@ -1198,7 +1198,12 @@
     "3hcJWcNvWJu3QBq6PiC8xavYQJJwBnr6adhdpHXppump": {
       "symbol": "FIONA",
       "created_at": "2026-11-19T21:19:24.920768397Z",
-      "first_seen": "2026-11-19T21:19:44.578114+00:00"
+      "first_seen": "2026-11-19T21:19:44.578114+00:00",
+      "confirm": {
+        "liquidity": 5714.6,
+        "market_cap": 8445,
+        "at": "2026-11-19T21:31:43.327317+00:00"
+      }
     },
     "DiLWLoHpZoakZMaDhaJegutfep92g22jF3VVft96pump": {
       "symbol": "BRR",
@@ -1399,6 +1404,56 @@
       "symbol": "FLOAT",
       "created_at": "2026-11-19T21:28:58.670618297Z",
       "first_seen": "2026-11-19T21:29:16.198499+00:00"
+    },
+    "23LcvvJa4zTncNavkEkurVbxPBRec1HiPgkBoP2Ppump": {
+      "symbol": "JGTA",
+      "created_at": "2026-11-19T21:31:40.218870337Z",
+      "first_seen": "2026-11-19T21:31:43.325865+00:00"
+    },
+    "7vcmh1TA5gv4jTN9xo6pMAnW4JiSHKjZAnAiaSWKpump": {
+      "symbol": "$MFRG",
+      "created_at": "2026-11-19T21:31:40.149588309Z",
+      "first_seen": "2026-11-19T21:31:43.325865+00:00"
+    },
+    "DXXWssaHEgctG5w8rjYfSoaJjnJZosSSW4stbeynnaYN": {
+      "symbol": "JORK",
+      "created_at": "2026-11-19T21:31:36.976756607Z",
+      "first_seen": "2026-11-19T21:31:43.325865+00:00"
+    },
+    "8Xr76H8Cayxy2pReg9QbsY86AuQsmb2L4gxWyUfGpump": {
+      "symbol": "FIONA",
+      "created_at": "2026-11-19T21:31:34.680612953Z",
+      "first_seen": "2026-11-19T21:31:43.325865+00:00"
+    },
+    "FbXQ9E1JfQ4itJDeQWxvtzxGnLmV3uEawWYYhA1Rpump": {
+      "symbol": "HTR",
+      "created_at": "2026-11-19T21:31:28.563522006Z",
+      "first_seen": "2026-11-19T21:31:43.325865+00:00"
+    },
+    "49wE3JAWd7B1Fu2ozX655Nv3QwUJt9PM7joWES2hAP2y": {
+      "symbol": "",
+      "created_at": "2026-11-19T21:31:28.2059625Z",
+      "first_seen": "2026-11-19T21:31:43.325865+00:00"
+    },
+    "HrqkoEvSwMv6Dof41Dek7As6WHzfxd2iTtBwJbm4pump": {
+      "symbol": "SDFDSF",
+      "created_at": "2026-11-19T21:31:27.554162472Z",
+      "first_seen": "2026-11-19T21:31:43.325865+00:00"
+    },
+    "9A31EXU8FX9mgfKvTRmo7YBr7mFPom4ktyhfdPXR9yVQ": {
+      "symbol": "DCTY",
+      "created_at": "2026-11-19T21:31:27.346408435Z",
+      "first_seen": "2026-11-19T21:31:43.325865+00:00"
+    },
+    "6XuqvW6H9B58PXoMSvwUphsUzjvxVyEBpWQsi8s3wUxS": {
+      "symbol": "MPN",
+      "created_at": "2026-11-19T21:31:25.905528717Z",
+      "first_seen": "2026-11-19T21:31:43.325865+00:00"
+    },
+    "mXcP1bqxM8Tx6BQuFwTHqzE3m7JVMZspmxZ7pjQpump": {
+      "symbol": "BUNCOIN",
+      "created_at": "2026-11-19T21:31:23.488543641Z",
+      "first_seen": "2026-11-19T21:31:43.325865+00:00"
     }
   },
   "alerted": [
