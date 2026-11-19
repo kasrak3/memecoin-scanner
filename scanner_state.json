@@ -798,7 +798,12 @@
     "7MRfQrUMxRrj1Gr2RLLHhfC99J4v9KZJp87vEHKspump": {
       "symbol": "Microsoft",
       "created_at": "2026-11-19T21:01:14.471975554Z",
-      "first_seen": "2026-11-19T21:01:31.806493+00:00"
+      "first_seen": "2026-11-19T21:01:31.806493+00:00",
+      "confirm": {
+        "liquidity": 10501.06,
+        "market_cap": 26999,
+        "at": "2026-11-19T21:15:05.192370+00:00"
+      }
     },
     "AJoXwjP4chkyn9DCcKjR9qKFAw2TFyQECmnJPq7pump": {
       "symbol": "FIONA",
@@ -1059,6 +1064,56 @@
       "symbol": "ANTHROPIC",
       "created_at": "2026-11-19T21:12:28.542195934Z",
       "first_seen": "2026-11-19T21:12:47.522968+00:00"
+    },
+    "G1ddyQ4zzTk8sq6WAyApbTPNZCp7dnrkadtQzNjLpump": {
+      "symbol": "HOT",
+      "created_at": "2026-11-19T21:14:58.762768195Z",
+      "first_seen": "2026-11-19T21:15:05.191977+00:00"
+    },
+    "EExzB9rQBLMc834HaHvTg1TJiHvaqe8LuJdqrZKRpump": {
+      "symbol": "DOGE PAID",
+      "created_at": "2026-11-19T21:14:58.621725609Z",
+      "first_seen": "2026-11-19T21:15:05.191977+00:00"
+    },
+    "BQW2rBt7MuL3j3h1mxxsfrRes2FKZpudtnPsb7ebpump": {
+      "symbol": "$GOD",
+      "created_at": "2026-11-19T21:14:56.268671765Z",
+      "first_seen": "2026-11-19T21:15:05.191977+00:00"
+    },
+    "6Dm3CjyNuymMHRXTA7QbRe3g7d1k3cgwLbn3Rtvgpump": {
+      "symbol": "DTCY INU",
+      "created_at": "2026-11-19T21:14:54.192563664Z",
+      "first_seen": "2026-11-19T21:15:05.191977+00:00"
+    },
+    "JRKrhJhzkc4VDKqNsj1PQXJLxxdqs59daAR92pipump": {
+      "symbol": "DRG",
+      "created_at": "2026-11-19T21:14:52.864481139Z",
+      "first_seen": "2026-11-19T21:15:05.191977+00:00"
+    },
+    "F5jddec2fK4gfhEQBjGBHwXXdNkh6fqF2zTBfrXPyiiu": {
+      "symbol": "GTA",
+      "created_at": "2026-11-19T21:14:52.492650156Z",
+      "first_seen": "2026-11-19T21:15:05.191977+00:00"
+    },
+    "7Sfw4NGPxdXVEMjMrAKH8uJLyssy7ZPnV9XEGnM6pump": {
+      "symbol": "DC",
+      "created_at": "2026-11-19T21:14:51.032766409Z",
+      "first_seen": "2026-11-19T21:15:05.191977+00:00"
+    },
+    "5XHBhDohLQLrQpMt5PXRKvDzStwDV2s8WW177pnmpump": {
+      "symbol": "DOOROC",
+      "created_at": "2026-11-19T21:14:50.909958275Z",
+      "first_seen": "2026-11-19T21:15:05.191977+00:00"
+    },
+    "BVt3E9bpMUsPM56yWiQsqoqLwiuCEEoQnUG4iYnEEMiB": {
+      "symbol": "",
+      "created_at": "2026-11-19T21:14:48.335427611Z",
+      "first_seen": "2026-11-19T21:15:05.191977+00:00"
+    },
+    "9GEcZ8deTBFmjWEGUVnrHQyYjTzLF3M5t1vrvowApump": {
+      "symbol": "RDCTY",
+      "created_at": "2026-11-19T21:14:47.789034134Z",
+      "first_seen": "2026-11-19T21:15:05.191977+00:00"
     }
   },
   "alerted": [
