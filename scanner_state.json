@@ -1365,16 +1365,6 @@
       "created_at": "2026-11-19T21:29:01.314741181Z",
       "first_seen": "2026-11-19T21:29:16.198499+00:00"
     },
-    "F2WDARive6KV3NWkmptudRDMGBs429LeRCU1DiLipump": {
-      "symbol": "\\nu",
-      "created_at": "2026-11-19T21:28:58.833136606Z",
-      "first_seen": "2026-11-19T21:29:16.198499+00:00",
-      "confirm": {
-        "liquidity": 17870.6,
-        "market_cap": 68563,
-        "at": "2026-11-19T21:39:14.899833+00:00"
-      }
-    },
     "FSXTJtAHbrHFxNtbZTu94AHZj6xQeX2fnpP1B4Wvpump": {
       "symbol": "FLOAT",
       "created_at": "2026-11-19T21:28:58.694576414Z",
@@ -1584,6 +1574,56 @@
       "symbol": "INCOME",
       "created_at": "2026-11-19T21:39:03.995248164Z",
       "first_seen": "2026-11-19T21:39:14.899249+00:00"
+    },
+    "HjNSZkbv5ubqL58wqUgTmrzaepQEcUo1sNC9XxrMpump": {
+      "symbol": "JBLC$",
+      "created_at": "2026-11-19T21:41:34.271580945Z",
+      "first_seen": "2026-11-19T21:41:43.472111+00:00"
+    },
+    "DXTZGXaU8kq4FshupVeudQ5VpJ7nL2s9TXhTp8kbpump": {
+      "symbol": "SHOES",
+      "created_at": "2026-11-19T21:41:34.055872261Z",
+      "first_seen": "2026-11-19T21:41:43.472111+00:00"
+    },
+    "8zWh3jVfafwYVoM5e68zT5jhdZ2j2nhRFsEy8VXepump": {
+      "symbol": "FIONA",
+      "created_at": "2026-11-19T21:41:33.059795256Z",
+      "first_seen": "2026-11-19T21:41:43.472111+00:00"
+    },
+    "AnKMpZWxLxqfRRFdHQxrhxR3ppP456mNFvEaPmSGpump": {
+      "symbol": "Loosycoin",
+      "created_at": "2026-11-19T21:41:30.024033684Z",
+      "first_seen": "2026-11-19T21:41:43.472111+00:00"
+    },
+    "9VVTsKvQddKoDsLQ2zoVP7a9vqrZtEZeDapfPfTJpump": {
+      "symbol": "RIP Fiona",
+      "created_at": "2026-11-19T21:41:28.64288036Z",
+      "first_seen": "2026-11-19T21:41:43.472111+00:00"
+    },
+    "ChUUXUG4xeY76NsBesg2hwzYKsrF9szpCu6A5mLArx2P": {
+      "symbol": "DIAM",
+      "created_at": "2026-11-19T21:41:28.637802117Z",
+      "first_seen": "2026-11-19T21:41:43.472111+00:00"
+    },
+    "AM9xmTMD9jgwqLnVKvnX2veH7Qi4KLnrTbUXPAhipump": {
+      "symbol": "FSDFDS",
+      "created_at": "2026-11-19T21:41:27.316221826Z",
+      "first_seen": "2026-11-19T21:41:43.472111+00:00"
+    },
+    "ELwBoC7Pz72iszo7zBYtdnJGg1ykSDqiCQ2a67d5pump": {
+      "symbol": "LUCIAA",
+      "created_at": "2026-11-19T21:41:26.170287901Z",
+      "first_seen": "2026-11-19T21:41:43.472111+00:00"
+    },
+    "4QhyLRcNChagX3qQju2zyMXEjtzMzpvdrymmgNx5pump": {
+      "symbol": "CuddleFish",
+      "created_at": "2026-11-19T21:41:25.93137212Z",
+      "first_seen": "2026-11-19T21:41:43.472111+00:00"
+    },
+    "3d1qu9fxsLqEWZdx9FNtZHVwPtppMRGYdByNRgSfpump": {
+      "symbol": "Harambe",
+      "created_at": "2026-11-19T21:41:24.238193969Z",
+      "first_seen": "2026-11-19T21:41:43.472111+00:00"
     }
   },
   "alerted": [
@@ -2193,7 +2233,8 @@
     "3B8dDCj4MeTgaK5NFWRvnydRMTSaDRtBErgMGoNMpump",
     "DeXXt9HopHa28msm4iATCvrQBer1FScmkpnt73Dgpump",
     "7MRfQrUMxRrj1Gr2RLLHhfC99J4v9KZJp87vEHKspump",
-    "3hcJWcNvWJu3QBq6PiC8xavYQJJwBnr6adhdpHXppump"
+    "3hcJWcNvWJu3QBq6PiC8xavYQJJwBnr6adhdpHXppump",
+    "F2WDARive6KV3NWkmptudRDMGBs429LeRCU1DiLipump"
   ],
   "rejected": [
     "75ff1RJhfTeufwD3b6uE28X4yK1rBpmGcVwT1N24pump",
