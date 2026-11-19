@@ -415,11 +415,6 @@
       "created_at": "2026-11-19T20:44:07.379208056Z",
       "first_seen": "2026-11-19T20:44:20.502887+00:00"
     },
-    "5EXhYYEHsExKspUSUjfScGKiLiG4iLbSVGK2uxYrtBfe": {
-      "symbol": "A\\",
-      "created_at": "2026-11-19T20:44:06.521315878Z",
-      "first_seen": "2026-11-19T20:44:20.502887+00:00"
-    },
     "CpVg6YPSE8kmiGq84dmmKdPuvKMhSPMe5QKZgZXEpump": {
       "symbol": "AICoin",
       "created_at": "2026-11-19T20:44:05.440127252Z",
@@ -624,6 +619,56 @@
       "symbol": "BTC-UP",
       "created_at": "2026-11-19T20:52:24.418761699Z",
       "first_seen": "2026-11-19T20:52:49.138239+00:00"
+    },
+    "8vra586D8KyuASnhx7jLq4z8Z6zpSgWMuGgASotRKQG9": {
+      "symbol": "COLLECTOR",
+      "created_at": "2026-11-19T20:54:50.795414896Z",
+      "first_seen": "2026-11-19T20:54:57.853007+00:00"
+    },
+    "8fEZvsJgVQsDCJXyEPSPnLZCnaU1JEwWgcRmseRYpump": {
+      "symbol": "DIC",
+      "created_at": "2026-11-19T20:54:50.47574939Z",
+      "first_seen": "2026-11-19T20:54:57.853007+00:00"
+    },
+    "3LL5ipCTveF8my6qjeGpAnz6nyBLDXKGQ7z1FSrtqXt8": {
+      "symbol": "",
+      "created_at": "2026-11-19T20:54:50.412096979Z",
+      "first_seen": "2026-11-19T20:54:57.853007+00:00"
+    },
+    "3aZ1sufcvKduhC7xuiuopHcfrvauNkUMU45KbmeE4adv": {
+      "symbol": "COLLECTOR",
+      "created_at": "2026-11-19T20:54:50.261707651Z",
+      "first_seen": "2026-11-19T20:54:57.853007+00:00"
+    },
+    "6BWttJmFT1MBDdCRcK3WjYTXhBXpadpzKv7MKyKC6yv2": {
+      "symbol": "",
+      "created_at": "2026-11-19T20:54:50.241115322Z",
+      "first_seen": "2026-11-19T20:54:57.853007+00:00"
+    },
+    "D1BKGbqxANTz4aeW5JpUdG7r7BBVSCJD6Vhc6aC1Ss1L": {
+      "symbol": "",
+      "created_at": "2026-11-19T20:54:50.238618881Z",
+      "first_seen": "2026-11-19T20:54:57.853007+00:00"
+    },
+    "3bKW5BEsgjRx3J9yNVWnhU9sM89v1ZfhckPaEu5x6RER": {
+      "symbol": "",
+      "created_at": "2026-11-19T20:54:50.237979481Z",
+      "first_seen": "2026-11-19T20:54:57.853007+00:00"
+    },
+    "64Rvp5bTRzbvwpaiGJhP3439gKR5qxQftFtg8hE33DN1": {
+      "symbol": "",
+      "created_at": "2026-11-19T20:54:50.236201017Z",
+      "first_seen": "2026-11-19T20:54:57.853007+00:00"
+    },
+    "5rXike7bGM2yoGkqynBB31tPq8gGmfdidax7ogaXhztZ": {
+      "symbol": "COLLECTOR",
+      "created_at": "2026-11-19T20:54:50.235627377Z",
+      "first_seen": "2026-11-19T20:54:57.853007+00:00"
+    },
+    "5eZNxGEduDweMBnsr4xugM1LrWnKU1Q3fct2RuBRcQ7x": {
+      "symbol": "",
+      "created_at": "2026-11-19T20:54:50.234842752Z",
+      "first_seen": "2026-11-19T20:54:57.853007+00:00"
     }
   },
   "alerted": [
@@ -1234,7 +1279,6 @@
     "DeXXt9HopHa28msm4iATCvrQBer1FScmkpnt73Dgpump"
   ],
   "rejected": [
-    "4BJVPW648gHp8bx7rxd5dvioi61rgiiNKGgup6V3jsKh",
     "xfezNhcbLJDWNbFSN7XkPcZUv1UEeTziKkVrDLJn5yn",
     "2GEnh28Tz91ymBC6RpRRYgVEZ9m1K8duDv3ipb8ypump",
     "CNmf3frdvqkSa1VtQgF64wS6pc774YvPKQHFRY9YowoU",
@@ -3233,6 +3277,7 @@
     "8Zh1bVkCi25XMZsvCphdK6bGMivhq4gjTenuwKnZEt8a",
     "4CFXC7Jjc1RP4dgCMmYe9nGK5BLUouZHMVy27jNHNeQo",
     "JCPndakZNi3CC5EQfafX7kJDrevbhFdyqRYMarAwhyd5",
-    "CqATSeCZUEhgvuBgBAuU7wTcdc87AVQvax5jww5253b"
+    "CqATSeCZUEhgvuBgBAuU7wTcdc87AVQvax5jww5253b",
+    "5EXhYYEHsExKspUSUjfScGKiLiG4iLbSVGK2uxYrtBfe"
   ]
 }
