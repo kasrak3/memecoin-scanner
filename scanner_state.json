@@ -10,11 +10,6 @@
       "created_at": "2026-11-20T07:01:36.057981771Z",
       "first_seen": "2026-11-20T07:01:39.873045+00:00"
     },
-    "5aYvHmWMRWZWp1RwuqXaDFkdoVuyix15kFEY6uKbA2BQ": {
-      "symbol": "INSIDER",
-      "created_at": "2026-11-20T07:01:32.898108256Z",
-      "first_seen": "2026-11-20T07:01:39.873045+00:00"
-    },
     "3J4zf7wRDmPTVUqECxHmCm7MBFyBsVrjfExuiXfJpump": {
       "symbol": "TURKEY",
       "created_at": "2026-11-20T07:01:29.334274418Z",
@@ -249,6 +244,56 @@
       "symbol": "",
       "created_at": "2026-11-20T07:09:13.159783688Z",
       "first_seen": "2026-11-20T07:09:47.360906+00:00"
+    },
+    "Cq2AawefLUNdRfvBsjn1mcVL7KEkAuHF8dzkHyFEYrmt": {
+      "symbol": "XMR1",
+      "created_at": "2026-11-20T07:11:40.014344494Z",
+      "first_seen": "2026-11-20T07:11:49.338021+00:00"
+    },
+    "AQtoJgoAwRQJQJq7UVnuM2CumjJNVSHY4NzAGwrTpump": {
+      "symbol": "att",
+      "created_at": "2026-11-20T07:11:39.796073635Z",
+      "first_seen": "2026-11-20T07:11:49.338021+00:00"
+    },
+    "56dQoSuVMK1A26TEtgVd8vBkF5bh4vkNoheHP14cpump": {
+      "symbol": "$SLJK",
+      "created_at": "2026-11-20T07:11:37.196174937Z",
+      "first_seen": "2026-11-20T07:11:49.338021+00:00"
+    },
+    "4R71yxiNyicxN7A3P9eUy7znpxu3MzFud1zPGq2kiPZQ": {
+      "symbol": "MPN",
+      "created_at": "2026-11-20T07:11:36.99938909Z",
+      "first_seen": "2026-11-20T07:11:49.338021+00:00"
+    },
+    "4YMX5g9Pk8cW3DtRBwqwqySKUyQDnHTXVYN5mirepump": {
+      "symbol": "$REXTON",
+      "created_at": "2026-11-20T07:11:34.693422192Z",
+      "first_seen": "2026-11-20T07:11:49.338021+00:00"
+    },
+    "EJvVBXsFd4uunfZ9gE4znJKswPGDTNTgN6yaRowEpump": {
+      "symbol": "Mind",
+      "created_at": "2026-11-20T07:11:30.494592563Z",
+      "first_seen": "2026-11-20T07:11:49.338021+00:00"
+    },
+    "C8gGbg6LcFE2PMUaatpS379PYmT5bttkGnwdHSznpump": {
+      "symbol": "ANT",
+      "created_at": "2026-11-20T07:11:28.630759926Z",
+      "first_seen": "2026-11-20T07:11:49.338021+00:00"
+    },
+    "5WuoWDfPqukzmzN9hPgxKqNWpppZFfStuL9chWofBeth": {
+      "symbol": "Intel AI",
+      "created_at": "2026-11-20T07:11:21.718381658Z",
+      "first_seen": "2026-11-20T07:11:49.338021+00:00"
+    },
+    "CERiYZtCE2Xp1vXEpMR4zN1N8iSWT4sGxWwQu39Npump": {
+      "symbol": "VIPIXEL",
+      "created_at": "2026-11-20T07:11:20.733482525Z",
+      "first_seen": "2026-11-20T07:11:49.338021+00:00"
+    },
+    "E5wyRoLKNuP4UmtzCnQj4uhcXP5L5ozLeieDEeDYEGsa": {
+      "symbol": "RCL",
+      "created_at": "2026-11-20T07:11:19.100667315Z",
+      "first_seen": "2026-11-20T07:11:49.338021+00:00"
     }
   },
   "alerted": [
@@ -864,7 +909,6 @@
     "7ZPqP4zrfHQWP4e89ATMbefKRbpuQwit34WbkbMVpump"
   ],
   "rejected": [
-    "B4oeYqpthKcB3B4yKC7yXGjX5XrL1mENNprYejVBVYUc",
     "63xBmVauGKdaEJozUsh7vH4B4VPWesKTjWWCb5jc8bQa",
     "Gq7aP9bd4uQuHmi6WSDwazQkG5UJiK4j3u5K7bEaTt74",
     "EvqDsqDnbvCv3kGuDDfHw8uqVd2WUnFDY3tXAr4pRgAw",
@@ -2863,6 +2907,7 @@
     "5oUiU4J7j8YSnWqXafxpv7eqWodsoxrM9XEcXfCDoEyw",
     "6gbjBQT54PZLXjNvta2DH527XKnXgkdRMY1Rbwxfpump",
     "A71NMMiUc9Mmg6R429vL75uTuEFAhaWR5Fgb8mHXrgav",
-    "C6Mnf1ibNJxAAoBP9h5Tbc3Zhj6jCeQT6kMLb7n8QCRq"
+    "C6Mnf1ibNJxAAoBP9h5Tbc3Zhj6jCeQT6kMLb7n8QCRq",
+    "5aYvHmWMRWZWp1RwuqXaDFkdoVuyix15kFEY6uKbA2BQ"
   ]
 }
