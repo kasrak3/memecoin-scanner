@@ -1195,11 +1195,6 @@
       "created_at": "2026-11-20T07:59:07.265050273Z",
       "first_seen": "2026-11-20T07:59:13.982549+00:00"
     },
-    "CSWoeh7gn9g2nCRjdkdHwXYPHekkC7FDehor5fMU9Y6f": {
-      "symbol": "ANT",
-      "created_at": "2026-11-20T07:59:05.708167521Z",
-      "first_seen": "2026-11-20T07:59:13.982549+00:00"
-    },
     "2xivKQGJc7hxHh9SxE7oWhZFe7bqhJ3quLWQmxW7XHFe": {
       "symbol": "PIPI",
       "created_at": "2026-11-20T07:59:05.080190673Z",
@@ -1208,11 +1203,6 @@
     "4CPLg3yfTdEYXvAamTEVvxyewSyf9prV1MC4QsUVnpBr": {
       "symbol": "NEKOMARIO",
       "created_at": "2026-11-20T07:59:04.780743312Z",
-      "first_seen": "2026-11-20T07:59:13.982549+00:00"
-    },
-    "BgMEqH8VGudTVHntJ87tahxmL22RVdE5nZmDTwqWtcK": {
-      "symbol": "FIONA",
-      "created_at": "2026-11-20T07:59:04.44650409Z",
       "first_seen": "2026-11-20T07:59:13.982549+00:00"
     },
     "EaPpWzE6G43PPoTWSHHA7MH3H5qLNqrk9uagpuyvpump": {
@@ -1389,6 +1379,56 @@
       "symbol": "$GOAT",
       "created_at": "2026-11-20T08:06:34.407220884Z",
       "first_seen": "2026-11-20T08:06:47.547801+00:00"
+    },
+    "BTabg1ZDfqmRSCvbNnoaRR5QGuyFHRYNHkbUbtKdNFZc": {
+      "symbol": "AMC",
+      "created_at": "2026-11-20T08:09:19.566759874Z",
+      "first_seen": "2026-11-20T08:09:22.805866+00:00"
+    },
+    "GJj8MSYWkdtVu2izsDstxGwaSrhhukwmYLp8Dfhepump": {
+      "symbol": "PaidPal",
+      "created_at": "2026-11-20T08:09:19.398918334Z",
+      "first_seen": "2026-11-20T08:09:22.805866+00:00"
+    },
+    "RKSCx8xmp4R8bThCD7DpqcDJ3vbV7qfZNs9CyqgU8rs": {
+      "symbol": "PROPA",
+      "created_at": "2026-11-20T08:09:18.570428981Z",
+      "first_seen": "2026-11-20T08:09:22.805866+00:00"
+    },
+    "7KarKwQCrPrGa6JXiUgYY14DQfUQMKYZWhGvyUptw1fh": {
+      "symbol": "MPN",
+      "created_at": "2026-11-20T08:09:16.594936402Z",
+      "first_seen": "2026-11-20T08:09:22.805866+00:00"
+    },
+    "EnXJeTnWXCnkyLHvodCMC1mfSnTxaf5aYFWrdPd8AAhM": {
+      "symbol": "VOI",
+      "created_at": "2026-11-20T08:09:16.311026055Z",
+      "first_seen": "2026-11-20T08:09:22.805866+00:00"
+    },
+    "9AhmQAYEdLKJ5hWdpbGQCjiAJXsAPdn35dpqhenGWnBH": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-11-20T08:09:14.711644231Z",
+      "first_seen": "2026-11-20T08:09:22.805866+00:00"
+    },
+    "C964WpMt5hpT7rnhttYWFiUs1fZK7huy9d9F3ey4pump": {
+      "symbol": "JONG",
+      "created_at": "2026-11-20T08:09:12.182054288Z",
+      "first_seen": "2026-11-20T08:09:22.805866+00:00"
+    },
+    "wb924gkz2zpRSQrS95sRU1BbSYoeWmzmB5b3seepump": {
+      "symbol": "DOOROC",
+      "created_at": "2026-11-20T08:09:11.347026193Z",
+      "first_seen": "2026-11-20T08:09:22.805866+00:00"
+    },
+    "5XKnA1hBdq3epYYmrVbiKuCy38oTWMUfjHuZJNH8pump": {
+      "symbol": "$MFRG",
+      "created_at": "2026-11-20T08:09:08.099266748Z",
+      "first_seen": "2026-11-20T08:09:22.805866+00:00"
+    },
+    "AzFD4cpjZDTnX4X3JU9cYARfQ52FB6zBbMMJyXtKpump": {
+      "symbol": "CHIMP",
+      "created_at": "2026-11-20T08:08:58.427065695Z",
+      "first_seen": "2026-11-20T08:09:22.805866+00:00"
     }
   },
   "alerted": [
@@ -2007,8 +2047,6 @@
     "pY8iDt18Aw8ymW5JhpAt1TaX4asMXncnHm7oWtkpump"
   ],
   "rejected": [
-    "6zU2HmGKXXabRPofrNqsMp7AJm7fmBzNHLtyKM41DuCE",
-    "DUJ4NgYBHYpuyLvR5gAn4KqGed6MvxnAujm7FPTSbxyd",
     "GonxJJsf1yKKDB7gBjDtRSNZiJNSGCsC9eo5Ner1rTgM",
     "GFzKQAwDwHQm8hNQbm4AUuYCnidWJgtvdCoKxfjQpump",
     "JDt1XV34egi3pTCZ55DWcYu8uqqAXvvRvXDxBG6L2u4D",
@@ -4006,6 +4044,8 @@
     "ErsQwrsuUHkR7yD77dK2wP4SpEBZfEdka6imaGNJmV47",
     "GfsS4DQFnuZGdPThftsnWwhZcNaTpa6bc47vodMDJ27L",
     "3iqsYgggyZz8hxPJqqwML9sn2saBsvL5n3nYRw6BrEZY",
-    "2EKfoxvo8rFq4H9gcbZX8pZcsCy6VLw1CkaJDYXF2fXV"
+    "2EKfoxvo8rFq4H9gcbZX8pZcsCy6VLw1CkaJDYXF2fXV",
+    "CSWoeh7gn9g2nCRjdkdHwXYPHekkC7FDehor5fMU9Y6f",
+    "BgMEqH8VGudTVHntJ87tahxmL22RVdE5nZmDTwqWtcK"
   ]
 }
