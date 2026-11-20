@@ -90,16 +90,6 @@
       "created_at": "2026-11-20T07:03:23.819316749Z",
       "first_seen": "2026-11-20T07:03:41.597274+00:00"
     },
-    "6qEoAnEoL6KMCjQhV7P3h2qzGFtUUkuDdQTaTjs1pump": {
-      "symbol": "GTA 6 Coin",
-      "created_at": "2026-11-20T07:03:18.022175836Z",
-      "first_seen": "2026-11-20T07:03:41.597274+00:00",
-      "confirm": {
-        "liquidity": 12566.83,
-        "market_cap": 37566,
-        "at": "2026-11-20T07:33:17.732351+00:00"
-      }
-    },
     "21t6x9aDN97bSietkZKQj5GG2kZ6799SXKi5cMvppump": {
       "symbol": "Hippy",
       "created_at": "2026-11-20T07:05:36.282208949Z",
@@ -480,16 +470,6 @@
       "created_at": "2026-11-20T07:21:58.011890914Z",
       "first_seen": "2026-11-20T07:22:17.350090+00:00"
     },
-    "XhvRswfAyw5Gtzu7E5umL7a6P27RrPJ4W2TuAXepump": {
-      "symbol": "4AM",
-      "created_at": "2026-11-20T07:21:57.41952702Z",
-      "first_seen": "2026-11-20T07:22:17.350090+00:00",
-      "confirm": {
-        "liquidity": 8676.69,
-        "market_cap": 19326,
-        "at": "2026-11-20T07:33:17.732351+00:00"
-      }
-    },
     "ARCifHjuhu7qbsCNCzFUmtosFmcKZqz6TwEznEN2pump": {
       "symbol": "luc",
       "created_at": "2026-11-20T07:21:51.811412371Z",
@@ -764,6 +744,56 @@
       "symbol": "luc",
       "created_at": "2026-11-20T07:32:43.442007512Z",
       "first_seen": "2026-11-20T07:33:17.732103+00:00"
+    },
+    "69AUwCZ1UcHaq53HSTEaWgFAqp2ytBaHSbnrF2HYpump": {
+      "symbol": "DihcityCoin",
+      "created_at": "2026-11-20T07:35:20.380105756Z",
+      "first_seen": "2026-11-20T07:35:33.088273+00:00"
+    },
+    "Am9ZLrYB32w2TZTr8trNzx5zmGWNk8cGd6D8nCPNWVSb": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-11-20T07:35:18.569994598Z",
+      "first_seen": "2026-11-20T07:35:33.088273+00:00"
+    },
+    "4oueqDbWpg7tzgcQQuMdSSXyYwocMyLaCX6UccRApump": {
+      "symbol": "BRR",
+      "created_at": "2026-11-20T07:35:16.106553208Z",
+      "first_seen": "2026-11-20T07:35:33.088273+00:00"
+    },
+    "5UyzpKJx91wg8udM436bnLbVfWALwCb2bGRUAF45pump": {
+      "symbol": "DERP",
+      "created_at": "2026-11-20T07:35:08.341051216Z",
+      "first_seen": "2026-11-20T07:35:33.088273+00:00"
+    },
+    "xLoye7ZyQkxLay3PnVFAzF6SgEckQM5QPJWmmJ8v6iK": {
+      "symbol": "HYPE",
+      "created_at": "2026-11-20T07:35:05.336308485Z",
+      "first_seen": "2026-11-20T07:35:33.088273+00:00"
+    },
+    "vXbbk4hrNnjdXcHsKFbZA91X6ofjNtUSkba973Ypump": {
+      "symbol": "Kekes",
+      "created_at": "2026-11-20T07:35:04.787348277Z",
+      "first_seen": "2026-11-20T07:35:33.088273+00:00"
+    },
+    "AMAX135PutKCurF6L2WYmY8mH2vZaY9T3CFJgrnnpump": {
+      "symbol": "COMET",
+      "created_at": "2026-11-20T07:35:04.682163239Z",
+      "first_seen": "2026-11-20T07:35:33.088273+00:00"
+    },
+    "4RJPHWzW8Y26QTZyrerC9Df9x9GGB39JLZEnwm5Zvk2c": {
+      "symbol": "APCY",
+      "created_at": "2026-11-20T07:35:04.367240148Z",
+      "first_seen": "2026-11-20T07:35:33.088273+00:00"
+    },
+    "48FXSapSJig1m5yxJsQC8YbEAjyHrBcLBmtduZsMPo1w": {
+      "symbol": "USMD",
+      "created_at": "2026-11-20T07:35:04.041335839Z",
+      "first_seen": "2026-11-20T07:35:33.088273+00:00"
+    },
+    "Cpt3iBunXYWg4oHQeSPr54LDEAZP9ecNWHM2EQD2pump": {
+      "symbol": "BONG",
+      "created_at": "2026-11-20T07:35:04.016818378Z",
+      "first_seen": "2026-11-20T07:35:33.088273+00:00"
     }
   },
   "alerted": [
@@ -1377,10 +1407,10 @@
     "F2WDARive6KV3NWkmptudRDMGBs429LeRCU1DiLipump",
     "8sCLrDo6tS9zQoC1qsb13KhGUHEWyLx3j7JebBYnpump",
     "7ZPqP4zrfHQWP4e89ATMbefKRbpuQwit34WbkbMVpump",
-    "CDJaZP3oyr2VMNsWppd2xfZMUqsiKqEfgVRD2P1uyx4n"
+    "CDJaZP3oyr2VMNsWppd2xfZMUqsiKqEfgVRD2P1uyx4n",
+    "6qEoAnEoL6KMCjQhV7P3h2qzGFtUUkuDdQTaTjs1pump"
   ],
   "rejected": [
-    "6rxfDZe3un6vUx8q5CwZf3WcdsjNGd69RoiXXc6pump",
     "5BfLahf1ZJk6DHM3UgnpuDMwxADo6NQYAXsSc9uaZW7",
     "FQWejadVG9ax148Q1PSsjXy5j2hWgArPzxgs1bgrpump",
     "97kMwMsfe7b3k75wpXv5mvmimM46aJzZiFdXhXVwpump",
@@ -3379,6 +3409,7 @@
     "J7M9LcFZbYLZEzq3kyZanNRZVLyPNR6QvrhM2p7ww7tZ",
     "CU3saxdfgkNyt1jcGKTxana96wwkMbq7VC38Whmt9kKD",
     "3Hjg4UhwJbECKXY9CoP9QJo5C4opoHTR6qmY5RP25Dci",
-    "Bed99Pke3xqrbRJMezUYzK3UyPjqLyN8Z4ZTtb8JDzRx"
+    "Bed99Pke3xqrbRJMezUYzK3UyPjqLyN8Z4ZTtb8JDzRx",
+    "XhvRswfAyw5Gtzu7E5umL7a6P27RrPJ4W2TuAXepump"
   ]
 }
