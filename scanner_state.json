@@ -1280,19 +1280,9 @@
       "created_at": "2026-11-22T20:25:05.854259578Z",
       "first_seen": "2026-11-22T20:25:16.229369+00:00"
     },
-    "9dy5jNTGFpE5mWfdDn5p4R9KDmPDhiMZcshHdBUjZUnr": {
-      "symbol": "Rockstar",
-      "created_at": "2026-11-22T20:25:05.173117235Z",
-      "first_seen": "2026-11-22T20:25:16.229369+00:00"
-    },
     "EXPcHHe2zHgx47qtUr4uE32W2HQxUgTUvpEcRzhpump": {
       "symbol": "DCTY",
       "created_at": "2026-11-22T20:25:02.780659146Z",
-      "first_seen": "2026-11-22T20:25:16.229369+00:00"
-    },
-    "CRQiwLBzyzXiSyhndoURSTEWLYDR8szoMz7p9tLL3zoL": {
-      "symbol": "OpenIndex",
-      "created_at": "2026-11-22T20:25:02.48369383Z",
       "first_seen": "2026-11-22T20:25:16.229369+00:00"
     },
     "HudR6BabZUby3SALm3YuFSGo6H2zp8S3e8fVFFrhpump": {
@@ -1323,7 +1313,12 @@
     "Ce8LVXvDnG9BjQvZgsKGeq8Xij1NpaFfn7tueP5jWKWp": {
       "symbol": "AMAZON",
       "created_at": "2026-11-22T20:27:17.198472051Z",
-      "first_seen": "2026-11-22T20:27:40.123652+00:00"
+      "first_seen": "2026-11-22T20:27:40.123652+00:00",
+      "confirm": {
+        "liquidity": 15874.8,
+        "market_cap": 59326,
+        "at": "2026-11-22T20:37:23.649095+00:00"
+      }
     },
     "BXphWDqm4PuE6nxKTNxUVkdvMf1G7HodjwpUpWmFpump": {
       "symbol": "$ANGELS",
@@ -1494,6 +1489,56 @@
       "symbol": "MCAT",
       "created_at": "2026-11-22T20:34:40.640089963Z",
       "first_seen": "2026-11-22T20:34:55.185630+00:00"
+    },
+    "zs8GtbS1MauPcz9yGZPHUTdr94omcpdmetQ98d3zxN7": {
+      "symbol": "SBSSRF",
+      "created_at": "2026-11-22T20:37:17.566617128Z",
+      "first_seen": "2026-11-22T20:37:23.648662+00:00"
+    },
+    "9f1k5CDKwX4zUGEDk23Z3NNcsYJNjTxBf1LugMHppump": {
+      "symbol": "FSB",
+      "created_at": "2026-11-22T20:37:17.396882196Z",
+      "first_seen": "2026-11-22T20:37:23.648662+00:00"
+    },
+    "8kQtDb3DcHJZdcjWuN7g3NAGTCYY8s69iMXbmfyZpump": {
+      "symbol": "$RCPT",
+      "created_at": "2026-11-22T20:37:16.209104308Z",
+      "first_seen": "2026-11-22T20:37:23.648662+00:00"
+    },
+    "C2m5Yv5KVg1431z2r1wHQLsMYJMrHNxaj4nenKKopump": {
+      "symbol": "YARD",
+      "created_at": "2026-11-22T20:37:16.18548254Z",
+      "first_seen": "2026-11-22T20:37:23.648662+00:00"
+    },
+    "8Uj3NEQqJCXqX6T52jj1uNEsFSvVa2WPPAMsDoX9pump": {
+      "symbol": "Kond",
+      "created_at": "2026-11-22T20:37:16.029005758Z",
+      "first_seen": "2026-11-22T20:37:23.648662+00:00"
+    },
+    "3jqzXRkhNEAPknXTRRgNVn2cSkmqchQBcTiSVu8ypump": {
+      "symbol": "GTA6",
+      "created_at": "2026-11-22T20:37:15.440527915Z",
+      "first_seen": "2026-11-22T20:37:23.648662+00:00"
+    },
+    "BLDjRJjs3v4pErEKzPJ3DQcBGK5xB8L6G9yg96EApump": {
+      "symbol": "MONY",
+      "created_at": "2026-11-22T20:37:15.120066987Z",
+      "first_seen": "2026-11-22T20:37:23.648662+00:00"
+    },
+    "33Yg34jhzJ3it2MJYads7Cnafx3x9WswwQ5tG3yGpump": {
+      "symbol": "awd",
+      "created_at": "2026-11-22T20:37:12.797313352Z",
+      "first_seen": "2026-11-22T20:37:23.648662+00:00"
+    },
+    "3knL33yMm59QHDchfW7wXnP1j8RUffjMDkJRV5Khpump": {
+      "symbol": "OTTER",
+      "created_at": "2026-11-22T20:37:12.736999737Z",
+      "first_seen": "2026-11-22T20:37:23.648662+00:00"
+    },
+    "GHBZS5kdhSNMh7j9SAUDGo1NrrrZ4P8xvpvJXFZFpump": {
+      "symbol": "s5",
+      "created_at": "2026-11-22T20:37:12.486222718Z",
+      "first_seen": "2026-11-22T20:37:23.648662+00:00"
     }
   },
   "alerted": [
@@ -2119,8 +2164,6 @@
     "J7jjxzz7HPyKByzECwKYxh6s7eDbQq82xSH7KyH9pump"
   ],
   "rejected": [
-    "DCEjEfiF5VswuBms1azVsqaGZycWtbwyTdJWADa7QWiw",
-    "yJvmnWZqJiJj19TnU1FcbbvnCiLX1ocBAHczggbpump",
     "vPYpPUzECGz9C3zm5NjqvhywNsH1EKbzL8LVqGppump",
     "GZnYhqgQSbW1giZdSWU9mGWPZbkU3e3Zr2ideKJEKTvM",
     "GxDin2r6aaFdMhqyXFuudxQnfYECraTgsWozDdw7Aq2o",
@@ -4118,6 +4161,8 @@
     "BUGDeY6tnCPRaXh3z12ejgBREDKyJQBcdSvG69QKptrr",
     "4mqiAdqDzcdvFf2oRVWdjhdK5gJMZ15pvdxEDtaypump",
     "HqvdGAQqKD7dRJenaGwarXqssQQj2xBMjBzqpy4TyPbm",
-    "NCroa5TdFVx98zLysAJfm14cNG8R9j6a5v5XzS4S5xd"
+    "NCroa5TdFVx98zLysAJfm14cNG8R9j6a5v5XzS4S5xd",
+    "9dy5jNTGFpE5mWfdDn5p4R9KDmPDhiMZcshHdBUjZUnr",
+    "CRQiwLBzyzXiSyhndoURSTEWLYDR8szoMz7p9tLL3zoL"
   ]
 }
