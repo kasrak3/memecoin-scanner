@@ -1688,7 +1688,12 @@
     "HDpzFc2YGdLihoyhTwdV65rLBDJ1ChQF1ijLyy9Rpump": {
       "symbol": "Rockstar",
       "created_at": "2026-11-21T23:40:12.32902747Z",
-      "first_seen": "2026-11-21T23:40:27.323139+00:00"
+      "first_seen": "2026-11-21T23:40:27.323139+00:00",
+      "confirm": {
+        "liquidity": 14555.74,
+        "market_cap": 50036,
+        "at": "2026-11-22T00:11:38.835443+00:00"
+      }
     },
     "2vwkBFH23h8KukFAECLyhQiVeMFfgH1EtJYBmQmZpump": {
       "symbol": "$GOTH",
@@ -2274,6 +2279,56 @@
       "symbol": "cap",
       "created_at": "2026-11-22T00:08:24.795832971Z",
       "first_seen": "2026-11-22T00:09:04.157272+00:00"
+    },
+    "45vsGzFNHTcSm1sk2NVU19dBn3AzBzm27qe5C826pump": {
+      "symbol": "DNR",
+      "created_at": "2026-11-22T00:11:28.590946077Z",
+      "first_seen": "2026-11-22T00:11:38.835162+00:00"
+    },
+    "Em7yZE3DzTsBggS8MC6RrTkGkVpdJKZ3xdeKQKaTpump": {
+      "symbol": "OTIS",
+      "created_at": "2026-11-22T00:11:26.913325376Z",
+      "first_seen": "2026-11-22T00:11:38.835162+00:00"
+    },
+    "HanPAv6vsJv8rtGe9F6ZfAwLux3VmFF8Cs5ijejqpump": {
+      "symbol": "der",
+      "created_at": "2026-11-22T00:11:26.886941359Z",
+      "first_seen": "2026-11-22T00:11:38.835162+00:00"
+    },
+    "DtMmpPeAydtBJXBV8njbxL1bGKuZWU8VnsgoeYpopump": {
+      "symbol": "RVR",
+      "created_at": "2026-11-22T00:11:21.862351907Z",
+      "first_seen": "2026-11-22T00:11:38.835162+00:00"
+    },
+    "2vtKKmorXWuDQHhCLS4oSYg3gXvTHXxcjs4nRHC6pump": {
+      "symbol": "HAMSTER",
+      "created_at": "2026-11-22T00:11:16.308293537Z",
+      "first_seen": "2026-11-22T00:11:38.835162+00:00"
+    },
+    "4jKgAvT5wbiWwLArpzumwXTRGbfSEKM4C9ZJBwp3pump": {
+      "symbol": "$EAGLE",
+      "created_at": "2026-11-22T00:11:14.840287274Z",
+      "first_seen": "2026-11-22T00:11:38.835162+00:00"
+    },
+    "7DNTM6x3fW1b1djUVKeA62Qq8JicfGjh6MUdYrRLpump": {
+      "symbol": "ALCOHOL",
+      "created_at": "2026-11-22T00:11:10.43138907Z",
+      "first_seen": "2026-11-22T00:11:38.835162+00:00"
+    },
+    "3UBTZq1cDXBTguiMeWzMoUrfJByTd71ZZrD7iebq9bJd": {
+      "symbol": "AI",
+      "created_at": "2026-11-22T00:11:09.99218403Z",
+      "first_seen": "2026-11-22T00:11:38.835162+00:00"
+    },
+    "4q2fhcv7Qvb4pYjKqQWeNb2cMiVp8ESi5xsa4fq2pump": {
+      "symbol": "Buy",
+      "created_at": "2026-11-22T00:11:08.507263236Z",
+      "first_seen": "2026-11-22T00:11:38.835162+00:00"
+    },
+    "5uQ4Btyn22GFEPHkYhpRiiwrmcREJxJCpSm3MKbppump": {
+      "symbol": "AI",
+      "created_at": "2026-11-22T00:10:58.882186847Z",
+      "first_seen": "2026-11-22T00:11:38.835162+00:00"
     }
   },
   "alerted": [
