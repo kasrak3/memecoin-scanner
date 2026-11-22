@@ -1310,16 +1310,6 @@
       "created_at": "2026-11-22T20:27:18.336824038Z",
       "first_seen": "2026-11-22T20:27:40.123652+00:00"
     },
-    "Ce8LVXvDnG9BjQvZgsKGeq8Xij1NpaFfn7tueP5jWKWp": {
-      "symbol": "AMAZON",
-      "created_at": "2026-11-22T20:27:17.198472051Z",
-      "first_seen": "2026-11-22T20:27:40.123652+00:00",
-      "confirm": {
-        "liquidity": 15874.8,
-        "market_cap": 59326,
-        "at": "2026-11-22T20:37:23.649095+00:00"
-      }
-    },
     "BXphWDqm4PuE6nxKTNxUVkdvMf1G7HodjwpUpWmFpump": {
       "symbol": "$ANGELS",
       "created_at": "2026-11-22T20:27:11.983329427Z",
@@ -1539,6 +1529,56 @@
       "symbol": "s5",
       "created_at": "2026-11-22T20:37:12.486222718Z",
       "first_seen": "2026-11-22T20:37:23.648662+00:00"
+    },
+    "C6rfcaEb2DAPSMPvFqkabUc71XZc5KHBGEX84tzhpump": {
+      "symbol": "CHAROC",
+      "created_at": "2026-11-22T20:39:40.746722623Z",
+      "first_seen": "2026-11-22T20:39:49.838448+00:00"
+    },
+    "4c1yFjK3qPSeKeSvLVZdQtza4fJfEGAFNKFCq519dn6Y": {
+      "symbol": "STABULL",
+      "created_at": "2026-11-22T20:39:36.658365411Z",
+      "first_seen": "2026-11-22T20:39:49.838448+00:00"
+    },
+    "4NdPHVzFo3BsRwUuDXStsg9VJAz6zijB5vZZBVn92Bs7": {
+      "symbol": "OpenIndex",
+      "created_at": "2026-11-22T20:39:36.572082302Z",
+      "first_seen": "2026-11-22T20:39:49.838448+00:00"
+    },
+    "3GQuuAVeXTfBBUwVXHGHGq5NNPy4vZZAYjCGey96pump": {
+      "symbol": "win",
+      "created_at": "2026-11-22T20:39:35.769485017Z",
+      "first_seen": "2026-11-22T20:39:49.838448+00:00"
+    },
+    "CwwnPcdbQ98Agye8HdufhZ56psaYzeo9Jc6xXnRbpump": {
+      "symbol": "$dog",
+      "created_at": "2026-11-22T20:39:34.830977973Z",
+      "first_seen": "2026-11-22T20:39:49.838448+00:00"
+    },
+    "FnoD9TKCUgG496gThhjaSnH6Q6Y1z2BDRCaYdPzPpump": {
+      "symbol": "\u200b$BBN",
+      "created_at": "2026-11-22T20:39:34.353208302Z",
+      "first_seen": "2026-11-22T20:39:49.838448+00:00"
+    },
+    "33snwFpuCmnnfWFHrjnhZw6aYWqNvevuD3RfDzmopump": {
+      "symbol": "GTA Tesla",
+      "created_at": "2026-11-22T20:39:34.34500134Z",
+      "first_seen": "2026-11-22T20:39:49.838448+00:00"
+    },
+    "GxYD2NmUXfAYDRdAo1UmhcurbEbhbyf4ydhG4Qonpump": {
+      "symbol": "DWTA",
+      "created_at": "2026-11-22T20:39:32.551672047Z",
+      "first_seen": "2026-11-22T20:39:49.838448+00:00"
+    },
+    "221Q26FmMMRHX9yV8XLcevksernnyLZMHnDze3Vkpump": {
+      "symbol": "ULTRA",
+      "created_at": "2026-11-22T20:39:31.292468247Z",
+      "first_seen": "2026-11-22T20:39:49.838448+00:00"
+    },
+    "GBqYEviw6HptNwxFXcT1Sx1FSLhqobGHYMvDNspHpump": {
+      "symbol": "pruple",
+      "created_at": "2026-11-22T20:39:30.898933248Z",
+      "first_seen": "2026-11-22T20:39:49.838448+00:00"
     }
   },
   "alerted": [
@@ -2161,7 +2201,8 @@
     "HDpzFc2YGdLihoyhTwdV65rLBDJ1ChQF1ijLyy9Rpump",
     "8yUTnbFRGJgr9jRJ71SW5nw1pUZmKDFFpDqWGGK9x3g7",
     "9ZG9qoTzKzNgcnn7y7D62eZ44cSPiLsmwuUsyY85pump",
-    "J7jjxzz7HPyKByzECwKYxh6s7eDbQq82xSH7KyH9pump"
+    "J7jjxzz7HPyKByzECwKYxh6s7eDbQq82xSH7KyH9pump",
+    "Ce8LVXvDnG9BjQvZgsKGeq8Xij1NpaFfn7tueP5jWKWp"
   ],
   "rejected": [
     "vPYpPUzECGz9C3zm5NjqvhywNsH1EKbzL8LVqGppump",
