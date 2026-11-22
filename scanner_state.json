@@ -883,7 +883,12 @@
     "8yUTnbFRGJgr9jRJ71SW5nw1pUZmKDFFpDqWGGK9x3g7": {
       "symbol": "CATEMAS",
       "created_at": "2026-11-22T07:12:20.799995059Z",
-      "first_seen": "2026-11-22T07:12:30.827070+00:00"
+      "first_seen": "2026-11-22T07:12:30.827070+00:00",
+      "confirm": {
+        "liquidity": 11676.75,
+        "market_cap": 155760,
+        "at": "2026-11-22T07:23:26.706312+00:00"
+      }
     },
     "7Vs77yrLabEvsZeyzrYajNN4ugswW2SSeNKhXd9x7V3p": {
       "symbol": "MWG",
@@ -1114,6 +1119,56 @@
       "symbol": "MWG",
       "created_at": "2026-11-22T07:20:35.702062734Z",
       "first_seen": "2026-11-22T07:21:14.491365+00:00"
+    },
+    "3NVueMomDxbumqsJcKHxSXZvbr5k8nZN8yVr2moLoz6h": {
+      "symbol": "IRYS",
+      "created_at": "2026-11-22T07:23:12.992140541Z",
+      "first_seen": "2026-11-22T07:23:26.705930+00:00"
+    },
+    "C3oDjPxs2Dj4SJ5xmHG251pFKoupjCF5FCbvZ3depump": {
+      "symbol": "HALH",
+      "created_at": "2026-11-22T07:23:06.466002385Z",
+      "first_seen": "2026-11-22T07:23:26.705930+00:00"
+    },
+    "BMcmZxWqTCdB2T6rvHAYmHdV8kC5gTKD1VgkiPXcYYAg": {
+      "symbol": "FBONK",
+      "created_at": "2026-11-22T07:23:05.147591691Z",
+      "first_seen": "2026-11-22T07:23:26.705930+00:00"
+    },
+    "6TnN94zhyx1oEeKmQyhGgyFiPL8BD4dq8vTqwm48pump": {
+      "symbol": "dex.tech",
+      "created_at": "2026-11-22T07:23:03.05951784Z",
+      "first_seen": "2026-11-22T07:23:26.705930+00:00"
+    },
+    "Cg5eaEWsq7SvE2xTaPxSLxsbSbCHJ55eupcBDj5Apump": {
+      "symbol": "DBZ",
+      "created_at": "2026-11-22T07:23:02.294004359Z",
+      "first_seen": "2026-11-22T07:23:26.705930+00:00"
+    },
+    "6ZgymfwzV6PtBJyzSh7wMPRjvQYFLQbZEGu1LDaYpump": {
+      "symbol": "bullmas",
+      "created_at": "2026-11-22T07:22:58.264504359Z",
+      "first_seen": "2026-11-22T07:23:26.705930+00:00"
+    },
+    "3VqMAtewafBp1LFZdMwJJetPrDesP8RqdDXSygozpump": {
+      "symbol": "MOONBOUNCE",
+      "created_at": "2026-11-22T07:22:57.845278396Z",
+      "first_seen": "2026-11-22T07:23:26.705930+00:00"
+    },
+    "2jNQqKWWcGqQQtHdSBHvJU9ccByRmPrgdzrUBNGMpump": {
+      "symbol": "Glitch",
+      "created_at": "2026-11-22T07:22:57.458418577Z",
+      "first_seen": "2026-11-22T07:23:26.705930+00:00"
+    },
+    "2q8uv6P5xFFtMd5uG4T3v16i7v1k5KjQ7rJBNygHpump": {
+      "symbol": "WZF",
+      "created_at": "2026-11-22T07:22:56.373126229Z",
+      "first_seen": "2026-11-22T07:23:26.705930+00:00"
+    },
+    "7Q5LxLqJUFT3RXLi8S6xvs8Qz3dLX12Tiy3dgEWr4JEq": {
+      "symbol": "FSTONK",
+      "created_at": "2026-11-22T07:22:56.024908796Z",
+      "first_seen": "2026-11-22T07:23:26.705930+00:00"
     }
   },
   "alerted": [
