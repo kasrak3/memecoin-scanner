@@ -325,16 +325,6 @@
       "created_at": "2026-11-23T07:35:53.362035908Z",
       "first_seen": "2026-11-23T07:36:28.888233+00:00"
     },
-    "Ftb2BDazcQ8gBBceedy2yLPPqPbvgsCMgNRvoNbhpump": {
-      "symbol": "GTA 6 Coin",
-      "created_at": "2026-11-23T07:35:50.893217031Z",
-      "first_seen": "2026-11-23T07:36:28.888233+00:00",
-      "confirm": {
-        "liquidity": 12466.91,
-        "market_cap": 37026,
-        "at": "2026-11-23T07:46:47.384142+00:00"
-      }
-    },
     "8Jew3sj5T59LfEuToKXGdSq4fkbufMeiJroDZNk55Cm6": {
       "symbol": "MPN",
       "created_at": "2026-11-23T07:35:50.689311467Z",
@@ -599,6 +589,56 @@
       "symbol": "NAFRO",
       "created_at": "2026-11-23T07:46:17.950777075Z",
       "first_seen": "2026-11-23T07:46:47.383774+00:00"
+    },
+    "GruSYXcUvDRMWuzTAiUKRGZDcmJmy6EnTMucmim2pump": {
+      "symbol": "cap",
+      "created_at": "2026-11-23T07:48:43.084004305Z",
+      "first_seen": "2026-11-23T07:48:53.322653+00:00"
+    },
+    "nJbhuZaLWBZ2BXBK7gEapfCenqJSyC66oTxwSJDpump": {
+      "symbol": "HIJACK",
+      "created_at": "2026-11-23T07:48:35.05621467Z",
+      "first_seen": "2026-11-23T07:48:53.322653+00:00"
+    },
+    "2vgYKypNBWx8undbRqK9BhAi4B6MBqhdFoN8SaJt2EAC": {
+      "symbol": "DRYDOCK",
+      "created_at": "2026-11-23T07:48:34.535136438Z",
+      "first_seen": "2026-11-23T07:48:53.322653+00:00"
+    },
+    "EsMr5Q7D414Vtm5Tg4Gio1bUiRxQCXQXVG54x97Jpump": {
+      "symbol": "att",
+      "created_at": "2026-11-23T07:48:33.621403905Z",
+      "first_seen": "2026-11-23T07:48:53.322653+00:00"
+    },
+    "E7KMmuAbPi1wsF8RJGKzUob2QzorUcxy4NpFcecGpump": {
+      "symbol": "ARCTICAT",
+      "created_at": "2026-11-23T07:48:32.623525712Z",
+      "first_seen": "2026-11-23T07:48:53.322653+00:00"
+    },
+    "PwH8x6SaLt9cfewDdGUNqfvMMASgAMJr6da3iLwpump": {
+      "symbol": "GTAVII",
+      "created_at": "2026-11-23T07:48:28.321234075Z",
+      "first_seen": "2026-11-23T07:48:53.322653+00:00"
+    },
+    "GfwBQP5DG9JC8Dot65UTBLRcjZhduUjCBsLNR1FGuA3s": {
+      "symbol": "",
+      "created_at": "2026-11-23T07:48:19.015279623Z",
+      "first_seen": "2026-11-23T07:48:53.322653+00:00"
+    },
+    "CbyEeB7G2TvD2yJW7tHXKCzievHtC46vFtkJWacLpump": {
+      "symbol": "GPUang",
+      "created_at": "2026-11-23T07:48:17.458082494Z",
+      "first_seen": "2026-11-23T07:48:53.322653+00:00"
+    },
+    "5Mvwa2sUmokdr9pcSkCcPUT2CjHjEn73jGxxzv1Cpump": {
+      "symbol": "suscat",
+      "created_at": "2026-11-23T07:48:17.135833587Z",
+      "first_seen": "2026-11-23T07:48:53.322653+00:00"
+    },
+    "GiNY5qbZnEYeEDfnG5B1p2bCWWgheeHJSVS3tkYRjmdB": {
+      "symbol": "",
+      "created_at": "2026-11-23T07:48:15.844542274Z",
+      "first_seen": "2026-11-23T07:48:53.322653+00:00"
     }
   },
   "alerted": [
@@ -1223,7 +1263,8 @@
     "9ZG9qoTzKzNgcnn7y7D62eZ44cSPiLsmwuUsyY85pump",
     "J7jjxzz7HPyKByzECwKYxh6s7eDbQq82xSH7KyH9pump",
     "Ce8LVXvDnG9BjQvZgsKGeq8Xij1NpaFfn7tueP5jWKWp",
-    "89DKn95R7QvjAcGSeqHvmj3pq7TJFbJcckURqjvuHsHp"
+    "89DKn95R7QvjAcGSeqHvmj3pq7TJFbJcckURqjvuHsHp",
+    "Ftb2BDazcQ8gBBceedy2yLPPqPbvgsCMgNRvoNbhpump"
   ],
   "rejected": [
     "6g22kVgQwVEk2VUvAHhJgkem1AmQRzwphhkpeT5wDuCh",
