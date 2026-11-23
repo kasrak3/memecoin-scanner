@@ -80,16 +80,6 @@
       "created_at": "2026-11-23T07:26:00.311688255Z",
       "first_seen": "2026-11-23T07:26:21.543209+00:00"
     },
-    "CBS1VSaaYBRDD5pgiTT7LvXL2vA4E9XsxvR715A5pump": {
-      "symbol": "ArcticFox",
-      "created_at": "2026-11-23T07:25:59.918834415Z",
-      "first_seen": "2026-11-23T07:26:21.543209+00:00",
-      "confirm": {
-        "liquidity": 9330.18,
-        "market_cap": 21934,
-        "at": "2026-11-23T07:51:00.351909+00:00"
-      }
-    },
     "3c15tbWtVszdmmxr4so4J9mMecbPJjwG65urg1CRpump": {
       "symbol": "PC",
       "created_at": "2026-11-23T07:25:54.513741506Z",
@@ -480,11 +470,6 @@
       "created_at": "2026-11-23T07:42:15.404738404Z",
       "first_seen": "2026-11-23T07:42:37.555887+00:00"
     },
-    "CBvQH7UydnVPFcHRwh2fhh9WMH4N1z5H3L6ey2Xae4i5": {
-      "symbol": "CLAUDIA",
-      "created_at": "2026-11-23T07:42:14.607145777Z",
-      "first_seen": "2026-11-23T07:42:37.555887+00:00"
-    },
     "GUn88CuizebFov69oBjdPd1RifQGZfb2dEWsH5F9pump": {
       "symbol": "$TACO",
       "created_at": "2026-11-23T07:42:14.606550176Z",
@@ -694,6 +679,56 @@
       "symbol": "24SEVEN",
       "created_at": "2026-11-23T07:50:32.509760999Z",
       "first_seen": "2026-11-23T07:51:00.351435+00:00"
+    },
+    "HSzJy8GzjuudaYXYMxmmru5b3AFjLMYPJQVGAxup2jb4": {
+      "symbol": "panty",
+      "created_at": "2026-11-23T07:53:05.003501227Z",
+      "first_seen": "2026-11-23T07:53:09.006764+00:00"
+    },
+    "HwbkfnsswdLmRaMYzeX4DjQeuZHp5tWfcCiQAPAQpump": {
+      "symbol": "GTA7",
+      "created_at": "2026-11-23T07:53:02.591953611Z",
+      "first_seen": "2026-11-23T07:53:09.006764+00:00"
+    },
+    "EzCYTVqHVr4GeNHvRBE66Qduoj5rZ75AknpSmyJdpump": {
+      "symbol": "24SEVEN",
+      "created_at": "2026-11-23T07:52:58.547522381Z",
+      "first_seen": "2026-11-23T07:53:09.006764+00:00"
+    },
+    "Hn5eErKhbQUGq7nC486StYPtG1cQBEMUXxVQgR3Qpump": {
+      "symbol": "MONY",
+      "created_at": "2026-11-23T07:52:57.464144188Z",
+      "first_seen": "2026-11-23T07:53:09.006764+00:00"
+    },
+    "HmoyE51HctUojFjtj2ELaR9sTdPRTyExTxxTumzKpump": {
+      "symbol": "HANS",
+      "created_at": "2026-11-23T07:52:55.65591051Z",
+      "first_seen": "2026-11-23T07:53:09.006764+00:00"
+    },
+    "9WW3gkpTw6BM2tN4PGbJMg1bdJeCvMv7W5r7CnPLpump": {
+      "symbol": "PC",
+      "created_at": "2026-11-23T07:52:55.528072175Z",
+      "first_seen": "2026-11-23T07:53:09.006764+00:00"
+    },
+    "ExSRvtVoLKkCLbCU4wN3Gdy13PU3G6xMJYHeJGqApump": {
+      "symbol": "mmrich",
+      "created_at": "2026-11-23T07:52:54.853119284Z",
+      "first_seen": "2026-11-23T07:53:09.006764+00:00"
+    },
+    "BgfojisB6R9ajJj5PSaefTqggvQD2VUwdTiEP3rUe3tr": {
+      "symbol": "Vaccinu",
+      "created_at": "2026-11-23T07:52:54.421174736Z",
+      "first_seen": "2026-11-23T07:53:09.006764+00:00"
+    },
+    "FkGtBjTbaajbDeMuagPVPVX2iptgBBasM5ddpU8Upump": {
+      "symbol": "FROKK",
+      "created_at": "2026-11-23T07:52:52.892436371Z",
+      "first_seen": "2026-11-23T07:53:09.006764+00:00"
+    },
+    "BR71X994w6utjHncZW9H9vkThE6wGCXZapVmP7pLpump": {
+      "symbol": "Vaccinu",
+      "created_at": "2026-11-23T07:52:50.979604458Z",
+      "first_seen": "2026-11-23T07:53:09.006764+00:00"
     }
   },
   "alerted": [
@@ -1319,10 +1354,10 @@
     "J7jjxzz7HPyKByzECwKYxh6s7eDbQq82xSH7KyH9pump",
     "Ce8LVXvDnG9BjQvZgsKGeq8Xij1NpaFfn7tueP5jWKWp",
     "89DKn95R7QvjAcGSeqHvmj3pq7TJFbJcckURqjvuHsHp",
-    "Ftb2BDazcQ8gBBceedy2yLPPqPbvgsCMgNRvoNbhpump"
+    "Ftb2BDazcQ8gBBceedy2yLPPqPbvgsCMgNRvoNbhpump",
+    "CBS1VSaaYBRDD5pgiTT7LvXL2vA4E9XsxvR715A5pump"
   ],
   "rejected": [
-    "6g22kVgQwVEk2VUvAHhJgkem1AmQRzwphhkpeT5wDuCh",
     "G3szJumZugKqiDnnrZHT95nhSXqoKp8rEeKadcLg8dge",
     "C5nhWGrroQfTQrNPdBq41hRChDScrktzGG8FRfmBsS3B",
     "4fxnVhGapGiFu3W2sMmr6k4rCRH4sX9y73n5adVjpump",
@@ -3321,6 +3356,7 @@
     "4VfXU1QMKxJHGp1DdsjYBfdYtXbR7V3Fig58dZymjtzo",
     "6b9NzKQVDUosFKMAzdoygysmGiC8DePeAv95tQNZ1UHp",
     "fvbmfgcmSEc9qh5stN9UZYSc8j1cPZmorH2NunEpump",
-    "GH4QcE5sSbuxGvbwVytHnjRtWbizjsVRpe8NoEA6k49"
+    "GH4QcE5sSbuxGvbwVytHnjRtWbizjsVRpe8NoEA6k49",
+    "CBvQH7UydnVPFcHRwh2fhh9WMH4N1z5H3L6ey2Xae4i5"
   ]
 }
