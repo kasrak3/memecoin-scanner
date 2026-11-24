@@ -748,7 +748,12 @@
     "7FsqevgVeuDAU61BgdSYveSoyUHzJxxdKgctNHf5KLyz": {
       "symbol": "RSI",
       "created_at": "2026-11-24T00:18:10.362654813Z",
-      "first_seen": "2026-11-24T00:18:38.789898+00:00"
+      "first_seen": "2026-11-24T00:18:38.789898+00:00",
+      "confirm": {
+        "liquidity": 11794.51,
+        "market_cap": 31470,
+        "at": "2026-11-24T00:29:35.501715+00:00"
+      }
     },
     "6doX26921ssLS9jvPN5rNJcD66bmytf9VQYqYqhHpump": {
       "symbol": "Pararapist",
@@ -969,6 +974,56 @@
       "symbol": "BARRON",
       "created_at": "2026-11-24T00:26:55.105336484Z",
       "first_seen": "2026-11-24T00:27:21.952741+00:00"
+    },
+    "9nLCDvTDNNLUYTkGwB5vNQvzh2e3vB8cLD3rwFzS1tja": {
+      "symbol": "",
+      "created_at": "2026-11-24T00:29:32.706740886Z",
+      "first_seen": "2026-11-24T00:29:35.501472+00:00"
+    },
+    "6zYGrESUz5vWiixDqQ8BHdaEapbaVy4v25WecJJCdxwV": {
+      "symbol": "PONK",
+      "created_at": "2026-11-24T00:29:32.334226104Z",
+      "first_seen": "2026-11-24T00:29:35.501472+00:00"
+    },
+    "ADaJYxtStLdtyhoRafuf8VNmSmgsQEkA8ArAUxLaS789": {
+      "symbol": "Today",
+      "created_at": "2026-11-24T00:29:31.621865134Z",
+      "first_seen": "2026-11-24T00:29:35.501472+00:00"
+    },
+    "92FYk2rTQ9FVxZ1q4tbK7kzqq3EgBb3KQ58En6DyDQEY": {
+      "symbol": "MPN",
+      "created_at": "2026-11-24T00:29:31.212638115Z",
+      "first_seen": "2026-11-24T00:29:35.501472+00:00"
+    },
+    "DhrVkuvZEyW6DJqcHVGmTn5fvxbLTpNuDysXMB4udSYK": {
+      "symbol": "SPCX",
+      "created_at": "2026-11-24T00:29:26.605651659Z",
+      "first_seen": "2026-11-24T00:29:35.501472+00:00"
+    },
+    "6betg7N1jBydMx78GHqLTRwWy1gmT9ZfBxAsKuwwpump": {
+      "symbol": "adrop",
+      "created_at": "2026-11-24T00:29:24.054600297Z",
+      "first_seen": "2026-11-24T00:29:35.501472+00:00"
+    },
+    "FSG9kUcYb9ffBPQYDtaLdHF6tjDu48EFFKVijtyBEohC": {
+      "symbol": "RSI",
+      "created_at": "2026-11-24T00:29:22.501845174Z",
+      "first_seen": "2026-11-24T00:29:35.501472+00:00"
+    },
+    "68sfyy1JQCUbE6AsFGSXZFoDPcUmhshmLtfXeZ715v8o": {
+      "symbol": "RSI",
+      "created_at": "2026-11-24T00:29:21.354489764Z",
+      "first_seen": "2026-11-24T00:29:35.501472+00:00"
+    },
+    "7f9HyiomQZk3sc4Hy7jnBMGYeLujyaizMqEXASLpump": {
+      "symbol": "$SLJK",
+      "created_at": "2026-11-24T00:29:19.976236722Z",
+      "first_seen": "2026-11-24T00:29:35.501472+00:00"
+    },
+    "3iT1q4HKyf7JNSNYFXs8kyS5eRpmmmrreAG4FxxHpump": {
+      "symbol": "ZK1",
+      "created_at": "2026-11-24T00:29:18.735378006Z",
+      "first_seen": "2026-11-24T00:29:35.501472+00:00"
     }
   },
   "alerted": [
