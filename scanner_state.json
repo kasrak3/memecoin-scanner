@@ -1,55 +1,5 @@
 {
   "pending": {
-    "5f6ioPaz4rmhTTjegAfy7oyCEE1hqr3yTEBeY4twz4xN": {
-      "symbol": "OKSG",
-      "created_at": "2026-11-24T10:46:32.803465038Z",
-      "first_seen": "2026-11-24T10:46:44.256692+00:00"
-    },
-    "B17PuVG1XVKUkmQD36KNDymdCbc5bCSn5cv4KRTEpump": {
-      "symbol": "sol",
-      "created_at": "2026-11-24T10:46:32.276153729Z",
-      "first_seen": "2026-11-24T10:46:44.256692+00:00"
-    },
-    "5grRGe2formfuRSGH8DjW2sQbUzQmaDcUQE1qtSypump": {
-      "symbol": "$CAT",
-      "created_at": "2026-11-24T10:46:31.928056877Z",
-      "first_seen": "2026-11-24T10:46:44.256692+00:00"
-    },
-    "B5dVp7zKqLvKkkrCuDfzezTMPcUS5k7GSwebbt2Wpump": {
-      "symbol": "IGH",
-      "created_at": "2026-11-24T10:46:31.882818591Z",
-      "first_seen": "2026-11-24T10:46:44.256692+00:00"
-    },
-    "GmH6uEkSXuwcX1Jz3Ys28fiywkPLRAbef5Ren3Gdpump": {
-      "symbol": "BLEKBOOL",
-      "created_at": "2026-11-24T10:46:28.645680151Z",
-      "first_seen": "2026-11-24T10:46:44.256692+00:00"
-    },
-    "FFLA7UvVS5VhXM54bQtiYzUhSwuQL8EpjxRAyTkD7WG7": {
-      "symbol": "HOGE",
-      "created_at": "2026-11-24T10:46:22.899744263Z",
-      "first_seen": "2026-11-24T10:46:44.256692+00:00"
-    },
-    "DW2UWvR862vK9oBWxL47YUifFokzz3cBHtyc19ypomTX": {
-      "symbol": "MPN",
-      "created_at": "2026-11-24T10:46:22.826254799Z",
-      "first_seen": "2026-11-24T10:46:44.256692+00:00"
-    },
-    "7cxgo1A45Tr8FFPZUzSydY7wNbEp2tPzRPBaZN73VeJM": {
-      "symbol": "MPN",
-      "created_at": "2026-11-24T10:46:21.495426008Z",
-      "first_seen": "2026-11-24T10:46:44.256692+00:00"
-    },
-    "GCSUHTRDP2UJ41EnXxFotLF2R3yTkG3q3tASpD23pump": {
-      "symbol": "Vellum",
-      "created_at": "2026-11-24T10:46:21.398676622Z",
-      "first_seen": "2026-11-24T10:46:44.256692+00:00"
-    },
-    "Dk3BUzYqFZae3meCckQTtzWTXyoQTLYsiR5grWSkSgcq": {
-      "symbol": "MPN",
-      "created_at": "2026-11-24T10:46:20.996226189Z",
-      "first_seen": "2026-11-24T10:46:44.256692+00:00"
-    },
     "FAVpmrmQ4VPHEH346pNvSmGAzbiZxX82znHGZ8bHhbdc": {
       "symbol": "littleguy",
       "created_at": "2026-11-24T10:49:15.2540875Z",
@@ -1778,7 +1728,12 @@
     "5zLndXiLw8p86NRF2ojayuLvQkQWyBnHQyny1b4pump": {
       "symbol": "FOMO",
       "created_at": "2026-11-24T12:30:03.188709521Z",
-      "first_seen": "2026-11-24T12:30:21.771632+00:00"
+      "first_seen": "2026-11-24T12:30:21.771632+00:00",
+      "confirm": {
+        "liquidity": 11381.22,
+        "market_cap": 31983,
+        "at": "2026-11-24T12:47:44.789949+00:00"
+      }
     },
     "77sDeUGA1spsD9GZt4qjx1eaBz1aqQjyC1N95GXypump": {
       "symbol": "ECONOMIST",
@@ -2034,6 +1989,56 @@
       "symbol": "att",
       "created_at": "2026-11-24T12:44:30.217571358Z",
       "first_seen": "2026-11-24T12:44:49.076004+00:00"
+    },
+    "A3m1JGgc72MNWPddDYpNDxAZf5WdUDqBqTYkdNyjjkZQ": {
+      "symbol": "PI",
+      "created_at": "2026-11-24T12:47:36.903837332Z",
+      "first_seen": "2026-11-24T12:47:44.789624+00:00"
+    },
+    "2DskvZKdPYP2BCGNjtjBtNZy6KK6YfCV4Xb4bVD4pump": {
+      "symbol": "BITEFLY",
+      "created_at": "2026-11-24T12:47:36.325882768Z",
+      "first_seen": "2026-11-24T12:47:44.789624+00:00"
+    },
+    "BtjNzrfQoefZXFU9dXaMsNrmHtzePGxJQpt2qB3hYSox": {
+      "symbol": "KAKERA",
+      "created_at": "2026-11-24T12:47:33.89522519Z",
+      "first_seen": "2026-11-24T12:47:44.789624+00:00"
+    },
+    "AfEXDXWfg5aaG4ZuBm9auxaz9mxBv94yqnH9zufmpump": {
+      "symbol": "PC",
+      "created_at": "2026-11-24T12:47:33.603039314Z",
+      "first_seen": "2026-11-24T12:47:44.789624+00:00"
+    },
+    "3ceRgegevrPby8xSEYfK2d5tAY1qWkLzqDrnY1q6bfov": {
+      "symbol": "MPN",
+      "created_at": "2026-11-24T12:47:32.337311625Z",
+      "first_seen": "2026-11-24T12:47:44.789624+00:00"
+    },
+    "ChFWD7k5TeQSXzfsSuFg3HP8jSgs4jwVu4UKzEGWdCGo": {
+      "symbol": "",
+      "created_at": "2026-11-24T12:47:32.309758795Z",
+      "first_seen": "2026-11-24T12:47:44.789624+00:00"
+    },
+    "54qJantQabBuaccHmks6hGThaQEAc9bGdCde5rg66VVM": {
+      "symbol": "XRP-DN",
+      "created_at": "2026-11-24T12:47:31.543002488Z",
+      "first_seen": "2026-11-24T12:47:44.789624+00:00"
+    },
+    "CTSghUGbXNs6ER2V1xfAvzMATfQQMD1TD8nViZscpump": {
+      "symbol": "duval",
+      "created_at": "2026-11-24T12:47:31.337163772Z",
+      "first_seen": "2026-11-24T12:47:44.789624+00:00"
+    },
+    "972EfJRTQkjJ4fKL8ETsWCA4Jqd8ci4BwCxSTieFpump": {
+      "symbol": "skid",
+      "created_at": "2026-11-24T12:47:31.320895716Z",
+      "first_seen": "2026-11-24T12:47:44.789624+00:00"
+    },
+    "96nLmHUmaP3AgEP3t1zPaQWJ26Pi97eqn5sWtPjrpump": {
+      "symbol": "Professor",
+      "created_at": "2026-11-24T12:47:26.953521808Z",
+      "first_seen": "2026-11-24T12:47:44.789624+00:00"
     }
   },
   "alerted": [
