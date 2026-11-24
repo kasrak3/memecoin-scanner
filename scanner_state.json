@@ -1720,11 +1720,6 @@
       "created_at": "2026-11-24T11:05:00.602929906Z",
       "first_seen": "2026-11-24T11:05:24.407572+00:00"
     },
-    "DYnNWhjM6zUPLHRrTP2u747MBgHj7AuaQUYzMujhxhbk": {
-      "symbol": "ANSEM",
-      "created_at": "2026-11-24T11:08:02.408966274Z",
-      "first_seen": "2026-11-24T11:08:09.741497+00:00"
-    },
     "7hMnxdPdPvyaH7HzSYE6zzAjJMnJTvYQzuUmb36bpump": {
       "symbol": "FBCCX",
       "created_at": "2026-11-24T11:08:02.096271719Z",
@@ -1919,6 +1914,56 @@
       "symbol": "BTC-DN",
       "created_at": "2026-11-24T11:16:01.267121295Z",
       "first_seen": "2026-11-24T11:16:34.539786+00:00"
+    },
+    "Cau8tnJTHsi7dmi1RAtfDRyhLnz6tfiGFmFXrLP1yPTs": {
+      "symbol": "PILL",
+      "created_at": "2026-11-24T11:19:18.537774059Z",
+      "first_seen": "2026-11-24T11:19:26.301635+00:00"
+    },
+    "FFYMyZxx5dxZ4Sg4FFRDVudGLj1AYuZekrV1BuPc8spM": {
+      "symbol": "$MANDY",
+      "created_at": "2026-11-24T11:19:14.361780884Z",
+      "first_seen": "2026-11-24T11:19:26.301635+00:00"
+    },
+    "GCrb8Ke4CagpXdVBw7sYzwpnsNap31SjbFkMwBq9pump": {
+      "symbol": "ch",
+      "created_at": "2026-11-24T11:19:13.843696321Z",
+      "first_seen": "2026-11-24T11:19:26.301635+00:00"
+    },
+    "4UnwNNSF6d7Q7PTMkTV6FaFANawNbxRVDHCe6UYYpump": {
+      "symbol": "Pumppen",
+      "created_at": "2026-11-24T11:19:12.300423614Z",
+      "first_seen": "2026-11-24T11:19:26.301635+00:00"
+    },
+    "Hvh5YCsJwDeFqJFwRLfEGmWUfyeNFKHhAaUMf9w6pump": {
+      "symbol": "RBLX",
+      "created_at": "2026-11-24T11:19:08.179970077Z",
+      "first_seen": "2026-11-24T11:19:26.301635+00:00"
+    },
+    "CPhCyXZVbAi1v9hYuwxqWhHLPkHaecqXSsHpXTdEpump": {
+      "symbol": "WOLF",
+      "created_at": "2026-11-24T11:19:07.872428605Z",
+      "first_seen": "2026-11-24T11:19:26.301635+00:00"
+    },
+    "FbXFQdURraQLTfmQNwuW2fSPCGrrCfpkqi9qZwNKpump": {
+      "symbol": "bearpost",
+      "created_at": "2026-11-24T11:19:03.000301078Z",
+      "first_seen": "2026-11-24T11:19:26.301635+00:00"
+    },
+    "12ZKsnmBCcxd4N9aQRokwFcXS8eNS2vqnR3zbByug9jw": {
+      "symbol": "Scamsem",
+      "created_at": "2026-11-24T11:19:02.935839975Z",
+      "first_seen": "2026-11-24T11:19:26.301635+00:00"
+    },
+    "563RGV4c8XB68FFhksvnRsAfMoHSiFEB4brQEVUrpump": {
+      "symbol": "$GCAT",
+      "created_at": "2026-11-24T11:19:02.764250601Z",
+      "first_seen": "2026-11-24T11:19:26.301635+00:00"
+    },
+    "9P9URQyGtvdjD91wqTXQryszDqab23opAVpMj2yUpump": {
+      "symbol": "GNB",
+      "created_at": "2026-11-24T11:18:59.98075334Z",
+      "first_seen": "2026-11-24T11:19:26.301635+00:00"
     }
   },
   "alerted": [
@@ -2552,7 +2597,6 @@
     "9cDnmLRDWeJzcpyw8tSFAT7HS4Aunx6MmZWjMfrzpump"
   ],
   "rejected": [
-    "E6gs1c1o5NDTN4GC7c2vvQuaMkRmPbc1xQjfqrzHVaed",
     "3p4LAKKCcsiBF5nuYYqLu8mJpfXStQJMk2LYubM3pump",
     "Dp6ST4kkXH5yG1SQF8RRgt5w3R5bTowJfb4rogtfp6ea",
     "58QN7gzovVS25hLZVEemCMfqLH8ooTY7zz5XsmV6pump",
@@ -4551,6 +4595,7 @@
     "8rVQcMNBvYHWKdyV6peECbyZM49W442E2zYdttQroHgU",
     "ADZN8d5YYTbtA574pX8hkUuJwp7GBirqLJQpcRTGFMWB",
     "5jEFup3biPg5yuanewVa1GvAsy8afiBbUiRhkVpbXpa",
-    "ALa8FLngtjujPpDwWYHL4Fc5E4SRPaYE2fSJnBfTqSwP"
+    "ALa8FLngtjujPpDwWYHL4Fc5E4SRPaYE2fSJnBfTqSwP",
+    "DYnNWhjM6zUPLHRrTP2u747MBgHj7AuaQUYzMujhxhbk"
   ]
 }
