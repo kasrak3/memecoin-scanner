@@ -35,16 +35,6 @@
       "created_at": "2026-11-24T22:18:49.228741573Z",
       "first_seen": "2026-11-24T22:19:00.968881+00:00"
     },
-    "5dE4orvhnJkWVEreCwvL5Bc93XuoXiuzTKD16SZQHtY4": {
-      "symbol": "Mogmas",
-      "created_at": "2026-11-24T22:18:47.02084902Z",
-      "first_seen": "2026-11-24T22:19:00.968881+00:00",
-      "confirm": {
-        "liquidity": 3324.03,
-        "market_cap": 72620,
-        "at": "2026-11-24T22:29:09.341535+00:00"
-      }
-    },
     "67oZgkGDK7en2oij7RU8kkxrqLAHTcqymeuVGhxdCfWo": {
       "symbol": "YO",
       "created_at": "2026-11-24T22:18:46.037297387Z",
@@ -299,6 +289,56 @@
       "symbol": "SACREDAT",
       "created_at": "2026-11-24T22:28:54.565408901Z",
       "first_seen": "2026-11-24T22:29:09.341085+00:00"
+    },
+    "2DQtSL7QEjBvCfwwJj2tiRmHaKNYTVfHHBYGD461pump": {
+      "symbol": "BOTCORP",
+      "created_at": "2026-11-24T22:31:05.58474325Z",
+      "first_seen": "2026-11-24T22:31:15.106891+00:00"
+    },
+    "CyaR4MvCt4waAcyarfj247wjkQkDQbHyoei1v6VKS16F": {
+      "symbol": "HYPE-DN",
+      "created_at": "2026-11-24T22:31:05.364438167Z",
+      "first_seen": "2026-11-24T22:31:15.106891+00:00"
+    },
+    "4mGqCCEVGMDio9zJWoehVfnoHfeiJNKoCuoAPAVMpump": {
+      "symbol": "NEON HI",
+      "created_at": "2026-11-24T22:31:02.545166759Z",
+      "first_seen": "2026-11-24T22:31:15.106891+00:00"
+    },
+    "7kKu8f9TJzYscRLGFG15zFDTZWX8Yi6mNEDuAPXkpump": {
+      "symbol": "SAQA",
+      "created_at": "2026-11-24T22:31:00.023119358Z",
+      "first_seen": "2026-11-24T22:31:15.106891+00:00"
+    },
+    "4s6Tri7HSpKtRjwdSVjLLtjy2vmCp2pM8CGTsDyupump": {
+      "symbol": "BOTCORP",
+      "created_at": "2026-11-24T22:30:59.811942165Z",
+      "first_seen": "2026-11-24T22:31:15.106891+00:00"
+    },
+    "BgNY3MFFRTzUfKSLXRTofEEVyqvqNHne8wzfGp8Wpump": {
+      "symbol": "$GYMP",
+      "created_at": "2026-11-24T22:30:58.271563414Z",
+      "first_seen": "2026-11-24T22:31:15.106891+00:00"
+    },
+    "C5vKcuZsnvucZPP1jewE3ZY5JyFRZa3J9YzVLZJEoxwL": {
+      "symbol": "PUMPBOY",
+      "created_at": "2026-11-24T22:30:52.317965662Z",
+      "first_seen": "2026-11-24T22:31:15.106891+00:00"
+    },
+    "BrvTSqT91amk7621qCbbSZAsBF88wrhvb596znxXpump": {
+      "symbol": "$1",
+      "created_at": "2026-11-24T22:30:51.525462807Z",
+      "first_seen": "2026-11-24T22:31:15.106891+00:00"
+    },
+    "96R1LceebYxEWHyVNQnjj5kwDz9KNGtEHufw9j3Dpump": {
+      "symbol": "pic",
+      "created_at": "2026-11-24T22:30:49.877714662Z",
+      "first_seen": "2026-11-24T22:31:15.106891+00:00"
+    },
+    "3uDLETqafdED8LvmMEJvmPpdkyB2rPYK4AiDqmFs8q9L": {
+      "symbol": "Mogmas",
+      "created_at": "2026-11-24T22:30:49.099631454Z",
+      "first_seen": "2026-11-24T22:31:15.106891+00:00"
     }
   },
   "alerted": [
@@ -934,7 +974,6 @@
     "5zLndXiLw8p86NRF2ojayuLvQkQWyBnHQyny1b4pump"
   ],
   "rejected": [
-    "7fADchjawrzcQFxU68pz29GAcpeJLVt6RVLcfRGFHkyJ",
     "EHGmNKTCLuK23F5j3N8TuNS77HejJD2Y5WgrLRRNG8gC",
     "ECc9MucHDCG7deLDZ7rBf521ecbWYK8m6j5Dnr9pump",
     "DvHTWvZLvjxxRL5z8f4wjebVNHtUM2CiSd8eyGphnQbm",
@@ -2933,6 +2972,7 @@
     "56HMtA8HnXiTrhAmPTwdVp9vPT5i1jKVh8Ypg2fdbtMJ",
     "FBvxxVDGPUCXmmsfSxyvHySPF5KPuS2UL4Jd1rX1ojN9",
     "AVPcjUuVYhugQynNh5HvPg5oBqX72Zm7vsTnakjD8StZ",
-    "DweMwydoPPq1Sgk232JfM2MUmkfpozhhn4yu6hWNpump"
+    "DweMwydoPPq1Sgk232JfM2MUmkfpozhhn4yu6hWNpump",
+    "5dE4orvhnJkWVEreCwvL5Bc93XuoXiuzTKD16SZQHtY4"
   ]
 }
