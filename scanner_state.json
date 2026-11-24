@@ -1250,11 +1250,6 @@
       "created_at": "2026-11-24T23:17:44.491463701Z",
       "first_seen": "2026-11-24T23:18:01.998293+00:00"
     },
-    "BMgWtW6jfbU3sm89rA4H9QFGMxZ3RB5MLuSJsFy3rA3K": {
-      "symbol": "NUT",
-      "created_at": "2026-11-24T23:17:44.298370115Z",
-      "first_seen": "2026-11-24T23:18:01.998293+00:00"
-    },
     "28AQpjPAfjGDzUm3fBehXu1xBE9aErvU9n4u1QFTpump": {
       "symbol": "HUSS",
       "created_at": "2026-11-24T23:17:40.384824053Z",
@@ -1419,6 +1414,56 @@
       "symbol": "BTC-DN",
       "created_at": "2026-11-24T23:25:32.372893857Z",
       "first_seen": "2026-11-24T23:25:57.408471+00:00"
+    },
+    "DMkxjViNM6QWF2mXNUpY57xarzq8zDVdXpTjPkJypump": {
+      "symbol": "HABIBO",
+      "created_at": "2026-11-24T23:28:38.848760045Z",
+      "first_seen": "2026-11-24T23:28:41.303075+00:00"
+    },
+    "F3GhBUov6ypHFKenhRVWSeSM9mUvQXNnE9fFKjVUpump": {
+      "symbol": "Turkey",
+      "created_at": "2026-11-24T23:28:36.666011368Z",
+      "first_seen": "2026-11-24T23:28:41.303075+00:00"
+    },
+    "psMM5FYML7Z7cZ5CJRi2QoJEDnN6TPGSC64vUxqpump": {
+      "symbol": "endokbebk",
+      "created_at": "2026-11-24T23:28:36.260582582Z",
+      "first_seen": "2026-11-24T23:28:41.303075+00:00"
+    },
+    "BQZpoc14BPQBstxkwnKuhGCYrLDjWt6jzR65E2BCpump": {
+      "symbol": "Solace",
+      "created_at": "2026-11-24T23:28:35.556673119Z",
+      "first_seen": "2026-11-24T23:28:41.303075+00:00"
+    },
+    "Gu3xD6Kfuj6p3Rm4gAc8N9Ki8CPqwXSHzBe8ak9cpump": {
+      "symbol": "PAXCOIN",
+      "created_at": "2026-11-24T23:28:26.994288591Z",
+      "first_seen": "2026-11-24T23:28:41.303075+00:00"
+    },
+    "FJFLVYw9GYjUKvqBwznkdD56rqWcxo96bhz8HaW3pump": {
+      "symbol": "STONE",
+      "created_at": "2026-11-24T23:28:24.323996936Z",
+      "first_seen": "2026-11-24T23:28:41.303075+00:00"
+    },
+    "Eu8kxtBn14GuEFUVruba2ZabpPWbH4QjqZVXhn1hyvn1": {
+      "symbol": "Huss",
+      "created_at": "2026-11-24T23:28:23.65484256Z",
+      "first_seen": "2026-11-24T23:28:41.303075+00:00"
+    },
+    "DQiR4cWqvJ5AjLD3zr323TusQhAKWuEFdUiaUX24pump": {
+      "symbol": "KNVIDIA",
+      "created_at": "2026-11-24T23:28:22.757888854Z",
+      "first_seen": "2026-11-24T23:28:41.303075+00:00"
+    },
+    "wMXVpHw8eRMhw79WiCaFERCnE6wP3KcwVh8BgczuYFt": {
+      "symbol": "USD\ud81b\udf0a",
+      "created_at": "2026-11-24T23:28:22.71215475Z",
+      "first_seen": "2026-11-24T23:28:41.303075+00:00"
+    },
+    "Ega9YJ2mkmnncKLgn1j8aYGZ9N9G1AWtE3bPNmLQBV3f": {
+      "symbol": "PumpStickers",
+      "created_at": "2026-11-24T23:28:22.656761835Z",
+      "first_seen": "2026-11-24T23:28:41.303075+00:00"
     }
   },
   "alerted": [
@@ -2054,7 +2099,6 @@
     "5zLndXiLw8p86NRF2ojayuLvQkQWyBnHQyny1b4pump"
   ],
   "rejected": [
-    "Hq3YLFX3NWBexGRABf6wuAokrZSV8n1VdZ4eoQcbYFYB",
     "41tnwS9xPiv7LvwZUMTZKCp7yzrAhemNZhaf4eFFzrN7",
     "oxp8r6fsGWgioCM9kvSgwSEaWvxSUVFRr9dvcB4pump",
     "7eZMRbNfYM2jzZordug6TjVkTzC1MkR5cphAbeAXro7r",
@@ -4053,6 +4097,7 @@
     "CADhab49RDsniuotRgcocmnrFJGFnT5mmYdAiy91N6NR",
     "E7HVrcdVpCefCZPYFTj5iQjAVyhjhUKSMGhdPA1TmoU1",
     "AVtaXGcizwcUVJqB32LNF9XB2B4xdDNbq2h2EGu8pump",
-    "8daxqp51Reo8rJAuW5PaaF2QajqVGLh6YqWdDwyrhAUB"
+    "8daxqp51Reo8rJAuW5PaaF2QajqVGLh6YqWdDwyrhAUB",
+    "BMgWtW6jfbU3sm89rA4H9QFGMxZ3RB5MLuSJsFy3rA3K"
   ]
 }
