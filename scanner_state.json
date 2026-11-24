@@ -745,16 +745,6 @@
       "created_at": "2026-11-24T00:18:15.230457023Z",
       "first_seen": "2026-11-24T00:18:38.789898+00:00"
     },
-    "7FsqevgVeuDAU61BgdSYveSoyUHzJxxdKgctNHf5KLyz": {
-      "symbol": "RSI",
-      "created_at": "2026-11-24T00:18:10.362654813Z",
-      "first_seen": "2026-11-24T00:18:38.789898+00:00",
-      "confirm": {
-        "liquidity": 11794.51,
-        "market_cap": 31470,
-        "at": "2026-11-24T00:29:35.501715+00:00"
-      }
-    },
     "6doX26921ssLS9jvPN5rNJcD66bmytf9VQYqYqhHpump": {
       "symbol": "Pararapist",
       "created_at": "2026-11-24T00:18:08.097409734Z",
@@ -1024,6 +1014,56 @@
       "symbol": "ZK1",
       "created_at": "2026-11-24T00:29:18.735378006Z",
       "first_seen": "2026-11-24T00:29:35.501472+00:00"
+    },
+    "2Gs7MJMEwyLh7SzcjJuaAVN9EtVUv8S6NSE2AkMmKepE": {
+      "symbol": "ELLIOT",
+      "created_at": "2026-11-24T00:31:42.763033692Z",
+      "first_seen": "2026-11-24T00:31:49.509840+00:00"
+    },
+    "83CLSWvqgKR8AgoemWGPDbuajSEmj4NEtGZTfEFNpump": {
+      "symbol": "star",
+      "created_at": "2026-11-24T00:31:41.106861243Z",
+      "first_seen": "2026-11-24T00:31:49.509840+00:00"
+    },
+    "4C2V1AzhWneZdSXPkRbv9wEmDDktcfj7Ymr7mPFepump": {
+      "symbol": "FABLE",
+      "created_at": "2026-11-24T00:31:37.17282005Z",
+      "first_seen": "2026-11-24T00:31:49.509840+00:00"
+    },
+    "2dTvspqDB3GALcgP3YhAzZctVG2GyaYPA8VgJQnNpump": {
+      "symbol": "$SGC",
+      "created_at": "2026-11-24T00:31:35.959733178Z",
+      "first_seen": "2026-11-24T00:31:49.509840+00:00"
+    },
+    "7FRxb3YNdrnvvT2wEj1cwRbKpHqVKHP1pZQoULsopump": {
+      "symbol": "CHARITY",
+      "created_at": "2026-11-24T00:31:31.982295718Z",
+      "first_seen": "2026-11-24T00:31:49.509840+00:00"
+    },
+    "3N7ZCyj54VQriPgSzq9ZZQfTPEHrFaSydyUR7dTpvKSP": {
+      "symbol": "HUANG",
+      "created_at": "2026-11-24T00:31:30.452599735Z",
+      "first_seen": "2026-11-24T00:31:49.509840+00:00"
+    },
+    "2d1mgSe4BhQXJbTPZk4kKobZsKbanEmFrnVcxysCpump": {
+      "symbol": "OMG",
+      "created_at": "2026-11-24T00:31:27.256794058Z",
+      "first_seen": "2026-11-24T00:31:49.509840+00:00"
+    },
+    "B8ZAt8vxk1fAzvKJTRPUzMPLpGdeBxxvgx2uxvwapump": {
+      "symbol": "SATINU",
+      "created_at": "2026-11-24T00:31:24.855143517Z",
+      "first_seen": "2026-11-24T00:31:49.509840+00:00"
+    },
+    "9XyDDqKGqE443tBzKvAwWMNp7XLAiJ2AnZFU8NYNpump": {
+      "symbol": "GOOPER",
+      "created_at": "2026-11-24T00:31:21.554664285Z",
+      "first_seen": "2026-11-24T00:31:49.509840+00:00"
+    },
+    "9WNoZsw5U1dXe6ZyeDrXnMTaoZkoSsjy1sQGg71AUTeM": {
+      "symbol": "SOL-UP",
+      "created_at": "2026-11-24T00:31:19.646259531Z",
+      "first_seen": "2026-11-24T00:31:49.509840+00:00"
     }
   },
   "alerted": [
@@ -1651,7 +1691,8 @@
     "89DKn95R7QvjAcGSeqHvmj3pq7TJFbJcckURqjvuHsHp",
     "Ftb2BDazcQ8gBBceedy2yLPPqPbvgsCMgNRvoNbhpump",
     "CBS1VSaaYBRDD5pgiTT7LvXL2vA4E9XsxvR715A5pump",
-    "4YNAfLUUepvLS1m4K1AQ3s7G62LsGWYzAxuJXRQVpump"
+    "4YNAfLUUepvLS1m4K1AQ3s7G62LsGWYzAxuJXRQVpump",
+    "7FsqevgVeuDAU61BgdSYveSoyUHzJxxdKgctNHf5KLyz"
   ],
   "rejected": [
     "PYrWMyjpNEnQWEHu8efbueyGDm6GLsZNmVDSQbnt4BF",
