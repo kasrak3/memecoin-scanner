@@ -1243,7 +1243,12 @@
     "8NWUHtVXAfbhB7YKzJ6kCGUeEi1ZsXyzSu8NKxpbpump": {
       "symbol": "JENSEN",
       "created_at": "2026-11-25T22:31:21.582825795Z",
-      "first_seen": "2026-11-25T22:31:29.177006+00:00"
+      "first_seen": "2026-11-25T22:31:29.177006+00:00",
+      "confirm": {
+        "liquidity": 15464.97,
+        "market_cap": 56105,
+        "at": "2026-11-25T22:41:57.432271+00:00"
+      }
     },
     "Bkw4Th11GK6fKCZrCmQaGxj3EgcMnRqDZnc99D6rpump": {
       "symbol": "PVE",
@@ -1429,6 +1434,56 @@
       "symbol": "TRADITION",
       "created_at": "2026-11-25T22:39:03.332293939Z",
       "first_seen": "2026-11-25T22:39:20.089775+00:00"
+    },
+    "4zYLumK23s7AzVhwiBHZB6jPQjRWoU1h7ogpHCfcpump": {
+      "symbol": "block0",
+      "created_at": "2026-11-25T22:41:47.178887729Z",
+      "first_seen": "2026-11-25T22:41:57.432020+00:00"
+    },
+    "Eq18XhQvQJPZqhHMS4DPeZKn8TNDyaZUQ19f1hRdpump": {
+      "symbol": "SXSN",
+      "created_at": "2026-11-25T22:41:47.162783921Z",
+      "first_seen": "2026-11-25T22:41:57.432020+00:00"
+    },
+    "FHoWa5i6Nh4gjML9BCq8MBUu8LwUwTXKGc7L4pREpump": {
+      "symbol": "OBLK",
+      "created_at": "2026-11-25T22:41:45.952095491Z",
+      "first_seen": "2026-11-25T22:41:57.432020+00:00"
+    },
+    "6JdSH7Bm9uLDjXSnRNvc9GJuCXaxKgRSW1N6cvJbpump": {
+      "symbol": "trader",
+      "created_at": "2026-11-25T22:41:44.38568758Z",
+      "first_seen": "2026-11-25T22:41:57.432020+00:00"
+    },
+    "GPo9pg4vd9a22J69nAuVJUKYriYjTBwMhxgMhhMXpump": {
+      "symbol": "PI",
+      "created_at": "2026-11-25T22:41:41.562982188Z",
+      "first_seen": "2026-11-25T22:41:57.432020+00:00"
+    },
+    "7cprLKcpb6M23mj7XqmnSfX3RDv4gvEyXj5Cg1GoU7Ke": {
+      "symbol": "JEW.FUN",
+      "created_at": "2026-11-25T22:41:36.997123642Z",
+      "first_seen": "2026-11-25T22:41:57.432020+00:00"
+    },
+    "3RsRtMZM2W2WHA5vpxrfcZJpKkZEKCtQcvymoLGBpump": {
+      "symbol": "BATON",
+      "created_at": "2026-11-25T22:41:34.742565419Z",
+      "first_seen": "2026-11-25T22:41:57.432020+00:00"
+    },
+    "A7cY52wExfi6w4YvBGH6LnSYkyAUD1VFCJP5v6DADT9q": {
+      "symbol": "DYOR",
+      "created_at": "2026-11-25T22:41:34.433140684Z",
+      "first_seen": "2026-11-25T22:41:57.432020+00:00"
+    },
+    "GRq4XwZjhW5fBwT1i4MnBCXhy6G35XmMndt7BUFpk7HM": {
+      "symbol": "JEWFUN",
+      "created_at": "2026-11-25T22:41:34.293529762Z",
+      "first_seen": "2026-11-25T22:41:57.432020+00:00"
+    },
+    "EPChpcsRkPzWBsRKt5NTsSpe4eDmS6kXdpkyfYtnpump": {
+      "symbol": "$BBAN",
+      "created_at": "2026-11-25T22:41:32.639862008Z",
+      "first_seen": "2026-11-25T22:41:57.432020+00:00"
     }
   },
   "alerted": [
