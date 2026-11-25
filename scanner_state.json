@@ -48,7 +48,12 @@
     "6sA2MQ16pug6gUo78UXBiJjqWWpwejRKk6s4BNdEpump": {
       "symbol": "MONEY",
       "created_at": "2026-11-25T21:35:29.716814789Z",
-      "first_seen": "2026-11-25T21:35:52.929089+00:00"
+      "first_seen": "2026-11-25T21:35:52.929089+00:00",
+      "confirm": {
+        "liquidity": 27668.73,
+        "market_cap": 158810,
+        "at": "2026-11-25T21:46:02.245339+00:00"
+      }
     },
     "FDmz1nmgWnf4F1yDBwAttKR18sPNPYqhe9qik1t9pump": {
       "symbol": "$LOAD",
@@ -249,6 +254,56 @@
       "symbol": "TI",
       "created_at": "2026-11-25T21:43:18.313747926Z",
       "first_seen": "2026-11-25T21:44:00.456238+00:00"
+    },
+    "h5q1HxChU1pSi8Td3SmMFfMYCsWTXNVMTxhed5Npump": {
+      "symbol": "GEMINI",
+      "created_at": "2026-11-25T21:45:47.675410502Z",
+      "first_seen": "2026-11-25T21:46:02.245110+00:00"
+    },
+    "GsqGxFoFyWfvNp3KvikjuUpPu68gVxjmrwPQhh292x4P": {
+      "symbol": "inu",
+      "created_at": "2026-11-25T21:45:46.839182658Z",
+      "first_seen": "2026-11-25T21:46:02.245110+00:00"
+    },
+    "HZntnxLAXu55epEfBrfkZ5YLojb6UU22g3oonLStMAQt": {
+      "symbol": "Crythm",
+      "created_at": "2026-11-25T21:45:46.260813792Z",
+      "first_seen": "2026-11-25T21:46:02.245110+00:00"
+    },
+    "59NZQ56feshJRSmin7jBAhWDxD1yfnbDy3PC4YX4pump": {
+      "symbol": "FI",
+      "created_at": "2026-11-25T21:45:46.105022643Z",
+      "first_seen": "2026-11-25T21:46:02.245110+00:00"
+    },
+    "MU5J5oaNxQT7NbmVmXpSr9Xk4mTnkc6ZiH61tAqpump": {
+      "symbol": "SHBA",
+      "created_at": "2026-11-25T21:45:45.760615911Z",
+      "first_seen": "2026-11-25T21:46:02.245110+00:00"
+    },
+    "BD4r7viQSqAf7vbjq2Tpe3KkVHqjtXPFEo5DdfJdpump": {
+      "symbol": "i",
+      "created_at": "2026-11-25T21:45:40.72738267Z",
+      "first_seen": "2026-11-25T21:46:02.245110+00:00"
+    },
+    "67qheYodo8kG4goeGGyt7tT1tEFx2osheK2NcFwBbr6X": {
+      "symbol": "Pedobear",
+      "created_at": "2026-11-25T21:45:40.435954548Z",
+      "first_seen": "2026-11-25T21:46:02.245110+00:00"
+    },
+    "BXfwhC2LTxxraqMfoNCNx7EfGtmA3n9uuEBpjfUcpump": {
+      "symbol": "TOUCHDOWN",
+      "created_at": "2026-11-25T21:45:40.434237388Z",
+      "first_seen": "2026-11-25T21:46:02.245110+00:00"
+    },
+    "LB9PmgLKDhenYj6TkDyf1N7aEbSuQnBW9nQ2AU7pump": {
+      "symbol": "$ABU",
+      "created_at": "2026-11-25T21:45:40.17154573Z",
+      "first_seen": "2026-11-25T21:46:02.245110+00:00"
+    },
+    "CShJnkBXfdPKAXXgtnaWJiKiRfacfY8ofKA1msVYpump": {
+      "symbol": "NEON",
+      "created_at": "2026-11-25T21:45:40.084724184Z",
+      "first_seen": "2026-11-25T21:46:02.245110+00:00"
     }
   },
   "alerted": [
