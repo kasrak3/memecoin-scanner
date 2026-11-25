@@ -1510,11 +1510,6 @@
       "created_at": "2026-11-25T09:26:19.121260435Z",
       "first_seen": "2026-11-25T09:26:33.948035+00:00"
     },
-    "7fARqrszaRhwPhjULPKx5ZbLrneLw44vJo7VPKJZ2JCD": {
-      "symbol": "\u9ec4\u4ec1\u52cb",
-      "created_at": "2026-11-25T09:26:15.345122481Z",
-      "first_seen": "2026-11-25T09:26:33.948035+00:00"
-    },
     "5T8CBZngfwj192YPjoLfTkxcEN16uqwvg2DMXUvC1zoq": {
       "symbol": "JUGGERNAUT",
       "created_at": "2026-11-25T09:28:50.605042474Z",
@@ -1764,6 +1759,56 @@
       "symbol": "Nyamitto",
       "created_at": "2026-11-25T09:38:12.788073856Z",
       "first_seen": "2026-11-25T09:38:34.355231+00:00"
+    },
+    "F2Rn65GHSQ5U9eYcRRW3dMrLXkBZ8kqw8ZJxcmHRnoNv": {
+      "symbol": "",
+      "created_at": "2026-11-25T09:40:54.069888781Z",
+      "first_seen": "2026-11-25T09:40:58.304610+00:00"
+    },
+    "Abha884RdxpTFzN1h5nH9PSadzLAkNw4fv3WKKnUpump": {
+      "symbol": "runner",
+      "created_at": "2026-11-25T09:40:53.787661888Z",
+      "first_seen": "2026-11-25T09:40:58.304610+00:00"
+    },
+    "FzVp4TyqNYgRFfYhg3dH4UHHXwap9sJxxMpwYENoCDPH": {
+      "symbol": "SOL-DN",
+      "created_at": "2026-11-25T09:40:53.78119767Z",
+      "first_seen": "2026-11-25T09:40:58.304610+00:00"
+    },
+    "FyvQVCkUQycPJZ5KRvdiA9eB9VfoWP8PaAiMdXPMpump": {
+      "symbol": "Reddit",
+      "created_at": "2026-11-25T09:40:52.768552187Z",
+      "first_seen": "2026-11-25T09:40:58.304610+00:00"
+    },
+    "915qEAvmnoyM4cez2CFhVybM6P6tvTTL9jAP3SyrgZyj": {
+      "symbol": "",
+      "created_at": "2026-11-25T09:40:52.689443757Z",
+      "first_seen": "2026-11-25T09:40:58.304610+00:00"
+    },
+    "3Xg6p4QTLsquC2iZ1gkH7at8HxFaQ62VBVtqKM6Bpump": {
+      "symbol": "inms",
+      "created_at": "2026-11-25T09:40:50.58087579Z",
+      "first_seen": "2026-11-25T09:40:58.304610+00:00"
+    },
+    "AUCfuMGuNgmcaNYUMHAAUqWwvssZyytpZBbVURq2pump": {
+      "symbol": "ULTRA",
+      "created_at": "2026-11-25T09:40:49.327303398Z",
+      "first_seen": "2026-11-25T09:40:58.304610+00:00"
+    },
+    "JC7EjENTthUrZXC49vwBDJNJvPo1DweSFYaToEBKpM3b": {
+      "symbol": "FLO",
+      "created_at": "2026-11-25T09:40:48.521384373Z",
+      "first_seen": "2026-11-25T09:40:58.304610+00:00"
+    },
+    "C1893mFmscBPE4Z1QikLnHyEPbAfNzWbRe6oCqf9iVKy": {
+      "symbol": "",
+      "created_at": "2026-11-25T09:40:46.824402121Z",
+      "first_seen": "2026-11-25T09:40:58.304610+00:00"
+    },
+    "EMuAcHCG6j6LwRQiqskqS4TNs7H95ifGGtbyfXDpNWzm": {
+      "symbol": "BTC-DN",
+      "created_at": "2026-11-25T09:40:44.139237065Z",
+      "first_seen": "2026-11-25T09:40:58.304610+00:00"
     }
   },
   "alerted": [
@@ -2403,7 +2448,6 @@
     "c8LwPkbtzjMCZRPi1wXNBJgA3ZfUXCJ2N9ZxFg9pump"
   ],
   "rejected": [
-    "4abcPkcfCdyu8U7LXQvHrGYMK8hdq5khcvKQj41aAGuF",
     "3zXt7sGveqfN7U6X86eGXa4RBJ7bP9AynCwbMJK8pump",
     "DcqmTDb1VKbyANSRKs2fQThTWFDTdzXc38HYm833Ksan",
     "3JbTkc6UtWQ37BfXpCukahQhrATRAfzdyygXgcoGZ6ea",
@@ -4402,6 +4446,7 @@
     "6EkdVkMQhv1ckLkGgN42D8DiqnsNchBprUC9yJEzpump",
     "H38C124JtqqTXVxbZC1HCpBnyDrPptgAAdwhvainQhAg",
     "HfdAEBZrw6SVjM9tWh9yM2DXHXdHwdH6ovEhR2EWu6gA",
-    "AprrMh5rAGmcYxwm4TxoDuCx3RrYyGxtXtLWeAbnGmHn"
+    "AprrMh5rAGmcYxwm4TxoDuCx3RrYyGxtXtLWeAbnGmHn",
+    "7fARqrszaRhwPhjULPKx5ZbLrneLw44vJo7VPKJZ2JCD"
   ]
 }
