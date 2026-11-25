@@ -1555,11 +1555,6 @@
       "created_at": "2026-11-25T22:47:02.506538896Z",
       "first_seen": "2026-11-25T22:47:19.951336+00:00"
     },
-    "3r8aZCBKrj2XxfiF2GeYmNkuE6JxPE1zJ62XDFDGpump": {
-      "symbol": "NAOMI",
-      "created_at": "2026-11-25T22:47:01.711546765Z",
-      "first_seen": "2026-11-25T22:47:19.951336+00:00"
-    },
     "5gJV33ZTNKmnvkFBRvZQ6nU33UWoTCnSsR1AERoopump": {
       "symbol": "NOFLAPS",
       "created_at": "2026-11-25T22:46:54.849539074Z",
@@ -1719,6 +1714,56 @@
       "symbol": "OWP",
       "created_at": "2026-11-25T22:55:00.688189475Z",
       "first_seen": "2026-11-25T22:55:31.969504+00:00"
+    },
+    "BkGYCiN1LAZFWj52hJf5JmexrZZfSEpxKXz78qXKpump": {
+      "symbol": "pill",
+      "created_at": "2026-11-25T22:58:24.289907112Z",
+      "first_seen": "2026-11-25T22:58:26.778552+00:00"
+    },
+    "42DdahnAAMgLfJ47RjdUMp45hvQ5WuJ6S7921WScpWQY": {
+      "symbol": "MALFOID",
+      "created_at": "2026-11-25T22:58:22.346873409Z",
+      "first_seen": "2026-11-25T22:58:26.778552+00:00"
+    },
+    "6N5beEq1ayRbd3Y7pELZ5PRrFJoMUEeQVQygGRFgpump": {
+      "symbol": "DOUGHNAP",
+      "created_at": "2026-11-25T22:58:21.680145594Z",
+      "first_seen": "2026-11-25T22:58:26.778552+00:00"
+    },
+    "6vdwvDMT8AVUhQZZXt8HwHzvGjvZpXXtm3cjwHzSpump": {
+      "symbol": "FKJ",
+      "created_at": "2026-11-25T22:58:19.546486118Z",
+      "first_seen": "2026-11-25T22:58:26.778552+00:00"
+    },
+    "35oH5FhKWUpWJCgrn43r4sBtE7cbbtna2nEynK833g1t": {
+      "symbol": "",
+      "created_at": "2026-11-25T22:58:17.044480295Z",
+      "first_seen": "2026-11-25T22:58:26.778552+00:00"
+    },
+    "3TqZrZJwB5F7UEXFoD41BDRctRssaxKSDXNUz7Gm4G1x": {
+      "symbol": "OWP",
+      "created_at": "2026-11-25T22:58:15.148577312Z",
+      "first_seen": "2026-11-25T22:58:26.778552+00:00"
+    },
+    "ANaHn19a9vn3H32KRA4YFNEyFGNCRZLUbuv4ezUipump": {
+      "symbol": "blocked",
+      "created_at": "2026-11-25T22:58:08.761126448Z",
+      "first_seen": "2026-11-25T22:58:26.778552+00:00"
+    },
+    "54SLqr32D9niAZfrrX7oG1XkAMcPSsigb6pqVbqLpump": {
+      "symbol": "DOGE PAID",
+      "created_at": "2026-11-25T22:58:07.834913146Z",
+      "first_seen": "2026-11-25T22:58:26.778552+00:00"
+    },
+    "HxvzZtdpVByY2icdLkqXxDY8gnRLgmgBL2hHHnMMpump": {
+      "symbol": "Veilor",
+      "created_at": "2026-11-25T22:58:07.450689103Z",
+      "first_seen": "2026-11-25T22:58:26.778552+00:00"
+    },
+    "AMNjvse5NEKAiDryhy9aaFuKDQ7zVnejvjRZ6FaEdwr3": {
+      "symbol": "ETH-DN",
+      "created_at": "2026-11-25T22:58:06.378074899Z",
+      "first_seen": "2026-11-25T22:58:26.778552+00:00"
     }
   },
   "alerted": [
@@ -2359,7 +2404,6 @@
     "8NWUHtVXAfbhB7YKzJ6kCGUeEi1ZsXyzSu8NKxpbpump"
   ],
   "rejected": [
-    "AYvEpcK9119T453PpSCJjeR91VWNn9rDW1i2yc1vpump",
     "4wGqi7tt5mYhrKwovwa5ok2gnnbs4kW21m5J6CxS2QPu",
     "DRS6W4UipAweNJefTjVf7q9fYPtxdGx52L8mghuq4YTm",
     "3a7p3Kf9T2BmgDpEMHNM7t66oysvnAqTJKPiVjFSpump",
@@ -4358,6 +4402,7 @@
     "9oVBUgUo1pAJXrUTkwJTDrVbRX5WZtUaoPG44m3XvBGg",
     "2UJUSctff4dePddrwU9Ct5LiHqkUo1wJxe5iGEyewk9P",
     "Dzdkwv7NYdrGb5K1cA45zKzeskVGPKPYDBynzBNCEJtG",
-    "FE7zN2fJJppwrU71mQfuXmjgKmcGfVuCpMYrhwAhpump"
+    "FE7zN2fJJppwrU71mQfuXmjgKmcGfVuCpMYrhwAhpump",
+    "3r8aZCBKrj2XxfiF2GeYmNkuE6JxPE1zJ62XDFDGpump"
   ]
 }
