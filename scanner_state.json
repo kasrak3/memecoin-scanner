@@ -1055,11 +1055,6 @@
       "created_at": "2026-11-26T22:10:52.079098991Z",
       "first_seen": "2026-11-26T22:10:55.274062+00:00"
     },
-    "3jTWdJVYatbkbWFmnYtSi5HyzW4EpVQEJTzPFUtKfyQF": {
-      "symbol": "Snowball",
-      "created_at": "2026-11-26T22:10:51.767933238Z",
-      "first_seen": "2026-11-26T22:10:55.274062+00:00"
-    },
     "8BdioWsazZK36smym658JC8h74Bf3h5ex96cuZWwDePM": {
       "symbol": "BTC-UP",
       "created_at": "2026-11-26T22:10:50.791647783Z",
@@ -1239,6 +1234,56 @@
       "symbol": "BEANIE",
       "created_at": "2026-11-26T22:18:18.268379727Z",
       "first_seen": "2026-11-26T22:18:31.211981+00:00"
+    },
+    "Gdui3L1uvfhX36QUuFkYRXcQAi7QnW1BaHorew8rpump": {
+      "symbol": "BUY",
+      "created_at": "2026-11-26T22:20:51.320958075Z",
+      "first_seen": "2026-11-26T22:21:07.349263+00:00"
+    },
+    "8rKEYhWbNSa1F59EpfzXSXPRJ6XD3C5ZgTSwt4Kmpump": {
+      "symbol": "CI",
+      "created_at": "2026-11-26T22:20:50.322152304Z",
+      "first_seen": "2026-11-26T22:21:07.349263+00:00"
+    },
+    "AhhF76Ca8K14Jyp3z9YdDAXGna9rVoReszQhtbmMpump": {
+      "symbol": "Bummas",
+      "created_at": "2026-11-26T22:20:50.26188606Z",
+      "first_seen": "2026-11-26T22:21:07.349263+00:00"
+    },
+    "95Rk8cRTFgB5BxhBzAnxYvBqaQgkPmpxksKtJ7nWpump": {
+      "symbol": "DWTA",
+      "created_at": "2026-11-26T22:20:50.005046463Z",
+      "first_seen": "2026-11-26T22:21:07.349263+00:00"
+    },
+    "HhpW7QkBXZQ73hDCFeFEChApQ2uDzWJybUWwYph9pump": {
+      "symbol": "CASA",
+      "created_at": "2026-11-26T22:20:49.315573729Z",
+      "first_seen": "2026-11-26T22:21:07.349263+00:00"
+    },
+    "GVjFhcwz1rtphnAHDD9DfE4dRfgPZhrwVDhsV3qm4L1K": {
+      "symbol": "YO",
+      "created_at": "2026-11-26T22:20:43.87238383Z",
+      "first_seen": "2026-11-26T22:21:07.349263+00:00"
+    },
+    "AW7FQXd9J2Nm8UQyxcU6pnr3n9xdiusFd8adbqTdpump": {
+      "symbol": "DARK",
+      "created_at": "2026-11-26T22:20:43.087214767Z",
+      "first_seen": "2026-11-26T22:21:07.349263+00:00"
+    },
+    "AFk7nG6LZs3MyaCJi963eSRCV1v4pntqNkgbAiKhRhN": {
+      "symbol": "SpaceXCoin",
+      "created_at": "2026-11-26T22:20:41.573719764Z",
+      "first_seen": "2026-11-26T22:21:07.349263+00:00"
+    },
+    "7uKe76BvBH3PXgnXbGNYhVUVoaXZqNawQsrX9QNKpump": {
+      "symbol": "BPCATE",
+      "created_at": "2026-11-26T22:20:36.404767955Z",
+      "first_seen": "2026-11-26T22:21:07.349263+00:00"
+    },
+    "DbqxXRuZr7MEi8unzrR94tTDt22iMTZy1cuABNSpjKFn": {
+      "symbol": "zBRA",
+      "created_at": "2026-11-26T22:20:34.612119054Z",
+      "first_seen": "2026-11-26T22:21:07.349263+00:00"
     }
   },
   "alerted": [
@@ -1882,7 +1927,6 @@
     "DG2EJSEtPBge5F7zBCTZG78p27LTCiq8tUkJ39qupump"
   ],
   "rejected": [
-    "GHaCnN6CwhXNHzTpC2m8et6ZjqZ9tLvzj6YUFybwpump",
     "3MZBQCnrQzw1TKuVXxDgTsx12Ggn7ZzjQMHNGb7rNQtc",
     "3SGJPK6m1shAU23hXdZrYXtiTfGviBeZLDNPqKH4kSPE",
     "6xunLdMi5FkiyCTZZNF7KRNS6d8Li7KCEQY4yoPdRvK7",
@@ -3881,6 +3925,7 @@
     "ErrhWENqx6GYDoz1naUZY1SMEhSzaqm39qb6PGJbpump",
     "57tDe7dRAq8YKkpZCZVrNNbfQ1tdUiJ4gut7c8k6UcjK",
     "ASqvsPKNuYhnMYvZDXqrXqkxJwXKeaxoeNbPZPfDQ4Zw",
-    "QGkJox7Lkhyjmkm4m6FFCUX8gX9MbXVZK2AqKDoJrDx"
+    "QGkJox7Lkhyjmkm4m6FFCUX8gX9MbXVZK2AqKDoJrDx",
+    "3jTWdJVYatbkbWFmnYtSi5HyzW4EpVQEJTzPFUtKfyQF"
   ]
 }
