@@ -1,55 +1,5 @@
 {
   "pending": {
-    "6rjxPXjACjYzyqk11XfV4BSYzp3fdNPUP1fQyiYhKtfL": {
-      "symbol": "sexcoin",
-      "created_at": "2026-11-27T22:43:13.666906109Z",
-      "first_seen": "2026-11-27T22:43:23.919627+00:00"
-    },
-    "3sx9ennuct9Q1pFzRhzP5gAWFZFmhnQPGcuq7NzCXvHF": {
-      "symbol": "MPN",
-      "created_at": "2026-11-27T22:43:12.95658807Z",
-      "first_seen": "2026-11-27T22:43:23.919627+00:00"
-    },
-    "6QBTHG4G644Ahk2FZxj3n4waAkHynSiN58CY3kQSpump": {
-      "symbol": "GoodBoy",
-      "created_at": "2026-11-27T22:43:12.806082639Z",
-      "first_seen": "2026-11-27T22:43:23.919627+00:00"
-    },
-    "51PckQaVz6BcRXXZ7tc9Fkpge4kH8khH9Ndw3NRwpump": {
-      "symbol": "FOMOCAT",
-      "created_at": "2026-11-27T22:43:09.572811139Z",
-      "first_seen": "2026-11-27T22:43:23.919627+00:00"
-    },
-    "64FnDVTReZ6jetkdkfLQSymhrQP7fx997rkw1T5Tpump": {
-      "symbol": "DOOB",
-      "created_at": "2026-11-27T22:43:08.581568305Z",
-      "first_seen": "2026-11-27T22:43:23.919627+00:00"
-    },
-    "2cNErHG4wyExXZtkYFwyKR6TUErZbo2rMM9aoiKPpump": {
-      "symbol": "NALA",
-      "created_at": "2026-11-27T22:43:07.225746446Z",
-      "first_seen": "2026-11-27T22:43:23.919627+00:00"
-    },
-    "AMPtFfM8XEy1QsGXBZQmwEposXY6GKUNZcMCswmhpump": {
-      "symbol": "FERSPE",
-      "created_at": "2026-11-27T22:43:04.90990673Z",
-      "first_seen": "2026-11-27T22:43:23.919627+00:00"
-    },
-    "5ew5xVKm1HLMnabQvafiQU4mhvMFJ24VWhwy8sVgpump": {
-      "symbol": "CyberGran",
-      "created_at": "2026-11-27T22:43:02.78452641Z",
-      "first_seen": "2026-11-27T22:43:23.919627+00:00"
-    },
-    "BP3qT8gLBe4GGfPsm93miY9FBQGTwDK9fgkvHLyiKaUk": {
-      "symbol": "MoonBoy",
-      "created_at": "2026-11-27T22:43:01.066064713Z",
-      "first_seen": "2026-11-27T22:43:23.919627+00:00"
-    },
-    "FGLcCa1GhYj2ZETZ4F2eeeSfbiSfZWbB39juDkwYpump": {
-      "symbol": "ball",
-      "created_at": "2026-11-27T22:42:59.325189485Z",
-      "first_seen": "2026-11-27T22:43:23.919627+00:00"
-    },
     "9ezmN5z35CW2ctbFGFEjSp3tcnipgxbMfdh7TRgkpump": {
       "symbol": "HANS",
       "created_at": "2026-11-27T22:46:15.299690494Z",
@@ -1683,7 +1633,12 @@
     "viCEWiReoWxwmRRfGmWmpP1FFdB8Jm8PzZChVJ9dvg6": {
       "symbol": "Vicewire",
       "created_at": "2026-11-28T00:27:29.125025391Z",
-      "first_seen": "2026-11-28T00:27:42.517447+00:00"
+      "first_seen": "2026-11-28T00:27:42.517447+00:00",
+      "confirm": {
+        "liquidity": 13075.4,
+        "market_cap": 40202,
+        "at": "2026-11-28T00:45:42.991199+00:00"
+      }
     },
     "98ouQy33A8j3rZewTPqYRLuRx1zF4zNt5WGyAapZDS7K": {
       "symbol": "",
@@ -1974,6 +1929,56 @@
       "symbol": "batmen",
       "created_at": "2026-11-28T00:42:20.01982826Z",
       "first_seen": "2026-11-28T00:42:43.195475+00:00"
+    },
+    "8BAszMVqGzSZhLEvadSiBMKeCJsEj79jNjCAoWnyYKUH": {
+      "symbol": "SOLMAS",
+      "created_at": "2026-11-28T00:45:37.954548703Z",
+      "first_seen": "2026-11-28T00:45:42.990933+00:00"
+    },
+    "AW4VUb2ca1bdvGkt2JkLjwX3H7sZs8iHZxazrc6qpump": {
+      "symbol": "34%",
+      "created_at": "2026-11-28T00:45:35.834650562Z",
+      "first_seen": "2026-11-28T00:45:42.990933+00:00"
+    },
+    "4MhhD4rysCiExjy1Hyec76FyxP3sMSTC4RBPcfMgpump": {
+      "symbol": "COALMAS",
+      "created_at": "2026-11-28T00:45:34.938285687Z",
+      "first_seen": "2026-11-28T00:45:42.990933+00:00"
+    },
+    "GBcDbehzTFzctvR7PbSmBcxAk2Y5t15bSYkRoEeupump": {
+      "symbol": "MCH",
+      "created_at": "2026-11-28T00:45:34.928531828Z",
+      "first_seen": "2026-11-28T00:45:42.990933+00:00"
+    },
+    "2Ag1SJLbxWYUfzshavshmHvF6emjFq1Zvi1nHJzDpump": {
+      "symbol": "DICE",
+      "created_at": "2026-11-28T00:45:34.047063249Z",
+      "first_seen": "2026-11-28T00:45:42.990933+00:00"
+    },
+    "51ZiyrAy38p4fwNGXDTnwujL1esoMzBCmBVyg1gJpump": {
+      "symbol": "SIGMA",
+      "created_at": "2026-11-28T00:45:32.929919893Z",
+      "first_seen": "2026-11-28T00:45:42.990933+00:00"
+    },
+    "6mpqWTbmFdv7AbX5HToicj5N7QTcRqJ2B7CmMjkbpump": {
+      "symbol": "$LA BEAST",
+      "created_at": "2026-11-28T00:45:32.634099234Z",
+      "first_seen": "2026-11-28T00:45:42.990933+00:00"
+    },
+    "5ty2anndpqSJyDJoaKw3TvaMdxLNyyJWejvf2jnBpump": {
+      "symbol": "Fox",
+      "created_at": "2026-11-28T00:45:32.10590307Z",
+      "first_seen": "2026-11-28T00:45:42.990933+00:00"
+    },
+    "2PCXSeovUR3sTs4tQ9xovTW5t3MaYTm6JeT49PyApump": {
+      "symbol": "EVIL",
+      "created_at": "2026-11-28T00:45:32.103374288Z",
+      "first_seen": "2026-11-28T00:45:42.990933+00:00"
+    },
+    "8XmnJsBQtzChscQqyfG8VU8rtDGLLPpBQjnTnMMSeKZA": {
+      "symbol": "BITGOIN",
+      "created_at": "2026-11-28T00:45:31.251184367Z",
+      "first_seen": "2026-11-28T00:45:42.990933+00:00"
     }
   },
   "alerted": [
